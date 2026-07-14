@@ -15,20 +15,18 @@ Ahmet'e Gmail **taslağı** olarak hazırlar:
 
 ## Yapılandırma
 - **Zamanlama (cron, UTC):** `17 5-21 * * *` → Europe/Istanbul saatiyle **08:17–24:17 arası her saat** (günde 17 kez).
-- **Gönderim:** Gmail taslağı, alıcı `posta@ahmetkaraca.com`.
-  - Not: Bağlı Gmail bağlantısı yalnızca **taslak** oluşturabilir (otomatik "gönder" yoktur).
-    Taslaklar Gmail → Taslaklar klasöründe belirir; okunabilir ya da tek tıkla gönderilebilir.
+- **Gönderim:** **Uygulama bildirimi (push)**. Rutin tamamlanınca özet, Claude uygulamasının
+  bildirimi olarak telefona düşer; tam bülteni açtığında (oturumun son mesajında) görürsün.
 - **Tekrar önleme (dedup):** `ai-haber-gecmisi.json`, `claude/ai-news-github-routine-ax9twg` dalında tutulur.
   Rutin her çalışmada bu dosyayı okur, daha önce gönderilenleri eler, yenileri ekleyip push eder.
-- **Ortam:** `env_012SHYoYh21csjVAKwCaZ9An` (Default), fresh-session-per-fire.
+- **Ortam:** `env_012SHYoYh21csjVAKwCaZ9An` (Default), fresh-session-per-fire, `notifications.push = true`.
 
 ## Akış (rutin prompt'unun özeti)
 0. Depoyu çek, `ai-haber-gecmisi.json`'u oku (yoksa boş kabul et).
 1. Üç kategori için WebSearch ile son ~1-2 günün gelişmelerini topla (kategori başına 3-5 öğe).
-2. Geçmişle karşılaştır, daha önce gönderilenleri ele. Yeni öğe yoksa taslak oluşturma.
-3. `create_draft` ile HTML + düz metin e-posta taslağı oluştur.
-4. Yeni öğeleri geçmiş dosyasına ekle, commit + push et.
-5. Kısa Türkçe özet ver.
+2. Geçmişle karşılaştır, daha önce gönderilenleri ele. Yeni öğe yoksa bülten üretme.
+3. Yeni öğeleri geçmiş dosyasına ekle, commit + push et.
+4. Son mesaj olarak düzenli Türkçe bülteni yaz (ilk satır kısa başlık = bildirim önizlemesi).
 
 ## İlkeler
 - Uydurma haber/link YOK; yalnızca aramada gerçekten çıkan, doğrulanabilir kaynaklar.
