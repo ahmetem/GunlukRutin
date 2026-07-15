@@ -1,4 +1,71 @@
 {
   "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
-  "gonderilen": []
+  "gonderilen": [
+    {
+      "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/",
+      "baslik": "Anthropic, Claude Fable 5 ücretsiz erişimini 19 Temmuz'a uzattı",
+      "kategori": "claude",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "baslik": "Anthropic'in yeni reklamı tepki çekti",
+      "kategori": "claude",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://thehill.com/policy/technology/5968601-claude-for-teachers-launch/",
+      "baslik": "Anthropic, Claude for Teachers'ı ücretsiz sundu",
+      "kategori": "claude",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
+      "baslik": "Anthropic, halka arz öncesi yatırımcı görüşmeleri planlıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/",
+      "baslik": "OpenAI GPT-5.6 ailesi (Sol, Terra, Luna) genel kullanıma açıldı",
+      "kategori": "model",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://ai-weekly.ai/newsletter-07-14-2026/",
+      "baslik": "OpenAI GPT-Live gerçek zamanlı sesli model olarak duyuruldu",
+      "kategori": "model",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/07/08/openai-meta-and-spacexai-push-new-ai-models-in-a-week-of-major-releases",
+      "baslik": "xAI Grok 4.5 ve Meta Muse Spark 1.1 yayınlandı",
+      "kategori": "model",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "baslik": "OpenCut - açık kaynak CapCut alternatifi video editörü",
+      "kategori": "github",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "baslik": "Vibe-Trading - kişisel AI trading ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://github.com/moeru-ai/airi",
+      "baslik": "airi - self-hosted AI companion / VTuber projesi",
+      "kategori": "github",
+      "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "baslik": "Meetily - gizlilik odaklı yerel AI toplantı asistanı",
+      "kategori": "github",
+      "tarih": "2026-07-15"
+    }
+  ]
 }
