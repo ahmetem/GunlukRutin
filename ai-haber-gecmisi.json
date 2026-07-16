@@ -114,6 +114,66 @@
       "baslik": "ai-job-search - Claude Code üzerine kurulu AI iş başvuru asistanı",
       "kategori": "github",
       "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.fiercehealthcare.com/health-tech/tech-services-company-ust-integrates-anthropic-claude",
+      "baslik": "Optum ve UST, Claude'u sağlık hizmetleri süreçlerine entegre etti",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+      "baslik": "Claude Enterprise'a yeni harcama uyarıları ve analitik paneli geldi",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://techfundingnews.com/monzo-co-founder-tom-blomfield-takes-leave-from-y-combinator-to-join-anthropic/",
+      "baslik": "Monzo kurucusu Tom Blomfield, Anthropic'in compute ekibine katıldı",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.engadget.com/2210417/google-announces-new-video-remix-feature-for-ai-subscribers/",
+      "baslik": "Google Photos'a Gemini destekli 'Video Remix' video düzenleme özelliği geldi",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm",
+      "baslik": "Mistral, 'fat but sparse' açık ağırlıklı yeni model ailesini Temmuz'da erken erişime açıyor",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
+      "baslik": "Future of Life Institute 2026 AI Güvenlik Endeksi: en yüksek not C+, zirvede Anthropic",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "baslik": "mattpocock/skills - Claude Code için mühendislik odaklı 'skills' koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "baslik": "destructive_command_guard - AI ajanlarının yıkıcı komutlarını engelleyen güvenlik aracı",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "baslik": "awesome-llm-apps - çalıştırılabilir 100+ AI Agent ve RAG uygulaması koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "baslik": "Open Interpreter - düşük maliyetli modeller için açık kaynak kodlama ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-16"
     }
   ]
 }
