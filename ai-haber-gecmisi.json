@@ -66,6 +66,54 @@
       "baslik": "Meetily - gizlilik odaklı yerel AI toplantı asistanı",
       "kategori": "github",
       "tarih": "2026-07-15"
+    },
+    {
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "baslik": "Anthropic, Claude'ın dil bazında farklı değerler sergilediğini gösteren araştırma yayınladı",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "baslik": "Anthropic, Kanadalı AI araştırma kurumlarına 10 milyon CAD taahhüt etti",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india/",
+      "baslik": "Anthropic, Hindistan'da Claude fiyatlandırmasını yerelleştirdi",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://fortune.com/2026/07/10/openai-gpt-5-6-sol-jailbreaks-cyber-attacks-similar-to-security-flaw-that-led-u-s-government-to-force-anthropic-to-disable-fable-5/",
+      "baslik": "UK AI Security Institute, GPT-5.6 Sol'da evrensel jailbreak açıkları buldu",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
+      "baslik": "Meta, ilk ücretli AI modeli Muse Spark 1.1 API'sini rakiplerinin çeyrek fiyatına açtı",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a",
+      "baslik": "Google, Gemini 3.5 Pro lansmanını mimari yeniden yapım için 17 Temmuz'a erteledi",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/usestrix/strix",
+      "baslik": "Strix - açık kaynak otonom AI sızma testi (pentest) aracı",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "baslik": "ai-job-search - Claude Code üzerine kurulu AI iş başvuru asistanı",
+      "kategori": "github",
+      "tarih": "2026-07-16"
     }
   ]
 }
