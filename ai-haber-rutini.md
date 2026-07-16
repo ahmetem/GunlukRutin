@@ -3,7 +3,7 @@
 Bu dosya, günde 5 kez çalışan "Yapay Zeka Haber Bülteni" rutininin ne yaptığını ve
 nasıl yapılandırıldığını açıklar.
 
-Son güncelleme: 2026-07-15
+Son güncelleme: 2026-07-16
 
 ## Amaç
 Belirli saatlerde web'i tarayıp üç konuda YENİ gelişmeleri derler ve
@@ -27,9 +27,19 @@ Ahmet'e Gmail **taslağı** olarak hazırlar:
 0. Depoyu çek, `ai-haber-gecmisi.json`'u oku (yoksa boş kabul et).
 1. Üç kategori için WebSearch ile son ~1-2 günün gelişmelerini topla (kategori başına 3-5 öğe).
 2. Geçmişle karşılaştır, daha önce gönderilenleri ele. Yeni öğe yoksa taslak oluşturma.
-3. `create_draft` ile HTML + düz metin e-posta taslağı oluştur.
+3. **`mcp__Gmail__create_draft` aracını doğrudan çağırarak** HTML + düz metin e-posta taslağı oluştur
+   (alıcı: `posta@ahmetkaraca.com`).
 4. Yeni öğeleri geçmiş dosyasına ekle, commit + push et.
-5. Kısa Türkçe özet ver.
+5. Kısa Türkçe özet ver (bu, yalnızca sohbet/bildirim metnidir — Gmail taslağı YERİNE geçmez).
+
+### ⚠️ Önemli — otomatik dönüşüm YOK
+"Son mesaj" olarak yazılan bülten metni **kendiliğinden Gmail taslağına dönüşmez**.
+Tetikleyici (trigger) prompt'u ne yazarsa yazsın, e-postanın Taslaklar klasöründe
+görünmesi için rutinin her çalışmasında **`mcp__Gmail__create_draft` aracının fiilen
+çağrılması** şarttır. Yalnızca son mesaj yazıp/veya PushNotification göndermek yeterli
+DEĞİLDİR — bu sadece uygulama içi bildirim/sohbet çıktısıdır, Gmail'e düşmez.
+Trigger'ın prompt metni bu adımı ("create_draft'ı çağır") açıkça içermiyorsa,
+Triggers ayarlarından prompt güncellenmelidir.
 
 ## İlkeler
 - Uydurma haber/link YOK; yalnızca aramada gerçekten çıkan, doğrulanabilir kaynaklar.
