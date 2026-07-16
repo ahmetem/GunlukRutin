@@ -234,6 +234,36 @@
       "baslik": "LobeHub - AI ajan ekiplerini 7/24 yöneten açık kaynak orkestrasyon platformu",
       "kategori": "github",
       "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "baslik": "Anthropic, Blackstone ve Hellman & Friedman ile 1,5 milyar dolarlık 'Ode with Anthropic' kurumsal AI hizmet şirketini duyurdu",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/changelog",
+      "baslik": "Claude Code v2.1.211 kararlılık güncellemesi: bellek sızıntısı düzeltmeleri, subagent metin akışı, izin güvenliği iyileştirmeleri",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+      "baslik": "NVIDIA ve AWS, GTC 2026'da işbirliğini genişletti: 2026'dan itibaren 1 milyondan fazla NVIDIA GPU'nun AWS'de devreye alınması",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/calesthio/OpenMontage",
+      "baslik": "OpenMontage - açık kaynak, ajan tabanlı video prodüksiyon sistemi (12 pipeline, 52 araç, 500+ ajan becerisi)",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "baslik": "codebase-memory-mcp - kod tabanlarını bilgi grafiğine dönüştüren yüksek performanslı MCP sunucusu",
+      "kategori": "github",
+      "tarih": "2026-07-16"
     }
   ]
 }
