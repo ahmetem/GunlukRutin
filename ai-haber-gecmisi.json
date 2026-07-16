@@ -174,6 +174,66 @@
       "baslik": "Open Interpreter - düşük maliyetli modeller için açık kaynak kodlama ajanı",
       "kategori": "github",
       "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "baslik": "Eski Fed Başkanı Ben Bernanke, Anthropic'in Long-Term Benefit Trust'ına atandı",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "baslik": "Anthropic, Claude kullanımını gözden geçiren 'Reflect' panelini tanıttı",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "baslik": "Alberta Hükümeti, siber güvenlik açıklarını bulmak için Claude kullanıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "baslik": "Mistral, tek kameralı robot navigasyon modeli Robostral Navigate'i duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "baslik": "Google, Gemini API Managed Agents'a arka plan görevleri ve uzak MCP desteği ekledi",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing/",
+      "baslik": "DeepSeek V4 (Pro/Flash), yoğun saat fiyatlandırmasıyla Temmuz ortasında resmi olarak yayınlanıyor",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/openclaw/openclaw",
+      "baslik": "OpenClaw - 200bin+ yıldızlı, kişisel AI asistanı (mesajlaşma uygulamalarına bağlanan)",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/perplexityai/bumblebee",
+      "baslik": "Bumblebee - Perplexity'nin açık kaynak salt-okunur tedarik zinciri güvenlik tarayıcısı",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "baslik": "Graphify - kod tabanını AI kodlama asistanları için sorgulanabilir bilgi grafiğine dönüştürüyor",
+      "kategori": "github",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/lobehub/lobehub",
+      "baslik": "LobeHub - AI ajan ekiplerini 7/24 yöneten açık kaynak orkestrasyon platformu",
+      "kategori": "github",
+      "tarih": "2026-07-16"
     }
   ]
 }
