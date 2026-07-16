@@ -264,6 +264,24 @@
       "baslik": "codebase-memory-mcp - kod tabanlarını bilgi grafiğine dönüştüren yüksek performanslı MCP sunucusu",
       "kategori": "github",
       "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://thehill.com/policy/technology/5918733-openai-anthropic-ai-regulation/",
+      "baslik": "Anthropic, eyalet düzeyinde AI güvenlik yasalarını destekliyor; OpenAI'ın federal ön alım çağrısından ayrışıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "baslik": "Thinking Machines Lab, ilk açık ağırlıklı modeli Inkling'i yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "baslik": "DeepTutor - kişiselleştirilmiş, yaşam boyu AI özel ders (tutoring) ajan sistemi",
+      "kategori": "github",
+      "tarih": "2026-07-16"
     }
   ]
 }
