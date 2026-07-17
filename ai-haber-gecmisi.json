@@ -378,6 +378,24 @@
       "baslik": "Hallmark - Claude Code, Cursor ve Codex için 'anti-AI-slop' tasarım skill'i",
       "kategori": "github",
       "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/manage-claude/admin-api",
+      "baslik": "Claude Enterprise Admin API'ye üye/ekip yönetimi (beta) eklendi",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
+      "baslik": "Xi Jinping, Şangay'daki Dünya Yapay Zeka Konferansı'nda küresel AI işbirliği çağrısı yaptı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "baslik": "Impeccable - AI kodlama ajanlarına tasarım dili/zevki kazandıran açık kaynak proje",
+      "kategori": "github",
+      "tarih": "2026-07-17"
     }
   ]
 }
