@@ -282,6 +282,42 @@
       "baslik": "DeepTutor - kişiselleştirilmiş, yaşam boyu AI özel ders (tutoring) ajan sistemi",
       "kategori": "github",
       "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/l-t-technology-services-partners-152800505.html",
+      "baslik": "L&T Technology Services, mühendislik süreçlerine Claude entegre etmek için Anthropic ile ortaklık kurdu",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "baslik": "NVIDIA, Japonya'da 'Physical AI' girişimini ve yeni Cosmos 3 model ailesini duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://fortune.com/2026/07/16/moonshots-kimi-k3-pushes-chinese-ai-into-fable-level-territory/",
+      "baslik": "Moonshot AI, 2,8 trilyon parametreli açık ağırlıklı modeli Kimi K3'ü yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "baslik": "system_prompts_leaks - Claude, GPT, Gemini ve Grok gibi modellerin sızdırılan sistem promptlarını derleyen arşiv",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "baslik": "taste-skill - AI kodlama ajanlarına daha iyi görsel/tasarım zevki kazandıran açık kaynak 'skill' seti",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/firecrawl/firecrawl",
+      "baslik": "Firecrawl - AI ajanları için web'i ölçekte arama, kazıma ve etkileşim API'si",
+      "kategori": "github",
+      "tarih": "2026-07-17"
     }
   ]
 }
