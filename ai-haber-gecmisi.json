@@ -396,6 +396,60 @@
       "baslik": "Impeccable - AI kodlama ajanlarına tasarım dili/zevki kazandıran açık kaynak proje",
       "kategori": "github",
       "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://claude.com/blog/ai-code-migration",
+      "baslik": "Anthropic, Claude Code ile büyük ölçekli kod migrasyonlarını nasıl yürüttüğünü anlattı",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+      "baslik": "Claude Cowork'te Fable 5 ile çalışma rehberi yayınlandı",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+      "baslik": "Claude Code ve Cowork, FedRAMP High yetkili Claude for Government'a genel beta olarak geldi",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320736/20260716/rebuilt-gemini-35-pro-misses-third-deadline-google-eyes-stopgap-release.htm",
+      "baslik": "Gemini 3.5 Pro üçüncü teslim tarihini de kaçırdı, Google geçici bir sürüm arayışında",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "baslik": "Çin'de Apple Intelligence, Alibaba'nın Qwen modeliyle entegre onay aldı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "baslik": "Moonshot'un Kimi K3 modeli AI ve çip hisselerinde satış dalgası yarattı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "baslik": "maths-cs-ai-compendium - AI/ML mühendisleri için açık kaynak matematik-bilgisayar bilimi kitabı",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/github/copilot-sdk",
+      "baslik": "copilot-sdk - GitHub Copilot Agent'ı uygulamalara entegre eden çoklu platform SDK'sı",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/PostHog/posthog",
+      "baslik": "PostHog - AI gözlemlenebilirliği ve analitiğiyle öne çıkan ürün platformu",
+      "kategori": "github",
+      "tarih": "2026-07-17"
     }
   ]
 }
