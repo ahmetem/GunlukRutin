@@ -318,6 +318,66 @@
       "baslik": "Firecrawl - AI ajanları için web'i ölçekte arama, kazıma ve etkileşim API'si",
       "kategori": "github",
       "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/bofa-s-moynihan-joins-bank-ceos-warning-about-mythos-ai-risks",
+      "baslik": "Wall Street CEO'ları (BofA'nın Moynihan'ı ve JPMorgan'ın Dimon'ı), Anthropic'in Mythos modelinin risklerine karşı uyardı",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "baslik": "Claude Code'a paralel alt-ajanlarla büyük ölçekli otomasyon sağlayan 'Dynamic Workflows' özelliği geldi",
+      "kategori": "claude",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+      "baslik": "Google DeepMind'ın Gemini 3.5 Pro'yu bugün (17 Temmuz) piyasaya sürdüğü bildiriliyor",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "baslik": "NVIDIA, RTEB liderlik tablosunda birinci olan açık embedding model ailesi Nemotron 3 Embed'i yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "baslik": "Hugging Face, otonom bir AI ajanı tarafından uçtan uca yürütülen altyapı sızma girişimini açıkladı",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "baslik": "Orca - paralel kodlama ajanlarını yönetmek için ajan geliştirme ortamı (ADE)",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/ogulcancelik/herdr",
+      "baslik": "herdr - terminalde yaşayan, kodlama ajanları için ajan çoklayıcı (agent multiplexer)",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/tencentcloud/CubeSandbox",
+      "baslik": "CubeSandbox - AI ajanları için milisaniyede açılan, izole ve güvenli sandbox",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "baslik": "OmniRoute - 231+ sağlayıcıya bağlanan, token tasarrufu sağlayan ücretsiz AI ağ geçidi (gateway)",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/nutlope/hallmark",
+      "baslik": "Hallmark - Claude Code, Cursor ve Codex için 'anti-AI-slop' tasarım skill'i",
+      "kategori": "github",
+      "tarih": "2026-07-17"
     }
   ]
 }
