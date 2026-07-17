@@ -450,6 +450,30 @@
       "baslik": "PostHog - AI gözlemlenebilirliği ve analitiğiyle öne çıkan ürün platformu",
       "kategori": "github",
       "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "baslik": "Google, NotebookLM'i Gemini Notebook olarak yeniden markalandırdı ve not defterlerine kod çalıştırma özelliği ekledi",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/xai-org/grok-build",
+      "baslik": "xAI, kodlama ajanı Grok Build'i açık kaynak yaptı",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "baslik": "cwc-workshops - Anthropic'in 'Code with Claude' atölye materyalleri deposu",
+      "kategori": "github",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "baslik": "code-review-graph - AI kodlama araçları için yerel-öncelikli kod zekası grafiği",
+      "kategori": "github",
+      "tarih": "2026-07-17"
     }
   ]
 }
