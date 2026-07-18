@@ -576,6 +576,30 @@
       "baslik": "ui-skills - AI kodlama ajanlarının ürettiği arayüzleri iyileştiren tasarım mühendisliği 'skill' koleksiyonu",
       "kategori": "github",
       "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "baslik": "anthropics/skills - Anthropic'in resmi 'Agent Skills' geliştirme deposu",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/lyogavin/airllm",
+      "baslik": "AirLLM - 70B parametreli modelleri tek bir 4GB GPU'da çalıştıran çıkarım kütüphanesi",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "baslik": "opencode - açık kaynak kodlama ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "baslik": "AgentScope - görülebilir, anlaşılabilir ve güvenilir AI ajanları inşa etme çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-18"
     }
   ]
 }
