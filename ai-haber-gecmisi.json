@@ -522,6 +522,24 @@
       "baslik": "Giskard - AI ajanları için açık kaynak test, değerlendirme ve red-teaming kütüphanesi",
       "kategori": "github",
       "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
+      "baslik": "Microsoft, Anthropic'in Mythos'una rakip 'Project Perception' AI siber güvenlik aracını hazırlıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://prismml.com/news/bonsai-27b",
+      "baslik": "PrismML, telefonda çalışan ilk 27B parametreli model Bonsai 27B'yi açık kaynak yaptı",
+      "kategori": "model",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "baslik": "Anthropic-Cybersecurity-Skills - AI ajanları için 817 yapılandırılmış siber güvenlik becerisi kütüphanesi",
+      "kategori": "github",
+      "tarih": "2026-07-18"
     }
   ]
 }
