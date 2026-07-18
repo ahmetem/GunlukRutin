@@ -540,6 +540,36 @@
       "baslik": "Anthropic-Cybersecurity-Skills - AI ajanları için 817 yapılandırılmış siber güvenlik becerisi kütüphanesi",
       "kategori": "github",
       "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "baslik": "Anthropic, Meta'dan 10 milyar dolarlık compute kiralamak için görüşüyor",
+      "kategori": "claude",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://www.basenor.com/blogs/news/xais-2t-model-what-musk-just-revealed-about-groks-successor",
+      "baslik": "xAI, Grok'un halefi 2 trilyon parametreli modelin eğitimini tamamlıyor",
+      "kategori": "model",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "baslik": "LingBot-Map - akan video verisinden 3B sahne yeniden oluşturan foundation model",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "baslik": "ai-engineering-from-scratch - sıfırdan AI mühendisliği öğreten eğitim kaynağı",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/MoonshotAI/kimi-code",
+      "baslik": "Kimi Code CLI - Moonshot AI'nin terminalde çalışan yeni nesil kodlama ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-18"
     }
   ]
 }
