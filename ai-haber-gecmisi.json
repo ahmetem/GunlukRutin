@@ -474,6 +474,54 @@
       "baslik": "code-review-graph - AI kodlama araçları için yerel-öncelikli kod zekası grafiği",
       "kategori": "github",
       "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "baslik": "Cursor, Claude Fable 5'in CursorBench'te %72,9 ile yeni rekor kırdığını paylaştı",
+      "kategori": "claude",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+      "baslik": "Anthropic Deputy CISO'sundan ajan tabanlı AI için kurumsal risk yönetimi rehberi",
+      "kategori": "claude",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "baslik": "Google, 2 milyon token bağlam pencereli Gemini 3.5 Pro'yu resmen yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+      "baslik": "OpenAI, prompt injection açıklarını otomatik bulan GPT-Red sistemini tanıttı",
+      "kategori": "model",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818",
+      "baslik": "OpenAI, Atlas tarayıcısını 9 Ağustos'ta kapatıp ajan özelliklerini ChatGPT'ye taşıyor",
+      "kategori": "model",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/n8n-io/n8n",
+      "baslik": "n8n - 197bin yıldızlı, yerli AI yetenekli açık kaynak iş akışı otomasyon platformu",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/khoj-ai/khoj",
+      "baslik": "Khoj - self-hosted 'ikinci beyin' AI asistanı, özel ajan ve otomasyon oluşturma",
+      "kategori": "github",
+      "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://github.com/Giskard-AI/giskard",
+      "baslik": "Giskard - AI ajanları için açık kaynak test, değerlendirme ve red-teaming kütüphanesi",
+      "kategori": "github",
+      "tarih": "2026-07-18"
     }
   ]
 }
