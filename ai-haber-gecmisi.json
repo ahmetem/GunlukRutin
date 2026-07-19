@@ -600,6 +600,42 @@
       "baslik": "AgentScope - görülebilir, anlaşılabilir ve güvenilir AI ajanları inşa etme çerçevesi",
       "kategori": "github",
       "tarih": "2026-07-18"
+    },
+    {
+      "url": "https://www.digitalapplied.com/blog/claude-fable-5-extended-july-19-access-uncertainty-2026",
+      "baslik": "Claude Fable 5'te ücretsiz erişim 19 Temmuz'da sona erdi, kredi bazlı fiyatlandırma başlıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "baslik": "Claude Code'a arka planda çalışan /fork oturumları, ekran okuyucu modu ve WebSearch çağrı limiti geldi",
+      "kategori": "claude",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/",
+      "baslik": "Apple, ticari sır davasını genişletti; OpenAI'daki ~40 eski çalışana yasal koruma bildirimi gönderdi",
+      "kategori": "model",
+      "tarih": "2026-07-17"
+    },
+    {
+      "url": "https://www.usnews.com/news/world/articles/2026-07-16/twenty-nine-countries-sign-agreement-to-establish-global-ai-cooperation-body",
+      "baslik": "29 ülke Şangay'da Dünya Yapay Zeka İşbirliği Örgütü'nü (WAICO) kurma anlaşması imzaladı",
+      "kategori": "model",
+      "tarih": "2026-07-16"
+    },
+    {
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "baslik": "awesome-claude-skills - Claude Skills için küratörlü kaynak ve araç listesi, 60binin üzerinde yıldız aldı",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/karpathy/nanochat",
+      "baslik": "nanochat - Andrej Karpathy'nin 100 dolara sıfırdan ChatGPT klonu eğiten uçtan uca proje",
+      "kategori": "github",
+      "tarih": "2026-07-19"
     }
   ]
 }
