@@ -708,6 +708,12 @@
       "baslik": "WrenAI - doğal dili SQL/grafiklere çeviren açık kaynak Generative BI (GenBI) motoru",
       "kategori": "github",
       "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/trycua/cua",
+      "baslik": "Cua - masaüstü bilgisayarları kontrol eden AI ajanları için açık kaynak computer-use altyapısı",
+      "kategori": "github",
+      "tarih": "2026-07-19"
     }
   ]
 }
