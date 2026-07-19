@@ -636,6 +636,30 @@
       "baslik": "nanochat - Andrej Karpathy'nin 100 dolara sıfırdan ChatGPT klonu eğiten uçtan uca proje",
       "kategori": "github",
       "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320905/20260718/claude-fable-5-ends-subscription-limbo-permanent-max-credits-only-pro.htm",
+      "baslik": "Claude Fable 5, 20 Temmuz'dan itibaren Max/Team Premium'da kalıcı oluyor, Pro kullanıcıları kredi bazlı ücretlendirmeye geçiyor",
+      "kategori": "claude",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
+      "baslik": "OpenAI CFO'sundan AI yatırım getirisini ölçen 'Dolar Başına Yararlı Zeka' skor kartı",
+      "kategori": "model",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/apache/ossie",
+      "baslik": "Apache Ossie - AI ve BI platformları arasında semantik veri standardı sağlayan proje",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "baslik": "OfficeCLI - AI ajanlarının Word/Excel/PowerPoint dosyalarını yönetmesini sağlayan açık kaynak ofis paketi",
+      "kategori": "github",
+      "tarih": "2026-07-19"
     }
   ]
 }
