@@ -660,6 +660,36 @@
       "baslik": "OfficeCLI - AI ajanlarının Word/Excel/PowerPoint dosyalarını yönetmesini sağlayan açık kaynak ofis paketi",
       "kategori": "github",
       "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/jamiepine/voicebox",
+      "baslik": "voicebox - klonlama, dikte ve ses üretimi sunan açık kaynak AI ses stüdyosu",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "baslik": "ktransformers - CPU/GPU hibrit çıkarım ile MoE modellerini hızlandıran esnek LLM çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/1jehuang/jcode",
+      "baslik": "jcode - hafıza sistemi ve çoklu oturum desteğine sahip kodlama ajanı harness'ı",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "baslik": "wigolo - AI kodlama ajanları için API anahtarsız, yerel-öncelikli web arama/kazıma MCP sunucusu",
+      "kategori": "github",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "baslik": "AstrBot - mesajlaşma platformlarını LLM ve eklentilerle birleştiren açık kaynak AI ajan çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-19"
     }
   ]
 }
