@@ -690,6 +690,24 @@
       "baslik": "AstrBot - mesajlaşma platformlarını LLM ve eklentilerle birleştiren açık kaynak AI ajan çerçevesi",
       "kategori": "github",
       "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+      "baslik": "Beyaz Saray, Anthropic'in Mythos/Project Glasswing dahil sınır ötesi AI modellerine erişimi doğrudan kontrol etmeye başladı",
+      "kategori": "claude",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/fireworks-raises-1-5-billion-130000636.html",
+      "baslik": "Nvidia destekli Fireworks AI, 17,5 milyar dolar değerlemeyle 1,5 milyar dolarlık Series D turu tamamladı",
+      "kategori": "model",
+      "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/Canner/WrenAI",
+      "baslik": "WrenAI - doğal dili SQL/grafiklere çeviren açık kaynak Generative BI (GenBI) motoru",
+      "kategori": "github",
+      "tarih": "2026-07-19"
     }
   ]
 }
