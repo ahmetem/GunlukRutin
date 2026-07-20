@@ -732,6 +732,36 @@
       "baslik": "OpenWiki - LangChain'in kod tabanları için AI ajanlarına özel dokümantasyon üreten CLI aracı",
       "kategori": "github",
       "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "baslik": "AB, Google'ı Android'i rakip AI asistanlarına açmaya ve arama verisini paylaşmaya zorladı",
+      "kategori": "model",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "baslik": "Microsoft'un yapay zeka destekli tarama sistemi rekor 570 güvenlik açığı buldu",
+      "kategori": "model",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/ruvnet/ruflo",
+      "baslik": "Ruflo - çoklu AI ajan sürülerini (swarm) yöneten meta-harness",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/garrytan/gstack",
+      "baslik": "gstack - Garry Tan'ın Claude Code kurulumunu paylaşan 23 araçlık skill koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/SigNoz/signoz",
+      "baslik": "SigNoz - AI ajanlarını da destekleyen açık kaynak OpenTelemetry gözlemlenebilirlik platformu",
+      "kategori": "github",
+      "tarih": "2026-07-20"
     }
   ]
 }
