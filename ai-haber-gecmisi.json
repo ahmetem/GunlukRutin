@@ -714,6 +714,24 @@
       "baslik": "Cua - masaüstü bilgisayarları kontrol eden AI ajanları için açık kaynak computer-use altyapısı",
       "kategori": "github",
       "tarih": "2026-07-19"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "baslik": "Claude Code v2.1.215: /verify ve /code-review artık kendiliğinden çalışmıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "baslik": "ai-agent-book - AI Agent tasarım ilkeleri ve mühendislik pratiklerini anlatan açık kaynak kitap",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/langchain-ai/openwiki",
+      "baslik": "OpenWiki - LangChain'in kod tabanları için AI ajanlarına özel dokümantasyon üreten CLI aracı",
+      "kategori": "github",
+      "tarih": "2026-07-20"
     }
   ]
 }
