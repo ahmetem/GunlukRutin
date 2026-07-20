@@ -762,6 +762,24 @@
       "baslik": "SigNoz - AI ajanlarını da destekleyen açık kaynak OpenTelemetry gözlemlenebilirlik platformu",
       "kategori": "github",
       "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "baslik": "agency-agents - Claude Code ve diğer araçlar için 60+ uzman kişilikli AI ajan koleksiyonu, birkaç günde 90bin+ yıldız aldı",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/topoteretes/cognee",
+      "baslik": "cognee - AI ajanlarına kalıcı uzun vadeli hafıza kazandıran açık kaynak bilgi grafiği platformu",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/jlowin/fastmcp",
+      "baslik": "FastMCP - Python'da hızlı ve pratik MCP sunucusu/istemcisi geliştirmeyi sağlayan çerçeve",
+      "kategori": "github",
+      "tarih": "2026-07-20"
     }
   ]
 }
