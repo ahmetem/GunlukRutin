@@ -780,6 +780,42 @@
       "baslik": "FastMCP - Python'da hızlı ve pratik MCP sunucusu/istemcisi geliştirmeyi sağlayan çerçeve",
       "kategori": "github",
       "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320999/20260720/claude-fable-5-billing-splits-today-max-gets-it-free-pro-pays-per-token.htm",
+      "baslik": "Claude Fable 5'in Max/Pro faturalama ayrımı bugün (20 Temmuz) yürürlüğe girdi",
+      "kategori": "claude",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "baslik": "Anthropic, halktan AI hakkında en zor soruları toplayıp yanıtlayacağı 'Hard Questions' girişimini başlattı",
+      "kategori": "claude",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
+      "baslik": "Alibaba, 2,4 trilyon parametreli Qwen3.8-Max-Preview'ı tanıttı, Claude Fable 5'ten sonra ikinci olduğunu iddia ediyor",
+      "kategori": "model",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
+      "baslik": "Perplexity, AI ajanları için Firecracker microVM tabanlı güvenli sandbox platformu SPACE'i duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/JustVugg/colibri",
+      "baslik": "Colibri - 744 milyar parametreli GLM-5.2'yi 25GB RAM'li tüketici bilgisayarında çalıştıran sıfır bağımlılıklı C çıkarım motoru",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/facebook/astryx",
+      "baslik": "Astryx - Meta'nın açık kaynak yaptığı, AI ajanlarının okuyabildiği React tasarım sistemi (90+ bileşen, MCP desteği)",
+      "kategori": "github",
+      "tarih": "2026-07-20"
     }
   ]
 }
