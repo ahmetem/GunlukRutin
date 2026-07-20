@@ -816,6 +816,18 @@
       "baslik": "Astryx - Meta'nın açık kaynak yaptığı, AI ajanlarının okuyabildiği React tasarım sistemi (90+ bileşen, MCP desteği)",
       "kategori": "github",
       "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "baslik": "Moonshine - Whisper'dan 1,7 kat daha hızlı, cihaz üzerinde çalışan açık kaynak konuşma-metin modeli",
+      "kategori": "github",
+      "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "baslik": "transcribe.cpp - 16+ model ailesini destekleyen GGML tabanlı konuşma-metin çıkarım motoru",
+      "kategori": "github",
+      "tarih": "2026-07-20"
     }
   ]
 }
