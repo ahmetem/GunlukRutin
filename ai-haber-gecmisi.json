@@ -894,6 +894,24 @@
       "baslik": "llmfit - hangi LLM'in donanımınızda çalışacağını tek komutla bulan araç",
       "kategori": "github",
       "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "baslik": "Federal yargıç, Anthropic'in yazarlarla yaptığı 1,5 milyar dolarlık telif hakkı anlaşmasını onayladı",
+      "kategori": "claude",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "baslik": "Pillar Security araştırması: Cursor, OpenAI Codex, Gemini CLI ve Antigravity'de sandbox kaçış açıkları bulundu",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "baslik": "Beş büyük teknoloji devinin gizli AI borcu, opak veri merkezi/GPU anlaşmalarıyla 1,65 trilyon dolara ulaştı",
+      "kategori": "model",
+      "tarih": "2026-07-21"
     }
   ]
 }
