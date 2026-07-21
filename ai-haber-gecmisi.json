@@ -828,6 +828,30 @@
       "baslik": "transcribe.cpp - 16+ model ailesini destekleyen GGML tabanlı konuşma-metin çıkarım motoru",
       "kategori": "github",
       "tarih": "2026-07-20"
+    },
+    {
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "baslik": "Anthropic, nadir hastalık araştırmaları için Claude Science hibe başvurularını açtı",
+      "kategori": "claude",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.scmp.com/tech/article/3361172/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints",
+      "baslik": "Moonshot AI, talep patlaması nedeniyle Kimi K3'e yeni abonelik kaydını durdurdu",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
+      "baslik": "SAP, Prior Labs'i satın alarak Avrupa'da 1 milyar €'luk frontier AI laboratuvarı kuruyor",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "baslik": "ponytail - AI ajanlarını 'tembel kıdemli geliştirici' gibi düşündürüp kodu azaltan araç",
+      "kategori": "github",
+      "tarih": "2026-07-21"
     }
   ]
 }
