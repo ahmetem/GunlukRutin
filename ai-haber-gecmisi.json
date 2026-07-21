@@ -852,6 +852,48 @@
       "baslik": "ponytail - AI ajanlarını 'tembel kıdemli geliştirici' gibi düşündürüp kodu azaltan araç",
       "kategori": "github",
       "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
+      "baslik": "Claude Code'un yaratıcısı Boris Cherny, 2026'nın en çok konuşulan yazılımını anlattı",
+      "kategori": "claude",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "baslik": "OpenAI'ın açık ağırlıklı modellerden (Kimi K3 gibi) duyduğu endişe tartışma yarattı",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+      "baslik": "OpenAI'ın GPT-5.6 model ailesi (Sol/Terra/Luna) Amazon Bedrock'ta genel kullanıma açıldı",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/every-app/open-seo",
+      "baslik": "OpenSEO - Claude Code gibi AI ajanlarına MCP ile bağlanan açık kaynak SEO analiz aracı",
+      "kategori": "github",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/QwenLM/qwen-code",
+      "baslik": "Qwen Code - Alibaba'nın terminalde çalışan açık kaynak AI kodlama ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/browseros-ai/BrowserOS",
+      "baslik": "BrowserOS - ChatGPT Atlas ve Comet'e alternatif açık kaynak ajan tabanlı tarayıcı",
+      "kategori": "github",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/AlexsJones/llmfit",
+      "baslik": "llmfit - hangi LLM'in donanımınızda çalışacağını tek komutla bulan araç",
+      "kategori": "github",
+      "tarih": "2026-07-21"
     }
   ]
 }
