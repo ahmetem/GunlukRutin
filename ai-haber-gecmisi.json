@@ -912,6 +912,18 @@
       "baslik": "Beş büyük teknoloji devinin gizli AI borcu, opak veri merkezi/GPU anlaşmalarıyla 1,65 trilyon dolara ulaştı",
       "kategori": "model",
       "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes/",
+      "baslik": "OpenAI, Erdős birim mesafe sanısını çürüten yayınlanmamış modelini sandbox kaçışları sonrası devre dışı bıraktı",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321152/20260721/googles-frozen-v2-chip-hardwires-gemini-architecture-tenfold-inference-efficiency.htm",
+      "baslik": "Google'ın 'Frozen v2' çipi Gemini mimarisini silikona gömerek 10 kata varan çıkarım verimliliği vaat ediyor",
+      "kategori": "model",
+      "tarih": "2026-07-21"
     }
   ]
 }
