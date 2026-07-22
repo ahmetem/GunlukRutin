@@ -996,6 +996,36 @@
       "baslik": "Buzz - Block'un insan ve AI ajanlarını aynı çalışma alanında birleştiren açık kaynak platformu",
       "kategori": "github",
       "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://thehill.com/homenews/5982007-anthropic-pours-millions-midterms/",
+      "baslik": "Anthropic, Public First Action'a bir 20 milyon dolar daha verdi (toplam 40 milyon dolar)",
+      "kategori": "claude",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "baslik": "Anthropic'in robotik girişimi Physical Intelligence'ı satın alma görüşmeleri iddiası AI camiasını salladı",
+      "kategori": "claude",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+      "baslik": "Google, Gemini 4 için 'en iddialı' ön eğitim (pre-training) sürecini başlattığını duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://github.com/juggler-ai/juggler",
+      "baslik": "Juggler - JUCE yaratıcısının geliştirdiği, ağaç yapılı oturumlara sahip açık kaynak GUI kodlama ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/Brain0-ai/brain0",
+      "baslik": "brain0 - AI ajanlarının yazdığı kodu commit'lere ve promptlara bağlayan açık kaynak denetim/provenance aracı",
+      "kategori": "github",
+      "tarih": "2026-07-22"
     }
   ]
 }
