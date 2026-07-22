@@ -954,6 +954,48 @@
       "baslik": "LangChain'in open_deep_research'ü - yapılandırılabilir açık kaynak derin araştırma ajanı",
       "kategori": "github",
       "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+      "baslik": "Claude Cowork artık ekran kaydından yeni beceriler öğrenebiliyor",
+      "kategori": "claude",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights",
+      "baslik": "Anthropic, 2. çeyrekte lobi harcamalarını rekor seviyeye çıkardı",
+      "kategori": "claude",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
+      "baslik": "Cisco, güvenlik açığı tespiti için açık ağırlıklı Antares modellerini yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/dottxt-ai/outlines",
+      "baslik": "Outlines - LLM'lerden yapılandırılmış (JSON/regex) çıktı garantisi sağlayan kütüphane",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "baslik": "text-to-cad - CAD, robotik ve donanım tasarımı için AI ajan becerileri koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "baslik": "i-have-adhd - AI kodlama asistanlarını net, eylem odaklı yanıtlar vermeye zorlayan beceri eklentisi",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/block/buzz",
+      "baslik": "Buzz - Block'un insan ve AI ajanlarını aynı çalışma alanında birleştiren açık kaynak platformu",
+      "kategori": "github",
+      "tarih": "2026-07-22"
     }
   ]
 }
