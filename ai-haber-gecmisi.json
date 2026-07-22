@@ -924,6 +924,36 @@
       "baslik": "Google'ın 'Frozen v2' çipi Gemini mimarisini silikona gömerek 10 kata varan çıkarım verimliliği vaat ediyor",
       "kategori": "model",
       "tarih": "2026-07-21"
+    },
+    {
+      "url": "https://www.digitalapplied.com/blog/claude-code-limits-raised-fable-5-max-team-premium-2026",
+      "baslik": "Claude Fable 5, Max ve Team Premium planlarına dahil edildi; Claude Code limit artışı 19 Ağustos'a uzatıldı",
+      "kategori": "claude",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "baslik": "Google, Gemini 3.6 Flash, 3.5 Flash-Lite ve 3.5 Flash Cyber modellerini duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+      "baslik": "Microsoft ve Mistral AI, çok milyar dolarlık altyapı ortaklığını genişletti",
+      "kategori": "model",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/koala73/worldmonitor",
+      "baslik": "worldmonitor - AI destekli gerçek zamanlı küresel istihbarat ve durum farkındalığı panosu",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "baslik": "LangChain'in open_deep_research'ü - yapılandırılabilir açık kaynak derin araştırma ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-22"
     }
   ]
 }
