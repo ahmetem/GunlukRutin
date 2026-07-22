@@ -1026,6 +1026,42 @@
       "baslik": "brain0 - AI ajanlarının yazdığı kodu commit'lere ve promptlara bağlayan açık kaynak denetim/provenance aracı",
       "kategori": "github",
       "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "baslik": "Microsoft CEO'su Nadella, Anthropic'in Fable 5'ini 'editoryal olarak fazla kontrollü' bularak eleştirdi",
+      "kategori": "claude",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://www.digitalapplied.com/blog/deepseek-api-alias-retirement-july-24-migration-2026",
+      "baslik": "DeepSeek, deepseek-chat/deepseek-reasoner API takma adlarını 24 Temmuz'da emekliye ayırıyor (v4-flash/v4-pro'ya geçiş)",
+      "kategori": "model",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://cryptobriefing.com/kimi-k3-open-weights-july-27/",
+      "baslik": "Moonshot AI, Kimi K3'ün açık ağırlıklarını 27 Temmuz'da Modified MIT lisansıyla ücretsiz yayınlayacak",
+      "kategori": "model",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/ruvnet/RuView",
+      "baslik": "RuView - WiFi sinyallerini kameraya gerek kalmadan mekansal zeka ve yaşam belirtisi izlemeye çeviren açık kaynak sensör platformu",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "baslik": "Kronos - 45+ küresel borsadan finansal mum (K-line) verisiyle eğitilmiş ilk açık kaynak foundation model",
+      "kategori": "github",
+      "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://github.com/agegr/pi-web",
+      "baslik": "pi-web - 'pi' kodlama ajanı için yerel, tarayıcı tabanlı sohbet/oturum yönetimi arayüzü",
+      "kategori": "github",
+      "tarih": "2026-07-22"
     }
   ]
 }
