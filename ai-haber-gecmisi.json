@@ -1122,6 +1122,36 @@
       "baslik": "Claude Sesli Mod'a Opus ve Sonnet model seçenekleri geliyor",
       "kategori": "claude",
       "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "baslik": "Anthropic, Claude Code için çok ajanlı 'Claude Security' güvenlik açığı tarayıcı eklentisini beta olarak yayınladı",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
+      "baslik": "Sam Altman, OpenAI'nin yeni nesil model ailesini Beyaz Saray ve Kongre'ye brifing verecek",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/browser-use/browser-use",
+      "baslik": "browser-use - web tarayıcılarını insan gibi kullanan AI ajanları için açık kaynak kütüphane, 100bin+ yıldız",
+      "kategori": "github",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/langgenius/dify",
+      "baslik": "Dify - ajan iş akışları ve RAG pipeline'ları kurmayı sağlayan açık kaynak LLM uygulama platformu",
+      "kategori": "github",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/langflow-ai/langflow",
+      "baslik": "Langflow - görsel arayüzle AI ajanı ve iş akışı tasarlayan açık kaynak low-code platform",
+      "kategori": "github",
+      "tarih": "2026-07-23"
     }
   ]
 }
