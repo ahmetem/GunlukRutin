@@ -1206,6 +1206,30 @@
       "baslik": "Serena - kodlama ajanlarına IDE benzeri semantik kod arama ve düzenleme yetenekleri kazandıran MCP araç seti",
       "kategori": "github",
       "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
+      "baslik": "OpenAI, Georgia'da 30 milyar dolarlık \"Project Camellia\" veri merkezi kampüsünü duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion",
+      "baslik": "Alphabet, 2026 AI yatırım tahminini 205 milyar dolara yükseltti, hisseler geriledi",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Instagram-Meta-s-AI-deletes-accounts-and-appeals-go-nowhere.1348870.0.html",
+      "baslik": "Meta'nın AI moderasyon sistemi masum Instagram/Facebook hesaplarını hatayla siliyor",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/citrolabs/ego-lite",
+      "baslik": "ego-lite - insanların ve AI ajanlarının paralel çalıştığı açık kaynak tarayıcı",
+      "kategori": "github",
+      "tarih": "2026-07-23"
     }
   ]
 }
