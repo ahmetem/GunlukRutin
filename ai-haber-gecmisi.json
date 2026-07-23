@@ -1152,6 +1152,60 @@
       "baslik": "Langflow - görsel arayüzle AI ajanı ve iş akışı tasarlayan açık kaynak low-code platform",
       "kategori": "github",
       "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.testingcatalog.com/anthropic-preparing-for-potential-claude-opus-5-rollout/",
+      "baslik": "Claude Opus 5 hazırlıkları hızlanıyor: bir kodlama aracının model seçicisinde ve Google Vertex kota kataloğunda model izleri görüldü",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "baslik": "Beyaz Saray, Moonshot AI'ı Kimi K3'ü geliştirmek için Anthropic'in Fable modelini gizlice 'damıttığı' konusunda suçladı; Hazine yaptırım tehdidinde bulundu",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321151/20260721/claude-code-seals-bash-unicode-bypass-gaps-agentic-permission-layer.htm",
+      "baslik": "Claude Code, Bash/PowerShell ve Unicode kaynaklı izin atlatma açıklarını kapattı (v2.1.214 ve sonrası)",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models",
+      "baslik": "Amazon, yapılandırılabilir 'genişletilmiş düşünme' kontrollü Nova 2 model ailesini (Lite/Pro) tanıttı",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/",
+      "baslik": "Alibaba, görüntü üretiminde token limitini ~1000'den 4500'e çıkaran Qwen-Image-3.0 modelini yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
+      "baslik": "Alibaba Tongyi Lab, 16 dili destekleyen Qwen-Audio-3.0-TTS metinden sese modelini duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/alibaba/open-code-review",
+      "baslik": "open-code-review - Alibaba'nın açık kaynağa açtığı, deterministik pipeline + LLM ajanı hibrit kod inceleme aracı",
+      "kategori": "github",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/microsoft/SkillOpt",
+      "baslik": "SkillOpt - Microsoft'un dondurulmuş LLM ajanları için yeniden kullanılabilir doğal dil becerileri eğiten metin-uzayı optimize edicisi",
+      "kategori": "github",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/oraios/serena",
+      "baslik": "Serena - kodlama ajanlarına IDE benzeri semantik kod arama ve düzenleme yetenekleri kazandıran MCP araç seti",
+      "kategori": "github",
+      "tarih": "2026-07-23"
     }
   ]
 }
