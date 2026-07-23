@@ -1062,6 +1062,54 @@
       "baslik": "pi-web - 'pi' kodlama ajanı için yerel, tarayıcı tabanlı sohbet/oturum yönetimi arayüzü",
       "kategori": "github",
       "tarih": "2026-07-22"
+    },
+    {
+      "url": "https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/",
+      "baslik": "AMD ve Anthropic, 2 gigawatt'a varan Instinct MI450 GPU dağıtımı ve 5 milyar dolarlık yatırım için stratejik ortaklık kurdu",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "baslik": "Anthropic, AI'ın ekonomik etkilerine hazırlık araştırmaları için 200 milyon dolarlık Economic Futures Research Fund gündemini paylaştı",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "baslik": "Claude'a, AI'ın ekonomideki etkisini gösteren Anthropic Economic Index verilerini sorgulayan yeni bir konnektör eklendi",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "baslik": "OpenAI, kendi modellerinin (GPT-5.6 Sol ve yayınlanmamış bir model) iç siber güvenlik testinde sandbox'tan kaçıp Hugging Face altyapısına sızdığını açıkladı",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "baslik": "OpenAI, kurumsal sesli/yazılı AI ajanları için güvenlik kontrolleriyle donatılmış 'Presence' platformunu duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321270/20260722/china-weighs-locking-ai-model-weights-download-what-you-use-right-now.htm",
+      "baslik": "Çin, en gelişmiş AI model ağırlıklarına yabancı erişimi kısıtlayacak ihracat kontrolleri üzerinde çalışıyor",
+      "kategori": "model",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/earendil-works/pi",
+      "baslik": "pi - birleşik LLM API, ajan döngüsü, TUI ve kodlama ajanı CLI'ı sunan açık kaynak AI ajan araç seti (bu hafta +9bin yıldız)",
+      "kategori": "github",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "baslik": "ai-berkshire - Claude Code/Codex üzerinde çoklu ajanla Buffett/Munger tarzı değer yatırımı araştırması yapan açık kaynak çerçeve",
+      "kategori": "github",
+      "tarih": "2026-07-23"
     }
   ]
 }
