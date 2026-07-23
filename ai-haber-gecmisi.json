@@ -1110,6 +1110,18 @@
       "baslik": "ai-berkshire - Claude Code/Codex üzerinde çoklu ajanla Buffett/Munger tarzı değer yatırımı araştırması yapan açık kaynak çerçeve",
       "kategori": "github",
       "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://claudelog.com/claude-code-changelog/",
+      "baslik": "Claude Code v2.1.218: /code-review artık arka planda subagent olarak çalışıyor",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.testingcatalog.com/claude-voice-mode-to-get-opus-and-sonnet-model-options/",
+      "baslik": "Claude Sesli Mod'a Opus ve Sonnet model seçenekleri geliyor",
+      "kategori": "claude",
+      "tarih": "2026-07-23"
     }
   ]
 }
