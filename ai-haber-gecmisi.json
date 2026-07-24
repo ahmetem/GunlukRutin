@@ -1254,6 +1254,54 @@
       "baslik": "Microsoft, ilk 1-bit (ternary) embedding modelleri BitNet-Embedding-0.6B ve 270M'yi yayınladı",
       "kategori": "model",
       "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "baslik": "SharedRoot: Claude Cowork'te ~500 bin Mac'i etkileyen sandbox kaçış açığı bulundu",
+      "kategori": "claude",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
+      "baslik": "Alphabet'in Anthropic'teki payı SEC dosyasında ~124 milyar dolara yükseldiği ortaya çıktı",
+      "kategori": "claude",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "baslik": "Claude Opus 4.7 için 'fast mode' bugün (24 Temmuz) kaldırıldı",
+      "kategori": "claude",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "baslik": "OpenAI, ChatGPT masaüstü uygulamasına sesle bilgisayar ve çoklu ajan kontrolü getirdi",
+      "kategori": "model",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "baslik": "Echo - açık ağırlıklı modelleri birleştirerek Claude Fable seviyesi sonuçları üçte bir maliyetle sunan proje",
+      "kategori": "model",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "baslik": "dive-into-llms - büyük dil modellerini uygulamalı öğreten açık kaynak Çince eğitim serisi",
+      "kategori": "github",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/inkeep/open-knowledge",
+      "baslik": "OpenKnowledge - Claude ve Codex entegrasyonlu, Obsidian/Notion'a alternatif açık kaynak AI-öncelikli not editörü",
+      "kategori": "github",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "baslik": "ai-trains-ai - RL ile eğitilen bir ajanın başka modelleri RL ile eğittiği deneysel proje",
+      "kategori": "github",
+      "tarih": "2026-07-24"
     }
   ]
 }
