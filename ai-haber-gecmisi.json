@@ -1302,6 +1302,36 @@
       "baslik": "ai-trains-ai - RL ile eğitilen bir ajanın başka modelleri RL ile eğittiği deneysel proje",
       "kategori": "github",
       "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "baslik": "Anthropic, Claude'un sesli moduna Opus ve Sonnet model seçeneklerini ekledi",
+      "kategori": "claude",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://cybersecuritynews.com/anthropic-claude-security-plugin/",
+      "baslik": "Anthropic, Claude Code için kod güvenlik açığı tarayan 'Claude Security' eklentisini beta olarak yayınladı",
+      "kategori": "claude",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program/",
+      "baslik": "OpenAI, küçük işletmeler için ChatGPT programını (webinar, AI Academy, ortak entegrasyonlar) başlattı",
+      "kategori": "model",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/jundot/omlx",
+      "baslik": "oMLX - Apple Silicon için menü çubuğundan yönetilen, sürekli batching ve SSD önbellekli LLM çıkarım sunucusu",
+      "kategori": "github",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/mem0ai/mem0",
+      "baslik": "Mem0 - AI ajanları için evrensel, kişiselleştirilmiş bellek katmanı",
+      "kategori": "github",
+      "tarih": "2026-07-24"
     }
   ]
 }
