@@ -1230,6 +1230,24 @@
       "baslik": "ego-lite - insanların ve AI ajanlarının paralel çalıştığı açık kaynak tarayıcı",
       "kategori": "github",
       "tarih": "2026-07-23"
+    },
+    {
+      "url": "https://www.techradar.com/pro/spacexai-has-built-a-microsoft-excel-grok-plug-in-for-some-reason",
+      "baslik": "xAI, Grok 4.5 destekli Grok for Excel eklentisini Microsoft 365'e (Excel/Word/PowerPoint) getirdi",
+      "kategori": "model",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/skypilot-org/skypilot",
+      "baslik": "SkyPilot - Kubernetes, Slurm, VM ve on-prem'deki dağınık AI compute kaynaklarını tek platformda birleştiren açık kaynak proje",
+      "kategori": "github",
+      "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "baslik": "Rapid-MLX - Apple Silicon için Ollama'dan 4,2 kat hızlı, OpenAI API uyumlu açık kaynak yerel AI motoru",
+      "kategori": "github",
+      "tarih": "2026-07-24"
     }
   ]
 }
