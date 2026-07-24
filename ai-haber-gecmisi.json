@@ -1248,6 +1248,12 @@
       "baslik": "Rapid-MLX - Apple Silicon için Ollama'dan 4,2 kat hızlı, OpenAI API uyumlu açık kaynak yerel AI motoru",
       "kategori": "github",
       "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://huggingface.co/microsoft/bitnet-embedding-0.6b",
+      "baslik": "Microsoft, ilk 1-bit (ternary) embedding modelleri BitNet-Embedding-0.6B ve 270M'yi yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-24"
     }
   ]
 }
