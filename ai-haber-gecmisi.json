@@ -1416,6 +1416,36 @@
       "baslik": "Claude Opus 5 sistem kartı: İngiltere hükümeti testlerinde model 10 denemenin 8'inde kurumsal ağa uçtan uca sızmayı başardı",
       "kategori": "claude",
       "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "baslik": "Anthropic, Claude 5 nesli modeller için 'context engineering' kurallarını yeniledi",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "baslik": "Claude Design'ı geliştiren ürün tasarımcısı, aracı nasıl kullandığını anlattı",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "baslik": "Anthropic'in 'Project Pilot' araştırması: Yapay zeka modelleri drone uçurabiliyor mu?",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://startupfortune.com/xai-is-shipping-grok-46-and-47-back-to-back-in-a-release-cadence-no-frontier-lab-has-matched/",
+      "baslik": "Elon Musk, Grok 4.6 ve 4.7'nin art arda birkaç hafta içinde geleceğini doğruladı",
+      "kategori": "model",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/AmintaCCCP/GithubStarsManager",
+      "baslik": "GithubStarsManager - yıldızladığınız repoları AI ile özetleyip kategorize eden, semantik aramalı yönetim aracı",
+      "kategori": "github",
+      "tarih": "2026-07-25"
     }
   ]
 }
