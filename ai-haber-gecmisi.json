@@ -1386,6 +1386,30 @@
       "baslik": "NVIDIA SkillSpector - AI ajan 'skill'lerini kurulum öncesi zafiyet ve kötü niyetli desen taramasından geçiren güvenlik tarayıcısı",
       "kategori": "github",
       "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.claudeupdates.dev/version/2.1.219",
+      "baslik": "Claude Code v2.1.219/v2.1.220: Opus 5 varsayılan model oldu, subagent'lar 3 seviyeye kadar iç içe çalışabiliyor",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "baslik": "OpenAI, ChatGPT Health'i tüm ABD kullanıcılarına açtı",
+      "kategori": "model",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "baslik": "PageIndex - vektörsüz, akıl yürütme tabanlı RAG için doküman indeksleme çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/wshobson/agents",
+      "baslik": "wshobson/agents - Claude Code, Codex, Cursor ve diğer araçlar için çok-harness ajan/plugin marketplace'i",
+      "kategori": "github",
+      "tarih": "2026-07-25"
     }
   ]
 }
