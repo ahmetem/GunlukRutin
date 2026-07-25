@@ -1332,6 +1332,60 @@
       "baslik": "Mem0 - AI ajanları için evrensel, kişiselleştirilmiş bellek katmanı",
       "kategori": "github",
       "tarih": "2026-07-24"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+      "baslik": "Anthropic, Fable 5'e yakın performansı yarı fiyatına sunan Claude Opus 5'i duyurdu",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.inc.com/ben-sherry/anthropics-new-claude-plugins-take-aim-at-finance-hr-and-more-is-your-job-next/91307114",
+      "baslik": "Anthropic, Claude Cowork için Finans, İK, Satış gibi alanlara özel 11 resmi eklenti (plugin) yayınladı",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://windowsnews.ai/article/anthropic-quietly-merges-prompt-testing-and-api-experimentation-in-streamlined-build-workspace.439263",
+      "baslik": "Claude Developer Platform, eski Workbench ve deneysel prompt API'lerini 17 Ağustos'ta kaldırıp birleşik bir build alanına geçiyor",
+      "kategori": "claude",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://techstartups.com/2026/07/24/nvidia-microsoft-meta-and-20-tech-giants-urge-trump-to-back-open-weight-ai-warn-against-premature-restrictions-on-open-weight-models/",
+      "baslik": "Nvidia, Microsoft, Meta ve 20'den fazla şirket, Trump yönetimine açık ağırlıklı AI modellerini kısıtlamama çağrısı yaptı",
+      "kategori": "model",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm",
+      "baslik": "Çin'in yeni AI companion yasası yürürlüğe girdi; ByteDance Doubao ve Alibaba Qwen'in kişiselleştirme özellikleri kapatıldı",
+      "kategori": "model",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
+      "baslik": "Meta ve Microsoft, kazanç haftası öncesi devasa AI harcamaları konusunda yeniden yatırımcı endişesiyle karşı karşıya",
+      "kategori": "model",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/elder-plinius/CL4R1T4S",
+      "baslik": "CL4R1T4S - ChatGPT, Claude, Gemini, Grok ve daha fazlasının sızdırılan sistem promptlarını derleyen şeffaflık deposu",
+      "kategori": "github",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/chopratejas/headroom",
+      "baslik": "Headroom - LLM'e ulaşmadan önce araç çıktıları, loglar ve RAG parçalarını %60-95 sıkıştıran açık kaynak kütüphane",
+      "kategori": "github",
+      "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "baslik": "NVIDIA SkillSpector - AI ajan 'skill'lerini kurulum öncesi zafiyet ve kötü niyetli desen taramasından geçiren güvenlik tarayıcısı",
+      "kategori": "github",
+      "tarih": "2026-07-25"
     }
   ]
 }
