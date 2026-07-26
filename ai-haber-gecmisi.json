@@ -1446,6 +1446,42 @@
       "baslik": "GithubStarsManager - yıldızladığınız repoları AI ile özetleyip kategorize eden, semantik aramalı yönetim aracı",
       "kategori": "github",
       "tarih": "2026-07-25"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/en/view/84842/samsung-sds-allies-with-anthropic-to-accelerate-claude-based-enterprise-ai-business",
+      "baslik": "Samsung SDS ve Anthropic, San Francisco'daki AI Summit'te stratejik ortaklık imzaladı; 20 Samsung iştirakinde 70bin çalışana Claude Enterprise",
+      "kategori": "claude",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent",
+      "baslik": "Nvidia, Meta, Microsoft, Hugging Face ve Mistral dahil 25 şirket 'Open Weights and American AI Leadership' ortak mektubunu imzaladı; OpenAI, Google ve Anthropic imzacı değil",
+      "kategori": "model",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "baslik": "OpenAI, kurumsal sesli/metin AI ajanları için yönetilen platform 'OpenAI Presence'ı tanıttı",
+      "kategori": "model",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "baslik": "claude-cookbooks - Anthropic'in resmi Claude tarifleri ve örnek not defterleri deposu, GitHub trendlerinde",
+      "kategori": "github",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "baslik": "turbovec - Google'ın TurboQuant algoritması üzerine kurulu, eğitim gerektirmeyen hızlı Rust vektör indeksi",
+      "kategori": "github",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "baslik": "last30days-skill - Reddit, X, YouTube, HN, Polymarket ve web'i tarayıp güncel özet çıkaran AI ajan skill'i",
+      "kategori": "github",
+      "tarih": "2026-07-26"
     }
   ]
 }
