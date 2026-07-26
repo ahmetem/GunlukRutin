@@ -1542,6 +1542,24 @@
       "baslik": "freellmapi - 28 farklı LLM sağlayıcısının ücretsiz kotalarını tek bir OpenAI uyumlu API ucunda birleştiren açık kaynak proxy",
       "kategori": "github",
       "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://sakana.ai/fugu-cyber-release/",
+      "baslik": "Sakana AI, siber güvenlik odaklı orkestrasyon modeli Fugu-Cyber'ı duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "baslik": "Devin'in yaratıcısı Cognition, mesajlaşma asistanı Poke'u düşük dokuz haneli bedelle satın aldı",
+      "kategori": "model",
+      "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "baslik": "Chat2DB - GitHub trendlerinde yükselen, yapay zeka destekli veritabanı ve SQL istemcisi",
+      "kategori": "github",
+      "tarih": "2026-07-26"
     }
   ]
 }
