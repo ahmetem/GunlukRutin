@@ -1578,6 +1578,24 @@
       "baslik": "Moonshot AI 50 milyar dolarlık Hong Kong halka arzına, DeepSeek ise 71 milyar dolarlık Şangay listelemesine hazırlanıyor",
       "kategori": "model",
       "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://favtutor.com/claude-opus-5-early-reviews/",
+      "baslik": "Claude Opus 5 kıyaslamalarda birinci çıktı ama erken kullanıcılar modelin 'sevilmesi zor' olduğunu söylüyor",
+      "kategori": "claude",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332364/0/en/black-forest-labs-unveils-flux-3-a-new-multimodal-frontier-model-for-visual-intelligence.html",
+      "baslik": "Black Forest Labs, görüntü/video/ses/aksiyonu tek mimaride birleştiren multimodal öncü modeli FLUX 3'ü tanıttı",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+      "baslik": "Poolside, 10 kat daha büyük rakiplerini geride bırakan açık ağırlıklı kodlama modeli Laguna S 2.1'i yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-27"
     }
   ]
 }
