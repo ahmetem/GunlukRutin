@@ -1560,6 +1560,24 @@
       "baslik": "Chat2DB - GitHub trendlerinde yükselen, yapay zeka destekli veritabanı ve SQL istemcisi",
       "kategori": "github",
       "tarih": "2026-07-26"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321499/20260724/kimi-k3-open-weights-drop-july-27-near-frontier-coding-undisclosed-hallucination-risk.htm",
+      "baslik": "Kimi K3'ün 1,4 TB'lık açık ağırlıkları 27 Temmuz 00:00 UTC'de yayınlandı; lisans şartları hâlâ belirsiz",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
+      "baslik": "Sakana AI, çoklu model yönlendiricisi Fugu-Ultra v1.1'i aynı fiyata yayınladı; Fable 5'i havuza dahil etmeden geçtiğini iddia ediyor",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://fortune.com/2026/07/23/moonshot-deepseek-great-chinese-ai-ipo-rush/",
+      "baslik": "Moonshot AI 50 milyar dolarlık Hong Kong halka arzına, DeepSeek ise 71 milyar dolarlık Şangay listelemesine hazırlanıyor",
+      "kategori": "model",
+      "tarih": "2026-07-27"
     }
   ]
 }
