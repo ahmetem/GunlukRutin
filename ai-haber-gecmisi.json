@@ -1596,6 +1596,36 @@
       "baslik": "Poolside, 10 kat daha büyük rakiplerini geride bırakan açık ağırlıklı kodlama modeli Laguna S 2.1'i yayınladı",
       "kategori": "model",
       "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/music-publishers-file-amended-lyrics-lawsuit-against-anthropic-just-as-ai-firms-separate-1-5b-piracy-settlement-with-authors-wins-court-approval/",
+      "baslik": "Müzik yayıncıları (Concord, UMPG, ABKCO), şarkı sözleri davasında Anthropic'e karşı değiştirilmiş (2. ek) şikayeti sundu",
+      "kategori": "claude",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/8979615/nvidia-nvda-negotiates-250-billion-financing-for-openai-partnership",
+      "baslik": "Nvidia, OpenAI'ın Ohio'daki 10 gigawatt'lık veri merkezi için 250 milyar dolarlık finansman garantisi görüşüyor",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/07/60685593/hugging-face-ceo-urges-openai-to-release-rogue-ai-logs-commit-100-million-in-compute-after-breach",
+      "baslik": "Hugging Face CEO'su Delangue, OpenAI'ın sızan ajanının loglarının açıklanmasını ve 100 milyon dolarlık compute taahhüdünü istedi",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://github.com/bradautomates/claude-video",
+      "baslik": "claude-video - Claude'a video izleme (indirme, kare çıkarma, transkript) yeteneği katan açık kaynak Claude Code eklentisi",
+      "kategori": "github",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://github.com/vudovn/ag-kit",
+      "baslik": "AG Kit - 20 uzman AI personası, 45 skill ve 13 workflow içeren açık kaynak ajan mühendisliği kiti",
+      "kategori": "github",
+      "tarih": "2026-07-27"
     }
   ]
 }
