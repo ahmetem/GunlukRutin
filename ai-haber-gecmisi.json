@@ -1626,6 +1626,24 @@
       "baslik": "AG Kit - 20 uzman AI personası, 45 skill ve 13 workflow içeren açık kaynak ajan mühendisliği kiti",
       "kategori": "github",
       "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://fortune.com/2026/07/24/anthropic-peter-mccrory-dario-amodei-why-hasnt-it-killed-jobs/",
+      "baslik": "Anthropic'in baş ekonomisti McCrory, Amodei'nin 'beyaz yaka kıyımı' uyarısıyla veri temelli çelişti",
+      "kategori": "claude",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "baslik": "ABD Kongresi'nde felaket riskli AI sistemlerini durdurmayı zorunlu kılan 'AI Kill Switch' yasa teklifi sunuldu",
+      "kategori": "model",
+      "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://github.com/bytedance/deer-flow",
+      "baslik": "DeerFlow - ByteDance'in çok ajanlı, sandbox'lı 'süper ajan' iskeleti (v2.0) 78 bin+ yıldıza ulaştı",
+      "kategori": "github",
+      "tarih": "2026-07-27"
     }
   ]
 }
