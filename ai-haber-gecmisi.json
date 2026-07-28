@@ -1644,6 +1644,48 @@
       "baslik": "DeerFlow - ByteDance'in çok ajanlı, sandbox'lı 'süper ajan' iskeleti (v2.0) 78 bin+ yıldıza ulaştı",
       "kategori": "github",
       "tarih": "2026-07-27"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "baslik": "Claude'ın paylaşılan sohbet/Artifact linkleri Google'da indekslendi, sağlık kayıtları dahil özel veriler ifşa oldu",
+      "kategori": "claude",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "baslik": "Dario Amodei açık ağırlıklı model yasağına karşı çıktı, distilasyona karşı çip ihracat denetimi ve zorunlu güvenlik testi istedi",
+      "kategori": "claude",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://www.hpcwire.com/aiwire/2026/07/27/cognizant-deepens-anthropic-alliance-to-scale-enterprise-ai-adoption/",
+      "baslik": "Cognizant, Claude Partner Network'te Global Premier Partner oldu; Anthropic ortaklığını genişletti",
+      "kategori": "claude",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+      "baslik": "Perplexity, arama API'sini terminale taşıyan tek-dosyalık 'pplx' CLI aracını yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://skift.com/2026/07/27/amazons-alexa-is-trying-to-sell-trips-inside-a-chat-priceline-is-an-early-test/",
+      "baslik": "Amazon, Alexa+'a MCP destekli seyahat/alışveriş rezervasyonu getirdi; Priceline ilk test ortağı oldu",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/youssofal/MTPLX",
+      "baslik": "MTPLX - Apple Silicon'da harici taslak modele gerek duymadan yerel MTP ile 2-3 kat hızlı çıkarım sağlayan açık kaynak araç",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/vava-nessa/free-coding-models",
+      "baslik": "free-coding-models - 20'den fazla sağlayıcıdaki 190+ ücretsiz kodlama LLM'ini gerçek zamanlı test edip en hızlısını bulan CLI",
+      "kategori": "github",
+      "tarih": "2026-07-28"
     }
   ]
 }
