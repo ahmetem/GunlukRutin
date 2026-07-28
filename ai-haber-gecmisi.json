@@ -1728,6 +1728,42 @@
       "baslik": "book-to-skill - teknik kitap ve dokümanları AI ajan skill'ine dönüştüren araç",
       "kategori": "github",
       "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
+      "baslik": "Nvidia, Ilya Sutskever'ın Safe Superintelligence'ına 5 milyar dolar yatırım yaptı ve Vera Rubin platformuna erişim sağladı",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "baslik": "Nvidia öncülüğünde ~40 şirketin katıldığı 'Open Secure AI Alliance' kuruldu; OpenAI, Anthropic ve Google listede yok",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/HKUDS/OpenSpace",
+      "baslik": "OpenSpace - AI ajanları için beceri (skill) yönetim katmanı, OpenClaw ve nanobot gibi araçlara entegre olabiliyor",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/volcengine/OpenViking",
+      "baslik": "OpenViking - ByteDance/Volcengine'in ajan hafızası, bilgi (RAG) ve becerilerini dosya sistemi mantığıyla birleştiren açık kaynak bağlam veritabanı",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "baslik": "QwenPaw - kendi makinenizde veya bulutta çalıştırabileceğiniz, çoklu sohbet uygulamasını destekleyen açık kaynak kişisel AI asistanı",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "baslik": "tokenspeed - GitHub trendlerinde yükselen yüksek performanslı açık kaynak LLM çıkarım (inference) motoru",
+      "kategori": "github",
+      "tarih": "2026-07-28"
     }
   ]
 }
