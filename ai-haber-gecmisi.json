@@ -1686,6 +1686,48 @@
       "baslik": "free-coding-models - 20'den fazla sağlayıcıdaki 190+ ücretsiz kodlama LLM'ini gerçek zamanlı test edip en hızlısını bulan CLI",
       "kategori": "github",
       "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "baslik": "Microsoft, kendi model ailesi MAI'yi genişletti: MAI-Cyber-1-Flash siber güvenlik modelini tanıttı",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://x.ai/news/workflows",
+      "baslik": "xAI, Grok Build'e 1024 paralel ajana kadar ölçeklenen 'Workflows' özelliğini ekledi",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
+      "baslik": "AMD ve Cerebras, Helios ve Wafer-Scale Engine'i birleştiren ortak AI çıkarım çözümünü duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://www.worldlabs.ai/blog/scenix",
+      "baslik": "Fei-Fei Li'nin World Labs'i, robotik simülasyon girişimi SceniX'i satın aldı",
+      "kategori": "model",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "baslik": "speech-to-speech - Hugging Face'in düşük gecikmeli, modüler yerel sesli ajan boru hattı",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "baslik": "ECC - AI kodlama ajanları (Claude Code, Codex, Cursor) için performans optimizasyon sistemi",
+      "kategori": "github",
+      "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "baslik": "book-to-skill - teknik kitap ve dokümanları AI ajan skill'ine dönüştüren araç",
+      "kategori": "github",
+      "tarih": "2026-07-28"
     }
   ]
 }
