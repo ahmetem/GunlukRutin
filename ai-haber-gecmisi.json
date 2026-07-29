@@ -1836,6 +1836,24 @@
       "baslik": "VibeVoice: Microsoft'un açık kaynak sınır ötesi sesli AI teknolojisi",
       "kategori": "github",
       "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "baslik": "superpowers - Claude Code, Codex, Cursor, Gemini CLI gibi birçok ajanı destekleyen agentic beceri (skill) çerçevesi ve yazılım geliştirme metodolojisi",
+      "kategori": "github",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "baslik": "FlashKDA - Moonshot AI'nin Kimi Delta Attention icin CUTLASS tabanli yuksek performansli CUDA cekirdekleri; H20 GPU'larda 1.72-2.22x hizlanma sagliyor",
+      "kategori": "github",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/maderix/ANE",
+      "baslik": "ANE - Apple Neural Engine'de ters muhendislikle (private API) transformer egitimi (ileri+geri yayilim) calistiran acik kaynak arastirma projesi",
+      "kategori": "github",
+      "tarih": "2026-07-29"
     }
   ]
 }
