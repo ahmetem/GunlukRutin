@@ -1764,6 +1764,48 @@
       "baslik": "tokenspeed - GitHub trendlerinde yükselen yüksek performanslı açık kaynak LLM çıkarım (inference) motoru",
       "kategori": "github",
       "tarih": "2026-07-28"
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "baslik": "Claude Mythos, HAWK imza şeması ve 7-tur AES'te yeni kriptografik zayıflıklar buldu",
+      "kategori": "claude",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "baslik": "MCP 2026-07-28 spesifikasyonu: Claude durumsuz (stateless) protokol çekirdeğini destekliyor",
+      "kategori": "claude",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "baslik": "Dario Amodei: Anthropic açık ağırlıklı modellere yasak savunmadı",
+      "kategori": "claude",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://xbow.com/blog/bing-images-rce-vulnerabilities",
+      "baslik": "Otonom AI ajanı XBOW, Bing Images'ta CVSS 9.8 puanlı kritik RCE açıkları buldu",
+      "kategori": "model",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "baslik": "Sam Altman: yapay zeka gelişiminin hızını yavaşlatmamız gerekebilir",
+      "kategori": "model",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/openai/codex-security",
+      "baslik": "OpenAI, açık kaynak Codex Security CLI/SDK aracını yayınladı",
+      "kategori": "github",
+      "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+      "baslik": "Natively - gizlilik odaklı açık kaynak AI toplantı asistanı ve mülakat kopiloti",
+      "kategori": "github",
+      "tarih": "2026-07-29"
     }
   ]
 }
