@@ -1,4 +1,5 @@
 {
+  "disableAutoMode": "disable",
   "permissions": {
     "allow": [
       "Bash(git *)",
