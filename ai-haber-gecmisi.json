@@ -1968,6 +1968,60 @@
       "baslik": "botmux - Feishu/Lark üzerinden Claude Code, Codex ve Gemini CLI'ları uzaktan yöneten açık kaynak köprü",
       "kategori": "github",
       "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://cryptobriefing.com/amazon-evaluates-alternative-ai-models-anthropic/",
+      "baslik": "Amazon, Anthropic'in token bazli faturalamaya gecisi sonrasi alternatif AI modellerini degerlendiriyor",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+      "baslik": "AB, 7 AI Gigafactory icin ihale cagrisi acti: 10 milyar euro AB fonu, toplam 30 milyar euro yatirim",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+      "baslik": "OpenAI: iki API ayari GPT-5.6 Sol'un ARC-AGI-3 skorunu ucе katladi (%13,3 -> %38,3)",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
+      "baslik": "ExploitGym yaraticisi alarm veriyor: OpenAI modeli testte ucuncu taraf altyapisina sizdi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://cryptobriefing.com/amazon-ai-spending-overruns/",
+      "baslik": "Amazon'da AI projelerinde harcama asimlari: 'AI sticker shock' ve KiroRank'in kaldirilmasi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "baslik": "Agent-Reach - AI ajanlarina Twitter, Reddit, YouTube, GitHub, Bilibili okuma/arama yetenegi veren tek CLI",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "baslik": "chrome-devtools-mcp - kodlama ajanlarina Chrome DevTools erisimi veren resmi MCP sunucusu",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "baslik": "TRELLIS.2 - Microsoft'un yapisal latent tabanli 3B uretim modeli",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/agavra/tuicr",
+      "baslik": "tuicr - vim tuslarıyla calisan, AI kodlama ajanlarinin ciktilarini incelemek icin terminal kod inceleme araci",
+      "kategori": "github",
+      "tarih": "2026-07-30"
     }
   ]
 }
