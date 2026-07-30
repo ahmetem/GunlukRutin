@@ -1854,6 +1854,60 @@
       "baslik": "ANE - Apple Neural Engine'de ters muhendislikle (private API) transformer egitimi (ileri+geri yayilim) calistiran acik kaynak arastirma projesi",
       "kategori": "github",
       "tarih": "2026-07-29"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "baslik": "Claude 29 Temmuz'da dünya çapında ~3 saat kesinti yaşadı, 529 hataları claude.ai/API/Claude Code'u vurdu",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "baslik": "Microsoft, bu çeyrekte Anthropic yatırımından 3,2 milyar dolar kâr kaydetti",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2026/07/29/openai-anthropic-endorse-call-government-pace-ai-progress/",
+      "baslik": "OpenAI, Anthropic, Google ve Meta'dan 1.100'den fazla çalışan 'Pacing the Frontier' mektubunu imzaladı; ABD hükümetinden küresel AI yavaşlatma mekanizması istedi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+      "baslik": "Google DeepMind, Nobel ödüllü AlphaFold ekibini dağıttı; kaynakları Gemini'ye yönlendiriyor",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "baslik": "OpenAI, 100 bin akademisyene ücretsiz frontier model erişimi sunacak 'ChatGPT for Academic Researchers' programını başlattı",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/openai-ceo-sam-altman-discusses-next-ai-model-with-us-lawmakers",
+      "baslik": "Sam Altman, ABD'li yasa koyuculara OpenAI'ın bir sonraki modelini anlattı ve yasal düzenleme çağrısı yaptı",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/sgl-project/sglang",
+      "baslik": "SGLang - büyük dil ve çoklu-model modelleri için yüksek performanslı açık kaynak sunum (serving) çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "baslik": "cangjie-skill - kitap, uzun video ve podcast'leri çalıştırılabilir AI Agent Skill'lerine dönüştüren açık kaynak araç",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/arc53/DocsGPT",
+      "baslik": "DocsGPT - ajanlar, asistanlar ve kurumsal arama için Agent Builder ve derin araştırma özellikli açık kaynak özel AI platformu",
+      "kategori": "github",
+      "tarih": "2026-07-30"
     }
   ]
 }
