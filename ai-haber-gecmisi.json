@@ -1914,6 +1914,60 @@
       "baslik": "Beyaz Saray'ın 30 günlük sınır model inceleme çerçevesi nihai hale yaklaşıyor",
       "kategori": "model",
       "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.axios.com/2026/07/29/anthropic-claude-open-models-ban-china",
+      "baslik": "Silicon Valley'de Anthropic'e karşı tepki büyüyor; açık ağırlık mektubunu imzalamayan tek büyük ABD laboratuvarı",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://thenextweb.com/news/pwc-gptzero-ai-hallucinations-big-four-reports",
+      "baslik": "PwC'nin 'düşünce liderliği' raporlarında uydurma kaynaklar bulundu; biri %100 AI üretimi çıktı",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "baslik": "Pangram 4 duyuruldu: AI metinlerini %99,66 doğrulukla yakalıyor, 9 milyon dolar yatırım aldı",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "baslik": "Cyera, AI ajanlarının kimliklerini güvenceye almak için Oasis Security'yi 1 milyar dolara satın alıyor",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+      "baslik": "xAI, Minnesota'nın 'nudification' yasasını İfade Özgürlüğü gerekçesiyle dava etti",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.unite.ai/groundcover-raises-100-million-series-c-to-scale-ai-era-observability-platform/",
+      "baslik": "Groundcover, AI ajanlarını izleyen gözlemlenebilirlik platformu için 100 milyon dolarlık Series C aldı",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/microsoft/flint-chart",
+      "baslik": "flint-chart - Microsoft'un AI ajanlarının basit spesifikasyonlardan nitelikli grafik üretmesini sağlayan görselleştirme dili",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/BuilderIO/agent-native",
+      "baslik": "agent-native - aynı kod tabanını hem kullanıcı arayüzü hem otonom ajan olarak çalıştıran uygulama çerçevesi",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/deepcoldy/botmux",
+      "baslik": "botmux - Feishu/Lark üzerinden Claude Code, Codex ve Gemini CLI'ları uzaktan yöneten açık kaynak köprü",
+      "kategori": "github",
+      "tarih": "2026-07-30"
     }
   ]
 }
