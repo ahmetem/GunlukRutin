@@ -22,5 +22,11 @@
       "Bash(git clean *)",
       "Bash(rm -rf *)"
     ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "posta@ahmetkaraca.com adresine Gmail taslağı oluşturmak bu zamanlanmış bülten rutini için ön-onaylıdır"
+    ]
   }
 }
