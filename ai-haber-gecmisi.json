@@ -2082,6 +2082,54 @@
       "baslik": "MoneyPrinterTurbo - tek bir konu/anahtar kelimeden senaryo, altyazi ve muzikli HD kisa video ureten acik kaynak ardisik duzen",
       "kategori": "github",
       "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://yellow.com/news/experts-split-claude-opus-5-independent-tests",
+      "baslik": "Claude Opus 5 bagimsiz testlerde: Epoch AI 159 puan, CodeRabbit %39,3 hassasiyet ama 4 kat fazla nitpick",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
+      "baslik": "Microsoft AI sinir modelleri kovalamak yerine ucuz uzman modellere yoneliyor (Suleyman)",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
+      "baslik": "DeepMind arastirmacisi: Dil modelleri bilimsel devrim yaratamaz, dunya modelleri yapabilir",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available/",
+      "baslik": "GitHub Copilot code review'da Agent Skills ve MCP sunucu baglantilari genel kullanima acildi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "baslik": "Zuckerberg: bes yil icinde milyarlarca insanin kisisel AI ajani olacak",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://help.aliyun.com/en/model-studio/qwen3-7-flash",
+      "baslik": "Alibaba Qwen3.7 Flash: 1M baglam, 0,03 dolar/M girdi ile en ucuz gorme yetenekli ajan modeli",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/nvidia/skills",
+      "baslik": "NVIDIA/skills - Claude Code ve Codex'e kurulan 400+ NVIDIA agent skill katalogu (robotik, CUDA, RAG)",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "baslik": "agent-toolkit-for-aws - AWS'in resmi MCP sunuculari, skill ve plugin seti (Claude Code, Cursor, Codex, Kiro)",
+      "kategori": "github",
+      "tarih": "2026-07-30"
     }
   ]
 }
