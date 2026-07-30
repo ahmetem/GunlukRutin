@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(python3 *)",
+      "Bash(cat *)",
+      "Bash(ls *)",
+      "Bash(echo *)",
+      "WebSearch",
+      "WebFetch",
+      "Read",
+      "Write(ai-haber-gecmisi.json)",
+      "Edit(ai-haber-gecmisi.json)",
+      "mcp__Gmail__create_draft",
+      "mcp__Gmail__update_draft",
+      "mcp__Gmail__list_drafts"
+    ],
+    "deny": [
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(git clean *)",
+      "Bash(rm -rf *)"
+    ]
+  }
+}
