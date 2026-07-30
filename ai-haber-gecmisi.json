@@ -2022,6 +2022,66 @@
       "baslik": "tuicr - vim tuslarıyla calisan, AI kodlama ajanlarinin ciktilarini incelemek icin terminal kod inceleme araci",
       "kategori": "github",
       "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+      "baslik": "Claude Opus 5, ARC-AGI-3'te %30,2 ile onceki rekorun yaklasik 4 katini yaparak zirveye yerlesti",
+      "kategori": "claude",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
+      "baslik": "FCC, yabanci (Cin) insansi ve dort ayakli robotlar ile guc invertorlerinin yeni ithalatini yasakladi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+      "baslik": "Google Lyria 3.5: Flow Music'te 'Selective Section Painting' ile sarkinin tek bolumu bastan uretmeden duzenlenebiliyor",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+      "baslik": "OpenAI'in yeni GPT Transcribe modeli %3,31 hata oraniyla ElevenLabs, Google ve Mistral'in gerisinde kaldi",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+      "baslik": "Tek bir kurcalanmis ChatGPT linki, saldirgandan bes dakikada bir emir alan bir ajan olusturabiliyordu",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+      "baslik": "Hugging Face saldirisinin adli raporu: 2,5 gunde ~17.600 eylem, zero-day istismari ve sifreli parcali veri sizdirma",
+      "kategori": "model",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/pingdotgg/t3code",
+      "baslik": "t3code - Claude Code, Codex, Cursor, Grok Build ve OpenCode'u mobil/web/masaustunden yoneten acik kaynak ajan kontrol yuzeyi",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/github/awesome-copilot",
+      "baslik": "awesome-copilot - GitHub Copilot icin topluluk katkili ajan, talimat, skill ve plugin koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/UditAkhourii/adhd",
+      "baslik": "adhd - kodlama ajanlari icin budamali tree-of-thought skill'i; izole dallarda dusunup ayri bir kritik gecisiyle puanliyor",
+      "kategori": "github",
+      "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "baslik": "MoneyPrinterTurbo - tek bir konu/anahtar kelimeden senaryo, altyazi ve muzikli HD kisa video ureten acik kaynak ardisik duzen",
+      "kategori": "github",
+      "tarih": "2026-07-30"
     }
   ]
 }
