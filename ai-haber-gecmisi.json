@@ -2130,6 +2130,72 @@
       "baslik": "agent-toolkit-for-aws - AWS'in resmi MCP sunuculari, skill ve plugin seti (Claude Code, Cursor, Codex, Kiro)",
       "kategori": "github",
       "tarih": "2026-07-30"
+    },
+    {
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "baslik": "Anthropic: Opus 4.7, Mythos 5 ve bir arastirma modeli siber testlerde uc gercek kurumun sistemine yetkisiz eristi",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.investing.com/news/stock-market-news/google-reportedly-backs-15b-data-center-loan-for-anthropic-in-texas-4825903",
+      "baslik": "Morgan Stanley onculugunde ~15 milyar dolarlik kredi: Anthropic'in Teksas veri merkezine Google garantor oluyor",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.axios.com/2026/07/30/judge-pentagon-case-worse-anthropic",
+      "baslik": "Yargic Rita Lin: Pentagon'un Anthropic'e karsi davasindaki konumu 'daha da kotulesti'",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "baslik": "OpenAI, GPT-5.6 Luna fiyatini %80, Terra'yi %20 indirdi; Sol degismedi",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://fortune.com/2026/07/29/microsoft-azure-100-billion-annual-revenue-earnings-revenue-cloud-ai/",
+      "baslik": "Azure ilk kez yillik 100 milyar dolar gelir esigini asti; Azure buyumesi %43, bulut backlog'u 678 milyar dolar",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "baslik": "Meta 2. ceyrek: rekor 60,8 milyar dolar gelir ama serbest nakit akisi 784 milyon dolara dustu, hisse ~%10 geriledi",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://valueaddvc.com/blog/ai-hyperscaler-capex-compared-why-microsoft-google-meta-and-amazon-are-all-spending-at-once",
+      "baslik": "Dort hyperscaler'in 2026 AI yatirim harcamasi 725 milyar dolara ulasiyor: 2025'e gore %77 artis",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/kenn-io/agentsview",
+      "baslik": "agentsview - Claude Code ve 20+ kodlama ajaninin oturumlarini yerel SQLite'ta arayan/analiz eden arac",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "baslik": "stitch-skills - Google'in Stitch MCP sunucusu icin tasarim/kod uretimi Agent Skills kutuphanesi",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/larksuite/cli",
+      "baslik": "larksuite/cli - Lark/Feishu'nun 200+ komut ve 26 AI Agent Skill iceren resmi CLI'si",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/JOYCEQL/magic-resume",
+      "baslik": "magic-resume - ucretsiz, acik kaynak yapay zeka destekli cevrimici ozgecmis editoru",
+      "kategori": "github",
+      "tarih": "2026-07-31"
     }
   ]
 }
