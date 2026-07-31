@@ -2244,6 +2244,54 @@
       "baslik": "AI-For-Beginners - Microsoft'un 12 haftalık, 24 derslik ücretsiz yapay zeka müfredatı",
       "kategori": "github",
       "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+      "baslik": "AlphaFold'un Nobel ödüllü yazarı John Jumper ve iki isim Anthropic'e geçti; DeepMind ekibi dağıttı",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.implicator.ai/why-opus-5-is-anthropics-best-model-and-a-pain-to-work-with/",
+      "baslik": "Claude Opus 5'in ilk haftası: geliştiriciler modelin görev kapsamını genişletmesinden şikayetçi",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+      "baslik": "Eski OpenAI araştırmacısı Andrew Ho: Ölçekleme yetmez, eğitim verisine 100 milyar dolar akacak",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+      "baslik": "Cursor'ın ajan sürüsü: planlamayı sınır model yapınca kodun çoğunu ucuz modeller yazabiliyor",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "baslik": "reverse-skill - tersine mühendislik ve yetkili sızma testi için AI ajan skill yönlendiricisi",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/trailofbits/skills",
+      "baslik": "trailofbits/skills - Trail of Bits'in güvenlik denetimi ve zafiyet analizi Claude Code plugin pazarı",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "baslik": "hermes-agent - Nous Research'ün deneyimden skill üreten, kalıcı hafızalı çok platformlu ajanı",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/langchain-ai/deepagents",
+      "baslik": "deepagents - LangChain'in alt ajan, dosya sistemi ve kalıcı hafıza sunan üretime hazır ajan harness'ı",
+      "kategori": "github",
+      "tarih": "2026-07-31"
     }
   ]
 }
