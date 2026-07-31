@@ -2292,6 +2292,54 @@
       "baslik": "deepagents - LangChain'in alt ajan, dosya sistemi ve kalıcı hafıza sunan üretime hazır ajan harness'ı",
       "kategori": "github",
       "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+      "baslik": "Reuters: Çin ordusuna bağlı araştırmacılar Anthropic ve OpenAI modellerini damıtarak savunma sistemleri eğitiyor",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+      "baslik": "Claire Vo'nun Opus 5 incelemesi: 'parlak ama sinir bozucu' — zeka platosu ve 'Claude Slop' eleştirisi",
+      "kategori": "claude",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://musically.com/2026/07/31/german-collecting-society-gema-wins-its-copyright-infringement-lawsuit-against-suno/",
+      "baslik": "Münih mahkemesi: AI müzik şirketi Suno, GEMA'nın telif haklarını ihlal etti",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+      "baslik": "Lam Research 1999'dan bu yana en iyi gününü yaşadı; AI talebiyle rekor çeyrek ve yükseltilmiş WFE tahmini",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/google-labs-code/design.md",
+      "baslik": "design.md - Google Labs'ın kodlama ajanları için görsel kimlik/tasarım sistemi format spesifikasyonu",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "baslik": "TencentDB-Agent-Memory - AI ajan ekipleri için sohbet, skill, wiki ve CodeGraph belleği paylaşan hafıza merkezi",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "baslik": "cursor/plugins - Cursor'ın resmi eklenti spesifikasyonu ve eklenti koleksiyonu",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/figma/mcp-server-guide",
+      "baslik": "figma/mcp-server-guide - Figma MCP sunucusuyla tasarımdan koda geçiş için resmi rehber",
+      "kategori": "github",
+      "tarih": "2026-07-31"
     }
   ]
 }
