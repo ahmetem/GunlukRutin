@@ -2196,6 +2196,54 @@
       "baslik": "magic-resume - ucretsiz, acik kaynak yapay zeka destekli cevrimici ozgecmis editoru",
       "kategori": "github",
       "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "baslik": "Google DeepMind, tüm vücut kontrolü sunan Gemini Robotics 2 model ailesini duyurdu",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "baslik": "Nscale, Ray'in arkasındaki Anyscale'i ~1,65 milyar dolara satın alıyor",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/inkling-small/",
+      "baslik": "Thinking Machines, 276B parametreli açık ağırlıklı Inkling-Small'u yayınladı",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/aws-earnings-q2-2026.html",
+      "baslik": "AWS 2. çeyrekte %37 büyümeyle 42,2 milyar dolar gelir: 18 çeyreğin en hızlısı",
+      "kategori": "model",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "baslik": "openhuman - yerel hafıza, ajan filosu orkestrasyonu ve derin araştırma sunan kişisel AI sistemi",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "baslik": "NVIDIA/OpenShell - otonom AI ajanları için politika denetimli güvenli çalışma ortamı",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/chiphuyen/aie-book",
+      "baslik": "aie-book - Chip Huyen'in 'AI Engineering' kitabının açık kaynak materyalleri",
+      "kategori": "github",
+      "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "baslik": "AI-For-Beginners - Microsoft'un 12 haftalık, 24 derslik ücretsiz yapay zeka müfredatı",
+      "kategori": "github",
+      "tarih": "2026-07-31"
     }
   ]
 }
