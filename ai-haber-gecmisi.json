@@ -2340,6 +2340,78 @@
       "baslik": "figma/mcp-server-guide - Figma MCP sunucusuyla tasarımdan koda geçiş için resmi rehber",
       "kategori": "github",
       "tarih": "2026-07-31"
+    },
+    {
+      "url": "https://alphasignal.ai/news/anthropic-gives-10-000-open-source-maintainers-1-200-of-free-claude-max",
+      "baslik": "Claude for Open Source: Anthropic 10.000 acik kaynak bakimcisina 6 ay ucretsiz Claude Max 20x veriyor",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://therouter.ai/news/anthropic-deprecates-claude-opus-4-1-august-5-migration-guide/",
+      "baslik": "Claude Opus 4.1 API'den 5 Agustos'ta emekliye ayriliyor; Anthropic Opus 4.8'e gecisi oneriyor",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.explainx.ai/blog/claude-usage-limits-2026-timeline-explained",
+      "baslik": "Claude Sonnet 5 tanitim fiyati 31 Agustos'ta bitiyor; Claude Code %50 kullanim artisi 19 Agustos'a uzatildi",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "baslik": "DeepSeek-V4-Flash-0731 resmi surumu: dokuz ajan ve kodlama kiyasinda kendi V4-Pro-Preview'ini gecti",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/",
+      "baslik": "Google, 800 bin on siparise ragmen AI Studio mobil uygulamasini iptal etti; ozellikler Gemini'ye tasiniyor",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.ailawsbystate.com/blog/california-ai-transparency-act-sb-942",
+      "baslik": "Kaliforniya AI Seffaflik Yasasi (SB 942) 2 Agustos'ta yururluge girdi: C2PA koken damgasi zorunlu",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.techmeme.com/260802/p1",
+      "baslik": "Apple, AI uretimi hata raporu selinden sonra Feedback Assistant'a kota ve 30 gun bekleme suresi getirdi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://betakit.com/u-of-t-professor-jacob-tsimerman-who-won-maths-highest-prize-to-join-openai/",
+      "baslik": "Fields madalyali matematikci Jacob Tsimerman AI guvenligi calismak icin OpenAI'a katiliyor",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "baslik": "generative-ai-for-beginners - Microsoft'un 21 derslik ucretsiz uretken yapay zeka mufredati",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/paperclipai/paperclip",
+      "baslik": "paperclip - is yerinde AI ajanlarini yonetmek icin acik kaynak uygulama",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "baslik": "voice-pro - TTS, ses klonlama ve cok dilli ceviri sunan Gradio tabanli ses studyosu",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/Huanshere/VideoLingo",
+      "baslik": "VideoLingo - altyazi uretimi, ceviri, hizalama ve dublaji otomatiklestiren AI hatti",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
