@@ -2574,6 +2574,54 @@
       "baslik": "Codebuff - File Picker, Planner, Editor ve Reviewer ajanlariyla calisan acik kaynak kodlama asistani",
       "kategori": "github",
       "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.aol.com/articles/deepseeks-ai-model-far-cheapest-054143000.html",
+      "baslik": "DeepSeek V4-Flash bilinen modellerin en ucuzu: test basina 3 sent, Claude Fable 5'ten 100 kat ucuz",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+      "baslik": "Kore'nin edge-AI cip tasarimcisi DeepX Series D ile 2,2 milyar dolar degerlemeye ulasti",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "baslik": "Benioff destekli June, kurumsal AI benimsemesini otomatiklestirmek icin 20 milyon dolar pre-seed topladi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+      "baslik": "OpenAI saha raporu: kodlama ajanlari bilimsel yazilimda 60 kata varan hizlanma sagladi ama bilimin dogrulugunu yargilayamiyor",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/antirez/ds4",
+      "baslik": "ds4 / DwarfStar - Redis'in yaraticisi antirez'in DeepSeek V4 Flash/PRO icin yerel cikarim motoru (Metal/CUDA/ROCm)",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "baslik": "pdf-inspector - Firecrawl'in PDF'leri siniflandirip OCR'siz Markdown'a ceviren Rust kutuphanesi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "baslik": "scientific-agent-skills - 158 bilimsel skill ve 100+ veritabaniyla AI ajanlarini arastirma asistanina cevirien kutuphane",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/livekit/agents",
+      "baslik": "livekit/agents - gercek zamanli sesli AI ajanlari kurmak icin acik kaynak cerceve",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
