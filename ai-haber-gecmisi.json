@@ -2622,6 +2622,60 @@
       "baslik": "livekit/agents - gercek zamanli sesli AI ajanlari kurmak icin acik kaynak cerceve",
       "kategori": "github",
       "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "baslik": "Beyaz Saray sinir otesi model siber testleri icin gonullu cerceveyi tamamladi; Anthropic, OpenAI ve Google Sali gunu toplaniyor",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+      "baslik": "ABD Temsilciler Meclisi'nin AI harcamasinin %88'i ChatGPT'ye gitti; Anthropic Claude 13.160 dolarla ikinci",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.koreaherald.com/article/10827054",
+      "baslik": "LG AI Research, 750 milyar parametreli K-EXAONE 2.0'i Apache 2.0 lisansiyla yayinladi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-report-finds-AI-linked-to-more-than-half-of-cybercrime-in-Africa",
+      "baslik": "INTERPOL: Afrika'da bildirilen siber suclarin %55'inde yapay zeka rol oynuyor, kayiplar 484 milyon dolara cikti",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/news-ibm-ai-enabled-data-breach-costs/",
+      "baslik": "IBM 2026 Cost of a Data Breach: AI destekli ihlaller ortalama 6 milyon dolara mal oldu, magdurlarin %92'sinde erisim kontrolu yoktu",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://thenextweb.com/news/valar-atomics-1-billion-series-b-sequoia-nuclear-6b",
+      "baslik": "Sequoia liderliginde Valar Atomics 1 milyar dolar topladi, degerleme 6 milyar dolara ucti; Nvidia ile 30 MW nukleer AI tesisi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "baslik": "kimi-k3-in-c - 2,78 trilyon parametreli Kimi K3'u dusuk RAM ile CPU uzerinde calistiran saf C cikarim motoru",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "baslik": "CodeWhale - acik kaynak, toplulukla gelistirilen Rust tabanli kodlama ajani harness'i",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/karakeep-app/karakeep",
+      "baslik": "karakeep - AI ile otomatik etiketleme ve tam metin arama sunan self-host yer imi/arsiv uygulamasi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
