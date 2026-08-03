@@ -2412,6 +2412,60 @@
       "baslik": "VideoLingo - altyazi uretimi, ceviri, hizalama ve dublaji otomatiklestiren AI hatti",
       "kategori": "github",
       "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319206/20260627/claude-tag-brings-ambient-ai-slack-admins-have-until-august-3-migrate.htm",
+      "baslik": "Slack'teki eski Claude uygulamasi 3 Agustos'ta zorunlu olarak Claude Tag deneyimine gecti",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+      "baslik": "Anthropic ve OpenAI modellerinin gercek sirketleri hacklemesi hukuki gri alan tartismasi baslatti; Kongre bilgilendirildi",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "baslik": "Alibaba, 2,4 trilyon parametreli Qwen3.8-Max'i tam surum olarak yayinladi; acik agirliklar onumuzdeki hafta",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
+      "baslik": "GPT-5.6 Sol Ultra ile iki bagimsiz ekip ayni kuantum kriptografi problemini cozdu; makaleler 3 saat arayla gonderildi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a",
+      "baslik": "WSJ: ABD'li acik agirlik girisimleri Arcee, Reflection AI ve Poolside yatirimci suphesiyle karsi karsiya",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/rohitg00/skillkit",
+      "baslik": "skillkit - 400 binden fazla AI ajan skill'ini 46 ajan formatina cevirip kuran paket yoneticisi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/yc-software/qm",
+      "baslik": "qm - ekipler icin kapsamli hafiza ve izinli calisma alanlari sunan cok oyunculu AI ajan harness'i",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "baslik": "DeepSeek-Reasonix - prefix cache uzerine kurulu, tek Go binary halinde DeepSeek-yerlisi terminal kodlama ajani",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/pathwaycom/llm-app",
+      "baslik": "pathwaycom/llm-app - canli veriyle senkron calisan RAG ve AI hatti sablonlari",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
