@@ -2466,6 +2466,72 @@
       "baslik": "pathwaycom/llm-app - canli veriyle senkron calisan RAG ve AI hatti sablonlari",
       "kategori": "github",
       "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "baslik": "Claude Corps: Anthropic 150 milyon dolarla 1.000 kariyer basindaki calisani 400+ STK'ya yerlestiriyor",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+      "baslik": "Anthropic'in 'J-lens' yontemi Claude'un icinde bilinc teorisini andiran sessiz bir 'J-uzayi' buldu",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "baslik": "Claude API'de sohbet ortasinda arac degisikligi beta: prompt cache bozulmadan arac ekle/cikar",
+      "kategori": "claude",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/27/exclusive-cogent-security-debuts-vr-1-frontier-model-built-prove-attack-paths/",
+      "baslik": "Cogent Security VR-1: siber guvenlige ozel egitilmis Mythos sinifi sinir modeli, saldiri yollarini kanitliyor",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://noma.security/blog/rufroot-the-mcp-bridge-vulnerability-that-turns-agents-into-rogue-admins-cve-2026-59726/",
+      "baslik": "RufRoot (CVE-2026-59726): Ruflo'nun MCP Bridge'inde CVSS 10.0 acik, tek istekle kod calistirma ve API anahtari sizdirma",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://newsroom.arm.com/news/arm-q1-fye27-results",
+      "baslik": "Arm rekor Q1 FYE27: 1,29 milyar dolar gelir, veri merkezi telif geliri ikiye katlandi, AGI CPU talebi 2 milyar dolari asti",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Bets-10-Billion-on-AI-With-Nvidia-Backed-Data-Center-Valley.html",
+      "baslik": "Kazakistan 10 milyar dolarlik 'Data Center Valley' ile 100 bin Nvidia GPU'luk AI kumesi kuruyor",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/can1357/oh-my-pi",
+      "baslik": "oh-my-pi (omp) - 32 arac, LSP/DAP entegrasyonu ve hash-anchored duzenlemelerle terminal AI kodlama ajani",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/Narcooo/inkos",
+      "baslik": "InkOS - roman, senaryo ve etkilesimli oyun ureten, 37 boyutta otomatik denetim yapan hikaye yazim ajani",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "baslik": "Postiz - kendi sunucunda calisan, ajan CLI'si olan acik kaynak sosyal medya planlama araci",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/NateBJones-Projects/OB1",
+      "baslik": "OB1 / Open Brain - Claude, ChatGPT ve Cursor'in ayni kalici hafizayi paylastigi acik protokol altyapisi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
