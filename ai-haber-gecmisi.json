@@ -2532,6 +2532,48 @@
       "baslik": "OB1 / Open Brain - Claude, ChatGPT ve Cursor'in ayni kalici hafizayi paylastigi acik protokol altyapisi",
       "kategori": "github",
       "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "baslik": "OpenAI, yeni model ailesi Astra'yi on cozulmemis matematik problemini cozerek duyurdu",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://tech.eu/2026/08/03/uk-chip-startup-olix-raises-ps312m-at-ps33bn-valuation/",
+      "baslik": "Ingiliz cip girisimi Olix, 3,3 milyar dolar degerleme uzerinden 312 milyon dolar topladi",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/",
+      "baslik": "AB Yapay Zeka Yasasi: 2 Agustos 2026'da GPAI yaptirim yetkileri ve Madde 50 seffafligi yururlukte",
+      "kategori": "model",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "baslik": "free-claude-code - Claude Code, Codex ve Pi'yi 31+ saglayiciya yonlendiren yerel proxy gecidi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "baslik": "opensre - LangGraph tabanli, kendi altyapinda calisan AI SRE ajan cercevesi",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/simstudioai/sim",
+      "baslik": "Sim - 1.000+ entegrasyonla AI ajanlari gorsel olarak kurup dagitan orkestrasyon platformu",
+      "kategori": "github",
+      "tarih": "2026-08-03"
+    },
+    {
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "baslik": "Codebuff - File Picker, Planner, Editor ve Reviewer ajanlariyla calisan acik kaynak kodlama asistani",
+      "kategori": "github",
+      "tarih": "2026-08-03"
     }
   ]
 }
