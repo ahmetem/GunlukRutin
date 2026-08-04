@@ -2934,6 +2934,66 @@
       "baslik": "numbat - Perplexity'nin uc noktalarda AI ajan etkinligini izleyen, yerel tespit ve adli yeniden kurgulama araci",
       "kategori": "github",
       "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "baslik": "ChainDrop npm kurdu yuzlerce paketi zehirledi; kurban depolara Claude Code SessionStart hook'u ve VS Code folderOpen gorevi yerlestiriyor",
+      "kategori": "claude",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://gvwire.com/2026/08/04/meta-anthropic-google-openai-to-meet-with-trump-white-house-amid-rogue-ai-agent-fallout/",
+      "baslik": "Anthropic, Google, OpenAI ve Meta calisanlari 4 Agustos'ta Beyaz Saray danismanlariyla hackleme yetenegi testleri icin gorustu",
+      "kategori": "claude",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+      "baslik": "NVIDIA Alpamayo 2 Super ticari kullanima acildi: robotaksiler icin 32 milyar parametreli acik akil yurutme modeli",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm",
+      "baslik": "Ai4 2026 Las Vegas'ta acildi: Hinton, Ng ve Fei-Fei Li 5 Agustos'ta ayni sahnede",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://www.techmeme.com/260803/p21",
+      "baslik": "AI ajanlarini guvenceye alan Zenity 125 milyon dolarlik C serisi turunu kapatti (Norwest liderliginde)",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
+      "baslik": "OpenAI, ABD'li iscilere ayrimcilik iddialarini Adalet Bakanligi'yla 3,2 milyon dolara uzlasarak kapatti",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/",
+      "baslik": "Spotify, AI remix ve cover araci icin 30 binden fazla bagimsiz etiketi temsil eden Merlin ile lisans anlasmasi imzaladi",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/gastownhall/beads",
+      "baslik": "beads - AI ajanlari icin Dolt uzerinde calisan dagitik grafik tabanli is takipcisi; kalici yapilandirilmis hafiza",
+      "kategori": "github",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "baslik": "compound-engineering-plugin - Every'nin 32 becerilik ajan eklentisi; planlama, inceleme ve ogrenilenleri belgelemeye odakli",
+      "kategori": "github",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "baslik": "FalkorDB - GraphBLAS seyrek matris temsili kullanan, LLM ve bilgi grafikleri icin cok hizli grafik veritabani",
+      "kategori": "github",
+      "tarih": "2026-08-04"
     }
   ]
 }

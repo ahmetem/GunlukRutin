@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 16 bülten
+Toplam: 17 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-04-2007.md`](./2026-08-04-2007.md) | 4 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 4 Ağustos 2026: ChainDrop npm kurdu Claude Code hook'u ekliyor, NVIDIA Alpamayo açıldı, Ai4 başladı |
 | [`2026-08-04-1731.md`](./2026-08-04-1731.md) | 4 Ağustos 2026, 17:31 | 🤖 AI Bülteni — 4 Ağustos 2026: Volta'nın 300M$ turu, Apple-OpenAI davası büyüdü, Siri düzeldi, 5 yeni repo |
 | [`2026-08-04-1621.md`](./2026-08-04-1621.md) | 4 Ağustos 2026, 16:21 | 🤖 AI Bülteni — 4 Ağustos 2026: Anthropic'in 10 milyar dolarlık Norveç anlaşması, Çin AI yasağı çatlağı, 5 yeni repo |
 | [`2026-08-04-1419.md`](./2026-08-04-1419.md) | 4 Ağustos 2026, 14:19 | 🤖 AI Bülteni — 4 Ağustos 2026: 1 Claude, 3 model, 3 repo haberi |
