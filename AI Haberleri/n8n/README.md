@@ -22,9 +22,9 @@ Rutin artık Gmail'e hiç dokunmuyor; bülteni `main` dalındaki
 ## Akış
 
 ```
-Her saat :25'te kontrol et  (Schedule Trigger)
-  → latest.json çek         (HTTP, raw.githubusercontent + cache-buster)
-  → Yeni bülten var mı?     (Code, static data ile karşılaştır)
+Her saat :25'te kontrol et  (Schedule Trigger, 25 * * * *)
+  → latest.json çek         (HTTP, raw.githubusercontent + cache-buster, text)
+  → Yeni bülten var mı?     (Code, JSON.parse + static data ile karşılaştır)
   → Yeni ise devam          (IF)
       ├─ true  → Bülteni indir (HTTP, text) → Markdown → HTML
       │          → Mail gönder (Gmail) → Gönderildi olarak işaretle (Code)
@@ -47,8 +47,10 @@ Her saat :25'te kontrol et  (Schedule Trigger)
 1. n8n → **Workflows** → **Import from File** → `ai-bulteni-mail-gonder.json`.
 2. **Mail gönder** düğümünü aç, Gmail kimlik bilgisini (credential) elle seç —
    içe aktarma kimlik bilgilerini taşımaz.
-3. Zamanlamayı kontrol et: saat başı **:25**. Rutin :08'de çalışıp push ettiği için
-   17 dakika pay bırakılmıştır. Rutinin saatini değiştirirsen bunu da kaydır.
+3. Zamanlamayı kontrol et: `25 * * * *` — **her saat** :25. Rutin saatlik çalıştığı
+   için kontrol de saatlik olmak zorunda; günde birkaç sabit saate düşürülürse
+   aradaki bültenler hiç postalanmaz. Yeni bülten yoksa dedup sayesinde mail gitmez,
+   yani saatlik kontrol fazladan e-posta üretmez.
 4. **Execute Workflow** ile bir kez elle çalıştır. İlk çalıştırmada static data boş
    olduğu için en güncel bülten gönderilir — beklenen davranış.
 5. Çalıştığını gördükten sonra workflow'u **Active** yap ve eski
@@ -62,6 +64,17 @@ Her saat :25'te kontrol et  (Schedule Trigger)
   iki HTTP düğümüne token eklemek gerekir.
 - `raw.githubusercontent.com` yanıtları ~5 dakika CDN'de önbelleklenir; bu yüzden
   iki HTTP düğümünde de `?cb={{ $now.toMillis() }}` cache-buster var.
+- ⚠️ **`raw.githubusercontent.com`, `.json` dosyalarını bile
+  `content-type: text/plain; charset=utf-8` ile servis eder.** HTTP düğümü
+  otomatik algılamada bırakılırsa gövde nesne değil **string** olarak gelir ve
+  `item.dosya` `undefined` olur → *"latest.json okunamadi veya eksik"*. Bu yüzden
+  **latest.json çek** düğümü `responseFormat: text` + `fullResponse: true` ile
+  çalışır ve JSON, sonraki Code düğümünde `JSON.parse` ile elle ayrıştırılır.
+  Bu düğümün yanıt biçimini değiştirirken bunu bozma.
+- Code düğümü artık hatayı ayırt ediyor: HTTP durumu 200 değilse
+  *"latest.json cekilemedi (HTTP …)"*, gövde bozuksa
+  *"JSON olarak ayristirilamadi: …"*, alan eksikse *"eksik alan iceriyor"* —
+  her üçünde de yanıtın ilk 200 karakteri `ornek` alanında görünür.
 - Tekrar önleme **workflow static data**'da tutulur. Workflow'u silip yeniden
   içe aktarırsan bu hafıza sıfırlanır ve en güncel bülten bir kez daha gönderilir.
 - Bülten yoksa (`latest.json` yok / rutin yeni öğe bulamadı) `neverError` sayesinde

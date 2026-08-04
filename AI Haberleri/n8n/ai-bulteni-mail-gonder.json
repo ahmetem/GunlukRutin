@@ -7,20 +7,20 @@
           "interval": [
             {
               "field": "=cronExpression",
-              "expression": "25 5,9,11,13,17 * * *"
+              "expression": "25 * * * *"
             }
           ]
         }
       },
       "id": "b1000000-0000-4000-8000-000000000001",
-      "name": "Zamanlama (rutinden 17 dk sonra)",
+      "name": "Zamanlama (her saat :25)",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
       "position": [
         -320,
         0
       ],
-      "notes": "Rutin :08'de calisip push ediyor; bu :25'te bakiyor."
+      "notes": "Rutin saatlik calisip push ediyor; bu her saat :25te bakiyor. Yeni bulten yoksa static data dedupu sayesinde mail gitmez."
     },
     {
       "parameters": {
@@ -46,7 +46,10 @@
         "options": {
           "response": {
             "response": {
-              "neverError": true
+              "neverError": true,
+              "fullResponse": true,
+              "responseFormat": "text",
+              "outputPropertyName": "body"
             }
           }
         }
@@ -59,11 +62,11 @@
         -100,
         0
       ],
-      "notes": "Rutinin yazdigi isaretci dosya. cb = CDN onbellegini atlatmak icin."
+      "notes": "Rutinin yazdigi isaretci dosya. cb = CDN onbellegini atlatmak icin. raw.githubusercontent text/plain dondurdugu icin responseFormat=text; JSON parse islemi sonraki Code node'unda yapilir."
     },
     {
       "parameters": {
-        "jsCode": "// latest.json'daki bulteni daha once gonderdik mi?\n// Son gonderilen dosya adi workflow static data'sinda tutulur.\nconst store = $getWorkflowStaticData('global');\nconst item = $input.first().json;\n\nif (!item || !item.dosya || !item.url) {\n  return [{ json: { yeni: false, neden: 'latest.json okunamadi veya eksik' } }];\n}\n\nconst zatenGonderildi = store.sonGonderilen === item.dosya;\n\nreturn [{\n  json: {\n    yeni: !zatenGonderildi,\n    neden: zatenGonderildi ? 'bu bulten zaten gonderildi' : 'yeni bulten',\n    dosya: item.dosya,\n    baslik: item.baslik || 'AI Haber Bulteni',\n    tarih: item.tarih || '',\n    url: item.url,\n  },\n}];\n"
+        "jsCode": "// latest.json'daki bulteni daha once gonderdik mi?\n// Son gonderilen dosya adi workflow static data'sinda tutulur.\n//\n// DIKKAT: raw.githubusercontent.com, .json dosyalarini bile\n// \"content-type: text/plain\" ile servis eder. Bu yuzden HTTP node'u\n// responseFormat=text + fullResponse ile calisir ve JSON burada elle\n// parse edilir. (Autodetect kullanildiginda govde string kalip\n// item.dosya undefined oluyordu.)\nconst store = $getWorkflowStaticData('global');\nconst res = $input.first().json || {};\n\nconst kod = res.statusCode;\nconst govde = typeof res.body === 'string' ? res.body : JSON.stringify(res.body ?? '');\nconst ornek = govde.slice(0, 200);\n\n// fullResponse yok sayilirsa statusCode tanimsiz gelir; govde yine .body'de olur\nif (kod !== undefined && kod !== 200) {\n  return [{ json: { yeni: false, neden: 'latest.json cekilemedi (HTTP ' + kod + ')', ornek } }];\n}\n\nlet item;\ntry {\n  item = (res.body && typeof res.body === 'object') ? res.body : JSON.parse(govde);\n} catch (e) {\n  return [{ json: { yeni: false, neden: 'latest.json JSON olarak ayristirilamadi: ' + e.message, ornek } }];\n}\n\nif (!item || !item.dosya || !item.url) {\n  return [{ json: { yeni: false, neden: 'latest.json eksik alan iceriyor (dosya/url)', ornek } }];\n}\n\nconst zatenGonderildi = store.sonGonderilen === item.dosya;\n\nreturn [{\n  json: {\n    yeni: !zatenGonderildi,\n    neden: zatenGonderildi ? 'bu bulten zaten gonderildi' : 'yeni bulten',\n    dosya: item.dosya,\n    baslik: item.baslik || 'AI Haber Bulteni',\n    tarih: item.tarih || '',\n    url: item.url,\n  },\n}];\n"
       },
       "id": "b1000000-0000-4000-8000-000000000003",
       "name": "Yeni bulten var mi?",
@@ -204,17 +207,6 @@
     }
   ],
   "connections": {
-    "Zamanlama (rutinden 17 dk sonra)": {
-      "main": [
-        [
-          {
-            "node": "latest.json cek",
-            "type": "main",
-            "index": 0
-          }
-        ]
-      ]
-    },
     "latest.json cek": {
       "main": [
         [
@@ -282,6 +274,17 @@
         [
           {
             "node": "Gonderildi olarak isaretle",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Zamanlama (her saat :25)": {
+      "main": [
+        [
+          {
+            "node": "latest.json cek",
             "type": "main",
             "index": 0
           }
