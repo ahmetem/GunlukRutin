@@ -19,6 +19,9 @@ Son güncelleme: 2026-08-04
 1. `main` dalını çeker, `ai-haber-gecmisi.json`'u okur.
 2. Üç kategoride son 1-2 günün gelişmelerini arar:
    🟣 Claude & Anthropic · 🧠 Yapay Zeka Modelleri · 💻 Öne Çıkan AI GitHub Repoları
+   Kaynaklar: web araması + GitHub trending + `@ClaudeDevs`, `@AnthropicAI`, `@sama`,
+   `@OpenAI` X hesapları (X doğrudan okunamadığı için dolaylı yöntemlerle — ayrıntı
+   `ai-haber-rutini.md` içinde).
 3. Geçmişle karşılaştırıp daha önce gönderilenleri eler.
 4. Yeni öğe varsa bülteni `Bultenler/` altına Markdown olarak yazar,
    `Bultenler/README.md` dizinini ve `ai-haber-gecmisi.json`'u günceller, `main`'e push eder.
@@ -28,6 +31,9 @@ Yeni öğe yoksa hiçbir dosya yazılmaz ve bildirim gönderilmez.
 
 ## Değişiklik geçmişi
 
+- **2026-08-04** — Kaynaklara dört resmî X hesabı eklendi: `@ClaudeDevs`, `@AnthropicAI`,
+  `@sama`, `@OpenAI`. x.com doğrudan okunamadığı (HTTP 402) için çalışan yöntemler
+  test edilip prompt'a yazıldı.
 - **2026-08-04** — Gmail taslağı yerine GitHub'a yazma. Rutin `main` dalındaki bu klasöre
   taşındı; dedup dosyası `claude/ai-news-github-routine-ax9twg` dalından buraya alındı.
   16 Temmuz – 4 Ağustos arasında Gmail taslağı olarak üretilen 15 bülten

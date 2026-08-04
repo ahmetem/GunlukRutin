@@ -6,8 +6,9 @@ nasıl yapılandırıldığını açıklar.
 Son güncelleme: 2026-08-04
 
 ## Amaç
-Belirli saatlerde web'i tarayıp üç konuda YENİ gelişmeleri derler ve bülteni
-bu depodaki `AI Haberleri/Bultenler/` klasörüne Markdown dosyası olarak yazar:
+Belirli saatlerde web'i ve dört resmî X hesabını tarayıp üç konuda YENİ gelişmeleri
+derler ve bülteni bu depodaki `AI Haberleri/Bultenler/` klasörüne Markdown dosyası
+olarak yazar:
 
 1. 🟣 **Claude & Anthropic** — Anthropic'ten yeni duyurular, Claude ile ilgili gelişmeler
 2. 🧠 **Yapay Zeka Modelleri** — güncel LLM / model haberleri (OpenAI, Google, Meta, Mistral, xAI vb.)
@@ -31,12 +32,41 @@ olarak hazırlıyordu. Bu yaklaşım her seferinde Ahmet'in taslağı açıp gö
 gerektiriyordu. Artık bülten doğrudan GitHub'a yazılıyor; **Gmail aracı çağrılmaz.**
 16 Temmuz – 4 Ağustos 2026 arası üretilen 15 taslak `Bultenler/` altına arşivlendi.
 
+## Kaynaklar
+
+**Web araması:** anthropic.com/news, code.claude.com/docs/en/changelog, openai.com,
+the-decoder, TechCrunch, VentureBeat, Bloomberg vb. + GitHub trending.
+
+**X (Twitter) hesapları:** `@ClaudeDevs`, `@AnthropicAI`, `@sama`, `@OpenAI`.
+
+X doğrudan okunamıyor — 2026-08-04'te test edildi:
+
+| Yol | Sonuç |
+|---|---|
+| WebFetch `x.com/<hesap>` veya `/status/...` | ❌ HTTP 402 |
+| WebFetch `xcancel.com/<hesap>` | ❌ bot doğrulama ekranı |
+| `curl` + tarayıcı User-Agent | ❌ 351 KB JS kabuğu, gönderi metni yok |
+| WebFetch `dailygram.me/x/<hesap>` | ✅ ClaudeDevs, sama, OpenAI (tarihli + "View on X" linki) |
+| WebSearch `site:x.com/<hesap>` | ✅ kısmi — indeks bazen günler geride |
+
+`@AnthropicAI` dailygram'da yok (404); onun için WebSearch + anthropic.com/news kullanılır.
+
+dailygram bir **aggregator**: gönderileri kendi kelimeleriyle özetler. Bu yüzden yalnızca
+"ne paylaşılmış" keşfi için kullanılır; iddia bültene girmeden önce birincil kaynakla
+doğrulanır ve kaynak link olarak orijinal `x.com/.../status/...` verilir. Doğrulanamayan
+gönderi bültene girmez.
+
+X kaynaklı öğeler ayrı bölüm açmaz; mevcut üç bölüme dağılır ve başlık sonuna hesap
+etiketi eklenir (örn. `… (@sama)`).
+
 ## Akış (rutin prompt'unun özeti)
 
 0. `git fetch/checkout/pull origin main`, `AI Haberleri/ai-haber-gecmisi.json`'u oku
    (yoksa `{"gonderilen": []}` kabul et).
 1. Üç kategori için WebSearch ile son ~1-2 günün gelişmelerini topla (kategori başına 3-5 öğe).
+1B. Dört X hesabını yukarıdaki çalışan yöntemlerle tara; bulguları doğrula.
 2. Geçmişle karşılaştır: aynı URL veya çok benzer başlık → çıkar.
+   X gönderisi zaten gönderilmiş bir gelişmeyi tekrar ediyorsa da çıkar.
    Yeni öğe kalmadıysa **hiçbir dosya yazma**, bildirim gönderme, "Yeni AI haberi yok." yaz ve bitir.
 3. Bülteni `AI Haberleri/Bultenler/YYYY-AA-GG-SSDD.md` olarak yaz.
 4. `Bultenler/README.md` dizinine yeni bülten satırını ekle.
