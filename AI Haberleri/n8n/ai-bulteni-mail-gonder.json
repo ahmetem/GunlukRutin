@@ -6,18 +6,21 @@
         "rule": {
           "interval": [
             {
-              "field": "hours",
-              "hoursInterval": 1,
-              "triggerAtMinute": 25
+              "field": "=cronExpression",
+              "expression": "25 5,9,11,13,17 * * *"
             }
           ]
         }
       },
-      "id": "a1000000-0000-4000-8000-000000000001",
-      "name": "Her saat :25'te kontrol et",
+      "id": "b1000000-0000-4000-8000-000000000001",
+      "name": "Zamanlama (rutinden 17 dk sonra)",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [-260, 0]
+      "position": [
+        -320,
+        0
+      ],
+      "notes": "Rutin :08'de calisip push ediyor; bu :25'te bakiyor."
     },
     {
       "parameters": {
@@ -48,22 +51,28 @@
           }
         }
       },
-      "id": "a1000000-0000-4000-8000-000000000002",
-      "name": "latest.json çek",
+      "id": "b1000000-0000-4000-8000-000000000002",
+      "name": "latest.json cek",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [-40, 0],
-      "notes": "Rutinin yazdığı işaretçi dosya. cb parametresi raw.githubusercontent CDN önbelleğini atlatmak için."
+      "position": [
+        -100,
+        0
+      ],
+      "notes": "Rutinin yazdigi isaretci dosya. cb = CDN onbellegini atlatmak icin."
     },
     {
       "parameters": {
-        "jsCode": "// latest.json'daki bülteni daha önce gönderdik mi?\n// Son gönderilen dosya adı workflow static data'sında tutulur.\nconst store = $getWorkflowStaticData('global');\nconst item = $input.first().json;\n\nif (!item || !item.dosya) {\n  return [{ json: { yeni: false, neden: 'latest.json okunamadi veya bos' } }];\n}\n\nconst zatenGonderildi = store.sonGonderilen === item.dosya;\n\nreturn [{\n  json: {\n    yeni: !zatenGonderildi,\n    neden: zatenGonderildi ? 'bu bulten zaten gonderildi' : 'yeni bulten',\n    dosya: item.dosya,\n    baslik: item.baslik,\n    tarih: item.tarih,\n    url: item.url,\n  },\n}];"
+        "jsCode": "// latest.json'daki bulteni daha once gonderdik mi?\n// Son gonderilen dosya adi workflow static data'sinda tutulur.\nconst store = $getWorkflowStaticData('global');\nconst item = $input.first().json;\n\nif (!item || !item.dosya || !item.url) {\n  return [{ json: { yeni: false, neden: 'latest.json okunamadi veya eksik' } }];\n}\n\nconst zatenGonderildi = store.sonGonderilen === item.dosya;\n\nreturn [{\n  json: {\n    yeni: !zatenGonderildi,\n    neden: zatenGonderildi ? 'bu bulten zaten gonderildi' : 'yeni bulten',\n    dosya: item.dosya,\n    baslik: item.baslik || 'AI Haber Bulteni',\n    tarih: item.tarih || '',\n    url: item.url,\n  },\n}];\n"
       },
-      "id": "a1000000-0000-4000-8000-000000000003",
-      "name": "Yeni bülten var mı?",
+      "id": "b1000000-0000-4000-8000-000000000003",
+      "name": "Yeni bulten var mi?",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [180, 0]
+      "position": [
+        120,
+        0
+      ]
     },
     {
       "parameters": {
@@ -90,11 +99,14 @@
         },
         "options": {}
       },
-      "id": "a1000000-0000-4000-8000-000000000004",
+      "id": "b1000000-0000-4000-8000-000000000004",
       "name": "Yeni ise devam",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
-      "position": [400, 0]
+      "position": [
+        340,
+        0
+      ]
     },
     {
       "parameters": {
@@ -117,88 +129,169 @@
           }
         }
       },
-      "id": "a1000000-0000-4000-8000-000000000005",
-      "name": "Bülteni indir",
+      "id": "b1000000-0000-4000-8000-000000000005",
+      "name": "Bulteni indir",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [620, -100]
+      "position": [
+        560,
+        -120
+      ]
     },
     {
       "parameters": {
-        "mode": "markdownToHtml",
-        "markdown": "={{ $json.markdown }}",
-        "destinationKey": "html",
-        "options": {}
+        "jsCode": "// Bultenin Markdown'ini e-postaya uygun HTML'e cevirip\n// Gmail API'nin messages/send bekledigi base64url RFC822 mesaji uretir.\nconst meta = $('Yeni bulten var mi?').first().json;\nconst md = String($input.first().json.markdown || '');\n\nconst esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');\n\n// Satir ici bicimleme: kod, kalin, sonra ciplak URL'leri link yap.\nfunction inline(s) {\n  let t = esc(s);\n  t = t.replace(/`([^`]+)`/g, '<code style=\"background:#f2f2f4;padding:1px 4px;border-radius:3px\">$1</code>');\n  t = t.replace(/\\*\\*([^*]+)\\*\\*/g, '<strong>$1</strong>');\n  t = t.replace(/(https?:\\/\\/[^\\s<]+)/g,\n    '<a href=\"$1\" style=\"color:#2d6cdf;word-break:break-all\">$1</a>');\n  return t;\n}\n\nconst lines = md.split(/\\r?\\n/);\nconst out = [];\nlet inList = false;\nconst closeList = () => { if (inList) { out.push('</ul>'); inList = false; } };\n\nfor (const rawLine of lines) {\n  const line = rawLine.trim();\n\n  if (!line) { closeList(); continue; }\n  if (/^---+$/.test(line)) {\n    closeList();\n    out.push('<hr style=\"border:0;border-top:1px solid #e2e2e6;margin:22px 0\">');\n    continue;\n  }\n  if (line.startsWith('# ')) {      // H1 = mail konusu, govdede tekrar etmiyoruz\n    closeList();\n    continue;\n  }\n  if (line.startsWith('## ')) {\n    closeList();\n    out.push('<h2 style=\"font-size:17px;margin:26px 0 10px\">' + inline(line.slice(3)) + '</h2>');\n    continue;\n  }\n  // Eski (Gmail'den arsivlenmis) bultenlerde bolum basliklari '##' yerine\n  // ciplak emoji satiri: '🟣 CLAUDE & ANTHROPIC'. Onlari da baslik say.\n  if (/^(\\u{1F7E3}|\\u{1F9E0}|\\u{1F4BB})/u.test(line) && line.length < 80) {\n    closeList();\n    out.push('<h2 style=\"font-size:17px;margin:26px 0 10px\">' + inline(line) + '</h2>');\n    continue;\n  }\n  if (/^[-*•]\\s+/.test(line)) {\n    if (!inList) { out.push('<ul style=\"padding-left:20px;margin:10px 0\">'); inList = true; }\n    out.push('<li style=\"margin:0 0 12px;line-height:1.55\">' + inline(line.replace(/^[-*•]\\s+/, '')) + '</li>');\n    continue;\n  }\n  if (inList) {   // madde altindaki devam satiri\n    const last = out.pop();\n    out.push(last.replace(/<\\/li>$/, '<br>' + inline(line) + '</li>'));\n    continue;\n  }\n  out.push('<p style=\"margin:8px 0;line-height:1.55\">' + inline(line) + '</p>');\n}\ncloseList();\n\nconst html =\n  '<!doctype html><html><body style=\"margin:0;padding:20px;background:#ffffff;' +\n  'font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;' +\n  'font-size:15px;color:#1a1a1c\">' +\n  '<div style=\"max-width:680px;margin:0 auto\">' + out.join('\\n') +\n  '<hr style=\"border:0;border-top:1px solid #e2e2e6;margin:26px 0\">' +\n  '<p style=\"font-size:12px;color:#76767c;margin:0\">' +\n  'Kaynak: <a href=\"https://github.com/ahmetem/GunlukRutin/blob/main/AI%20Haberleri/Bultenler/' +\n  encodeURIComponent(meta.dosya) + '\" style=\"color:#76767c\">' + esc(meta.dosya) + '</a>' +\n  ' &middot; AI Haber Bulteni rutini</p>' +\n  '</div></body></html>';\n\n// RFC 2047 - Turkce karakter ve emoji iceren konu basligi\nconst subject = '=?UTF-8?B?' + Buffer.from(meta.baslik, 'utf8').toString('base64') + '?=';\n\nconst mime = [\n  'To: posta@ahmetkaraca.com',\n  'Subject: ' + subject,\n  'MIME-Version: 1.0',\n  'Content-Type: text/html; charset=\"UTF-8\"',\n  'Content-Transfer-Encoding: base64',\n  '',\n  Buffer.from(html, 'utf8').toString('base64'),\n].join('\\r\\n');\n\nconst raw = Buffer.from(mime, 'utf8').toString('base64')\n  .replace(/\\+/g, '-').replace(/\\//g, '_').replace(/=+$/, '');\n\nreturn [{ json: { raw, dosya: meta.dosya, konu: meta.baslik } }];\n"
       },
-      "id": "a1000000-0000-4000-8000-000000000006",
-      "name": "Markdown → HTML",
-      "type": "n8n-nodes-base.markdown",
-      "typeVersion": 1,
-      "position": [840, -100]
-    },
-    {
-      "parameters": {
-        "sendTo": "posta@ahmetkaraca.com",
-        "subject": "={{ $('Yeni bülten var mı?').first().json.baslik }}",
-        "message": "={{ $json.html }}",
-        "options": {
-          "appendAttribution": false
-        }
-      },
-      "id": "a1000000-0000-4000-8000-000000000007",
-      "name": "Mail gönder",
-      "type": "n8n-nodes-base.gmail",
-      "typeVersion": 2.1,
-      "position": [1060, -100],
-      "notes": "Gmail kimlik bilgisini içe aktardıktan sonra elle seç."
-    },
-    {
-      "parameters": {
-        "jsCode": "// Gönderim başarılı: bu dosyayı 'gönderildi' olarak işaretle.\nconst store = $getWorkflowStaticData('global');\nconst bulten = $('Yeni bülten var mı?').first().json;\n\nstore.sonGonderilen = bulten.dosya;\nstore.sonGonderimZamani = new Date().toISOString();\n\nreturn [{ json: { gonderildi: bulten.dosya, zaman: store.sonGonderimZamani } }];"
-      },
-      "id": "a1000000-0000-4000-8000-000000000008",
-      "name": "Gönderildi olarak işaretle",
+      "id": "b1000000-0000-4000-8000-000000000006",
+      "name": "Mail govdesini hazirla",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [1280, -100]
+      "position": [
+        780,
+        -120
+      ],
+      "notes": "Markdown -> e-posta HTML'i, sonra base64url RFC822 mesaj."
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/send",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "gmailOAuth2",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ raw: $json.raw }) }}",
+        "options": {}
+      },
+      "id": "b1000000-0000-4000-8000-000000000007",
+      "name": "Mail gonder",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1000,
+        -120
+      ],
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "piD5i547u37PpoRg",
+          "name": "Gmail account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Gonderim basarili: bu dosyayi 'gonderildi' olarak isaretle.\nconst store = $getWorkflowStaticData('global');\nconst dosya = $('Mail govdesini hazirla').first().json.dosya;\n\nstore.sonGonderilen = dosya;\nstore.sonGonderimZamani = new Date().toISOString();\n\nreturn [{ json: { gonderildi: dosya, zaman: store.sonGonderimZamani } }];\n"
+      },
+      "id": "b1000000-0000-4000-8000-000000000008",
+      "name": "Gonderildi olarak isaretle",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1220,
+        -120
+      ]
     },
     {
       "parameters": {},
-      "id": "a1000000-0000-4000-8000-000000000009",
-      "name": "Yeni bülten yok - bitir",
+      "id": "b1000000-0000-4000-8000-000000000009",
+      "name": "Yeni bulten yok - bitir",
       "type": "n8n-nodes-base.noOp",
       "typeVersion": 1,
-      "position": [620, 120]
+      "position": [
+        560,
+        120
+      ]
     }
   ],
   "connections": {
-    "Her saat :25'te kontrol et": {
-      "main": [[{ "node": "latest.json çek", "type": "main", "index": 0 }]]
+    "Zamanlama (rutinden 17 dk sonra)": {
+      "main": [
+        [
+          {
+            "node": "latest.json cek",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
-    "latest.json çek": {
-      "main": [[{ "node": "Yeni bülten var mı?", "type": "main", "index": 0 }]]
+    "latest.json cek": {
+      "main": [
+        [
+          {
+            "node": "Yeni bulten var mi?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
-    "Yeni bülten var mı?": {
-      "main": [[{ "node": "Yeni ise devam", "type": "main", "index": 0 }]]
+    "Yeni bulten var mi?": {
+      "main": [
+        [
+          {
+            "node": "Yeni ise devam",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Yeni ise devam": {
       "main": [
-        [{ "node": "Bülteni indir", "type": "main", "index": 0 }],
-        [{ "node": "Yeni bülten yok - bitir", "type": "main", "index": 0 }]
+        [
+          {
+            "node": "Bulteni indir",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Yeni bulten yok - bitir",
+            "type": "main",
+            "index": 0
+          }
+        ]
       ]
     },
-    "Bülteni indir": {
-      "main": [[{ "node": "Markdown → HTML", "type": "main", "index": 0 }]]
+    "Bulteni indir": {
+      "main": [
+        [
+          {
+            "node": "Mail govdesini hazirla",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
-    "Markdown → HTML": {
-      "main": [[{ "node": "Mail gönder", "type": "main", "index": 0 }]]
+    "Mail govdesini hazirla": {
+      "main": [
+        [
+          {
+            "node": "Mail gonder",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
-    "Mail gönder": {
-      "main": [[{ "node": "Gönderildi olarak işaretle", "type": "main", "index": 0 }]]
+    "Mail gonder": {
+      "main": [
+        [
+          {
+            "node": "Gonderildi olarak isaretle",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "settings": {
-    "executionOrder": "v1"
-  },
-  "pinData": {}
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  }
 }
