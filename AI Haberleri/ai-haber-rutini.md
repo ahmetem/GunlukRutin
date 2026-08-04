@@ -21,6 +21,10 @@ olarak yazar:
 - **Çıktı:** `AI Haberleri/Bultenler/YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
   Her çalışma kendi dosyasını yazar; eski bültenler asla üzerine yazılmaz.
 - **Arşiv dizini:** `AI Haberleri/Bultenler/README.md` — her çalışmada yeni satır eklenir.
+- **n8n işaretçisi:** `AI Haberleri/Bultenler/latest.json` — her çalışmada üzerine yazılır.
+  n8n workflow'u (CT 202) bu dosyayı saat başı :25'te okur, yeni bir bülten görürse
+  Markdown'ı HTML'e çevirip `posta@ahmetkaraca.com` adresine **mail olarak gönderir**.
+  Workflow tanımı ve kurulumu: [`n8n/`](./n8n/).
 - **Tekrar önleme (dedup):** `AI Haberleri/ai-haber-gecmisi.json`.
   Her kayıt: `{"url","baslik","kategori","tarih"}`. 30 günden eski kayıtlar budanır.
 - **Bildirim:** Kısa Türkçe özet `PushNotification` ile gönderilir (telefon + e-posta).
@@ -69,7 +73,8 @@ etiketi eklenir (örn. `… (@sama)`).
    X gönderisi zaten gönderilmiş bir gelişmeyi tekrar ediyorsa da çıkar.
    Yeni öğe kalmadıysa **hiçbir dosya yazma**, bildirim gönderme, "Yeni AI haberi yok." yaz ve bitir.
 3. Bülteni `AI Haberleri/Bultenler/YYYY-AA-GG-SSDD.md` olarak yaz.
-4. `Bultenler/README.md` dizinine yeni bülten satırını ekle.
+4. `Bultenler/README.md` dizinine yeni bülten satırını ekle ve
+   `Bultenler/latest.json` işaretçisini üzerine yaz (n8n bunu okuyup mail atar).
 5. Yeni öğeleri `ai-haber-gecmisi.json`'a ekle, 30 günden eskileri buda.
 6. `git add` → `commit` → `push origin main`. Push ağ hatası verirse 2s/4s/8s/16s ile 4 kez dene.
    Çakışma olursa `git pull --no-rebase origin main` sonra tekrar dene.

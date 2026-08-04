@@ -99,12 +99,26 @@ Adım 0'daki geçmişle karşılaştır. Aynı URL'ye veya çok benzer başlığ
 ```
 Yeni öğesi olmayan bölümü atla. Ardından `AI Haberleri/Bultenler/README.md` tablosunun en üstüne yeni bültenin satırını ekle.
 
+**Ayrıca `AI Haberleri/Bultenler/latest.json` dosyasını ÜZERİNE YAZ.** n8n bu dosyayı okuyup bülteni mail olarak gönderir; yazılmazsa mail gitmez:
+
+```json
+{
+  "dosya": "2026-08-04-1621.md",
+  "baslik": "🤖 AI Bülteni — 4 Ağustos 2026: …",
+  "tarih": "2026-08-04T16:21:00+03:00",
+  "url": "https://raw.githubusercontent.com/ahmetem/GunlukRutin/main/AI%20Haberleri/Bultenler/2026-08-04-1621.md"
+}
+```
+
+`baslik` bültenin H1 başlığıyla aynı olsun (mail konusu olarak kullanılır). `url` içinde klasör adındaki boşluk `%20` olarak kodlanmalı.
+
 ## Adım 4 — Geçmişi güncelle ve push et
 Bültene koyduğun TÜM yeni öğeleri `AI Haberleri/ai-haber-gecmisi.json` içindeki `"gonderilen"` dizisine ekle (her biri: `{"url","baslik","kategori","tarih"}`). Dosyaları yaz, sonra:
 ```
 git add "AI Haberleri"
 git commit -m "AI bülteni <YYYY-AA-GG SS:DD> + geçmiş güncellendi"
 git push origin main
+
 ```
 Push ağ hatası verirse 2s, 4s, 8s, 16s bekleyerek 4 kez tekrar dene. Reddedilirse `git pull --no-rebase origin main` yapıp tekrar dene. Yine de başarısızsa devam et (bir sonraki çalışmada aynı haberler tekrar gelebilir).
 

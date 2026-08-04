@@ -1,0 +1,204 @@
+{
+  "name": "AI Haber Bülteni - GitHub'dan Mail Gönder",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 1,
+              "triggerAtMinute": 25
+            }
+          ]
+        }
+      },
+      "id": "a1000000-0000-4000-8000-000000000001",
+      "name": "Her saat :25'te kontrol et",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [-260, 0]
+    },
+    {
+      "parameters": {
+        "url": "https://raw.githubusercontent.com/ahmetem/GunlukRutin/main/AI%20Haberleri/Bultenler/latest.json",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "cb",
+              "value": "={{ $now.toMillis() }}"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "neverError": true
+            }
+          }
+        }
+      },
+      "id": "a1000000-0000-4000-8000-000000000002",
+      "name": "latest.json çek",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [-40, 0],
+      "notes": "Rutinin yazdığı işaretçi dosya. cb parametresi raw.githubusercontent CDN önbelleğini atlatmak için."
+    },
+    {
+      "parameters": {
+        "jsCode": "// latest.json'daki bülteni daha önce gönderdik mi?\n// Son gönderilen dosya adı workflow static data'sında tutulur.\nconst store = $getWorkflowStaticData('global');\nconst item = $input.first().json;\n\nif (!item || !item.dosya) {\n  return [{ json: { yeni: false, neden: 'latest.json okunamadi veya bos' } }];\n}\n\nconst zatenGonderildi = store.sonGonderilen === item.dosya;\n\nreturn [{\n  json: {\n    yeni: !zatenGonderildi,\n    neden: zatenGonderildi ? 'bu bulten zaten gonderildi' : 'yeni bulten',\n    dosya: item.dosya,\n    baslik: item.baslik,\n    tarih: item.tarih,\n    url: item.url,\n  },\n}];"
+      },
+      "id": "a1000000-0000-4000-8000-000000000003",
+      "name": "Yeni bülten var mı?",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [180, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "cond-yeni",
+              "leftValue": "={{ $json.yeni }}",
+              "rightValue": "",
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "a1000000-0000-4000-8000-000000000004",
+      "name": "Yeni ise devam",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [400, 0]
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.url }}",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "cb",
+              "value": "={{ $now.toMillis() }}"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text",
+              "outputPropertyName": "markdown"
+            }
+          }
+        }
+      },
+      "id": "a1000000-0000-4000-8000-000000000005",
+      "name": "Bülteni indir",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [620, -100]
+    },
+    {
+      "parameters": {
+        "mode": "markdownToHtml",
+        "markdown": "={{ $json.markdown }}",
+        "destinationKey": "html",
+        "options": {}
+      },
+      "id": "a1000000-0000-4000-8000-000000000006",
+      "name": "Markdown → HTML",
+      "type": "n8n-nodes-base.markdown",
+      "typeVersion": 1,
+      "position": [840, -100]
+    },
+    {
+      "parameters": {
+        "sendTo": "posta@ahmetkaraca.com",
+        "subject": "={{ $('Yeni bülten var mı?').first().json.baslik }}",
+        "message": "={{ $json.html }}",
+        "options": {
+          "appendAttribution": false
+        }
+      },
+      "id": "a1000000-0000-4000-8000-000000000007",
+      "name": "Mail gönder",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [1060, -100],
+      "notes": "Gmail kimlik bilgisini içe aktardıktan sonra elle seç."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Gönderim başarılı: bu dosyayı 'gönderildi' olarak işaretle.\nconst store = $getWorkflowStaticData('global');\nconst bulten = $('Yeni bülten var mı?').first().json;\n\nstore.sonGonderilen = bulten.dosya;\nstore.sonGonderimZamani = new Date().toISOString();\n\nreturn [{ json: { gonderildi: bulten.dosya, zaman: store.sonGonderimZamani } }];"
+      },
+      "id": "a1000000-0000-4000-8000-000000000008",
+      "name": "Gönderildi olarak işaretle",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1280, -100]
+    },
+    {
+      "parameters": {},
+      "id": "a1000000-0000-4000-8000-000000000009",
+      "name": "Yeni bülten yok - bitir",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [620, 120]
+    }
+  ],
+  "connections": {
+    "Her saat :25'te kontrol et": {
+      "main": [[{ "node": "latest.json çek", "type": "main", "index": 0 }]]
+    },
+    "latest.json çek": {
+      "main": [[{ "node": "Yeni bülten var mı?", "type": "main", "index": 0 }]]
+    },
+    "Yeni bülten var mı?": {
+      "main": [[{ "node": "Yeni ise devam", "type": "main", "index": 0 }]]
+    },
+    "Yeni ise devam": {
+      "main": [
+        [{ "node": "Bülteni indir", "type": "main", "index": 0 }],
+        [{ "node": "Yeni bülten yok - bitir", "type": "main", "index": 0 }]
+      ]
+    },
+    "Bülteni indir": {
+      "main": [[{ "node": "Markdown → HTML", "type": "main", "index": 0 }]]
+    },
+    "Markdown → HTML": {
+      "main": [[{ "node": "Mail gönder", "type": "main", "index": 0 }]]
+    },
+    "Mail gönder": {
+      "main": [[{ "node": "Gönderildi olarak işaretle", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}
