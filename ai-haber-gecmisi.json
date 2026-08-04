@@ -2784,6 +2784,48 @@
       "baslik": "whatsapp-mcp - kisisel WhatsApp mesajlarini AI asistanlarina okutup mesaj gonderten MCP sunucusu",
       "kategori": "github",
       "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://www.japantimes.co.jp/business/2026/08/04/tech/china-mythos-trump-xi/",
+      "baslik": "Pekin, Trump-Xi zirvesi oncesi Anthropic'in Mythos modelinin siber yeteneklerinden endiseli",
+      "kategori": "claude",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+      "baslik": "OpenAI, Apple'in ticari sir davasina iMessage kayitlariyla karsilik verdi",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "baslik": "Palantir CEO'su Alex Karp guclu bilanconun ardindan AI sektorunu 'Marksist' olarak niteledi",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "baslik": "Design Arena'nin arkasindaki Intelligence, 7,9 milyon dolar tohum yatirim aldi",
+      "kategori": "model",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/uber/ADR",
+      "baslik": "uber/ADR - Uber'de kullanilan, AI kodlama ajanlarini izleyip tehdit tespiti yapan kurumsal guvenlik cercevesi",
+      "kategori": "github",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/huangruiteng/loopx",
+      "baslik": "loopx - uzun sureli ajan islerinde hedef, karar kapisi ve kota durumunu tutan yerel kontrol duzlemi",
+      "kategori": "github",
+      "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://github.com/browser-use/video-use",
+      "baslik": "video-use - Claude Code ile dogal dil komutlariyla video kurgulayan acik kaynak arac",
+      "kategori": "github",
+      "tarih": "2026-08-04"
     }
   ]
 }
