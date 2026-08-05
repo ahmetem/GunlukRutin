@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 22 bülten
+Toplam: 23 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-05-2309.md`](./2026-08-05-2309.md) | 5 Ağustos 2026, 23:09 | 🤖 AI Bülteni — 5 Ağustos 2026: Anthropic çip ekibi kuruyor, Meta Muse Code'u çıkardı, SpaceX Nvidia'ya kilitlendi |
 | [`2026-08-05-2007.md`](./2026-08-05-2007.md) | 5 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 5 Ağustos 2026: Hassabis DeepMind CEO'luğunu bıraktı, Jeff Dean Google'dan ayrıldı, 4 yeni repo |
 | [`2026-08-05-1613.md`](./2026-08-05-1613.md) | 5 Ağustos 2026, 16:13 | 🤖 AI Bülteni — 5 Ağustos 2026: Google Assistant Gemini'ye devrediyor, Anaconda Enkrypt'i aldı, MacPaw Liquid AI ile ortak |
 | [`2026-08-05-1411.md`](./2026-08-05-1411.md) | 5 Ağustos 2026, 14:11 | 🤖 AI Bülteni — 5 Ağustos 2026: Rust LLM politikasını kabul etti, Mistral Shieldstral'ı açtı, Microsoft token bütçesi koydu |
