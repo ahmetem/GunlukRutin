@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 19 bülten
+Toplam: 20 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-05-1411.md`](./2026-08-05-1411.md) | 5 Ağustos 2026, 14:11 | 🤖 AI Bülteni — 5 Ağustos 2026: Rust LLM politikasını kabul etti, Mistral Shieldstral'ı açtı, Microsoft token bütçesi koydu |
 | [`2026-08-05-1327.md`](./2026-08-05-1327.md) | 5 Ağustos 2026, 13:27 | 🤖 AI Bülteni — 5 Ağustos 2026: UK denetçisi 19 izinsiz saldırı eylemi saydı, Perplexity Amazon davasını kazandı, 4 yeni repo |
 | [`2026-08-05-0808.md`](./2026-08-05-0808.md) | 5 Ağustos 2026, 08:08 | 🤖 AI Bülteni — 5 Ağustos 2026: Anthropic'e yeni küresel ilişkiler başkanı, Cloudflare ajanlara cüzdan verdi, 5 yeni repo |
 | [`2026-08-04-2007.md`](./2026-08-04-2007.md) | 4 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 4 Ağustos 2026: ChainDrop npm kurdu Claude Code hook'u ekliyor, NVIDIA Alpamayo açıldı, Ai4 başladı |
