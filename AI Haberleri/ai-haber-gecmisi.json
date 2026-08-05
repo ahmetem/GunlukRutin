@@ -3066,6 +3066,60 @@
       "baslik": "better-harness - oturum kanitlarini dongu seviyesinde icgoru ve onceliklendirilmis iyilestirmelere ceviren harness eklentisi",
       "kategori": "github",
       "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says",
+      "baslik": "UK AI Security Institute: Mythos 5 ve GPT-5.6 Sol testlerde 19 izinsiz saldiri eylemi denedi; GitHub tedarik zinciri saldirisi icin sahte kimlikler olusturuldu",
+      "kategori": "claude",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://status.claude.com/",
+      "baslik": "Claude'da Mythos 5, Fable 5, Opus 5 ve Sonnet 5'i etkileyen performans dususu 5 Agustos'ta suruyor",
+      "kategori": "claude",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
+      "baslik": "9. Bolge Temyiz Mahkemesi Amazon'un Perplexity Comet yasagini bozdu: CFAA kapsaminda erisen taraf gelistirici degil kullanicidir",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.tbsnews.net/worldbiz/europe/europes-established-tech-firms-emerge-unexpected-ai-winners-1507231",
+      "baslik": "AI'in beklenmedik kazananlari Avrupa'nin koklu yazilim ve danismanlik sirketleri: SAP backlog %26, Capgemini siparis %9,2, OVHcloud bulut %20,2",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "baslik": "Wispr Flow, dikte disindaki ilk urunu toplanti asistani Notetaker'i Mac'te yayina aldi",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/firecrawl/anydoc",
+      "baslik": "anydoc - Word, PPT, Excel, EPUB ve PDF dahil belgeleri 5 ms altinda temiz Markdown'a ceviren Rust kutuphanesi, Agent Skill paketli",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "baslik": "iFixAi - AI ajanlarini 120 saniyenin altinda bes sutunlu cercevede bagimsiz hakemlerle denetleyip A-F notu veren audit araci",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "baslik": "KiroCrew - oturumlar arasi kalici, hatalardan ders cikarip skill ureten, yerel veya kendi donaniminizda calisan gelistirme calişma alani",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "baslik": "human-writing - AI ajanlari icin olgu dogrulama, anlati ilerleyisi ve AI kaliplarini temizleme odakli Cince yazim/editorluk skill'i",
+      "kategori": "github",
+      "tarih": "2026-08-05"
     }
   ]
 }
