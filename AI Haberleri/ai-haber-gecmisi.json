@@ -3216,6 +3216,60 @@
       "baslik": "OpenBB - analistler, kantitatif arastirmacilar ve AI ajanlari icin finansal acik veri platformu",
       "kategori": "github",
       "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/api",
+      "baslik": "Claude Enterprise'a inference hooks beta: her prompt kurum guvenlik sunucusunun izin/ret kararini bekleyecek",
+      "kategori": "claude",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "baslik": "Demis Hassabis Google DeepMind CEO'lugunu birakiyor: baskan ve Alphabet bas bilim insani oluyor, Kavukcuoglu devraliyor",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "baslik": "Jeff Dean 27 yil sonra Google'dan ayriliyor; Ghemawat, Vinyals ve Le ile Discovery Loop'u kuruyor",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260805041028/en/Hark-Announces-Handoff-the-Worlds-Best-Web-Browsing-AI-Agent",
+      "baslik": "Hark, web tarama ajani Handoff'u tanitti: GPT-5.4 ve Opus 4.8'i gectigi bagimsiz dogrulandi iddiasi",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://ca.investing.com/news/company-news/shopify-q2-2026-slides-ai-commerce-drives-3x-traffic-surge-93CH-4777963",
+      "baslik": "Shopify 2. ceyrekte AI kaynakli trafigi ve siparisi uce katladi; gelir %34 artisla 3,6 milyar dolar",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/didilili/ai-agents-from-zero",
+      "baslik": "ai-agents-from-zero - LLM temellerinden kurumsal dagitima sifirdan AI ajani kurma egitim seti",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/NovaSky-AI/SkyRL",
+      "baslik": "SkyRL - Berkeley'in cok turlu arac kullanimi ve uzun ufuklu gorevler icin LLM RL egitim catisi",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "baslik": "tau2-bench - musteri hizmetleri ajanlarini havayolu, perakende, telekom ve bankacilikta sinayan simulasyon kiyaslamasi",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/roboflow/supervision",
+      "baslik": "supervision - Roboflow'un bilgisayarli goru islem hatlari icin yeniden kullanilabilir arac kutuphanesi",
+      "kategori": "github",
+      "tarih": "2026-08-05"
     }
   ]
 }

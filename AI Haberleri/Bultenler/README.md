@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 21 bülten
+Toplam: 22 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-05-2007.md`](./2026-08-05-2007.md) | 5 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 5 Ağustos 2026: Hassabis DeepMind CEO'luğunu bıraktı, Jeff Dean Google'dan ayrıldı, 4 yeni repo |
 | [`2026-08-05-1613.md`](./2026-08-05-1613.md) | 5 Ağustos 2026, 16:13 | 🤖 AI Bülteni — 5 Ağustos 2026: Google Assistant Gemini'ye devrediyor, Anaconda Enkrypt'i aldı, MacPaw Liquid AI ile ortak |
 | [`2026-08-05-1411.md`](./2026-08-05-1411.md) | 5 Ağustos 2026, 14:11 | 🤖 AI Bülteni — 5 Ağustos 2026: Rust LLM politikasını kabul etti, Mistral Shieldstral'ı açtı, Microsoft token bütçesi koydu |
 | [`2026-08-05-1327.md`](./2026-08-05-1327.md) | 5 Ağustos 2026, 13:27 | 🤖 AI Bülteni — 5 Ağustos 2026: UK denetçisi 19 izinsiz saldırı eylemi saydı, Perplexity Amazon davasını kazandı, 4 yeni repo |
