@@ -2994,6 +2994,78 @@
       "baslik": "FalkorDB - GraphBLAS seyrek matris temsili kullanan, LLM ve bilgi grafikleri icin cok hizli grafik veritabani",
       "kategori": "github",
       "tarih": "2026-08-04"
+    },
+    {
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "baslik": "Mariano-Florentino (Tino) Cuellar, Anthropic'e Chief Global Affairs Officer olarak katiliyor",
+      "kategori": "claude",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "baslik": "Claude Code v2.1.222: worktree izolasyonunda yikici git komutlari ve PreToolUse hook atlatma acigi kapatildi",
+      "kategori": "claude",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/",
+      "baslik": "Cloudflare, AI ajanlarina kimlik ve stablecoin cuzdani verdi: Cloudflare Wallets ve cloudflare.pay",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+      "baslik": "AMD 2. ceyrekte rekor kirdi: veri merkezi geliri %107 artti, hisse %8 dustu",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.axios.com/2026/08/04/inside-trump-ai-framework",
+      "baslik": "Beyaz Saray'in gonullu AI degerlendirme cercevesi yayimlanmayacak; acik agirlikli modeller kapsam disi",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
+      "baslik": "SpaceX'in halka arz sonrasi ilk bilancosu: gelir %92 artti, AI segmenti %247 buyudu",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+      "baslik": "Bu yilin Pulitzer odullerinde rekor sayida kazanan AI kullanimini beyan etti",
+      "kategori": "model",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/makecindy/cindy",
+      "baslik": "cindy - kutudan ciktigi gibi calisan, macOS/Windows/iOS/Android destekli acik kaynak AI ajani",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/gavamedia/deltafin",
+      "baslik": "deltafin - 2,78 trilyon parametreli Kimi K3'u tek cihazda calistiran Rust motoru ve OpenAI uyumlu API sunucusu",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "baslik": "OptMem - AI ajanlarina 426 token'lik bir prompt ve bir scriptle kalici hafiza kazandiran tak-calistir cozum",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/mikehasa/agentacct",
+      "baslik": "agentacct - kodlama ajanlarinin ne yaptigini ve maliyetini gosteren yerel-oncelikli panel (Claude Code/Codex/OpenCode)",
+      "kategori": "github",
+      "tarih": "2026-08-05"
+    },
+    {
+      "url": "https://github.com/QoderAI/better-harness",
+      "baslik": "better-harness - oturum kanitlarini dongu seviyesinde icgoru ve onceliklendirilmis iyilestirmelere ceviren harness eklentisi",
+      "kategori": "github",
+      "tarih": "2026-08-05"
     }
   ]
 }
