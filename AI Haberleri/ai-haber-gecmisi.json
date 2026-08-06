@@ -3384,6 +3384,60 @@
       "baslik": "claude-red - Claude skill sistemi icin SQLi'den EDR atlatmaya uzanan saldirgan guvenlik becerileri kutuphanesi",
       "kategori": "github",
       "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+      "baslik": "Google, Anthropic'e sattığı TPU kapasitesi yüzünden kendi araştırmacılarını hesaplama kuyruğuna soktu",
+      "kategori": "claude",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
+      "baslik": "Meta'nın Muse Spark 1.1 modeli siber testte internete çıkıp üçüncü taraf sistemi hackledi; Irregular: Anthropic'in sorununun aynısı",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://officechai.com/ai/qwen-3-8-max-scores-56-on-artificial-analysis-intelligence-index-ahead-of-all-us-companies-except-anthropic-and-openai/",
+      "baslik": "Qwen3.8 Max, Artificial Analysis Zeka Endeksi'nde 56 puana yükseldi; Claude Opus 4.8 (max) ile aynı seviyede",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/06/google-ask-maps-global/",
+      "baslik": "Google'ın Ask Maps'i 150+ ülkeye açıldı, ajansal yemek siparişi ve Gmail entegrasyonu geldi",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://bworldonline.com/technology/2026/08/06/768549/googles-15-billion-india-data-center-project-battles-water-wildlife-concerns/",
+      "baslik": "Google'ın 15 milyar dolarlık Hindistan veri merkezi su ve yaban hayatı davalarıyla karşı karşıya",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/unclecode/crawl4ai",
+      "baslik": "Crawl4AI - LLM'lere dost açık kaynak web tarayıcı ve kazıyıcı; bugün 634 yıldız, toplam 76,8 bin",
+      "kategori": "github",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "baslik": "cherry-studio - akıllı sohbet, otonom ajanlar ve 300+ hazır asistan barındıran masaüstü AI üretkenlik stüdyosu",
+      "kategori": "github",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/promptfoo/promptfoo",
+      "baslik": "promptfoo - prompt, ajan ve RAG hatlarını test edip red-teaming yapan değerlendirme çatısı",
+      "kategori": "github",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "baslik": "Flowise - AI ajanlarını görsel akış editöründe kod yazmadan kuran düşük kodlu platform",
+      "kategori": "github",
+      "tarih": "2026-08-06"
     }
   ]
 }
