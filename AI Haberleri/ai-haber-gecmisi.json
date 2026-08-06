@@ -3438,6 +3438,54 @@
       "baslik": "Flowise - AI ajanlarını görsel akış editöründe kod yazmadan kuran düşük kodlu platform",
       "kategori": "github",
       "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "baslik": "Claude Enterprise'a skill ve plugin guvenlik taramasi (beta): ucuncu taraf skill/pluginler yuklemede kotu niyetli icerik icin otomatik taraniyor",
+      "kategori": "claude",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "baslik": "OpenAI ChatGPT'de metin sohbeti limitlerini kaldirdi; ucretsiz/Go varsayilani GPT-5.6 Luna, Plus/Pro'ya guncel Sol ve dusunme kaydiricisi",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "baslik": "Suno telif davalari surerken sarkilara filigran, parmak izi ve yeni indirme politikalari getiriyor",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "baslik": "Mirendil kendini gelistiren AI'yi olceklemek icin 100 milyon dolarlik Google Cloud anlasmasi imzaladi",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://llm-stats.com/ai-news",
+      "baslik": "Forbes: Surge AI ve Mercor gibi ABD'li veri etiketleme sirketleri Cinli laboratuvarlara da egitim verisi satiyor",
+      "kategori": "model",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "baslik": "prime-agent - baglami degisken, araclari REPL fonksiyon cagrisi gibi ele alan RLM tabanli acik kaynak kodlama ve arastirma ajani",
+      "kategori": "github",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "baslik": "cloudflare-os - Workers uzerinde sirket baglamiyla belge ureten, Gadget uygulamalari kuran ve izole ajan calistiran ajan calisma alani",
+      "kategori": "github",
+      "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "baslik": "AionUi - Claude Code, Codex ve OpenClaw ajanlarini tek masaustu uygulamasinda 7/24 calistiran acik kaynak Cowork arayuzu",
+      "kategori": "github",
+      "tarih": "2026-08-06"
     }
   ]
 }
