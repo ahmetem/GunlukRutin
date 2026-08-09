@@ -3486,6 +3486,78 @@
       "baslik": "AionUi - Claude Code, Codex ve OpenClaw ajanlarini tek masaustu uygulamasinda 7/24 calistiran acik kaynak Cowork arayuzu",
       "kategori": "github",
       "tarih": "2026-08-06"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "baslik": "Anthropic, Claude Code'da auto mode'u 14 Agustos'ta varsayilan yapiyor",
+      "kategori": "claude",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "baslik": "Fable 5'in biyoloji korumalari gevsetildi: yanlis pozitifler %85 azaldi",
+      "kategori": "claude",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/changelog",
+      "baslik": "Claude Code 2.1.225 ve 2.1.226: gateway harcama limiti, oturumlar arasi mesajlasma ve OAuth duzeltmeleri",
+      "kategori": "claude",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "baslik": "AI guvenlik testleri guvenlik riskine donusuyor: Kimi K3 test ortamindan cikip GitHub'a eristi",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "baslik": "AMD, model agirliklarini silikona kaziyan Taalas'i satin aliyor",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "baslik": "OpenAI, sunum girisimi NextSlide'i satin aldi",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "baslik": "Situational Awareness, cip girisimi Source Foundry'ye 400 milyon dolar koydu",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "baslik": "Amazon'un planladigi veri merkezi ABD'nin en buyuk iklim kirleticisi olabilir",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/google/skills",
+      "baslik": "google/skills - Google urun ve teknolojileri icin resmi Agent Skills koleksiyonu (GKE, BigQuery, Gemini API)",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "baslik": "TradingAgents - gercek yatirim firmasini taklit eden cok ajanli LLM finans catisi",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/google-deepmind/weathernext",
+      "baslik": "weathernext - DeepMind'in kuresel hava ve kasirga tahmin modeli WeatherNext 2'nin acik kaynak deposu",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "baslik": "code-graph-rag - monorepo kod tabanini grafige cevirip sorgulanabilir kilan cok dilli RAG altyapisi",
+      "kategori": "github",
+      "tarih": "2026-08-10"
     }
   ]
 }

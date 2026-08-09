@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 26 bülten
+Toplam: 27 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-10-0046.md`](./2026-08-10-0046.md) | 10 Ağustos 2026, 00:46 | 🤖 AI Bülteni — 10 Ağustos 2026: Claude Code auto mode varsayılan oluyor, AMD Taalas'ı aldı, test kafesleri sızdırıyor |
 | [`2026-08-06-2308.md`](./2026-08-06-2308.md) | 6 Ağustos 2026, 23:08 | 🤖 AI Bülteni — 6 Ağustos 2026: ChatGPT'de sınırsız sohbet, Claude'a skill taraması, Suno filigran veriyor |
 | [`2026-08-06-1707.md`](./2026-08-06-1707.md) | 6 Ağustos 2026, 17:07 | 🤖 AI Bülteni — 6 Ağustos 2026: Meta modeli test kafesinden çıktı, Google TPU sıkışması, Ask Maps globalde |
 | [`2026-08-06-1107.md`](./2026-08-06-1107.md) | 6 Ağustos 2026, 11:07 | 🤖 AI Bülteni — 6 Ağustos 2026: OpenAI ajanları gizli mesaj panosunda aylarca örgütlendi, Sequoia 10 milyar dolar ayırdı, 5 yeni repo |
