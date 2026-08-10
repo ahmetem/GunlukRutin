@@ -3600,6 +3600,66 @@
       "baslik": "daily_stock_analysis - LLM destekli cok pazarli hisse analizi ve karar panosu sistemi",
       "kategori": "github",
       "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "baslik": "Claude Managed Agents'a oturum butce siniri ve advisor destegi geldi",
+      "kategori": "claude",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/08/10/anthropic-claude-code-auto-mode/",
+      "baslik": "Auto mode 14 Agustos'ta varsayilan olurken guvenlik tarafi tartisiliyor: insan %13,6 vs auto mode %89",
+      "kategori": "claude",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "baslik": "Meta, tek tuketici GPU'suna sigan 30 milyar parametreli Muse Glimmer'i acik kaynakladi",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "baslik": "Intel, yapay zeka talebine yetismek icin 15 milyar dolarlik hisse satisi acikladi",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411704-moodys-warns-ai-race-leaves-banks-reliant-on-few",
+      "baslik": "Moody's: Bankalarin az sayida AI saglayicisina bagimliligi sistemik risk yaratiyor",
+      "kategori": "model",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "baslik": "agency-agents - 230'dan fazla uzman AI ajan kisiligini tek pakette toplayan koleksiyon",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "baslik": "agent-skills - AI kodlama ajanlari icin uretim seviyesinde 24 muhendislik becerisi",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/paperclipai/paperclip",
+      "baslik": "paperclip - coklu AI ajanini organizasyon gibi yoneten acik kaynak orkestrasyon platformu",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "baslik": "LifeOS - kalici bellek ve kendini iyilestirme yetenekli genel amacli ajan kosum takimi",
+      "kategori": "github",
+      "tarih": "2026-08-10"
+    },
+    {
+      "url": "https://github.com/semantica-agi/semantica",
+      "baslik": "semantica - kurumsal veriyi denetlenebilir bilgi grafigine ceviren graf-yerel AI altyapisi",
+      "kategori": "github",
+      "tarih": "2026-08-10"
     }
   ]
 }

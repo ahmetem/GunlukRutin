@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 28 bülten
+Toplam: 29 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-10-1708.md`](./2026-08-10-1708.md) | 10 Ağustos 2026, 17:08 | 🤖 AI Bülteni — 10 Ağustos 2026: Meta 30B'lik Muse Glimmer'ı açtı, Intel 15 milyar dolar topluyor, Managed Agents'a bütçe sınırı |
 | [`2026-08-10-1108.md`](./2026-08-10-1108.md) | 10 Ağustos 2026, 11:08 | 🤖 AI Bülteni — 10 Ağustos 2026: Claude Code kendi sunucunuzda koşuyor, Astra yavaşlatıldı, Seedance API'si açıldı |
 | [`2026-08-10-0046.md`](./2026-08-10-0046.md) | 10 Ağustos 2026, 00:46 | 🤖 AI Bülteni — 10 Ağustos 2026: Claude Code auto mode varsayılan oluyor, AMD Taalas'ı aldı, test kafesleri sızdırıyor |
 | [`2026-08-06-2308.md`](./2026-08-06-2308.md) | 6 Ağustos 2026, 23:08 | 🤖 AI Bülteni — 6 Ağustos 2026: ChatGPT'de sınırsız sohbet, Claude'a skill taraması, Suno filigran veriyor |
