@@ -1,0 +1,305 @@
+{
+  "name": "AI Haber Bülteni - GitHub'dan Mail Gönder v2",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "=cronExpression",
+              "expression": "25 * * * *"
+            }
+          ]
+        }
+      },
+      "id": "c2000000-0000-4000-8000-000000000001",
+      "name": "Zamanlama (her saat :25)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -340,
+        0
+      ],
+      "notes": "Rutin saatlik calisip push ediyor; bu her saat :25te bakiyor. Gonderilmemis bulten yoksa mail gitmez."
+    },
+    {
+      "parameters": {
+        "url": "https://api.github.com/repos/ahmetem/GunlukRutin/contents/AI%20Haberleri/Bultenler",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-ai-bulteni"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "neverError": true,
+              "fullResponse": true,
+              "responseFormat": "text",
+              "outputPropertyName": "body"
+            }
+          }
+        }
+      },
+      "id": "c2000000-0000-4000-8000-000000000002",
+      "name": "Bulten listesini cek",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -120,
+        0
+      ],
+      "notes": "GitHub Contents API - raw.githubusercontent'in ~5 dk CDN onbellegine takilmaz. Anonim limit 60 istek/saat, saatlik tarama icin bol bol yeter. Govde text olarak alinip sonraki Code dugumunde JSON.parse edilir."
+    },
+    {
+      "parameters": {
+        "jsCode": "// GitHub API'den Bultenler/ klasorunu listeler, henuz mail atilmamis\n// bultenleri bulur.\n//\n// v1'den fark: latest.json'a BAGIMLI DEGIL. Rutin isaretci dosyasini yazmayi\n// unutsa bile yeni bulten dosyasi klasorde goruldugu an mail gider. (v1'de\n// rutin latest.json'i yazmayi biraktigi icin 10 Agustos'ta iki bulten\n// postalanmamisti.)\n//\n// Ayrica raw.githubusercontent yerine GitHub Contents API kullaniliyor:\n// raw CDN yanitlari ~5 dk onbelleklenir ve ?cb= cache-buster'i bunu\n// ATLATMIYOR (olculdu) - yani push'tan hemen sonraki tarama eski icerigi\n// gorebiliyor. API onbelleklenmiyor.\n\n// --- ilk calisma tohumlamasi ------------------------------------------\n// Workflow yeni import edildiginde static data bostur. Arsivdeki tum\n// bultenleri birden postalamamak icin: bu esikten ESKI her dosya\n// \"gonderilmis\" sayilir, esikten YENI olanlar ilk calismada mail olur.\nconst ESIK = '2026-08-10-0000.md';\n\n// Esikten yeni oldugu halde gonderilmesini istemedigin dosyalar.\n// Ornek: eski (v1) workflow o bulteni zaten postaladiysa buraya ekle.\nconst ZATEN_GONDERILDI = [];\n\n// Tek calismada en fazla kac mail atilsin? Kalanlar sonraki saate kalir.\nconst TUR_BASINA_LIMIT = 3;\n// ----------------------------------------------------------------------\n\nconst store = $getWorkflowStaticData('global');\nconst res = $input.first().json || {};\n\nconst kod = res.statusCode;\nconst govde = typeof res.body === 'string' ? res.body : JSON.stringify(res.body ?? '');\nconst ornek = govde.slice(0, 200);\n\nif (kod !== undefined && kod !== 200) {\n  return [{ json: { gonderilecek: false, neden: 'GitHub API listesi cekilemedi (HTTP ' + kod + ')', ornek } }];\n}\n\nlet liste;\ntry {\n  liste = (res.body && typeof res.body === 'object') ? res.body : JSON.parse(govde);\n} catch (e) {\n  return [{ json: { gonderilecek: false, neden: 'Liste JSON olarak ayristirilamadi: ' + e.message, ornek } }];\n}\n\nif (!Array.isArray(liste)) {\n  return [{ json: { gonderilecek: false, neden: 'GitHub API dizi dondurmedi (rate limit olabilir)', ornek } }];\n}\n\n// Sadece bulten dosyalari: YYYY-AA-GG-SSDD.md (README.md ve latest.json haric)\nconst BULTEN = /^\\d{4}-\\d{2}-\\d{2}-\\d{4}\\.md$/;\nconst dosyalar = liste\n  .filter((f) => f && f.type === 'file' && BULTEN.test(f.name))\n  .sort((a, b) => (a.name < b.name ? -1 : a.name > b.name ? 1 : 0));\n\nif (!dosyalar.length) {\n  return [{ json: { gonderilecek: false, neden: 'Klasorde bulten dosyasi bulunamadi' } }];\n}\n\n// Tohumlama (ilk calisma) + v1'den gecis\nif (!Array.isArray(store.gonderilenler)) {\n  const tohum = dosyalar.filter((f) => f.name < ESIK).map((f) => f.name);\n  for (const d of ZATEN_GONDERILDI) if (!tohum.includes(d)) tohum.push(d);\n  // v1 static data'si duruyorsa onu da hesaba kat\n  if (store.sonGonderilen && !tohum.includes(store.sonGonderilen)) tohum.push(store.sonGonderilen);\n  store.gonderilenler = tohum;\n  store.tohumlandi = new Date().toISOString();\n}\n\nconst gonderilmis = new Set(store.gonderilenler);\nconst bekleyen = dosyalar.filter((f) => !gonderilmis.has(f.name));\n\nif (!bekleyen.length) {\n  return [{ json: { gonderilecek: false, neden: 'yeni bulten yok', arsivdeki: dosyalar.length } }];\n}\n\nconst secilen = bekleyen.slice(0, TUR_BASINA_LIMIT);\n\n// Her bulten icin bir item. Sonraki dugumler item basina calisir.\nreturn secilen.map((f) => ({\n  json: {\n    gonderilecek: true,\n    dosya: f.name,\n    // Contents API URL'i - raw CDN onbellegine takilmaz\n    url: f.url,\n    bekleyen: bekleyen.length,\n    buTurda: secilen.length,\n  },\n}));\n"
+      },
+      "id": "c2000000-0000-4000-8000-000000000003",
+      "name": "Gonderilmeyenleri bul",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        100,
+        0
+      ],
+      "notes": "Klasordeki bultenleri static data'daki 'gonderilenler' listesiyle karsilastirir. Gonderilecek her bulten icin bir item uretir."
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "cond-gonderilecek",
+              "leftValue": "={{ $json.gonderilecek }}",
+              "rightValue": "",
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "c2000000-0000-4000-8000-000000000004",
+      "name": "Gonderilecek var mi?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        320,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.url }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github.raw"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-ai-bulteni"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text",
+              "outputPropertyName": "markdown"
+            }
+          }
+        }
+      },
+      "id": "c2000000-0000-4000-8000-000000000005",
+      "name": "Bulteni indir",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        540,
+        -120
+      ],
+      "notes": "Contents API URL'i + Accept: application/vnd.github.raw -> dosyanin ham Markdown'i. Item basina bir istek."
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Bultenin Markdown'ini e-postaya uygun HTML'e cevirip Gmail API'nin\n// messages/send bekledigi base64url RFC822 mesajini uretir.\n// Bu dugum HER ITEM icin bir kez calisir (runOnceForEachItem).\n//\n// v1'den fark: mail konusu latest.json'daki \"baslik\" alanindan degil,\n// bultenin kendi H1 satirindan okunur - yani islemek icin isaretci\n// dosyasina hic ihtiyac yok.\n\nconst dosya = $('Gonderilmeyenleri bul').item.json.dosya;\nconst md = String($json.markdown || '');\n\nconst esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');\n\n// Satir ici bicimleme: kod, kalin, sonra ciplak URL'leri link yap.\nfunction inline(s) {\n  let t = esc(s);\n  t = t.replace(/`([^`]+)`/g, '<code style=\"background:#f2f2f4;padding:1px 4px;border-radius:3px\">$1</code>');\n  t = t.replace(/\\*\\*([^*]+)\\*\\*/g, '<strong>$1</strong>');\n  t = t.replace(/(https?:\\/\\/[^\\s<]+)/g,\n    '<a href=\"$1\" style=\"color:#2d6cdf;word-break:break-all\">$1</a>');\n  return t;\n}\n\nconst lines = md.split(/\\r?\\n/);\n\n// Mail konusu = bultenin H1'i\nlet baslik = '';\nfor (const l of lines) {\n  const t = l.trim();\n  if (t.startsWith('# ')) { baslik = t.slice(2).trim(); break; }\n}\nif (!baslik) baslik = 'AI Haber Bulteni - ' + dosya;\n\nconst out = [];\nlet inList = false;\nconst closeList = () => { if (inList) { out.push('</ul>'); inList = false; } };\n\nfor (const rawLine of lines) {\n  const line = rawLine.trim();\n\n  if (!line) { closeList(); continue; }\n  if (/^---+$/.test(line)) {\n    closeList();\n    out.push('<hr style=\"border:0;border-top:1px solid #e2e2e6;margin:22px 0\">');\n    continue;\n  }\n  if (line.startsWith('# ')) {      // H1 = mail konusu, govdede tekrar etmiyoruz\n    closeList();\n    continue;\n  }\n  if (line.startsWith('## ')) {\n    closeList();\n    out.push('<h2 style=\"font-size:17px;margin:26px 0 10px\">' + inline(line.slice(3)) + '</h2>');\n    continue;\n  }\n  // Eski (Gmail'den arsivlenmis) bultenlerde bolum basliklari '##' yerine\n  // ciplak emoji satiri: '🟣 CLAUDE & ANTHROPIC'. Onlari da baslik say.\n  if (/^(\\u{1F7E3}|\\u{1F9E0}|\\u{1F4BB})/u.test(line) && line.length < 80) {\n    closeList();\n    out.push('<h2 style=\"font-size:17px;margin:26px 0 10px\">' + inline(line) + '</h2>');\n    continue;\n  }\n  if (/^[-*•]\\s+/.test(line)) {\n    if (!inList) { out.push('<ul style=\"padding-left:20px;margin:10px 0\">'); inList = true; }\n    out.push('<li style=\"margin:0 0 12px;line-height:1.55\">' + inline(line.replace(/^[-*•]\\s+/, '')) + '</li>');\n    continue;\n  }\n  if (inList) {   // madde altindaki devam satiri\n    const last = out.pop();\n    out.push(last.replace(/<\\/li>$/, '<br>' + inline(line) + '</li>'));\n    continue;\n  }\n  out.push('<p style=\"margin:8px 0;line-height:1.55\">' + inline(line) + '</p>');\n}\ncloseList();\n\nconst html =\n  '<!doctype html><html><body style=\"margin:0;padding:20px;background:#ffffff;' +\n  'font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;' +\n  'font-size:15px;color:#1a1a1c\">' +\n  '<div style=\"max-width:680px;margin:0 auto\">' + out.join('\\n') +\n  '<hr style=\"border:0;border-top:1px solid #e2e2e6;margin:26px 0\">' +\n  '<p style=\"font-size:12px;color:#76767c;margin:0\">' +\n  'Kaynak: <a href=\"https://github.com/ahmetem/GunlukRutin/blob/main/AI%20Haberleri/Bultenler/' +\n  encodeURIComponent(dosya) + '\" style=\"color:#76767c\">' + esc(dosya) + '</a>' +\n  ' &middot; AI Haber Bulteni rutini</p>' +\n  '</div></body></html>';\n\n// RFC 2047 - Turkce karakter ve emoji iceren konu basligi\nconst subject = '=?UTF-8?B?' + Buffer.from(baslik, 'utf8').toString('base64') + '?=';\n\nconst mime = [\n  'To: posta@ahmetkaraca.com',\n  'Subject: ' + subject,\n  'MIME-Version: 1.0',\n  'Content-Type: text/html; charset=\"UTF-8\"',\n  'Content-Transfer-Encoding: base64',\n  '',\n  Buffer.from(html, 'utf8').toString('base64'),\n].join('\\r\\n');\n\nconst raw = Buffer.from(mime, 'utf8').toString('base64')\n  .replace(/\\+/g, '-').replace(/\\//g, '_').replace(/=+$/, '');\n\nreturn { json: { raw, dosya, konu: baslik } };\n"
+      },
+      "id": "c2000000-0000-4000-8000-000000000006",
+      "name": "Mail govdesini hazirla",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        760,
+        -120
+      ],
+      "notes": "Markdown -> e-posta HTML'i, sonra base64url RFC822 mesaj. Mail konusu bultenin H1 satirindan okunur."
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://gmail.googleapis.com/gmail/v1/users/me/messages/send",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "gmailOAuth2",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ raw: $json.raw }) }}",
+        "options": {}
+      },
+      "id": "c2000000-0000-4000-8000-000000000007",
+      "name": "Mail gonder",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        980,
+        -120
+      ],
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "piD5i547u37PpoRg",
+          "name": "Gmail account"
+        }
+      },
+      "onError": "continueRegularOutput",
+      "notes": "onError=continueRegularOutput: bir mail patlasa da digerleri gider; basarisiz dosya isaretlenmez, sonraki saatte tekrar denenir."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Yalnizca GERCEKTEN gonderilen dosyalari \"gonderildi\" olarak isaretle.\n//\n// \"Mail gonder\" dugumu onError=continueRegularOutput ile calisir: bir mail\n// patlasa da execution devam eder. Basarisiz olan dosya isaretlenmez, bir\n// sonraki saatte tekrar denenir. Basarili olanlar tekrar gonderilmez.\n\nconst store = $getWorkflowStaticData('global');\nif (!Array.isArray(store.gonderilenler)) store.gonderilenler = [];\n\nconst hazirlik = $('Mail govdesini hazirla').all();\nconst gelen = $input.all();\n\nconst basarili = [];\nconst basarisiz = [];\n\nfor (let i = 0; i < gelen.length; i++) {\n  const j = gelen[i].json || {};\n  const dosya = hazirlik[i] && hazirlik[i].json ? hazirlik[i].json.dosya : undefined;\n  if (!dosya) continue;\n\n  // Gmail messages/send basarili yanitinda id/threadId doner\n  const basarilimi = !j.error && (j.id || j.threadId);\n\n  if (basarilimi) {\n    if (!store.gonderilenler.includes(dosya)) store.gonderilenler.push(dosya);\n    basarili.push(dosya);\n  } else {\n    const hata = j.error\n      ? (j.error.message || JSON.stringify(j.error).slice(0, 200))\n      : 'Gmail yaniti id icermiyor';\n    basarisiz.push({ dosya, hata });\n  }\n}\n\n// Listeyi sinirla - sadece son 200 dosya adi yeterli\nstore.gonderilenler = store.gonderilenler.slice(-200);\nstore.sonGonderimZamani = new Date().toISOString();\n\nreturn [{\n  json: {\n    gonderildi: basarili,\n    basarisiz,\n    zaman: store.sonGonderimZamani,\n    hafizadaki: store.gonderilenler.length,\n  },\n}];\n"
+      },
+      "id": "c2000000-0000-4000-8000-000000000008",
+      "name": "Gonderildi olarak isaretle",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1200,
+        -120
+      ],
+      "notes": "Sadece Gmail'in id dondurdugu dosyalari static data'ya yazar."
+    },
+    {
+      "parameters": {},
+      "id": "c2000000-0000-4000-8000-000000000009",
+      "name": "Gonderilecek bulten yok - bitir",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        540,
+        120
+      ]
+    }
+  ],
+  "connections": {
+    "Zamanlama (her saat :25)": {
+      "main": [
+        [
+          {
+            "node": "Bulten listesini cek",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Bulten listesini cek": {
+      "main": [
+        [
+          {
+            "node": "Gonderilmeyenleri bul",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gonderilmeyenleri bul": {
+      "main": [
+        [
+          {
+            "node": "Gonderilecek var mi?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gonderilecek var mi?": {
+      "main": [
+        [
+          {
+            "node": "Bulteni indir",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Gonderilecek bulten yok - bitir",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Bulteni indir": {
+      "main": [
+        [
+          {
+            "node": "Mail govdesini hazirla",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mail govdesini hazirla": {
+      "main": [
+        [
+          {
+            "node": "Mail gonder",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mail gonder": {
+      "main": [
+        [
+          {
+            "node": "Gonderildi olarak isaretle",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  }
+}
