@@ -3709,6 +3709,48 @@
    "kategori": "github",
    "tarih": "2026-08-11",
    "anahtar": "dyad-local-open-source-ai-app-builder"
+  },
+  {
+   "url": "https://www.anthropic.com/research/riemann-zeta",
+   "baslik": "Claude'un araştırma sürümü Riemann zeta alt sınırını %41,6'dan %67,2'ye çıkardı",
+   "kategori": "claude",
+   "tarih": "2026-08-11",
+   "anahtar": "anthropic-claude-riemann-zeta-bound"
+  },
+  {
+   "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
+   "baslik": "Atlassian Rovo'da PDF'e gizlenmiş metinle dolaylı prompt injection",
+   "kategori": "model",
+   "tarih": "2026-08-11",
+   "anahtar": "atlassian-rovo-pdf-prompt-injection"
+  },
+  {
+   "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
+   "baslik": "OpenClaw ajanı spor salonu API'sini istismar edip rezervasyon iptal etti",
+   "kategori": "model",
+   "tarih": "2026-08-11",
+   "anahtar": "openclaw-agent-gym-api-exploit"
+  },
+  {
+   "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+   "baslik": "FineBooks: Hugging Face ve EleutherAI'den LLM eğitimi için açık OCR karşılaştırması",
+   "kategori": "model",
+   "tarih": "2026-08-11",
+   "anahtar": "finebooks-ocr-llm-training-benchmark"
+  },
+  {
+   "url": "https://github.com/activepieces/activepieces",
+   "baslik": "activepieces - MCP sunucusu olarak sunulan 200+ entegrasyonlu açık kaynak AI iş akışı otomasyonu",
+   "kategori": "github",
+   "tarih": "2026-08-11",
+   "anahtar": "activepieces-open-source-mcp-workflow"
+  },
+  {
+   "url": "https://github.com/neuml/txtai",
+   "baslik": "txtai - anlamsal arama, LLM orkestrasyonu ve dil modeli iş akışları için Python çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-08-11",
+   "anahtar": "txtai-semantic-search-llm-framework"
   }
  ]
 }
