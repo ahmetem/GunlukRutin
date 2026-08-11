@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 31 bülten
+Toplam: 32 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-11-2004.md`](./2026-08-11-2004.md) | 11 Ağustos 2026, 20:04 | 🤖 AI Bülteni — 11 Ağustos 2026: Sonnet 5'in indirimli fiyatı kalıcı oldu, Compliance API yerel oturumları görüyor |
 | [`2026-08-11-1409.md`](./2026-08-11-1409.md) | 11 Ağustos 2026, 14:09 | 🤖 AI Bülteni — 11 Ağustos 2026: Claude Riemann zeta sınırını iyileştirdi, Rovo'da prompt injection |
 | [`2026-08-11-1108.md`](./2026-08-11-1108.md) | 11 Ağustos 2026, 11:08 | 🤖 AI Bülteni — 11 Ağustos 2026: Claude çıktılarına görünmez filigran, OpenAI'dan GPT-5.6-Cyber |
 | [`2026-08-10-1708.md`](./2026-08-10-1708.md) | 10 Ağustos 2026, 17:08 | 🤖 AI Bülteni — 10 Ağustos 2026: Meta 30B'lik Muse Glimmer'ı açtı, Intel 15 milyar dolar topluyor, Managed Agents'a bütçe sınırı |
