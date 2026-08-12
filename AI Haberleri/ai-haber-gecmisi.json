@@ -3779,6 +3779,27 @@
    "kategori": "github",
    "tarih": "2026-08-11",
    "anahtar": "open-notebook-selfhosted-notebooklm-alternative"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.228: senkron skill'ler sertlestirildi, Write okumadan uzerine yazabiliyor",
+   "kategori": "claude",
+   "tarih": "2026-08-12",
+   "anahtar": "claude-code-2-1-228-skills-hardening-write"
+  },
+  {
+   "url": "https://github.com/corsairdev/corsair",
+   "baslik": "corsair - AI ajanlarini dis uygulamalara guvenli baglayan entegrasyon katmani",
+   "kategori": "github",
+   "tarih": "2026-08-12",
+   "anahtar": "corsair-agent-integration-permission-layer"
+  },
+  {
+   "url": "https://github.com/LLMQuant/quant-mind",
+   "baslik": "quant-mind - kantitatif finans icin agent-native bilgi muhendisligi cercevesi",
+   "kategori": "github",
+   "tarih": "2026-08-12",
+   "anahtar": "quantmind-agent-native-finance-knowledge"
   }
  ]
 }

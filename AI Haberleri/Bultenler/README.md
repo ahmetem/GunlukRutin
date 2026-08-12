@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 32 bülten
+Toplam: 33 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-12-0807.md`](./2026-08-12-0807.md) | 12 Ağustos 2026, 08:07 | 🤖 AI Bülteni — 12 Ağustos 2026: Claude Code 2.1.228 senkron skill'leri sertleştirdi, Write kuralı değişti |
 | [`2026-08-11-2004.md`](./2026-08-11-2004.md) | 11 Ağustos 2026, 20:04 | 🤖 AI Bülteni — 11 Ağustos 2026: Sonnet 5'in indirimli fiyatı kalıcı oldu, Compliance API yerel oturumları görüyor |
 | [`2026-08-11-1409.md`](./2026-08-11-1409.md) | 11 Ağustos 2026, 14:09 | 🤖 AI Bülteni — 11 Ağustos 2026: Claude Riemann zeta sınırını iyileştirdi, Rovo'da prompt injection |
 | [`2026-08-11-1108.md`](./2026-08-11-1108.md) | 11 Ağustos 2026, 11:08 | 🤖 AI Bülteni — 11 Ağustos 2026: Claude çıktılarına görünmez filigran, OpenAI'dan GPT-5.6-Cyber |
