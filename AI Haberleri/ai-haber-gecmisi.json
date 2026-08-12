@@ -3842,6 +3842,41 @@
    "kategori": "github",
    "tarih": "2026-08-12",
    "anahtar": "ragflow-open-source-rag-agent-engine"
+  },
+  {
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "baslik": "LTX-2.5: acik agirlikli video/dunya modeli, 10 saniyelik klibi 6,8 saniyede uretiyor",
+   "kategori": "model",
+   "tarih": "2026-08-12",
+   "anahtar": "ltx-2-5-open-weights-video-world-model"
+  },
+  {
+   "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+   "baslik": "Mistral bolgesel cikarim uclarini GA'ya aldi, platformunda GLM-5.2'yi acti",
+   "kategori": "model",
+   "tarih": "2026-08-12",
+   "anahtar": "mistral-regional-endpoints-glm-5-2-priority-tier"
+  },
+  {
+   "url": "https://github.com/omnigent-ai/omnigent",
+   "baslik": "omnigent - Claude Code, Codex, Cursor ve digerlerinin uzerine acik kaynak meta-harness",
+   "kategori": "github",
+   "tarih": "2026-08-12",
+   "anahtar": "omnigent-open-source-agent-meta-harness"
+  },
+  {
+   "url": "https://github.com/paradigmxyz/centaur",
+   "baslik": "centaur - Slack'ten calisan, Kubernetes sandbox'inda is koşan self-host ekip ajani",
+   "kategori": "github",
+   "tarih": "2026-08-12",
+   "anahtar": "centaur-selfhosted-shared-team-agent-slack"
+  },
+  {
+   "url": "https://github.com/hugohe3/ppt-master",
+   "baslik": "ppt-master - belgeleri duzenlenebilir native PPTX sunuma ceviren MIT lisansli arac",
+   "kategori": "github",
+   "tarih": "2026-08-12",
+   "anahtar": "ppt-master-native-editable-pptx-generator"
   }
  ]
 }
