@@ -3877,6 +3877,41 @@
    "kategori": "github",
    "tarih": "2026-08-12",
    "anahtar": "ppt-master-native-editable-pptx-generator"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.229: sunucu tarafindan verilen hook destegi, /commit-push-pr tehlikeli git bayraklarini otomatik onaylamiyor",
+   "kategori": "claude",
+   "tarih": "2026-08-13",
+   "anahtar": "claude-code-2-1-229-selfhosted-hooks-git-flags"
+  },
+  {
+   "url": "https://docs.x.ai/docs/models",
+   "baslik": "xAI Grok 4.6 yayinda: 1,5 trilyon parametre, 500k baglam, milyon token basina 2/6 dolar",
+   "kategori": "model",
+   "tarih": "2026-08-13",
+   "anahtar": "xai-grok-4-6-release-500k-context"
+  },
+  {
+   "url": "https://github.com/unslothai/unsloth",
+   "baslik": "unsloth - LLM ve difuzyon modellerini yerelde calistirip egitmek icin masaustu ve web arayuzu",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "unsloth-local-llm-run-train-ui"
+  },
+  {
+   "url": "https://github.com/code-yeongyu/oh-my-openagent",
+   "baslik": "oh-my-openagent - Claude, GPT ve Kimi'yi koordineli ajanlar olarak calistiran kodlama harness'i",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "oh-my-openagent-multi-model-coding-harness"
+  },
+  {
+   "url": "https://github.com/web-infra-dev/midscene",
+   "baslik": "midscene - DOM seciciler olmadan gorme tabanli UI otomasyon araci",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "midscene-vision-driven-ui-automation"
   }
  ]
 }

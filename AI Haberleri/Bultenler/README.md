@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 35 bülten
+Toplam: 36 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-13-0805.md`](./2026-08-13-0805.md) | 13 Ağustos 2026, 08:05 | 🤖 AI Bülteni — 13 Ağustos 2026: Claude Code 2.1.229 self-hosted runner'ı sıkılaştırdı, Grok 4.6 çıktı |
 | [`2026-08-12-2021.md`](./2026-08-12-2021.md) | 12 Ağustos 2026, 20:21 | 🤖 AI Bülteni — 12 Ağustos 2026: LTX-2.5 açık ağırlıklarla çıktı, Mistral Avrupa'da GLM-5.2'yi servis ediyor |
 | [`2026-08-12-1409.md`](./2026-08-12-1409.md) | 12 Ağustos 2026, 14:09 | 🤖 AI Bülteni — 12 Ağustos 2026: NVIDIA'nın açık 30B ajan modeli tek RTX'te, ChatGPT Linux masaüstüne geldi |
 | [`2026-08-12-0807.md`](./2026-08-12-0807.md) | 12 Ağustos 2026, 08:07 | 🤖 AI Bülteni — 12 Ağustos 2026: Claude Code 2.1.228 senkron skill'leri sertleştirdi, Write kuralı değişti |
