@@ -3912,6 +3912,34 @@
    "kategori": "github",
    "tarih": "2026-08-13",
    "anahtar": "midscene-vision-driven-ui-automation"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.231: on kayitli OAuth istemcisi kullanan MCP sunucularinda giris duzeltildi",
+   "kategori": "claude",
+   "tarih": "2026-08-13",
+   "anahtar": "claude-code-2-1-231-mcp-oauth-redirect-fix"
+  },
+  {
+   "url": "https://api-docs.deepseek.com/updates",
+   "baslik": "DeepSeek-V4-Pro-0813 GA: ajan yetenekleri guclendi, Codex uyumlu Responses API ve yogun/sakin saat fiyatlandirmasi",
+   "kategori": "model",
+   "tarih": "2026-08-13",
+   "anahtar": "deepseek-v4-pro-0813-ga-agent-responses-api"
+  },
+  {
+   "url": "https://github.com/altic-dev/FluidVoice",
+   "baslik": "FluidVoice - macOS icin tamamen cihaz uzerinde calisan yerel dikte uygulamasi",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "fluidvoice-on-device-macos-dictation"
+  },
+  {
+   "url": "https://github.com/holaboss-ai/holaOS",
+   "baslik": "holaOS - Claude Code ve Codex ajanlarini paylasimli bellekle tek arayuzde calistiran acik kaynak calisma alani",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "holaos-open-source-multi-agent-workspace"
   }
  ]
 }
