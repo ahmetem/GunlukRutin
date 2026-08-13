@@ -3940,6 +3940,34 @@
    "kategori": "github",
    "tarih": "2026-08-13",
    "anahtar": "holaos-open-source-multi-agent-workspace"
+  },
+  {
+   "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+   "baslik": "Anthropic, Decart AI'yi ~6 milyar dolara almak icin gorusuyor",
+   "kategori": "claude",
+   "tarih": "2026-08-13",
+   "anahtar": "anthropic-decart-acquisition-talks-6b"
+  },
+  {
+   "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+   "baslik": "Qwen3.8-Max'in acik agirliklari Hugging Face'te yayinda (2,4T / 95B MoE)",
+   "kategori": "model",
+   "tarih": "2026-08-13",
+   "anahtar": "qwen3-8-max-open-weights-huggingface"
+  },
+  {
+   "url": "https://github.com/apify/apify-mcp-server",
+   "baslik": "apify-mcp-server - ajanlari binlerce web kazima Actor'une baglayan MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "apify-mcp-server-web-scraping-actors"
+  },
+  {
+   "url": "https://github.com/lightningpixel/modly",
+   "baslik": "modly - fotograftan yerel GPU'da 3B model ureten acik kaynak masaustu uygulamasi",
+   "kategori": "github",
+   "tarih": "2026-08-13",
+   "anahtar": "modly-local-gpu-image-to-3d-desktop"
   }
  ]
 }
