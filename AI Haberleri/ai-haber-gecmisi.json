@@ -4017,6 +4017,20 @@
    "kategori": "github",
    "tarih": "2026-08-14",
    "anahtar": "github-spec-kit-spec-driven-development"
+  },
+  {
+   "url": "https://www.anthropic.com/research/multiagent-systems",
+   "baslik": "Anthropic Frontier Red Team: cok ajanli sistemlerde dort tekrarlayan ariza kalibi",
+   "kategori": "claude",
+   "tarih": "2026-08-14",
+   "anahtar": "anthropic-frontier-red-team-multiagent-failures"
+  },
+  {
+   "url": "https://z.ai/blog/glm-5.3",
+   "baslik": "Z.ai GLM-5.3'u yayinladi: kodlamada %50 sicrama, acik agirliklar iki hafta gecikmeli",
+   "kategori": "model",
+   "tarih": "2026-08-14",
+   "anahtar": "zai-glm-5-3-coding-jump-weights-delayed-cyber"
   }
  ]
 }
