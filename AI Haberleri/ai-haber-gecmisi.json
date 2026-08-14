@@ -3968,6 +3968,27 @@
    "kategori": "github",
    "tarih": "2026-08-13",
    "anahtar": "modly-local-gpu-image-to-3d-desktop"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.232: subagent forking varsayilan acik, oturumlar arasi @ mesajlasma ve guvenlik yamalari",
+   "kategori": "claude",
+   "tarih": "2026-08-14",
+   "anahtar": "claude-code-2-1-232-subagent-fork-default"
+  },
+  {
+   "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+   "baslik": "Claude Tag artik kanalin tamamini okuyor: proaktif yanit isabeti %30 arttı",
+   "kategori": "claude",
+   "tarih": "2026-08-14",
+   "anahtar": "claude-tag-channel-context-proactive"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+   "baslik": "Google Gemini 3.7 Flash'i duyurdu: kodlama ve ajanlar icin en zeki is ati",
+   "kategori": "model",
+   "tarih": "2026-08-14",
+   "anahtar": "google-gemini-3-7-flash-release"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 38 bülten
+Toplam: 39 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-14-0811.md`](./2026-08-14-0811.md) | 14 Ağustos 2026, 08:11 | 🤖 AI Bülteni — 14 Ağustos 2026: Claude Code 2.1.232 subagent forking'i varsayılan açtı, Gemini 3.7 Flash yayında |
 | [`2026-08-13-2015.md`](./2026-08-13-2015.md) | 13 Ağustos 2026, 20:15 | 🤖 AI Bülteni — 13 Ağustos 2026: Anthropic Decart'ı almak için görüşüyor, Qwen3.8-Max açık ağırlıkları indi |
 | [`2026-08-13-1407.md`](./2026-08-13-1407.md) | 13 Ağustos 2026, 14:07 | 🤖 AI Bülteni — 13 Ağustos 2026: DeepSeek V4 Pro GA'ya geçti, Claude Code MCP OAuth hatasını kapattı |
 | [`2026-08-13-0805.md`](./2026-08-13-0805.md) | 13 Ağustos 2026, 08:05 | 🤖 AI Bülteni — 13 Ağustos 2026: Claude Code 2.1.229 self-hosted runner'ı sıkılaştırdı, Grok 4.6 çıktı |
