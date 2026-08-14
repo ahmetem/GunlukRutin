@@ -3989,6 +3989,34 @@
    "kategori": "model",
    "tarih": "2026-08-14",
    "anahtar": "google-gemini-3-7-flash-release"
+  },
+  {
+   "url": "https://openai.com/index/previewing-ultrafast/",
+   "baslik": "OpenAI, Ultrafast modunu duyurdu: GPT-5.6 Sol 14 kata kadar hizli",
+   "kategori": "model",
+   "tarih": "2026-08-14",
+   "anahtar": "openai-gpt-5-6-sol-ultrafast-preview"
+  },
+  {
+   "url": "https://github.com/vercel-labs/deepsec",
+   "baslik": "vercel-labs/deepsec - kodlama ajanlariyla calisan self-host guvenlik acigi tarayicisi",
+   "kategori": "github",
+   "tarih": "2026-08-14",
+   "anahtar": "vercel-deepsec-agent-vulnerability-scanner"
+  },
+  {
+   "url": "https://github.com/pacifio/atlas",
+   "baslik": "pacifio/atlas - kodlama ajanlari icin surum kontrolu ve paylasimli baglam",
+   "kategori": "github",
+   "tarih": "2026-08-14",
+   "anahtar": "atlas-agent-source-control-shared-context"
+  },
+  {
+   "url": "https://github.com/github/spec-kit",
+   "baslik": "github/spec-kit - spesifikasyon gudumlu gelistirme araci, 30+ kodlama ajani destekli",
+   "kategori": "github",
+   "tarih": "2026-08-14",
+   "anahtar": "github-spec-kit-spec-driven-development"
   }
  ]
 }
