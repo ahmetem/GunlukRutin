@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 41 bülten
+Toplam: 42 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-17-0403.md`](./2026-08-17-0403.md) | 17 Ağustos 2026, 04:03 | 🤖 AI Bülteni — 17 Ağustos 2026: Claude Code 2.1.233 todo araçlarını kapattı, Qwen3.8-27B açık ağırlıkla indi |
 | [`2026-08-14-2011.md`](./2026-08-14-2011.md) | 14 Ağustos 2026, 20:11 | 🤖 AI Bülteni — 14 Ağustos 2026: Z.ai GLM-5.3 çıktı ama ağırlıkları siber risk için beklemede |
 | [`2026-08-14-1412.md`](./2026-08-14-1412.md) | 14 Ağustos 2026, 14:12 | 🤖 AI Bülteni — 14 Ağustos 2026: OpenAI Ultrafast modu GPT-5.6 Sol'u 14 kat hızlandırdı, ajan araçları öne çıktı |
 | [`2026-08-14-0811.md`](./2026-08-14-0811.md) | 14 Ağustos 2026, 08:11 | 🤖 AI Bülteni — 14 Ağustos 2026: Claude Code 2.1.232 subagent forking'i varsayılan açtı, Gemini 3.7 Flash yayında |
