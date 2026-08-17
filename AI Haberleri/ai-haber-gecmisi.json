@@ -3629,6 +3629,34 @@
    "kategori": "github",
    "tarih": "2026-08-17",
    "anahtar": "modlens-vision-plugin-text-only-models"
+  },
+  {
+   "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+   "baslik": "Copilot Autofix'in yazdığı düzeltme açık yarattı; otonom ajan Snowflake'in Jira token'ını çaldı",
+   "kategori": "model",
+   "tarih": "2026-08-17",
+   "anahtar": "wiz-red-agent-copilot-autofix-snowflake-token"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+   "baslik": "GitHub dünya çapında çöktü, Copilot da servis dışı kaldı",
+   "kategori": "model",
+   "tarih": "2026-08-17",
+   "anahtar": "github-worldwide-outage-copilot-degraded"
+  },
+  {
+   "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+   "baslik": "Amazon nadir kitapları AI eğitimi için tarayıp imha ediyor",
+   "kategori": "model",
+   "tarih": "2026-08-17",
+   "anahtar": "amazon-book-scanning-destroying-ai-training"
+  },
+  {
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "baslik": "ai-memory - kodlama ajanları arasında taşınabilir kalıcı bellek (Rust, git+markdown, self-host)",
+   "kategori": "github",
+   "tarih": "2026-08-17",
+   "anahtar": "ai-memory-cross-agent-persistent-memory"
   }
  ]
 }

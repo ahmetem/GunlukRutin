@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 44 bülten
+Toplam: 45 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-17-2006.md`](./2026-08-17-2006.md) | 17 Ağustos 2026, 20:06 | 🤖 AI Bülteni — 17 Ağustos 2026: Copilot'un yazdığı açık, GitHub çöktü, ajanlar arası kalıcı bellek |
 | [`2026-08-17-1410.md`](./2026-08-17-1410.md) | 17 Ağustos 2026, 14:10 | 🤖 AI Bülteni — 17 Ağustos 2026: Ajanlar CPU'ya sıkıştı, MCP ile 150+ güvenlik aracı |
 | [`2026-08-17-0809.md`](./2026-08-17-0809.md) | 17 Ağustos 2026, 08:09 | 🤖 AI Bülteni — 17 Ağustos 2026: Claude'da 42 dakikalık kesinti, masaüstünde çok ajanlı harness |
 | [`2026-08-17-0403.md`](./2026-08-17-0403.md) | 17 Ağustos 2026, 04:03 | 🤖 AI Bülteni — 17 Ağustos 2026: Claude Code 2.1.233 todo araçlarını kapattı, Qwen3.8-27B açık ağırlıkla indi |
