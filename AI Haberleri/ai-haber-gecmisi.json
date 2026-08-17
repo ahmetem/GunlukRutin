@@ -3594,6 +3594,20 @@
    "kategori": "github",
    "tarih": "2026-08-17",
    "anahtar": "soup-yaml-llm-finetune-layer-streaming"
+  },
+  {
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+   "baslik": "Claude, Claude Code ve Cowork 16 Ağustos akşamı ~42 dakika kesinti yaşadı",
+   "kategori": "claude",
+   "tarih": "2026-08-17",
+   "anahtar": "anthropic-claude-outage-16-august"
+  },
+  {
+   "url": "https://github.com/chaitanyagiri/munder-difflin",
+   "baslik": "munder-difflin - kodlama ajanlarını tek masaüstünde koordine eden yerel çok ajanlı harness",
+   "kategori": "github",
+   "tarih": "2026-08-17",
+   "anahtar": "munder-difflin-local-multi-agent-desktop-harness"
   }
  ]
 }
