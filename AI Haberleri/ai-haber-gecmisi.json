@@ -3608,6 +3608,27 @@
    "kategori": "github",
    "tarih": "2026-08-17",
    "anahtar": "munder-difflin-local-multi-agent-desktop-harness"
+  },
+  {
+   "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+   "baslik": "Ajan is yuklerinde darbogaz GPU degil CPU'ya kaydi; AWS mühendislerine CPU tasarrufu talimati verdi",
+   "kategori": "model",
+   "tarih": "2026-08-17",
+   "anahtar": "agentic-ai-cpu-bottleneck-aws-rationing"
+  },
+  {
+   "url": "https://github.com/0x4m4/hexstrike-ai",
+   "baslik": "hexstrike-ai - ajanlara 150+ guvenlik aracini otonom calistiran MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-08-17",
+   "anahtar": "hexstrike-ai-mcp-security-tools"
+  },
+  {
+   "url": "https://github.com/liustack/modlens",
+   "baslik": "modlens - metin modellerine goruntu okuma ekleyen, yapilandirilmis JSON ureten gorü eklentisi",
+   "kategori": "github",
+   "tarih": "2026-08-17",
+   "anahtar": "modlens-vision-plugin-text-only-models"
   }
  ]
 }

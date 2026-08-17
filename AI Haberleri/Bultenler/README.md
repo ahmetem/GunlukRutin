@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 43 bülten
+Toplam: 44 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-17-1410.md`](./2026-08-17-1410.md) | 17 Ağustos 2026, 14:10 | 🤖 AI Bülteni — 17 Ağustos 2026: Ajanlar CPU'ya sıkıştı, MCP ile 150+ güvenlik aracı |
 | [`2026-08-17-0809.md`](./2026-08-17-0809.md) | 17 Ağustos 2026, 08:09 | 🤖 AI Bülteni — 17 Ağustos 2026: Claude'da 42 dakikalık kesinti, masaüstünde çok ajanlı harness |
 | [`2026-08-17-0403.md`](./2026-08-17-0403.md) | 17 Ağustos 2026, 04:03 | 🤖 AI Bülteni — 17 Ağustos 2026: Claude Code 2.1.233 todo araçlarını kapattı, Qwen3.8-27B açık ağırlıkla indi |
 | [`2026-08-14-2011.md`](./2026-08-14-2011.md) | 14 Ağustos 2026, 20:11 | 🤖 AI Bülteni — 14 Ağustos 2026: Z.ai GLM-5.3 çıktı ama ağırlıkları siber risk için beklemede |
