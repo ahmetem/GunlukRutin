@@ -3527,6 +3527,48 @@
    "kategori": "github",
    "tarih": "2026-08-19",
    "anahtar": "docling-document-parsing-mcp-genai"
+  },
+  {
+   "url": "https://devops.com/claude-codes-temporary-usage-boost-expires-tonight-heres-what-actually-changes/",
+   "baslik": "Claude Code'un %50'lik geçici haftalık limit artışı bu gece sona eriyor",
+   "kategori": "claude",
+   "tarih": "2026-08-19",
+   "anahtar": "claude-code-usage-boost-expiry-19-august"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude Console'daki Workbench artık \"Playground\"",
+   "kategori": "claude",
+   "tarih": "2026-08-19",
+   "anahtar": "claude-console-workbench-renamed-playground"
+  },
+  {
+   "url": "https://www.varonis.com/blog/cosnitch",
+   "baslik": "Microsoft, Copilot'taki \"CoSnitch\" açığını sekiz ay sonra yamaladı: tek tıkla bağlı hesaplardan veri sızdırma",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "microsoft-copilot-cosnitch-oneclick-exfiltration-patch"
+  },
+  {
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "baslik": "graphify - kod tabanını yerelde sorgulanabilir bilgi grafiğine çeviren, MCP sunuculu araç",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "graphify-local-codebase-knowledge-graph-mcp"
+  },
+  {
+   "url": "https://github.com/TencentCloud/CubeSandbox",
+   "baslik": "CubeSandbox - AI ajanları için MicroVM tabanlı, self-host edilebilir kod çalıştırma sandbox'ı",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "cubesandbox-microvm-agent-code-sandbox"
+  },
+  {
+   "url": "https://github.com/QuantumNous/new-api",
+   "baslik": "new-api - çok sağlayıcılı, biçim dönüştüren self-host LLM ağ geçidi",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "new-api-selfhosted-multiprovider-llm-gateway"
   }
  ]
 }
