@@ -3492,6 +3492,41 @@
    "kategori": "github",
    "tarih": "2026-08-19",
    "anahtar": "microsandbox-microvm-agent-sandbox-runtime"
+  },
+  {
+   "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+   "baslik": "Cursor, GitHub'a rakip kod barındırma platformu Origin'i yayınladı",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "cursor-origin-code-hosting-launch"
+  },
+  {
+   "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+   "baslik": "OpenAI, Hugging Face ihlalinin ardından yeni güvenlik önlemlerini duyurdu ve pekiştirmeli öğrenmeyi durdurdu",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "openai-post-breach-safeguards-rl-pause"
+  },
+  {
+   "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+   "baslik": "Warp, ajan tabanlı yazılım geliştirme için Warp Factories altyapısını tanıttı",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "warp-factories-agent-dev-infrastructure"
+  },
+  {
+   "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+   "baslik": "pipeshub-ai - self-host edilebilir kurumsal AI bağlam katmanı, MCP sunuculu ajan otomasyonu",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "pipeshub-ai-selfhosted-context-layer-mcp"
+  },
+  {
+   "url": "https://github.com/docling-project/docling",
+   "baslik": "docling - belgeleri üretken AI için ayrıştıran MIT lisanslı kütüphane, MCP sunucusu ve yerel çalışma",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "docling-document-parsing-mcp-genai"
   }
  ]
 }
