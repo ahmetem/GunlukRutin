@@ -2,108 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.digitalapplied.com/blog/claude-fable-5-extended-july-19-access-uncertainty-2026",
-   "baslik": "Claude Fable 5'te ücretsiz erişim 19 Temmuz'da sona erdi, kredi bazlı fiyatlandırma başlıyor",
-   "kategori": "claude",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code/releases",
-   "baslik": "Claude Code'a arka planda çalışan /fork oturumları, ekran okuyucu modu ve WebSearch çağrı limiti geldi",
-   "kategori": "claude",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-   "baslik": "awesome-claude-skills - Claude Skills için küratörlü kaynak ve araç listesi, 60binin üzerinde yıldız aldı",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/karpathy/nanochat",
-   "baslik": "nanochat - Andrej Karpathy'nin 100 dolara sıfırdan ChatGPT klonu eğiten uçtan uca proje",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/320905/20260718/claude-fable-5-ends-subscription-limbo-permanent-max-credits-only-pro.htm",
-   "baslik": "Claude Fable 5, 20 Temmuz'dan itibaren Max/Team Premium'da kalıcı oluyor, Pro kullanıcıları kredi bazlı ücretlendirmeye geçiyor",
-   "kategori": "claude",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
-   "baslik": "OpenAI CFO'sundan AI yatırım getirisini ölçen 'Dolar Başına Yararlı Zeka' skor kartı",
-   "kategori": "model",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/apache/ossie",
-   "baslik": "Apache Ossie - AI ve BI platformları arasında semantik veri standardı sağlayan proje",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/iOfficeAI/OfficeCLI",
-   "baslik": "OfficeCLI - AI ajanlarının Word/Excel/PowerPoint dosyalarını yönetmesini sağlayan açık kaynak ofis paketi",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/jamiepine/voicebox",
-   "baslik": "voicebox - klonlama, dikte ve ses üretimi sunan açık kaynak AI ses stüdyosu",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/kvcache-ai/ktransformers",
-   "baslik": "ktransformers - CPU/GPU hibrit çıkarım ile MoE modellerini hızlandıran esnek LLM çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/1jehuang/jcode",
-   "baslik": "jcode - hafıza sistemi ve çoklu oturum desteğine sahip kodlama ajanı harness'ı",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/KnockOutEZ/wigolo",
-   "baslik": "wigolo - AI kodlama ajanları için API anahtarsız, yerel-öncelikli web arama/kazıma MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/AstrBotDevs/AstrBot",
-   "baslik": "AstrBot - mesajlaşma platformlarını LLM ve eklentilerle birleştiren açık kaynak AI ajan çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-   "baslik": "Beyaz Saray, Anthropic'in Mythos/Project Glasswing dahil sınır ötesi AI modellerine erişimi doğrudan kontrol etmeye başladı",
-   "kategori": "claude",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://finance.yahoo.com/technology/ai/articles/fireworks-raises-1-5-billion-130000636.html",
-   "baslik": "Nvidia destekli Fireworks AI, 17,5 milyar dolar değerlemeyle 1,5 milyar dolarlık Series D turu tamamladı",
-   "kategori": "model",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/Canner/WrenAI",
-   "baslik": "WrenAI - doğal dili SQL/grafiklere çeviren açık kaynak Generative BI (GenBI) motoru",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
-   "url": "https://github.com/trycua/cua",
-   "baslik": "Cua - masaüstü bilgisayarları kontrol eden AI ajanları için açık kaynak computer-use altyapısı",
-   "kategori": "github",
-   "tarih": "2026-07-19"
-  },
-  {
    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
    "baslik": "Claude Code v2.1.215: /verify ve /code-review artık kendiliğinden çalışmıyor",
    "kategori": "claude",
@@ -3559,6 +3457,41 @@
    "kategori": "github",
    "tarih": "2026-08-18",
    "anahtar": "mlx-audio-apple-silicon-speech-library"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.235: izin diyalogunda oturum geneli yetki veren hata duzeltildi, spellcheck ayari eklendi",
+   "kategori": "claude",
+   "tarih": "2026-08-19",
+   "anahtar": "claude-code-2-1-235-permission-shift-tab-fix-spellcheck"
+  },
+  {
+   "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+   "baslik": "Claude, protein tasariminda 15 hedefin 14'unde baglayici uretti; Opus 5 analitik kimya verisini 25 dakikada isledi",
+   "kategori": "claude",
+   "tarih": "2026-08-19",
+   "anahtar": "anthropic-claude-protein-design-analytical-chemistry"
+  },
+  {
+   "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+   "baslik": "OpenAI, 13-17 yas icin ayri bir ChatGPT surumu baslatti (ChatGPT for Teens)",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "openai-chatgpt-for-teens-launch"
+  },
+  {
+   "url": "https://www.thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+   "baslik": "CISA, aktif somurulen Ray acigini acil yama listesine aldi (CVE-2025-62593, CVSS 9.4)",
+   "kategori": "model",
+   "tarih": "2026-08-19",
+   "anahtar": "cisa-ray-cve-2025-62593-rce-exploited"
+  },
+  {
+   "url": "https://github.com/superradcompany/microsandbox",
+   "baslik": "microsandbox - ajanlari ve guvenilmeyen kodu 100 ms altinda acilan mikroVM'lerde izole eden self-host calisma zamani",
+   "kategori": "github",
+   "tarih": "2026-08-19",
+   "anahtar": "microsandbox-microvm-agent-sandbox-runtime"
   }
  ]
 }
