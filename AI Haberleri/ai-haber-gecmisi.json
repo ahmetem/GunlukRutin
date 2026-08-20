@@ -2,120 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-   "baslik": "Claude Code v2.1.215: /verify ve /code-review artık kendiliğinden çalışmıyor",
-   "kategori": "claude",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/bojieli/ai-agent-book",
-   "baslik": "ai-agent-book - AI Agent tasarım ilkeleri ve mühendislik pratiklerini anlatan açık kaynak kitap",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/langchain-ai/openwiki",
-   "baslik": "OpenWiki - LangChain'in kod tabanları için AI ajanlarına özel dokümantasyon üreten CLI aracı",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
-   "baslik": "AB, Google'ı Android'i rakip AI asistanlarına açmaya ve arama verisini paylaşmaya zorladı",
-   "kategori": "model",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-   "baslik": "Microsoft'un yapay zeka destekli tarama sistemi rekor 570 güvenlik açığı buldu",
-   "kategori": "model",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/ruvnet/ruflo",
-   "baslik": "Ruflo - çoklu AI ajan sürülerini (swarm) yöneten meta-harness",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/garrytan/gstack",
-   "baslik": "gstack - Garry Tan'ın Claude Code kurulumunu paylaşan 23 araçlık skill koleksiyonu",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/SigNoz/signoz",
-   "baslik": "SigNoz - AI ajanlarını da destekleyen açık kaynak OpenTelemetry gözlemlenebilirlik platformu",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/msitarzewski/agency-agents",
-   "baslik": "agency-agents - Claude Code ve diğer araçlar için 60+ uzman kişilikli AI ajan koleksiyonu, birkaç günde 90bin+ yıldız aldı",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/topoteretes/cognee",
-   "baslik": "cognee - AI ajanlarına kalıcı uzun vadeli hafıza kazandıran açık kaynak bilgi grafiği platformu",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/jlowin/fastmcp",
-   "baslik": "FastMCP - Python'da hızlı ve pratik MCP sunucusu/istemcisi geliştirmeyi sağlayan çerçeve",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/320999/20260720/claude-fable-5-billing-splits-today-max-gets-it-free-pro-pays-per-token.htm",
-   "baslik": "Claude Fable 5'in Max/Pro faturalama ayrımı bugün (20 Temmuz) yürürlüğe girdi",
-   "kategori": "claude",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://www.anthropic.com/news/hard-questions",
-   "baslik": "Anthropic, halktan AI hakkında en zor soruları toplayıp yanıtlayacağı 'Hard Questions' girişimini başlattı",
-   "kategori": "claude",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
-   "baslik": "Alibaba, 2,4 trilyon parametreli Qwen3.8-Max-Preview'ı tanıttı, Claude Fable 5'ten sonra ikinci olduğunu iddia ediyor",
-   "kategori": "model",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
-   "baslik": "Perplexity, AI ajanları için Firecracker microVM tabanlı güvenli sandbox platformu SPACE'i duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/JustVugg/colibri",
-   "baslik": "Colibri - 744 milyar parametreli GLM-5.2'yi 25GB RAM'li tüketici bilgisayarında çalıştıran sıfır bağımlılıklı C çıkarım motoru",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/facebook/astryx",
-   "baslik": "Astryx - Meta'nın açık kaynak yaptığı, AI ajanlarının okuyabildiği React tasarım sistemi (90+ bileşen, MCP desteği)",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/moonshine-ai/moonshine",
-   "baslik": "Moonshine - Whisper'dan 1,7 kat daha hızlı, cihaz üzerinde çalışan açık kaynak konuşma-metin modeli",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
-   "url": "https://github.com/handy-computer/transcribe.cpp",
-   "baslik": "transcribe.cpp - 16+ model ailesini destekleyen GGML tabanlı konuşma-metin çıkarım motoru",
-   "kategori": "github",
-   "tarih": "2026-07-20"
-  },
-  {
    "url": "https://www.anthropic.com/news/rare-disease-research-grants",
    "baslik": "Anthropic, nadir hastalık araştırmaları için Claude Science hibe başvurularını açtı",
    "kategori": "claude",
@@ -3569,6 +3455,27 @@
    "kategori": "github",
    "tarih": "2026-08-19",
    "anahtar": "new-api-selfhosted-multiprovider-llm-gateway"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.236: ANTHROPIC_DEFAULT_MODEL, macOS sandbox okuma-yasagi sikilastirmasi, auto mode duzeltmeleri",
+   "kategori": "claude",
+   "tarih": "2026-08-20",
+   "anahtar": "claude-code-2-1-236-default-model-env-sandbox-deny"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.237: LLM ag gecidi prompt onbellegi duzeltildi, Concise cikti stili",
+   "kategori": "claude",
+   "tarih": "2026-08-20",
+   "anahtar": "claude-code-2-1-237-gateway-cache-concise-style"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude API'de Files API, Agent Skills ve Enterprise Admin API genel kullanima gecti",
+   "kategori": "claude",
+   "tarih": "2026-08-20",
+   "anahtar": "claude-api-files-skills-admin-ga"
   }
  ]
 }
