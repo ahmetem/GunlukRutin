@@ -7,20 +7,20 @@
           "interval": [
             {
               "field": "=cronExpression",
-              "expression": "25 * * * *"
+              "expression": "=10 8,14,20 * * *"
             }
           ]
         }
       },
       "id": "c2000000-0000-4000-8000-000000000001",
-      "name": "Zamanlama (her saat :25)",
+      "name": "Zamanlama (08:10 / 14:10 / 20:10)",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
       "position": [
         -340,
         0
       ],
-      "notes": "Rutin saatlik calisip push ediyor; bu her saat :25te bakiyor. Gonderilmemis bulten yoksa mail gitmez."
+      "notes": "Rutin gun icinde birkac kez push ediyor; bu gunde 3 kez bakiyor. Gonderilmemis bulten yoksa mail gitmez."
     },
     {
       "parameters": {
@@ -212,7 +212,7 @@
     }
   ],
   "connections": {
-    "Zamanlama (her saat :25)": {
+    "Zamanlama (08:10 / 14:10 / 20:10)": {
       "main": [
         [
           {
@@ -300,6 +300,6 @@
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate",
-    "availableInMCP": false
+    "availableInMCP": true
   }
 }

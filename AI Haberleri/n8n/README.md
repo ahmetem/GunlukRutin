@@ -15,20 +15,26 @@ n8n: CT 202, `192.168.1.24:5678`, dışarıdan `https://n8n.ahmetkaraca.com`.
 
 **Kök neden — `Gönderilmeyenleri bul` en ESKİden başlıyordu.** Düğüm dosya
 listesini artan sırada tutuyor, `bekleyen` listesini de o sırada bırakıp
-`bekleyen.slice(0, TUR_BASINA_LIMIT)` ile **en eski 3'ü** seçiyordu. v2 içe
-aktarıldığında static data boş olduğu için tohumlama `ESIK = 2026-08-10-0000.md`
-ile yapıldı ve 10 Ağustos'tan 21 Ağustos'a kadar **25 bülten** birden "bekleyen"
-oldu. Tur başına 3 mail limitiyle:
+`bekleyen.slice(0, TUR_BASINA_LIMIT)` ile **en eski 3'ü** seçiyordu. v2 o güne
+kadar hiç çalışmamıştı; ilk çalışmasında static data boş olduğu için tohumlama
+`ESIK = 2026-08-10-0000.md` ile yapıldı ve 10 Ağustos'tan 21 Ağustos'a kadarki
+bültenler birden "bekleyen" oldu.
 
-| Tur | Giden |
-|---|---|
-| 1 | 10 Ağustos × 3 |
-| 2 | **11 Ağustos × 3** ← kullanıcının gördüğü mail |
-| … | … |
-| 9 | 21 Ağustos |
+Canlı execution kayıtları (workflow `4yaRdVi0xKQyvvxi`) olayı birebir gösteriyor:
 
-Yani hata değildi, **sıra**ydı: günün bülteni kuyrukta 25. olduğu için ~9 tur
-(≥9 saat) sonra gelecekti. Bu arada gelen her mail eski haber olacaktı.
+| Execution | Zaman (UTC) | Mod | Ne yaptı |
+|---|---|---|---|
+| 1056 | 11:10:00 | `trigger` | Tohumladı (`tohumlandi`), **10 Ağustos × 3** postaladı, static data'ya yazdı |
+| 1059 | 11:53:32 | `manual` | **11 Ağustos × 3** postaladı ← görülen mail; **static data'ya YAZMADI** |
+
+Yani hata değildi, **sıra**ydı — ve iki katmanlı bir sıkışma vardı:
+
+- Zamanlama `10 8,14,20 * * *`, yani **günde 3 tur**. Tur başına 3 mail ile
+  21 bültenlik kuyruğun sonundaki günün bülteni ~7 tur ≈ **2,5 gün** sonra
+  gelecekti; o arada gelen her mail eski haber olacaktı.
+- Elle çalıştırma (`manual`) static data'yı kaydetmediği için işaretleme
+  kalıcı olmuyordu: elle her deneme aynı **11 Ağustos** partisini tekrar
+  gönderiyordu, kuyruk hiç ilerlemiyordu.
 
 **Düzeltme (v2.1) — iki değişiklik:**
 
@@ -46,6 +52,24 @@ workflow yeniden içe aktarılsa ya da `ESIK` yanlış olsa bile en kötü senar
 "son bülten + son 36 saatinkiler" gider — arşiv replay'i imkânsız.
 
 `TAZE_SAAT`'i 0 yaparsan davranış "yalnızca en yeni bülten"e iner.
+
+**Canlıya uygulandı — 21 Ağustos 2026, 15:45 (Europe/Istanbul).** n8n public
+API ile (`PUT /api/v1/workflows/4yaRdVi0xKQyvvxi`):
+
+- Üç Code düğümünün `jsCode`'u repodaki sürüme çekildi. Canlı `nodes` üzerinden
+  gidildiği için Gmail kimlik bilgisi, düğüm konumları ve **UI'dan değiştirilmiş
+  cron** (`10 8,14,20 * * *` — repodaki `25 * * * *` değil) korundu; repo JSON'u
+  da canlıyla eşitlendi.
+- `staticData.global.gonderilenler`'e postalanmamış 20 eski bülten mail
+  atılmadan eklendi (`elleBosaltilan` alanı bunu kaydeder) — geçiş anında
+  backlog'un tek seferde boşaltılması. Kalan tek bekleyen `2026-08-21-1407.md`.
+- Public API'de workflow çalıştırma ucu **yok** (`/run`, `/execute` → 405) ve
+  elle çalıştırma static data yazmadığı için, tur tetiklemek üzere cron geçici
+  olarak tek seferlik `45 15 21 8 *` yapıldı, `trigger` modunda çalıştı
+  (execution 1060: `2026-08-21-1407.md` → Gmail id `1a0245a6ea31e74e`,
+  `basarisiz: []`), ardından cron geri alındı ve doğrulandı.
+
+Sonuç: `activeVersion` yeni kodu taşıyor, workflow `active`, bekleyen bülten yok.
 
 ## v1 neden değişti — 10 Ağustos 2026 arızası
 
@@ -81,7 +105,7 @@ API** üzerinden okur — o uçta CDN önbelleği yok.
 ## Akış
 
 ```
-Her saat :25'te kontrol et  (Schedule Trigger, 25 * * * *)
+Günde 3 kez kontrol et      (Schedule Trigger, 10 8,14,20 * * *)
   → Bülten listesini çek    (HTTP, GitHub Contents API, text + fullResponse)
   → Gönderilmeyenleri bul   (Code, static data kümesiyle karşılaştır)
   → Gönderilecek var mı?    (IF)
@@ -150,14 +174,31 @@ yüzden test yıllar sonra da aynı sonucu verir.
   Workflow'u silip yeniden içe aktarırsan bu hafıza sıfırlanır — `ESIK`
   o yüzden var. Taze pencere de ikinci savunma hattı: hafıza sıfırlansa bile
   arşiv postalanmaz.
-- ⚠️ **n8n static data'yı yalnızca üretim (Active/cron) çalışmalarında kaydeder;
-  "Execute Workflow" ile elle çalıştırmada kaydetmez.** Yani elle test edersen
-  aynı bülten bir sonraki elle çalıştırmada tekrar gider — hata değil, n8n'in
+- ⚠️ **n8n static data'yı yalnızca üretim (`trigger`) çalışmalarında kaydeder;
+  "Execute Workflow" ile elle çalıştırmada kaydetmez.** Bu instance'ta ölçüldü
+  (21 Ağustos 2026): execution 1056 (`trigger`) `gonderilenler`'i yazdı,
+  execution 1059 (`manual`) mail attı ama **hiçbir şey yazmadı**. Yani elle
+  test edersen aynı bülten her denemede tekrar gider — hata değil, n8n'in
   davranışı. Tekrar önlemenin çalıştığını görmek için workflow'un **Active**
-  olması gerekir. (n8n'de static data'nın konteyner yeniden başlatmasından
-  sonra kalıcı olmadığı bildirilen bir hata da var: n8n-io/n8n#3662. CT 202
-  yeniden başladıysa `gonderilenler` boşalmış olabilir — v2.1'de bu artık
-  arşiv maili yağmasına yol açmaz.)
+  olması ve turun zamanlamadan gelmesi gerekir.
+  - Bu yüzden "bir tur çalıştır" gerektiğinde en temiz yol cron'u geçici olarak
+    tek seferlik bir ifadeye çekmek (gün + ay dahil: `45 15 21 8 *`, yanlışlıkla
+    tekrarlamaz), `POST /api/v1/workflows/<id>/activate` ile tetikleyiciyi
+    yeniden yükletmek, tur bittikten sonra cron'u geri koymak.
+  - n8n'de static data'nın konteyner yeniden başlatmasından sonra kalıcı
+    olmadığı bildirilen bir hata da var: n8n-io/n8n#3662. CT 202 yeniden
+    başladıysa `gonderilenler` boşalmış olabilir — v2.1'de bu artık arşiv maili
+    yağmasına yol açmaz.
+- Public API'de **workflow çalıştırma ucu yok** (`/workflows/<id>/run` ve
+  `/execute` → HTTP 405). Kullanılabilenler: `GET/PUT /workflows/<id>`,
+  `POST /workflows/<id>/activate`, `GET /executions?workflowId=…&includeData=true`.
+  `PUT` gövdesi yalnızca `name`, `nodes`, `connections`, `settings`, `staticData`
+  kabul eder — `id`/`active` gibi salt-okunur alanları göndermek 400 verir.
+- Workflow'un **canlı hali repodakinden ayrışabilir** (UI'dan düzenleme). PUT
+  yapmadan önce `GET` ile çek ve yalnızca değiştirmek istediğin alanı yaz;
+  komple repo JSON'u basmak UI'daki cron/kimlik bilgisi ayarlarını ezer.
+  `activeVersionId == versionId` ve `activeVersion.nodes` içeriği, değişikliğin
+  gerçekten **yayındaki** sürüme girdiğini doğrulamanın yolu.
 - **Mail gönder** düğümü `onError: continueRegularOutput` ile çalışır: bir mail
   patlasa da diğerleri gider, patlayan dosya işaretlenmez ve sonraki saatte
   tekrar denenir. Hata metni `Gönderildi olarak işaretle` çıktısındaki
