@@ -3396,6 +3396,41 @@
    "kategori": "github",
    "tarih": "2026-08-21",
    "anahtar": "tencent-ai-infra-guard-red-teaming-platform"
+  },
+  {
+   "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+   "baslik": "Claude Platform'da computer use GA oldu; browser use araci, Skills API ve Files API geldi",
+   "kategori": "claude",
+   "tarih": "2026-08-21",
+   "anahtar": "claude-computer-use-ga-browser-tool-skills-files-api"
+  },
+  {
+   "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+   "baslik": "OpenAI, macOS'te ChatGPT'ye Apple Messages eklentisi ekledi",
+   "kategori": "model",
+   "tarih": "2026-08-21",
+   "anahtar": "openai-chatgpt-apple-messages-plugin-macos"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+   "baslik": "Google'in acik agirlikli Gemma ailesi 1 milyar indirmeyi gecti",
+   "kategori": "model",
+   "tarih": "2026-08-21",
+   "anahtar": "google-gemma-one-billion-downloads"
+  },
+  {
+   "url": "https://github.com/Osmantic/ODS",
+   "baslik": "Osmantic/ODS - kisisel bilgisayari tek komutla ozel AI sunucusuna ceviren self-host yigin",
+   "kategori": "github",
+   "tarih": "2026-08-21",
+   "anahtar": "ods-selfhosted-personal-ai-server-stack"
+  },
+  {
+   "url": "https://github.com/modular/modular",
+   "baslik": "modular/modular - MAX ve Mojo'yu iceren Modular Platform acik kaynak bilesenleri",
+   "kategori": "github",
+   "tarih": "2026-08-21",
+   "anahtar": "modular-max-mojo-inference-platform"
   }
  ]
 }
