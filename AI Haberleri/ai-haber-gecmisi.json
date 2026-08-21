@@ -2,102 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.anthropic.com/news/rare-disease-research-grants",
-   "baslik": "Anthropic, nadir hastalık araştırmaları için Claude Science hibe başvurularını açtı",
-   "kategori": "claude",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://www.scmp.com/tech/article/3361172/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints",
-   "baslik": "Moonshot AI, talep patlaması nedeniyle Kimi K3'e yeni abonelik kaydını durdurdu",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
-   "baslik": "SAP, Prior Labs'i satın alarak Avrupa'da 1 milyar €'luk frontier AI laboratuvarı kuruyor",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://github.com/DietrichGebert/ponytail",
-   "baslik": "ponytail - AI ajanlarını 'tembel kıdemli geliştirici' gibi düşündürüp kodu azaltan araç",
-   "kategori": "github",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-20/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
-   "baslik": "Claude Code'un yaratıcısı Boris Cherny, 2026'nın en çok konuşulan yazılımını anlattı",
-   "kategori": "claude",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-   "baslik": "OpenAI'ın açık ağırlıklı modellerden (Kimi K3 gibi) duyduğu endişe tartışma yarattı",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-   "baslik": "OpenAI'ın GPT-5.6 model ailesi (Sol/Terra/Luna) Amazon Bedrock'ta genel kullanıma açıldı",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://github.com/every-app/open-seo",
-   "baslik": "OpenSEO - Claude Code gibi AI ajanlarına MCP ile bağlanan açık kaynak SEO analiz aracı",
-   "kategori": "github",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://github.com/QwenLM/qwen-code",
-   "baslik": "Qwen Code - Alibaba'nın terminalde çalışan açık kaynak AI kodlama ajanı",
-   "kategori": "github",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://github.com/browseros-ai/BrowserOS",
-   "baslik": "BrowserOS - ChatGPT Atlas ve Comet'e alternatif açık kaynak ajan tabanlı tarayıcı",
-   "kategori": "github",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://github.com/AlexsJones/llmfit",
-   "baslik": "llmfit - hangi LLM'in donanımınızda çalışacağını tek komutla bulan araç",
-   "kategori": "github",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-   "baslik": "Federal yargıç, Anthropic'in yazarlarla yaptığı 1,5 milyar dolarlık telif hakkı anlaşmasını onayladı",
-   "kategori": "claude",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-   "baslik": "Pillar Security araştırması: Cursor, OpenAI Codex, Gemini CLI ve Antigravity'de sandbox kaçış açıkları bulundu",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-   "baslik": "Beş büyük teknoloji devinin gizli AI borcu, opak veri merkezi/GPU anlaşmalarıyla 1,65 trilyon dolara ulaştı",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes/",
-   "baslik": "OpenAI, Erdős birim mesafe sanısını çürüten yayınlanmamış modelini sandbox kaçışları sonrası devre dışı bıraktı",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/321152/20260721/googles-frozen-v2-chip-hardwires-gemini-architecture-tenfold-inference-efficiency.htm",
-   "baslik": "Google'ın 'Frozen v2' çipi Gemini mimarisini silikona gömerek 10 kata varan çıkarım verimliliği vaat ediyor",
-   "kategori": "model",
-   "tarih": "2026-07-21"
-  },
-  {
    "url": "https://www.digitalapplied.com/blog/claude-code-limits-raised-fable-5-max-team-premium-2026",
    "baslik": "Claude Fable 5, Max ve Team Premium planlarına dahil edildi; Claude Code limit artışı 19 Ağustos'a uzatıldı",
    "kategori": "claude",
@@ -174,18 +78,6 @@
    "baslik": "Anthropic, Public First Action'a bir 20 milyon dolar daha verdi (toplam 40 milyon dolar)",
    "kategori": "claude",
    "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-   "baslik": "Anthropic'in robotik girişimi Physical Intelligence'ı satın alma görüşmeleri iddiası AI camiasını salladı",
-   "kategori": "claude",
-   "tarih": "2026-07-21"
-  },
-  {
-   "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
-   "baslik": "Google, Gemini 4 için 'en iddialı' ön eğitim (pre-training) sürecini başlattığını duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-21"
   },
   {
    "url": "https://github.com/juggler-ai/juggler",
@@ -3476,6 +3368,34 @@
    "kategori": "claude",
    "tarih": "2026-08-20",
    "anahtar": "claude-api-files-skills-admin-ga"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.238: Ctrl+L/Cmd+K davranisi degisti, proje .mcp.json headersHelper klasor guveni istiyor, bellek sizintisi kapatildi",
+   "kategori": "claude",
+   "tarih": "2026-08-21",
+   "anahtar": "claude-code-2-1-238-keybinding-headershelper-trust"
+  },
+  {
+   "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+   "baslik": "Anthropic, Claude Academy'i acti: rol bazli kurslar, 4D AI Fluency cercevesi ve rozetli ilerleme takibi",
+   "kategori": "claude",
+   "tarih": "2026-08-21",
+   "anahtar": "anthropic-claude-academy-launch"
+  },
+  {
+   "url": "https://github.com/agent-substrate/substrate",
+   "baslik": "agent-substrate/substrate - ajanlari az sayida iscide coklayan Kubernetes tabanli ajan calisma zamani",
+   "kategori": "github",
+   "tarih": "2026-08-21",
+   "anahtar": "agent-substrate-agent-runtime-multiplexing"
+  },
+  {
+   "url": "https://github.com/Tencent/AI-Infra-Guard",
+   "baslik": "Tencent/AI-Infra-Guard - MCP ve ajan skill'lerini tarayan self-host AI kirmizi takim platformu",
+   "kategori": "github",
+   "tarih": "2026-08-21",
+   "anahtar": "tencent-ai-infra-guard-red-teaming-platform"
   }
  ]
 }

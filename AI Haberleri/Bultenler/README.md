@@ -8,6 +8,7 @@ Toplam: 50 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-21-1407.md`](./2026-08-21-1407.md) | 21 Ağustos 2026, 14:07 | 🤖 AI Bülteni — 21 Ağustos 2026: Claude Code 2.1.238 kısayol ve MCP güven kurallarını değiştirdi, Claude Academy açıldı |
 | [`2026-08-20-0806.md`](./2026-08-20-0806.md) | 20 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 20 Ağustos 2026: Claude Code'a varsayılan model değişkeni ve sandbox sıkılaştırması, Files/Skills API genel kullanıma açıldı |
 | [`2026-08-19-2009.md`](./2026-08-19-2009.md) | 19 Ağustos 2026, 20:09 | 🤖 AI Bülteni — 19 Ağustos 2026: Claude Code'un ek haftalık limiti bu gece bitiyor, Copilot'ta tek tıkla veri sızdırma yaması |
 | [`2026-08-19-1403.md`](./2026-08-19-1403.md) | 19 Ağustos 2026, 14:03 | 🤖 AI Bülteni — 19 Ağustos 2026: Cursor kendi kod barındırma platformunu açtı, OpenAI ihlal sonrası önlemleri |
