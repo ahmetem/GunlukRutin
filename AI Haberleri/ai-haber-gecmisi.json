@@ -2,132 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.digitalapplied.com/blog/claude-code-limits-raised-fable-5-max-team-premium-2026",
-   "baslik": "Claude Fable 5, Max ve Team Premium planlarına dahil edildi; Claude Code limit artışı 19 Ağustos'a uzatıldı",
-   "kategori": "claude",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-   "baslik": "Google, Gemini 3.6 Flash, 3.5 Flash-Lite ve 3.5 Flash Cyber modellerini duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
-   "baslik": "Microsoft ve Mistral AI, çok milyar dolarlık altyapı ortaklığını genişletti",
-   "kategori": "model",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/koala73/worldmonitor",
-   "baslik": "worldmonitor - AI destekli gerçek zamanlı küresel istihbarat ve durum farkındalığı panosu",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/langchain-ai/open_deep_research",
-   "baslik": "LangChain'in open_deep_research'ü - yapılandırılabilir açık kaynak derin araştırma ajanı",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
-   "baslik": "Claude Cowork artık ekran kaydından yeni beceriler öğrenebiliyor",
-   "kategori": "claude",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://www.axios.com/2026/07/21/anthropic-ramps-up-lobbying-spending-ai-policy-fights",
-   "baslik": "Anthropic, 2. çeyrekte lobi harcamalarını rekor seviyeye çıkardı",
-   "kategori": "claude",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-   "baslik": "Cisco, güvenlik açığı tespiti için açık ağırlıklı Antares modellerini yayınladı",
-   "kategori": "model",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/dottxt-ai/outlines",
-   "baslik": "Outlines - LLM'lerden yapılandırılmış (JSON/regex) çıktı garantisi sağlayan kütüphane",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/earthtojake/text-to-cad",
-   "baslik": "text-to-cad - CAD, robotik ve donanım tasarımı için AI ajan becerileri koleksiyonu",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/ayghri/i-have-adhd",
-   "baslik": "i-have-adhd - AI kodlama asistanlarını net, eylem odaklı yanıtlar vermeye zorlayan beceri eklentisi",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/block/buzz",
-   "baslik": "Buzz - Block'un insan ve AI ajanlarını aynı çalışma alanında birleştiren açık kaynak platformu",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://thehill.com/homenews/5982007-anthropic-pours-millions-midterms/",
-   "baslik": "Anthropic, Public First Action'a bir 20 milyon dolar daha verdi (toplam 40 milyon dolar)",
-   "kategori": "claude",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/juggler-ai/juggler",
-   "baslik": "Juggler - JUCE yaratıcısının geliştirdiği, ağaç yapılı oturumlara sahip açık kaynak GUI kodlama ajanı",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/Brain0-ai/brain0",
-   "baslik": "brain0 - AI ajanlarının yazdığı kodu commit'lere ve promptlara bağlayan açık kaynak denetim/provenance aracı",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-   "baslik": "Microsoft CEO'su Nadella, Anthropic'in Fable 5'ini 'editoryal olarak fazla kontrollü' bularak eleştirdi",
-   "kategori": "claude",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://www.digitalapplied.com/blog/deepseek-api-alias-retirement-july-24-migration-2026",
-   "baslik": "DeepSeek, deepseek-chat/deepseek-reasoner API takma adlarını 24 Temmuz'da emekliye ayırıyor (v4-flash/v4-pro'ya geçiş)",
-   "kategori": "model",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://cryptobriefing.com/kimi-k3-open-weights-july-27/",
-   "baslik": "Moonshot AI, Kimi K3'ün açık ağırlıklarını 27 Temmuz'da Modified MIT lisansıyla ücretsiz yayınlayacak",
-   "kategori": "model",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/ruvnet/RuView",
-   "baslik": "RuView - WiFi sinyallerini kameraya gerek kalmadan mekansal zeka ve yaşam belirtisi izlemeye çeviren açık kaynak sensör platformu",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/shiyu-coder/Kronos",
-   "baslik": "Kronos - 45+ küresel borsadan finansal mum (K-line) verisiyle eğitilmiş ilk açık kaynak foundation model",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
-   "url": "https://github.com/agegr/pi-web",
-   "baslik": "pi-web - 'pi' kodlama ajanı için yerel, tarayıcı tabanlı sohbet/oturum yönetimi arayüzü",
-   "kategori": "github",
-   "tarih": "2026-07-22"
-  },
-  {
    "url": "https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/",
    "baslik": "AMD ve Anthropic, 2 gigawatt'a varan Instinct MI450 GPU dağıtımı ve 5 milyar dolarlık yatırım için stratejik ortaklık kurdu",
    "kategori": "claude",
@@ -3431,6 +3305,27 @@
    "kategori": "github",
    "tarih": "2026-08-21",
    "anahtar": "modular-max-mojo-inference-platform"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.239: Bedrock akis hatasi cift faturalandirmaya yol aciyordu, /claude-api upgrade geldi",
+   "kategori": "claude",
+   "tarih": "2026-08-22",
+   "anahtar": "claude-code-2-1-239-bedrock-streaming-double-billing-fix"
+  },
+  {
+   "url": "https://github.com/ruvnet/ruflo",
+   "baslik": "ruvnet/ruflo - Claude Code'u cok ajanli orkestrasyona acan ajan meta-harness'i",
+   "kategori": "github",
+   "tarih": "2026-08-22",
+   "anahtar": "ruflo-claude-code-agent-meta-harness"
+  },
+  {
+   "url": "https://github.com/apache/maka",
+   "baslik": "apache/maka - yalnizca-ekleme olay gunluklu yerel oncelikli AI ajan calisma alani",
+   "kategori": "github",
+   "tarih": "2026-08-22",
+   "anahtar": "apache-maka-local-first-agent-workspace"
   }
  ]
 }
