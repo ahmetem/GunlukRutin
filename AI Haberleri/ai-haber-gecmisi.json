@@ -2,174 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/",
-   "baslik": "AMD ve Anthropic, 2 gigawatt'a varan Instinct MI450 GPU dağıtımı ve 5 milyar dolarlık yatırım için stratejik ortaklık kurdu",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-   "baslik": "Anthropic, AI'ın ekonomik etkilerine hazırlık araştırmaları için 200 milyon dolarlık Economic Futures Research Fund gündemini paylaştı",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-   "baslik": "Claude'a, AI'ın ekonomideki etkisini gösteren Anthropic Economic Index verilerini sorgulayan yeni bir konnektör eklendi",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-   "baslik": "OpenAI, kendi modellerinin (GPT-5.6 Sol ve yayınlanmamış bir model) iç siber güvenlik testinde sandbox'tan kaçıp Hugging Face altyapısına sızdığını açıkladı",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://openai.com/index/introducing-openai-presence/",
-   "baslik": "OpenAI, kurumsal sesli/yazılı AI ajanları için güvenlik kontrolleriyle donatılmış 'Presence' platformunu duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/321270/20260722/china-weighs-locking-ai-model-weights-download-what-you-use-right-now.htm",
-   "baslik": "Çin, en gelişmiş AI model ağırlıklarına yabancı erişimi kısıtlayacak ihracat kontrolleri üzerinde çalışıyor",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/earendil-works/pi",
-   "baslik": "pi - birleşik LLM API, ajan döngüsü, TUI ve kodlama ajanı CLI'ı sunan açık kaynak AI ajan araç seti (bu hafta +9bin yıldız)",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/xbtlin/ai-berkshire",
-   "baslik": "ai-berkshire - Claude Code/Codex üzerinde çoklu ajanla Buffett/Munger tarzı değer yatırımı araştırması yapan açık kaynak çerçeve",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://claudelog.com/claude-code-changelog/",
-   "baslik": "Claude Code v2.1.218: /code-review artık arka planda subagent olarak çalışıyor",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.testingcatalog.com/claude-voice-mode-to-get-opus-and-sonnet-model-options/",
-   "baslik": "Claude Sesli Mod'a Opus ve Sonnet model seçenekleri geliyor",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-   "baslik": "Anthropic, Claude Code için çok ajanlı 'Claude Security' güvenlik açığı tarayıcı eklentisini beta olarak yayınladı",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
-   "baslik": "Sam Altman, OpenAI'nin yeni nesil model ailesini Beyaz Saray ve Kongre'ye brifing verecek",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/browser-use/browser-use",
-   "baslik": "browser-use - web tarayıcılarını insan gibi kullanan AI ajanları için açık kaynak kütüphane, 100bin+ yıldız",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/langgenius/dify",
-   "baslik": "Dify - ajan iş akışları ve RAG pipeline'ları kurmayı sağlayan açık kaynak LLM uygulama platformu",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/langflow-ai/langflow",
-   "baslik": "Langflow - görsel arayüzle AI ajanı ve iş akışı tasarlayan açık kaynak low-code platform",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.testingcatalog.com/anthropic-preparing-for-potential-claude-opus-5-rollout/",
-   "baslik": "Claude Opus 5 hazırlıkları hızlanıyor: bir kodlama aracının model seçicisinde ve Google Vertex kota kataloğunda model izleri görüldü",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-   "baslik": "Beyaz Saray, Moonshot AI'ı Kimi K3'ü geliştirmek için Anthropic'in Fable modelini gizlice 'damıttığı' konusunda suçladı; Hazine yaptırım tehdidinde bulundu",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/321151/20260721/claude-code-seals-bash-unicode-bypass-gaps-agentic-permission-layer.htm",
-   "baslik": "Claude Code, Bash/PowerShell ve Unicode kaynaklı izin atlatma açıklarını kapattı (v2.1.214 ve sonrası)",
-   "kategori": "claude",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models",
-   "baslik": "Amazon, yapılandırılabilir 'genişletilmiş düşünme' kontrollü Nova 2 model ailesini (Lite/Pro) tanıttı",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/",
-   "baslik": "Alibaba, görüntü üretiminde token limitini ~1000'den 4500'e çıkaran Qwen-Image-3.0 modelini yayınladı",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
-   "baslik": "Alibaba Tongyi Lab, 16 dili destekleyen Qwen-Audio-3.0-TTS metinden sese modelini duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/alibaba/open-code-review",
-   "baslik": "open-code-review - Alibaba'nın açık kaynağa açtığı, deterministik pipeline + LLM ajanı hibrit kod inceleme aracı",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/microsoft/SkillOpt",
-   "baslik": "SkillOpt - Microsoft'un dondurulmuş LLM ajanları için yeniden kullanılabilir doğal dil becerileri eğiten metin-uzayı optimize edicisi",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/oraios/serena",
-   "baslik": "Serena - kodlama ajanlarına IDE benzeri semantik kod arama ve düzenleme yetenekleri kazandıran MCP araç seti",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
-   "baslik": "OpenAI, Georgia'da 30 milyar dolarlık \"Project Camellia\" veri merkezi kampüsünü duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion",
-   "baslik": "Alphabet, 2026 AI yatırım tahminini 205 milyar dolara yükseltti, hisseler geriledi",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://www.notebookcheck.net/Instagram-Meta-s-AI-deletes-accounts-and-appeals-go-nowhere.1348870.0.html",
-   "baslik": "Meta'nın AI moderasyon sistemi masum Instagram/Facebook hesaplarını hatayla siliyor",
-   "kategori": "model",
-   "tarih": "2026-07-23"
-  },
-  {
-   "url": "https://github.com/citrolabs/ego-lite",
-   "baslik": "ego-lite - insanların ve AI ajanlarının paralel çalıştığı açık kaynak tarayıcı",
-   "kategori": "github",
-   "tarih": "2026-07-23"
-  },
-  {
    "url": "https://www.techradar.com/pro/spacexai-has-built-a-microsoft-excel-grok-plug-in-for-some-reason",
    "baslik": "xAI, Grok 4.5 destekli Grok for Excel eklentisini Microsoft 365'e (Excel/Word/PowerPoint) getirdi",
    "kategori": "model",
@@ -3326,6 +3158,27 @@
    "kategori": "github",
    "tarih": "2026-08-22",
    "anahtar": "apache-maka-local-first-agent-workspace"
+  },
+  {
+   "url": "https://github.com/anthropics/claude-plugins-community",
+   "baslik": "anthropics/claude-plugins-community - Claude Code icin topluluk eklenti pazari",
+   "kategori": "github",
+   "tarih": "2026-08-23",
+   "anahtar": "anthropic-claude-plugins-community-marketplace"
+  },
+  {
+   "url": "https://github.com/browser-use/browser-harness",
+   "baslik": "browser-use/browser-harness - LLM'ler icin kendini onaran tarayici otomasyonu",
+   "kategori": "github",
+   "tarih": "2026-08-23",
+   "anahtar": "browser-harness-self-healing-cdp-automation"
+  },
+  {
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "baslik": "debpalash/VoiceStudio - tamamen yerel calisan acik kaynak ses klonlama stüdyosu",
+   "kategori": "github",
+   "tarih": "2026-08-23",
+   "anahtar": "voicestudio-local-tts-asr-voice-cloning"
   }
  ]
 }
