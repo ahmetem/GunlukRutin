@@ -2,108 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.techradar.com/pro/spacexai-has-built-a-microsoft-excel-grok-plug-in-for-some-reason",
-   "baslik": "xAI, Grok 4.5 destekli Grok for Excel eklentisini Microsoft 365'e (Excel/Word/PowerPoint) getirdi",
-   "kategori": "model",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/skypilot-org/skypilot",
-   "baslik": "SkyPilot - Kubernetes, Slurm, VM ve on-prem'deki dağınık AI compute kaynaklarını tek platformda birleştiren açık kaynak proje",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/raullenchai/Rapid-MLX",
-   "baslik": "Rapid-MLX - Apple Silicon için Ollama'dan 4,2 kat hızlı, OpenAI API uyumlu açık kaynak yerel AI motoru",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://huggingface.co/microsoft/bitnet-embedding-0.6b",
-   "baslik": "Microsoft, ilk 1-bit (ternary) embedding modelleri BitNet-Embedding-0.6B ve 270M'yi yayınladı",
-   "kategori": "model",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-   "baslik": "SharedRoot: Claude Cowork'te ~500 bin Mac'i etkileyen sandbox kaçış açığı bulundu",
-   "kategori": "claude",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
-   "baslik": "Alphabet'in Anthropic'teki payı SEC dosyasında ~124 milyar dolara yükseldiği ortaya çıktı",
-   "kategori": "claude",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Claude Opus 4.7 için 'fast mode' bugün (24 Temmuz) kaldırıldı",
-   "kategori": "claude",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
-   "baslik": "OpenAI, ChatGPT masaüstü uygulamasına sesle bilgisayar ve çoklu ajan kontrolü getirdi",
-   "kategori": "model",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://news.ycombinator.com/item?id=49026810",
-   "baslik": "Echo - açık ağırlıklı modelleri birleştirerek Claude Fable seviyesi sonuçları üçte bir maliyetle sunan proje",
-   "kategori": "model",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/Lordog/dive-into-llms",
-   "baslik": "dive-into-llms - büyük dil modellerini uygulamalı öğreten açık kaynak Çince eğitim serisi",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/inkeep/open-knowledge",
-   "baslik": "OpenKnowledge - Claude ve Codex entegrasyonlu, Obsidian/Notion'a alternatif açık kaynak AI-öncelikli not editörü",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/Danau5tin/ai-trains-ai",
-   "baslik": "ai-trains-ai - RL ile eğitilen bir ajanın başka modelleri RL ile eğittiği deneysel proje",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-   "baslik": "Anthropic, Claude'un sesli moduna Opus ve Sonnet model seçeneklerini ekledi",
-   "kategori": "claude",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://cybersecuritynews.com/anthropic-claude-security-plugin/",
-   "baslik": "Anthropic, Claude Code için kod güvenlik açığı tarayan 'Claude Security' eklentisini beta olarak yayınladı",
-   "kategori": "claude",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-small-business-program/",
-   "baslik": "OpenAI, küçük işletmeler için ChatGPT programını (webinar, AI Academy, ortak entegrasyonlar) başlattı",
-   "kategori": "model",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/jundot/omlx",
-   "baslik": "oMLX - Apple Silicon için menü çubuğundan yönetilen, sürekli batching ve SSD önbellekli LLM çıkarım sunucusu",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
-   "url": "https://github.com/mem0ai/mem0",
-   "baslik": "Mem0 - AI ajanları için evrensel, kişiselleştirilmiş bellek katmanı",
-   "kategori": "github",
-   "tarih": "2026-07-24"
-  },
-  {
    "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
    "baslik": "Anthropic, Fable 5'e yakın performansı yarı fiyatına sunan Claude Opus 5'i duyurdu",
    "kategori": "claude",
@@ -3179,6 +3077,20 @@
    "kategori": "github",
    "tarih": "2026-08-23",
    "anahtar": "voicestudio-local-tts-asr-voice-cloning"
+  },
+  {
+   "url": "https://github.com/block/buzz",
+   "baslik": "block/buzz - insan ve AI ajanlarinin ortak calisma alani, self-host edilebilir Nostr tabanli platform",
+   "kategori": "github",
+   "tarih": "2026-08-24",
+   "anahtar": "block-buzz-selfhosted-human-agent-workspace"
+  },
+  {
+   "url": "https://github.com/openai/codex",
+   "baslik": "openai/codex trend listesinde ilk sirada - Claude Code'un rakibi terminal kodlama ajani",
+   "kategori": "github",
+   "tarih": "2026-08-24",
+   "anahtar": "openai-codex-github-trending-top"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 53 bülten
+Toplam: 54 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-24-0806.md`](./2026-08-24-0806.md) | 24 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 24 Ağustos 2026: Block'tan insan-ajan ortak çalışma platformu Buzz, OpenAI Codex trendde yükseliyor |
 | [`2026-08-23-0806.md`](./2026-08-23-0806.md) | 23 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 23 Ağustos 2026: Claude Code topluluk eklenti pazarı, kendini onaran tarayıcı ajanı ve yerel ses stüdyosu |
 | [`2026-08-22-0804.md`](./2026-08-22-0804.md) | 22 Ağustos 2026, 08:04 | 🤖 AI Bülteni — 22 Ağustos 2026: Claude Code 2.1.239 Bedrock faturalandırma hatasını düzeltti, Apache Maka ve Ruflo öne çıktı |
 | [`2026-08-21-2008.md`](./2026-08-21-2008.md) | 21 Ağustos 2026, 20:08 | 🤖 AI Bülteni — 21 Ağustos 2026: Claude API'de bilgisayar kullanımı ve yeni tarayıcı aracı GA oldu, Gemma 1 milyar indirmeyi geçti |
