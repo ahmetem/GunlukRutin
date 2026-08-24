@@ -3091,6 +3091,20 @@
    "kategori": "github",
    "tarih": "2026-08-24",
    "anahtar": "openai-codex-github-trending-top"
+  },
+  {
+   "url": "https://www.notebookcheck.net/Claude-faces-another-outage-as-errors-hit-multiple-models.1376666.0.html",
+   "baslik": "Claude modellerinde ~2,5 saatlik hata artışı yaşandı, sorun giderildi",
+   "kategori": "claude",
+   "tarih": "2026-08-24",
+   "anahtar": "anthropic-claude-outage-24-august"
+  },
+  {
+   "url": "https://github.com/AgriciDaniel/claude-obsidian",
+   "baslik": "AgriciDaniel/claude-obsidian - Obsidian icin kendi kendini organize eden bilgi yonetimi araci",
+   "kategori": "github",
+   "tarih": "2026-08-24",
+   "anahtar": "claude-obsidian-knowledge-graph-tool"
   }
  ]
 }
