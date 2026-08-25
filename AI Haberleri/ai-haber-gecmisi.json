@@ -2,120 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
-   "baslik": "Anthropic, Fable 5'e yakın performansı yarı fiyatına sunan Claude Opus 5'i duyurdu",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.inc.com/ben-sherry/anthropics-new-claude-plugins-take-aim-at-finance-hr-and-more-is-your-job-next/91307114",
-   "baslik": "Anthropic, Claude Cowork için Finans, İK, Satış gibi alanlara özel 11 resmi eklenti (plugin) yayınladı",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://windowsnews.ai/article/anthropic-quietly-merges-prompt-testing-and-api-experimentation-in-streamlined-build-workspace.439263",
-   "baslik": "Claude Developer Platform, eski Workbench ve deneysel prompt API'lerini 17 Ağustos'ta kaldırıp birleşik bir build alanına geçiyor",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://techstartups.com/2026/07/24/nvidia-microsoft-meta-and-20-tech-giants-urge-trump-to-back-open-weight-ai-warn-against-premature-restrictions-on-open-weight-models/",
-   "baslik": "Nvidia, Microsoft, Meta ve 20'den fazla şirket, Trump yönetimine açık ağırlıklı AI modellerini kısıtlamama çağrısı yaptı",
-   "kategori": "model",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm",
-   "baslik": "Çin'in yeni AI companion yasası yürürlüğe girdi; ByteDance Doubao ve Alibaba Qwen'in kişiselleştirme özellikleri kapatıldı",
-   "kategori": "model",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
-   "baslik": "Meta ve Microsoft, kazanç haftası öncesi devasa AI harcamaları konusunda yeniden yatırımcı endişesiyle karşı karşıya",
-   "kategori": "model",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/elder-plinius/CL4R1T4S",
-   "baslik": "CL4R1T4S - ChatGPT, Claude, Gemini, Grok ve daha fazlasının sızdırılan sistem promptlarını derleyen şeffaflık deposu",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/chopratejas/headroom",
-   "baslik": "Headroom - LLM'e ulaşmadan önce araç çıktıları, loglar ve RAG parçalarını %60-95 sıkıştıran açık kaynak kütüphane",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/NVIDIA/SkillSpector",
-   "baslik": "NVIDIA SkillSpector - AI ajan 'skill'lerini kurulum öncesi zafiyet ve kötü niyetli desen taramasından geçiren güvenlik tarayıcısı",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.claudeupdates.dev/version/2.1.219",
-   "baslik": "Claude Code v2.1.219/v2.1.220: Opus 5 varsayılan model oldu, subagent'lar 3 seviyeye kadar iç içe çalışabiliyor",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-health/",
-   "baslik": "OpenAI, ChatGPT Health'i tüm ABD kullanıcılarına açtı",
-   "kategori": "model",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/VectifyAI/PageIndex",
-   "baslik": "PageIndex - vektörsüz, akıl yürütme tabanlı RAG için doküman indeksleme çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/wshobson/agents",
-   "baslik": "wshobson/agents - Claude Code, Codex, Cursor ve diğer araçlar için çok-harness ajan/plugin marketplace'i",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.techtimes.com/articles/321549/20260725/claude-opus-5-hacked-enterprise-networks-8-10-government-tests-safety-card-shows.htm",
-   "baslik": "Claude Opus 5 sistem kartı: İngiltere hükümeti testlerinde model 10 denemenin 8'inde kurumsal ağa uçtan uca sızmayı başardı",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-   "baslik": "Anthropic, Claude 5 nesli modeller için 'context engineering' kurallarını yeniledi",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-   "baslik": "Claude Design'ı geliştiren ürün tasarımcısı, aracı nasıl kullandığını anlattı",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://www.anthropic.com/research/project-pilot",
-   "baslik": "Anthropic'in 'Project Pilot' araştırması: Yapay zeka modelleri drone uçurabiliyor mu?",
-   "kategori": "claude",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://startupfortune.com/xai-is-shipping-grok-46-and-47-back-to-back-in-a-release-cadence-no-frontier-lab-has-matched/",
-   "baslik": "Elon Musk, Grok 4.6 ve 4.7'nin art arda birkaç hafta içinde geleceğini doğruladı",
-   "kategori": "model",
-   "tarih": "2026-07-25"
-  },
-  {
-   "url": "https://github.com/AmintaCCCP/GithubStarsManager",
-   "baslik": "GithubStarsManager - yıldızladığınız repoları AI ile özetleyip kategorize eden, semantik aramalı yönetim aracı",
-   "kategori": "github",
-   "tarih": "2026-07-25"
-  },
-  {
    "url": "https://www.digitaltoday.co.kr/en/view/84842/samsung-sds-allies-with-anthropic-to-accelerate-claude-based-enterprise-ai-business",
    "baslik": "Samsung SDS ve Anthropic, San Francisco'daki AI Summit'te stratejik ortaklık imzaladı; 20 Samsung iştirakinde 70bin çalışana Claude Enterprise",
    "kategori": "claude",
@@ -3105,6 +2991,20 @@
    "kategori": "github",
    "tarih": "2026-08-24",
    "anahtar": "claude-obsidian-knowledge-graph-tool"
+  },
+  {
+   "url": "https://github.com/openclaw/openclaw",
+   "baslik": "openclaw/openclaw - self-host edilebilir çok platformlu kişisel AI asistanı",
+   "kategori": "github",
+   "tarih": "2026-08-25",
+   "anahtar": "openclaw-selfhosted-personal-ai-assistant-multiplatform"
+  },
+  {
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "baslik": "MadsLorentzen/ai-job-search - Claude Code tabanlı iş başvurusu otomasyon çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-08-25",
+   "anahtar": "ai-job-search-claude-code-job-application-framework"
   }
  ]
 }

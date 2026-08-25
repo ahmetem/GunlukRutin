@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 55 bülten
+Toplam: 56 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-25-0807.md`](./2026-08-25-0807.md) | 25 Ağustos 2026, 08:07 | 🤖 AI Bülteni — 25 Ağustos 2026: Öne çıkan iki AI GitHub aracı — OpenClaw ve otomatik iş başvurusu çerçevesi |
 | [`2026-08-24-1405.md`](./2026-08-24-1405.md) | 24 Ağustos 2026, 14:05 | 🤖 AI Bülteni — 24 Ağustos 2026: Claude modellerinde kısa süreli hata artışı, Obsidian için Claude Code entegrasyonu |
 | [`2026-08-24-0806.md`](./2026-08-24-0806.md) | 24 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 24 Ağustos 2026: Block'tan insan-ajan ortak çalışma platformu Buzz, OpenAI Codex trendde yükseliyor |
 | [`2026-08-23-0806.md`](./2026-08-23-0806.md) | 23 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 23 Ağustos 2026: Claude Code topluluk eklenti pazarı, kendini onaran tarayıcı ajanı ve yerel ses stüdyosu |
