@@ -2912,6 +2912,34 @@
    "kategori": "claude",
    "tarih": "2026-08-26",
    "anahtar": "claude-code-2-1-246-permissions-auto-mode-turn-time"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/manage-claude/compliance-sessions",
+   "baslik": "Compliance API oturum uç noktaları beta'dan çıktı, Claude Science ve Office ajanlarını da kapsayacak şekilde genişledi",
+   "kategori": "claude",
+   "tarih": "2026-08-26",
+   "anahtar": "anthropic-compliance-api-sessions-ga-science-office"
+  },
+  {
+   "url": "https://github.com/anthropics/claude-plugins-official",
+   "baslik": "anthropics/claude-plugins-official - Anthropic'in resmi Claude Code eklenti dizini",
+   "kategori": "github",
+   "tarih": "2026-08-26",
+   "anahtar": "anthropic-claude-plugins-official-marketplace"
+  },
+  {
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "baslik": "DietrichGebert/ponytail - AI ajanlarini az kod uretmeye zorlayan cerceve",
+   "kategori": "github",
+   "tarih": "2026-08-26",
+   "anahtar": "ponytail-lazy-dev-agent-code-conciseness"
+  },
+  {
+   "url": "https://github.com/marin-community/marin",
+   "baslik": "marin-community/marin - acik kaynak temel model arastirma cercevesi",
+   "kategori": "github",
+   "tarih": "2026-08-26",
+   "anahtar": "marin-open-foundation-model-framework"
   }
  ]
 }
