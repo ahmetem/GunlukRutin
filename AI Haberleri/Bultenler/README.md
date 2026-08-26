@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 57 bülten
+Toplam: 58 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-26-0807.md`](./2026-08-26-0807.md) | 26 Ağustos 2026, 08:07 | 🤖 AI Bülteni — 26 Ağustos 2026: Anthropic wellbeing araştırmasına 5M$ ayırdı, Claude Code 2.1.246 çıktı |
 | [`2026-08-25-1408.md`](./2026-08-25-1408.md) | 25 Ağustos 2026, 14:08 | 🤖 AI Bülteni — 25 Ağustos 2026: Claude Code 2.1.243 ve 2.1.245 önbellek, izleme ve kritik çökme düzeltmesi getirdi |
 | [`2026-08-25-0807.md`](./2026-08-25-0807.md) | 25 Ağustos 2026, 08:07 | 🤖 AI Bülteni — 25 Ağustos 2026: Öne çıkan iki AI GitHub aracı — OpenClaw ve otomatik iş başvurusu çerçevesi |
 | [`2026-08-24-1405.md`](./2026-08-24-1405.md) | 24 Ağustos 2026, 14:05 | 🤖 AI Bülteni — 24 Ağustos 2026: Claude modellerinde kısa süreli hata artışı, Obsidian için Claude Code entegrasyonu |

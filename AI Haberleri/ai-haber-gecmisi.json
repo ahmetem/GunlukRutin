@@ -2,120 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.digitaltoday.co.kr/en/view/84842/samsung-sds-allies-with-anthropic-to-accelerate-claude-based-enterprise-ai-business",
-   "baslik": "Samsung SDS ve Anthropic, San Francisco'daki AI Summit'te stratejik ortaklık imzaladı; 20 Samsung iştirakinde 70bin çalışana Claude Enterprise",
-   "kategori": "claude",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent",
-   "baslik": "Nvidia, Meta, Microsoft, Hugging Face ve Mistral dahil 25 şirket 'Open Weights and American AI Leadership' ortak mektubunu imzaladı; OpenAI, Google ve Anthropic imzacı değil",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://openai.com/index/introducing-openai-presence/",
-   "baslik": "OpenAI, kurumsal sesli/metin AI ajanları için yönetilen platform 'OpenAI Presence'ı tanıttı",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/anthropics/claude-cookbooks",
-   "baslik": "claude-cookbooks - Anthropic'in resmi Claude tarifleri ve örnek not defterleri deposu, GitHub trendlerinde",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/RyanCodrai/turbovec",
-   "baslik": "turbovec - Google'ın TurboQuant algoritması üzerine kurulu, eğitim gerektirmeyen hızlı Rust vektör indeksi",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/mvanhorn/last30days-skill",
-   "baslik": "last30days-skill - Reddit, X, YouTube, HN, Polymarket ve web'i tarayıp güncel özet çıkaran AI ajan skill'i",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback",
-   "baslik": "Anthropic, API'de güvenlik sınıflandırıcısını tetikleyen isteklerde otomatik alt modele yönlendirme yapan 'Automatic Fallbacks' beta özelliğini duyurdu",
-   "kategori": "claude",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://www.foxbusiness.com/technology/anthropic-calls-industry-wide-ai-safety-standards-keep-models-from-wreaking-havoc",
-   "baslik": "Anthropic'in kırmızı takım lideri Logan Graham, modellerin sistemlere sızıp şantaj yapabildiğini belirterek sektör geneli AI güvenlik standartları çağrısı yaptı",
-   "kategori": "claude",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://cryptobriefing.com/anthropic-targets-ipo-by-october-2026-after-965b-valuation/",
-   "baslik": "Anthropic, 965 milyar dolarlık değerleme sonrası Ekim 2026'da Nasdaq'ta halka arz hedefliyor",
-   "kategori": "claude",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards/",
-   "baslik": "Nubank CEO'su David Vélez ve BNY CEO'su Robin Vince, IPO öncesi OpenAI Foundation ve Group PBC yönetim kurullarına katıldı",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
-   "baslik": "OpenAI, uzun süreli görev yürüten bir modelin talimatlara rağmen sandbox'tan kaçıp GitHub'da PR açtığı ve bir token'ı parçalara bölerek güvenlik taramasını atlattığı vakaları anlattı",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
-   "baslik": "SK Group ve NVIDIA, AI fabrikaları ve yeni nesil bellek (HBM4) için 500 milyar doları aşan stratejik ortaklık duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/andrewyng/aisuite",
-   "baslik": "aisuite - Andrew Ng'in OpenAI, Anthropic, Google, Mistral gibi 10'dan fazla sağlayıcıya tek arayüzden bağlanan açık kaynak kütüphanesi, bugün GitHub trendlerinde",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/corebunch/instatic",
-   "baslik": "Instatic - Webflow/WordPress'e alternatif, AI ajanının sayfayı doğrudan düzenlediği açık kaynak agentic CMS",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/microsoft/agent-governance-toolkit",
-   "baslik": "agent-governance-toolkit - Microsoft'un AI ajanları için politika uygulama, zero-trust kimlik ve yürütme sandbox'ı sağlayan yönetişim araç seti",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/tashfeenahmed/freellmapi",
-   "baslik": "freellmapi - 28 farklı LLM sağlayıcısının ücretsiz kotalarını tek bir OpenAI uyumlu API ucunda birleştiren açık kaynak proxy",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://sakana.ai/fugu-cyber-release/",
-   "baslik": "Sakana AI, siber güvenlik odaklı orkestrasyon modeli Fugu-Cyber'ı duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-   "baslik": "Devin'in yaratıcısı Cognition, mesajlaşma asistanı Poke'u düşük dokuz haneli bedelle satın aldı",
-   "kategori": "model",
-   "tarih": "2026-07-26"
-  },
-  {
-   "url": "https://github.com/OtterMind/Chat2DB",
-   "baslik": "Chat2DB - GitHub trendlerinde yükselen, yapay zeka destekli veritabanı ve SQL istemcisi",
-   "kategori": "github",
-   "tarih": "2026-07-26"
-  },
-  {
    "url": "https://www.techtimes.com/articles/321499/20260724/kimi-k3-open-weights-drop-july-27-near-frontier-coding-undisclosed-hallucination-risk.htm",
    "baslik": "Kimi K3'ün 1,4 TB'lık açık ağırlıkları 27 Temmuz 00:00 UTC'de yayınlandı; lisans şartları hâlâ belirsiz",
    "kategori": "model",
@@ -3012,6 +2898,20 @@
    "kategori": "claude",
    "tarih": "2026-08-25",
    "anahtar": "claude-code-2-1-243-245-cache-loops-glibc-crash-fix"
+  },
+  {
+   "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "baslik": "Anthropic, AI'ın kullanıcı ruh sağlığına etkisini ölçmek için 5 milyon dolarlık hibe programı başlattı",
+   "kategori": "claude",
+   "tarih": "2026-08-26",
+   "anahtar": "anthropic-wellbeing-research-grants-launch"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.246 yayınlandı",
+   "kategori": "claude",
+   "tarih": "2026-08-26",
+   "anahtar": "claude-code-2-1-246-permissions-auto-mode-turn-time"
   }
  ]
 }
