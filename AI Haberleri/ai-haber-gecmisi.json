@@ -2,90 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.techtimes.com/articles/321499/20260724/kimi-k3-open-weights-drop-july-27-near-frontier-coding-undisclosed-hallucination-risk.htm",
-   "baslik": "Kimi K3'ün 1,4 TB'lık açık ağırlıkları 27 Temmuz 00:00 UTC'de yayınlandı; lisans şartları hâlâ belirsiz",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
-   "baslik": "Sakana AI, çoklu model yönlendiricisi Fugu-Ultra v1.1'i aynı fiyata yayınladı; Fable 5'i havuza dahil etmeden geçtiğini iddia ediyor",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://fortune.com/2026/07/23/moonshot-deepseek-great-chinese-ai-ipo-rush/",
-   "baslik": "Moonshot AI 50 milyar dolarlık Hong Kong halka arzına, DeepSeek ise 71 milyar dolarlık Şangay listelemesine hazırlanıyor",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://favtutor.com/claude-opus-5-early-reviews/",
-   "baslik": "Claude Opus 5 kıyaslamalarda birinci çıktı ama erken kullanıcılar modelin 'sevilmesi zor' olduğunu söylüyor",
-   "kategori": "claude",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://www.globenewswire.com/news-release/2026/07/23/3332364/0/en/black-forest-labs-unveils-flux-3-a-new-multimodal-frontier-model-for-visual-intelligence.html",
-   "baslik": "Black Forest Labs, görüntü/video/ses/aksiyonu tek mimaride birleştiren multimodal öncü modeli FLUX 3'ü tanıttı",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
-   "baslik": "Poolside, 10 kat daha büyük rakiplerini geride bırakan açık ağırlıklı kodlama modeli Laguna S 2.1'i yayınladı",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://www.musicbusinessworldwide.com/music-publishers-file-amended-lyrics-lawsuit-against-anthropic-just-as-ai-firms-separate-1-5b-piracy-settlement-with-authors-wins-court-approval/",
-   "baslik": "Müzik yayıncıları (Concord, UMPG, ABKCO), şarkı sözleri davasında Anthropic'e karşı değiştirilmiş (2. ek) şikayeti sundu",
-   "kategori": "claude",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://www.gurufocus.com/news/8979615/nvidia-nvda-negotiates-250-billion-financing-for-openai-partnership",
-   "baslik": "Nvidia, OpenAI'ın Ohio'daki 10 gigawatt'lık veri merkezi için 250 milyar dolarlık finansman garantisi görüşüyor",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://www.benzinga.com/markets/tech/26/07/60685593/hugging-face-ceo-urges-openai-to-release-rogue-ai-logs-commit-100-million-in-compute-after-breach",
-   "baslik": "Hugging Face CEO'su Delangue, OpenAI'ın sızan ajanının loglarının açıklanmasını ve 100 milyon dolarlık compute taahhüdünü istedi",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://github.com/bradautomates/claude-video",
-   "baslik": "claude-video - Claude'a video izleme (indirme, kare çıkarma, transkript) yeteneği katan açık kaynak Claude Code eklentisi",
-   "kategori": "github",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://github.com/vudovn/ag-kit",
-   "baslik": "AG Kit - 20 uzman AI personası, 45 skill ve 13 workflow içeren açık kaynak ajan mühendisliği kiti",
-   "kategori": "github",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://fortune.com/2026/07/24/anthropic-peter-mccrory-dario-amodei-why-hasnt-it-killed-jobs/",
-   "baslik": "Anthropic'in baş ekonomisti McCrory, Amodei'nin 'beyaz yaka kıyımı' uyarısıyla veri temelli çelişti",
-   "kategori": "claude",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-   "baslik": "ABD Kongresi'nde felaket riskli AI sistemlerini durdurmayı zorunlu kılan 'AI Kill Switch' yasa teklifi sunuldu",
-   "kategori": "model",
-   "tarih": "2026-07-27"
-  },
-  {
-   "url": "https://github.com/bytedance/deer-flow",
-   "baslik": "DeerFlow - ByteDance'in çok ajanlı, sandbox'lı 'süper ajan' iskeleti (v2.0) 78 bin+ yıldıza ulaştı",
-   "kategori": "github",
-   "tarih": "2026-07-27"
-  },
-  {
    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
    "baslik": "Claude'ın paylaşılan sohbet/Artifact linkleri Google'da indekslendi, sağlık kayıtları dahil özel veriler ifşa oldu",
    "kategori": "claude",
@@ -2940,6 +2856,20 @@
    "kategori": "github",
    "tarih": "2026-08-26",
    "anahtar": "marin-open-foundation-model-framework"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.247: SendFeedback araci, cost-optimize komutu, Sonnet 5 otomatik-ozetleme penceresi 1M'e cikti",
+   "kategori": "claude",
+   "tarih": "2026-08-27",
+   "anahtar": "claude-code-2-1-247-feedback-tool-autocompact-1m"
+  },
+  {
+   "url": "https://www.testingcatalog.com/z-ai-launches-glm-5-3-flash-under-mit-license/",
+   "baslik": "Z.ai, MIT lisansli GLM-5.3-Flash'i yayinladi: 320B-A18B, dogal cok-modlu, 1M baglam",
+   "kategori": "model",
+   "tarih": "2026-08-27",
+   "anahtar": "zai-glm-5-3-flash-mit-license-ox-alpha"
   }
  ]
 }
