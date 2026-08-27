@@ -2870,6 +2870,27 @@
    "kategori": "model",
    "tarih": "2026-08-27",
    "anahtar": "zai-glm-5-3-flash-mit-license-ox-alpha"
+  },
+  {
+   "url": "https://github.com/QwenLM/Qwen3.8-Flash-Next",
+   "baslik": "Alibaba, Qwen4 mimarisini onizleyen Qwen3.8-Flash-Next'i yayinladi",
+   "kategori": "model",
+   "tarih": "2026-08-27",
+   "anahtar": "qwen3-8-flash-next-qwen4-preview"
+  },
+  {
+   "url": "https://github.com/thedotmack/claude-mem",
+   "baslik": "claude-mem - Claude Code oturumlari arasi kalici bellek eklentisi",
+   "kategori": "github",
+   "tarih": "2026-08-27",
+   "anahtar": "claude-mem-persistent-context-plugin"
+  },
+  {
+   "url": "https://github.com/calesthio/OpenMontage",
+   "baslik": "OpenMontage - acik kaynak ajanli video uretim sistemi",
+   "kategori": "github",
+   "tarih": "2026-08-27",
+   "anahtar": "openmontage-agentic-video-production"
   }
  ]
 }
