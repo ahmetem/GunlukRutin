@@ -2891,6 +2891,27 @@
    "kategori": "github",
    "tarih": "2026-08-27",
    "anahtar": "openmontage-agentic-video-production"
+  },
+  {
+   "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+   "baslik": "Claude in Chrome genel kullanıma açıldı",
+   "kategori": "claude",
+   "tarih": "2026-08-27",
+   "anahtar": "claude-in-chrome-general-availability"
+  },
+  {
+   "url": "https://claude.com/blog/cowork-built-in-browser",
+   "baslik": "Claude Cowork masaüstü uygulamasına yerleşik tarayıcı eklendi",
+   "kategori": "claude",
+   "tarih": "2026-08-27",
+   "anahtar": "claude-cowork-built-in-browser"
+  },
+  {
+   "url": "https://github.com/tt-a1i/archify",
+   "baslik": "tt-a1i/archify - ajan diyagram üretim aracı",
+   "kategori": "github",
+   "tarih": "2026-08-27",
+   "anahtar": "archify-agent-skill-diagrams"
   }
  ]
 }
