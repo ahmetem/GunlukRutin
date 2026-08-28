@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 63 bülten
+Toplam: 64 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-28-2004.md`](./2026-08-28-2004.md) | 28 Ağustos 2026, 20:04 | 🤖 AI Bülteni — 28 Ağustos 2026: Claude Console'a servis anahtarları, Files/Skills API'de beta başlığı emekliliği, GitNexus MCP ile kod etki analizi |
 | [`2026-08-28-0806.md`](./2026-08-28-0806.md) | 28 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 28 Ağustos 2026: Anthropic fiziksel dünyaya açılıyor, bilim insanlarına 10.000 koltuk, Claude Code 2.1.248 |
 | [`2026-08-27-2004.md`](./2026-08-27-2004.md) | 27 Ağustos 2026, 20:04 | 🤖 AI Bülteni — 27 Ağustos 2026: Claude in Chrome genele açıldı, Cowork'e yerleşik tarayıcı geldi, yeni bir ajan diyagram aracı öne çıktı |
 | [`2026-08-27-1408.md`](./2026-08-27-1408.md) | 27 Ağustos 2026, 14:08 | 🤖 AI Bülteni — 27 Ağustos 2026: Alibaba Qwen4 mimarisini önizleyen Qwen3.8-Flash-Next'i yayınladı, iki yeni AI aracı öne çıktı |

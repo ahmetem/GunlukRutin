@@ -2814,6 +2814,27 @@
    "kategori": "model",
    "tarih": "2026-08-28",
    "anahtar": "google-gemini-omni-1-1-flash-video-ga"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "client.beta.files ve client.beta.skills artik beta basligi istemiyor (SDK 1.2.0/0.122.0/...)",
+   "kategori": "claude",
+   "tarih": "2026-08-28",
+   "anahtar": "anthropic-sdk-files-skills-beta-header-retirement"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude Console'a kisisel ve servis hesabi anahtarlari geldi",
+   "kategori": "claude",
+   "tarih": "2026-08-28",
+   "anahtar": "anthropic-console-personal-service-account-keys"
+  },
+  {
+   "url": "https://github.com/abhigyanpatwari/GitNexus",
+   "baslik": "GitNexus - Graph RAG ile kod etki analizi yapan MCP araci",
+   "kategori": "github",
+   "tarih": "2026-08-28",
+   "anahtar": "gitnexus-code-graph-rag-mcp"
   }
  ]
 }
