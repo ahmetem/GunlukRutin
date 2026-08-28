@@ -2,126 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-   "baslik": "Claude'ın paylaşılan sohbet/Artifact linkleri Google'da indekslendi, sağlık kayıtları dahil özel veriler ifşa oldu",
-   "kategori": "claude",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-   "baslik": "Dario Amodei açık ağırlıklı model yasağına karşı çıktı, distilasyona karşı çip ihracat denetimi ve zorunlu güvenlik testi istedi",
-   "kategori": "claude",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://www.hpcwire.com/aiwire/2026/07/27/cognizant-deepens-anthropic-alliance-to-scale-enterprise-ai-adoption/",
-   "baslik": "Cognizant, Claude Partner Network'te Global Premier Partner oldu; Anthropic ortaklığını genişletti",
-   "kategori": "claude",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-   "baslik": "Perplexity, arama API'sini terminale taşıyan tek-dosyalık 'pplx' CLI aracını yayınladı",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://skift.com/2026/07/27/amazons-alexa-is-trying-to-sell-trips-inside-a-chat-priceline-is-an-early-test/",
-   "baslik": "Amazon, Alexa+'a MCP destekli seyahat/alışveriş rezervasyonu getirdi; Priceline ilk test ortağı oldu",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/youssofal/MTPLX",
-   "baslik": "MTPLX - Apple Silicon'da harici taslak modele gerek duymadan yerel MTP ile 2-3 kat hızlı çıkarım sağlayan açık kaynak araç",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/vava-nessa/free-coding-models",
-   "baslik": "free-coding-models - 20'den fazla sağlayıcıdaki 190+ ücretsiz kodlama LLM'ini gerçek zamanlı test edip en hızlısını bulan CLI",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-   "baslik": "Microsoft, kendi model ailesi MAI'yi genişletti: MAI-Cyber-1-Flash siber güvenlik modelini tanıttı",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://x.ai/news/workflows",
-   "baslik": "xAI, Grok Build'e 1024 paralel ajana kadar ölçeklenen 'Workflows' özelliğini ekledi",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference",
-   "baslik": "AMD ve Cerebras, Helios ve Wafer-Scale Engine'i birleştiren ortak AI çıkarım çözümünü duyurdu",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://www.worldlabs.ai/blog/scenix",
-   "baslik": "Fei-Fei Li'nin World Labs'i, robotik simülasyon girişimi SceniX'i satın aldı",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/huggingface/speech-to-speech",
-   "baslik": "speech-to-speech - Hugging Face'in düşük gecikmeli, modüler yerel sesli ajan boru hattı",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/affaan-m/ECC",
-   "baslik": "ECC - AI kodlama ajanları (Claude Code, Codex, Cursor) için performans optimizasyon sistemi",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/virgiliojr94/book-to-skill",
-   "baslik": "book-to-skill - teknik kitap ve dokümanları AI ajan skill'ine dönüştüren araç",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
-   "baslik": "Nvidia, Ilya Sutskever'ın Safe Superintelligence'ına 5 milyar dolar yatırım yaptı ve Vera Rubin platformuna erişim sağladı",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-   "baslik": "Nvidia öncülüğünde ~40 şirketin katıldığı 'Open Secure AI Alliance' kuruldu; OpenAI, Anthropic ve Google listede yok",
-   "kategori": "model",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/HKUDS/OpenSpace",
-   "baslik": "OpenSpace - AI ajanları için beceri (skill) yönetim katmanı, OpenClaw ve nanobot gibi araçlara entegre olabiliyor",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/volcengine/OpenViking",
-   "baslik": "OpenViking - ByteDance/Volcengine'in ajan hafızası, bilgi (RAG) ve becerilerini dosya sistemi mantığıyla birleştiren açık kaynak bağlam veritabanı",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/agentscope-ai/QwenPaw",
-   "baslik": "QwenPaw - kendi makinenizde veya bulutta çalıştırabileceğiniz, çoklu sohbet uygulamasını destekleyen açık kaynak kişisel AI asistanı",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
-   "url": "https://github.com/lightseekorg/tokenspeed",
-   "baslik": "tokenspeed - GitHub trendlerinde yükselen yüksek performanslı açık kaynak LLM çıkarım (inference) motoru",
-   "kategori": "github",
-   "tarih": "2026-07-28"
-  },
-  {
    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
    "baslik": "Claude Mythos, HAWK imza şeması ve 7-tur AES'te yeni kriptografik zayıflıklar buldu",
    "kategori": "claude",
@@ -168,12 +48,6 @@
    "baslik": "Eski OpenAI yönetim kurulu üyesi: Modellerin laboratuvardan kaçabileceği biliniyordu",
    "kategori": "model",
    "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://americanbazaaronline.com/2026/07/28/elon-musk-says-grok-4-6-is-weeks-away-grok-4-7-to-follow-soon-485356/",
-   "baslik": "Elon Musk: Grok 4.6 haftalar içinde, Grok 4.7 hemen ardından geliyor",
-   "kategori": "model",
-   "tarih": "2026-07-28"
   },
   {
    "url": "https://github.com/addyosmani/agent-skills",
@@ -2912,6 +2786,34 @@
    "kategori": "github",
    "tarih": "2026-08-27",
    "anahtar": "archify-agent-skill-diagrams"
+  },
+  {
+   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "baslik": "Anthropic, Model Hardware Standard'i (MHS) onizlemeye acti",
+   "kategori": "claude",
+   "tarih": "2026-08-28",
+   "anahtar": "anthropic-model-hardware-standard-preview"
+  },
+  {
+   "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+   "baslik": "Anthropic, bilim insanlarina destek programini genisletti (10.000 koltuk)",
+   "kategori": "claude",
+   "tarih": "2026-08-28",
+   "anahtar": "anthropic-scientist-support-10000-seats-expansion"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.248: --restricted modu, oturumlar arasi mesajlasma, onbellek kaybi duzeltmesi",
+   "kategori": "claude",
+   "tarih": "2026-08-28",
+   "anahtar": "claude-code-2-1-248-restricted-flag-cross-session-messaging"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+   "baslik": "Google, Gemini Omni 1.1 Flash'i genel kullanima acti",
+   "kategori": "model",
+   "tarih": "2026-08-28",
+   "anahtar": "google-gemini-omni-1-1-flash-video-ga"
   }
  ]
 }
