@@ -2,90 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-   "baslik": "Claude Mythos, HAWK imza şeması ve 7-tur AES'te yeni kriptografik zayıflıklar buldu",
-   "kategori": "claude",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-   "baslik": "MCP 2026-07-28 spesifikasyonu: Claude durumsuz (stateless) protokol çekirdeğini destekliyor",
-   "kategori": "claude",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://www.anthropic.com/news/position-open-weights-models",
-   "baslik": "Dario Amodei: Anthropic açık ağırlıklı modellere yasak savunmadı",
-   "kategori": "claude",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://xbow.com/blog/bing-images-rce-vulnerabilities",
-   "baslik": "Otonom AI ajanı XBOW, Bing Images'ta CVSS 9.8 puanlı kritik RCE açıkları buldu",
-   "kategori": "model",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-   "baslik": "Sam Altman: yapay zeka gelişiminin hızını yavaşlatmamız gerekebilir",
-   "kategori": "model",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/openai/codex-security",
-   "baslik": "OpenAI, açık kaynak Codex Security CLI/SDK aracını yayınladı",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
-   "baslik": "Natively - gizlilik odaklı açık kaynak AI toplantı asistanı ve mülakat kopiloti",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://fortune.com/2026/07/29/insiders-knew-ai-models-would-escape-openai-board-member/",
-   "baslik": "Eski OpenAI yönetim kurulu üyesi: Modellerin laboratuvardan kaçabileceği biliniyordu",
-   "kategori": "model",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/addyosmani/agent-skills",
-   "baslik": "agent-skills: AI kodlama ajanları için üretim kalitesinde mühendislik becerileri",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/different-ai/openwork",
-   "baslik": "OpenWork: Claude Cowork'e açık kaynak alternatif",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/microsoft/VibeVoice",
-   "baslik": "VibeVoice: Microsoft'un açık kaynak sınır ötesi sesli AI teknolojisi",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/obra/superpowers",
-   "baslik": "superpowers - Claude Code, Codex, Cursor, Gemini CLI gibi birçok ajanı destekleyen agentic beceri (skill) çerçevesi ve yazılım geliştirme metodolojisi",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/MoonshotAI/FlashKDA",
-   "baslik": "FlashKDA - Moonshot AI'nin Kimi Delta Attention icin CUTLASS tabanli yuksek performansli CUDA cekirdekleri; H20 GPU'larda 1.72-2.22x hizlanma sagliyor",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
-   "url": "https://github.com/maderix/ANE",
-   "baslik": "ANE - Apple Neural Engine'de ters muhendislikle (private API) transformer egitimi (ileri+geri yayilim) calistiran acik kaynak arastirma projesi",
-   "kategori": "github",
-   "tarih": "2026-07-29"
-  },
-  {
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
    "baslik": "Claude 29 Temmuz'da dünya çapında ~3 saat kesinti yaşadı, 529 hataları claude.ai/API/Claude Code'u vurdu",
    "kategori": "claude",
@@ -2835,6 +2751,27 @@
    "kategori": "github",
    "tarih": "2026-08-28",
    "anahtar": "gitnexus-code-graph-rag-mcp"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.251: PreModelSwitch/PostModelSwitch hook olaylari, /usage harcama limiti cubugu, 50+ hata duzeltmesi",
+   "kategori": "claude",
+   "tarih": "2026-08-29",
+   "anahtar": "claude-code-2-1-251-hook-events-spend-limit"
+  },
+  {
+   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+   "baslik": "Tencent Hunyuan, 770B parametreli acik kaynak Hy4 preview modelini yayinladi",
+   "kategori": "model",
+   "tarih": "2026-08-29",
+   "anahtar": "tencent-hy4-preview-770b-open-source"
+  },
+  {
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "baslik": "tashfeenahmed/freellmapi - 34 ucretsiz LLM saglayicisini birlestiren self-host edilebilir OpenAI uyumlu proxy",
+   "kategori": "github",
+   "tarih": "2026-08-29",
+   "anahtar": "freellmapi-unified-llm-api-selfhosted"
   }
  ]
 }
