@@ -2517,6 +2517,20 @@
    "kategori": "github",
    "tarih": "2026-08-30",
    "anahtar": "openmaic-multi-agent-interactive-classroom"
+  },
+  {
+   "url": "https://github.com/p-e-w/heretic",
+   "baslik": "p-e-w/heretic - LLM'lerden guvenlik hizalamasini otomatik kaldiran acik kaynak abliteration araci",
+   "kategori": "github",
+   "tarih": "2026-08-30",
+   "anahtar": "heretic-llm-abliteration-censorship-removal"
+  },
+  {
+   "url": "https://github.com/khoj-ai/khoj",
+   "baslik": "khoj-ai/khoj - self-host edilebilir AI ikinci beyin uygulamasi",
+   "kategori": "github",
+   "tarih": "2026-08-30",
+   "anahtar": "khoj-ai-second-brain-selfhosted"
   }
  ]
 }
