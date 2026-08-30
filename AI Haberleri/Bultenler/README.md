@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 65 bülten
+Toplam: 66 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-08-30-0805.md`](./2026-08-30-0805.md) | 30 Ağustos 2026, 08:05 | 🤖 AI Bülteni — 30 Ağustos 2026: Claude Code haftalık limitlerinde Eylül değişikliği, iki yeni açık kaynak AI aracı |
 | [`2026-08-29-0804.md`](./2026-08-29-0804.md) | 29 Ağustos 2026, 08:04 | 🤖 AI Bülteni — 29 Ağustos 2026: Claude Code 2.1.251, Tencent'in açık kaynak Hy4 preview modeli, self-host LLM proxy'si FreeLLMAPI |
 | [`2026-08-28-2004.md`](./2026-08-28-2004.md) | 28 Ağustos 2026, 20:04 | 🤖 AI Bülteni — 28 Ağustos 2026: Claude Console'a servis anahtarları, Files/Skills API'de beta başlığı emekliliği, GitNexus MCP ile kod etki analizi |
 | [`2026-08-28-0806.md`](./2026-08-28-0806.md) | 28 Ağustos 2026, 08:06 | 🤖 AI Bülteni — 28 Ağustos 2026: Anthropic fiziksel dünyaya açılıyor, bilim insanlarına 10.000 koltuk, Claude Code 2.1.248 |

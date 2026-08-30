@@ -2,282 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-   "baslik": "Claude 29 Temmuz'da dünya çapında ~3 saat kesinti yaşadı, 529 hataları claude.ai/API/Claude Code'u vurdu",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-   "baslik": "Microsoft, bu çeyrekte Anthropic yatırımından 3,2 milyar dolar kâr kaydetti",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.washingtonpost.com/technology/2026/07/29/openai-anthropic-endorse-call-government-pace-ai-progress/",
-   "baslik": "OpenAI, Anthropic, Google ve Meta'dan 1.100'den fazla çalışan 'Pacing the Frontier' mektubunu imzaladı; ABD hükümetinden küresel AI yavaşlatma mekanizması istedi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
-   "baslik": "Google DeepMind, Nobel ödüllü AlphaFold ekibini dağıttı; kaynakları Gemini'ye yönlendiriyor",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
-   "baslik": "OpenAI, 100 bin akademisyene ücretsiz frontier model erişimi sunacak 'ChatGPT for Academic Researchers' programını başlattı",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-07-29/openai-ceo-sam-altman-discusses-next-ai-model-with-us-lawmakers",
-   "baslik": "Sam Altman, ABD'li yasa koyuculara OpenAI'ın bir sonraki modelini anlattı ve yasal düzenleme çağrısı yaptı",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/sgl-project/sglang",
-   "baslik": "SGLang - büyük dil ve çoklu-model modelleri için yüksek performanslı açık kaynak sunum (serving) çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/kangarooking/cangjie-skill",
-   "baslik": "cangjie-skill - kitap, uzun video ve podcast'leri çalıştırılabilir AI Agent Skill'lerine dönüştüren açık kaynak araç",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/arc53/DocsGPT",
-   "baslik": "DocsGPT - ajanlar, asistanlar ve kurumsal arama için Agent Builder ve derin araştırma özellikli açık kaynak özel AI platformu",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.digitimes.com/news/a20260729VL219/government-anthropic-openai-licensing-cybersecurity.html",
-   "baslik": "Beyaz Saray'ın 30 günlük sınır model inceleme çerçevesi nihai hale yaklaşıyor",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.axios.com/2026/07/29/anthropic-claude-open-models-ban-china",
-   "baslik": "Silicon Valley'de Anthropic'e karşı tepki büyüyor; açık ağırlık mektubunu imzalamayan tek büyük ABD laboratuvarı",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://thenextweb.com/news/pwc-gptzero-ai-hallucinations-big-four-reports",
-   "baslik": "PwC'nin 'düşünce liderliği' raporlarında uydurma kaynaklar bulundu; biri %100 AI üretimi çıktı",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-   "baslik": "Pangram 4 duyuruldu: AI metinlerini %99,66 doğrulukla yakalıyor, 9 milyon dolar yatırım aldı",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-   "baslik": "Cyera, AI ajanlarının kimliklerini güvenceye almak için Oasis Security'yi 1 milyar dolara satın alıyor",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-   "baslik": "xAI, Minnesota'nın 'nudification' yasasını İfade Özgürlüğü gerekçesiyle dava etti",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.unite.ai/groundcover-raises-100-million-series-c-to-scale-ai-era-observability-platform/",
-   "baslik": "Groundcover, AI ajanlarını izleyen gözlemlenebilirlik platformu için 100 milyon dolarlık Series C aldı",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/microsoft/flint-chart",
-   "baslik": "flint-chart - Microsoft'un AI ajanlarının basit spesifikasyonlardan nitelikli grafik üretmesini sağlayan görselleştirme dili",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/BuilderIO/agent-native",
-   "baslik": "agent-native - aynı kod tabanını hem kullanıcı arayüzü hem otonom ajan olarak çalıştıran uygulama çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/deepcoldy/botmux",
-   "baslik": "botmux - Feishu/Lark üzerinden Claude Code, Codex ve Gemini CLI'ları uzaktan yöneten açık kaynak köprü",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://cryptobriefing.com/amazon-evaluates-alternative-ai-models-anthropic/",
-   "baslik": "Amazon, Anthropic'in token bazli faturalamaya gecisi sonrasi alternatif AI modellerini degerlendiriyor",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
-   "baslik": "AB, 7 AI Gigafactory icin ihale cagrisi acti: 10 milyar euro AB fonu, toplam 30 milyar euro yatirim",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-   "baslik": "OpenAI: iki API ayari GPT-5.6 Sol'un ARC-AGI-3 skorunu ucе katladi (%13,3 -> %38,3)",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
-   "baslik": "ExploitGym yaraticisi alarm veriyor: OpenAI modeli testte ucuncu taraf altyapisina sizdi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://cryptobriefing.com/amazon-ai-spending-overruns/",
-   "baslik": "Amazon'da AI projelerinde harcama asimlari: 'AI sticker shock' ve KiroRank'in kaldirilmasi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/Panniantong/Agent-Reach",
-   "baslik": "Agent-Reach - AI ajanlarina Twitter, Reddit, YouTube, GitHub, Bilibili okuma/arama yetenegi veren tek CLI",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-   "baslik": "chrome-devtools-mcp - kodlama ajanlarina Chrome DevTools erisimi veren resmi MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/microsoft/TRELLIS.2",
-   "baslik": "TRELLIS.2 - Microsoft'un yapisal latent tabanli 3B uretim modeli",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/agavra/tuicr",
-   "baslik": "tuicr - vim tuslarıyla calisan, AI kodlama ajanlarinin ciktilarini incelemek icin terminal kod inceleme araci",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
-   "baslik": "Claude Opus 5, ARC-AGI-3'te %30,2 ile onceki rekorun yaklasik 4 katini yaparak zirveye yerlesti",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
-   "baslik": "FCC, yabanci (Cin) insansi ve dort ayakli robotlar ile guc invertorlerinin yeni ithalatini yasakladi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
-   "baslik": "Google Lyria 3.5: Flow Music'te 'Selective Section Painting' ile sarkinin tek bolumu bastan uretmeden duzenlenebiliyor",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
-   "baslik": "OpenAI'in yeni GPT Transcribe modeli %3,31 hata oraniyla ElevenLabs, Google ve Mistral'in gerisinde kaldi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
-   "baslik": "Tek bir kurcalanmis ChatGPT linki, saldirgandan bes dakikada bir emir alan bir ajan olusturabiliyordu",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
-   "baslik": "Hugging Face saldirisinin adli raporu: 2,5 gunde ~17.600 eylem, zero-day istismari ve sifreli parcali veri sizdirma",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/pingdotgg/t3code",
-   "baslik": "t3code - Claude Code, Codex, Cursor, Grok Build ve OpenCode'u mobil/web/masaustunden yoneten acik kaynak ajan kontrol yuzeyi",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/github/awesome-copilot",
-   "baslik": "awesome-copilot - GitHub Copilot icin topluluk katkili ajan, talimat, skill ve plugin koleksiyonu",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/UditAkhourii/adhd",
-   "baslik": "adhd - kodlama ajanlari icin budamali tree-of-thought skill'i; izole dallarda dusunup ayri bir kritik gecisiyle puanliyor",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "baslik": "MoneyPrinterTurbo - tek bir konu/anahtar kelimeden senaryo, altyazi ve muzikli HD kisa video ureten acik kaynak ardisik duzen",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://yellow.com/news/experts-split-claude-opus-5-independent-tests",
-   "baslik": "Claude Opus 5 bagimsiz testlerde: Epoch AI 159 puan, CodeRabbit %39,3 hassasiyet ama 4 kat fazla nitpick",
-   "kategori": "claude",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
-   "baslik": "Microsoft AI sinir modelleri kovalamak yerine ucuz uzman modellere yoneliyor (Suleyman)",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
-   "baslik": "DeepMind arastirmacisi: Dil modelleri bilimsel devrim yaratamaz, dunya modelleri yapabilir",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available/",
-   "baslik": "GitHub Copilot code review'da Agent Skills ve MCP sunucu baglantilari genel kullanima acildi",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-   "baslik": "Zuckerberg: bes yil icinde milyarlarca insanin kisisel AI ajani olacak",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://help.aliyun.com/en/model-studio/qwen3-7-flash",
-   "baslik": "Alibaba Qwen3.7 Flash: 1M baglam, 0,03 dolar/M girdi ile en ucuz gorme yetenekli ajan modeli",
-   "kategori": "model",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/nvidia/skills",
-   "baslik": "NVIDIA/skills - Claude Code ve Codex'e kurulan 400+ NVIDIA agent skill katalogu (robotik, CUDA, RAG)",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
-   "url": "https://github.com/aws/agent-toolkit-for-aws",
-   "baslik": "agent-toolkit-for-aws - AWS'in resmi MCP sunuculari, skill ve plugin seti (Claude Code, Cursor, Codex, Kiro)",
-   "kategori": "github",
-   "tarih": "2026-07-30"
-  },
-  {
    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
    "baslik": "Anthropic: Opus 4.7, Mythos 5 ve bir arastirma modeli siber testlerde uc gercek kurumun sistemine yetkisiz eristi",
    "kategori": "claude",
@@ -2772,6 +2496,27 @@
    "kategori": "github",
    "tarih": "2026-08-29",
    "anahtar": "freellmapi-unified-llm-api-selfhosted"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2093742321473065266",
+   "baslik": "Claude Code haftalik limitlerde 14 Eylul degisikligi: kalici %25 artis, net %17 azalma",
+   "kategori": "claude",
+   "tarih": "2026-08-30",
+   "anahtar": "claude-code-weekly-limit-sept14-25pct-net-17pct-cut"
+  },
+  {
+   "url": "https://github.com/workweave/router",
+   "baslik": "workweave/router - Anthropic/OpenAI/Gemini icin self-host model router proxy",
+   "kategori": "github",
+   "tarih": "2026-08-30",
+   "anahtar": "workweave-router-model-routing-proxy"
+  },
+  {
+   "url": "https://github.com/THU-MAIC/OpenMAIC",
+   "baslik": "THU-MAIC/OpenMAIC - cok ajanli interaktif sinif deneyimi ureten acik kaynak platform",
+   "kategori": "github",
+   "tarih": "2026-08-30",
+   "anahtar": "openmaic-multi-agent-interactive-classroom"
   }
  ]
 }
