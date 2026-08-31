@@ -2321,6 +2321,20 @@
    "kategori": "github",
    "tarih": "2026-08-30",
    "anahtar": "khoj-ai-second-brain-selfhosted"
+  },
+  {
+   "url": "https://github.com/mukul975/cve-mcp-server",
+   "baslik": "cve-mcp-server - Claude'a NVD, EPSS, CISA KEV, MITRE ATT&CK gibi kaynakları birleştiren 28 araclı guvenlik MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-08-31",
+   "anahtar": "cve-mcp-server-claude-security-intel-tools"
+  },
+  {
+   "url": "https://github.com/zeroclaw-labs/zeroclaw",
+   "baslik": "zeroclaw - LLM saglayicilarini 30+ iletisim kanaliyla birlestiren self-host Rust AI ajan runtime'i",
+   "kategori": "github",
+   "tarih": "2026-08-31",
+   "anahtar": "zeroclaw-rust-ai-agent-runtime-selfhosted"
   }
  ]
 }
