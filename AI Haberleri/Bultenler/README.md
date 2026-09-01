@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 68 bülten
+Toplam: 69 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-01-0805.md`](./2026-09-01-0805.md) | 1 Eylül 2026, 08:05 | 🤖 AI Bülteni — 1 Eylül 2026: Anthropic güvenlik raporu, Claude Code 2.1.252 ve yeni bir ajan altyapısı öne çıktı |
 | [`2026-08-31-2007.md`](./2026-08-31-2007.md) | 31 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 31 Ağustos 2026: MCP tabanlı güvenlik aracı ve self-host AI ajan runtime'ı öne çıktı |
 | [`2026-08-30-1404.md`](./2026-08-30-1404.md) | 30 Ağustos 2026, 14:04 | 🤖 AI Bülteni — 30 Ağustos 2026: İki yeni self-host edilebilir AI aracı öne çıktı |
 | [`2026-08-30-0805.md`](./2026-08-30-0805.md) | 30 Ağustos 2026, 08:05 | 🤖 AI Bülteni — 30 Ağustos 2026: Claude Code haftalık limitlerinde Eylül değişikliği, iki yeni açık kaynak AI aracı |
