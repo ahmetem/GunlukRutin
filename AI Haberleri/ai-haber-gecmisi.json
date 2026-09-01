@@ -2356,6 +2356,27 @@
    "kategori": "github",
    "tarih": "2026-09-01",
    "anahtar": "ecc-agent-harness-os-claude-code"
+  },
+  {
+   "url": "https://runway.com/news/research/introducing-solaris",
+   "baslik": "Runway, \"Interface World Model\" kategorisinin ilk örneği Solaris'i tanıttı",
+   "kategori": "model",
+   "tarih": "2026-09-01",
+   "anahtar": "runway-solaris-interface-world-model"
+  },
+  {
+   "url": "https://github.com/Gitlawb/openclaude",
+   "baslik": "Gitlawb/openclaude - Claude Code'un çok sağlayıcılı açık kaynak türevi CLI'ı",
+   "kategori": "github",
+   "tarih": "2026-09-01",
+   "anahtar": "gitlawb-openclaude-multi-provider-coding-cli"
+  },
+  {
+   "url": "https://github.com/jingyaogong/minimind",
+   "baslik": "jingyaogong/minimind - 2 saatte sıfırdan 64M parametrelik LLM eğitme projesi",
+   "kategori": "github",
+   "tarih": "2026-09-01",
+   "anahtar": "jingyaogong-minimind-train-64m-llm-2h"
   }
  ]
 }
