@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 72 bülten
+Toplam: 73 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-02-2005.md`](./2026-09-02-2005.md) | 2 Eylül 2026, 20:05 | 🤖 AI Bülteni — 2 Eylül 2026: Qwen3.8-Max güncellendi, üç öne çıkan açık kaynak AI aracı |
 | [`2026-09-02-1406.md`](./2026-09-02-1406.md) | 2 Eylül 2026, 14:06 | 🤖 AI Bülteni — 2 Eylül 2026: Anthropic, kurumsal veri gizliliği için Enterprise Frontier Safeguards'ı duyurdu |
 | [`2026-09-02-0805.md`](./2026-09-02-0805.md) | 2 Eylül 2026, 08:05 | 🤖 AI Bülteni — 2 Eylül 2026: Claude Fable 5.1 ve Mythos 5.1 tanıtıldı, Claude Code 2.1.257/258 yayınlandı |
 | [`2026-09-01-2006.md`](./2026-09-01-2006.md) | 1 Eylül 2026, 20:06 | 🤖 AI Bülteni — 1 Eylül 2026: Runway'den yeni bir model kategorisi ve iki açık kaynak ajan/eğitim aracı |

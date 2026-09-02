@@ -2426,6 +2426,34 @@
    "kategori": "claude",
    "tarih": "2026-09-02",
    "anahtar": "anthropic-enterprise-frontier-safeguards-launch"
+  },
+  {
+   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
+   "baslik": "Alibaba, Qwen3.8-Max-0902 güncellemesini yayınladı",
+   "kategori": "model",
+   "tarih": "2026-09-02",
+   "anahtar": "qwen3-8-max-0902-coding-update"
+  },
+  {
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "baslik": "NousResearch/hermes-agent - kendi kendini gelistiren acik kaynak ajan",
+   "kategori": "github",
+   "tarih": "2026-09-02",
+   "anahtar": "nousresearch-hermes-agent-self-improving"
+  },
+  {
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "baslik": "ChromeDevTools/chrome-devtools-mcp - Google'in resmi Chrome DevTools MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-02",
+   "anahtar": "chromedevtools-chrome-devtools-mcp-server"
+  },
+  {
+   "url": "https://github.com/superlinked/sie",
+   "baslik": "superlinked/sie - self-host edilebilir acik kaynak cikarim sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-02",
+   "anahtar": "superlinked-sie-inference-server"
   }
  ]
 }
