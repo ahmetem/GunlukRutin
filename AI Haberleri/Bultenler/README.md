@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 70 bülten
+Toplam: 71 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-02-0805.md`](./2026-09-02-0805.md) | 2 Eylül 2026, 08:05 | 🤖 AI Bülteni — 2 Eylül 2026: Claude Fable 5.1 ve Mythos 5.1 tanıtıldı, Claude Code 2.1.257/258 yayınlandı |
 | [`2026-09-01-2006.md`](./2026-09-01-2006.md) | 1 Eylül 2026, 20:06 | 🤖 AI Bülteni — 1 Eylül 2026: Runway'den yeni bir model kategorisi ve iki açık kaynak ajan/eğitim aracı |
 | [`2026-09-01-0805.md`](./2026-09-01-0805.md) | 1 Eylül 2026, 08:05 | 🤖 AI Bülteni — 1 Eylül 2026: Anthropic güvenlik raporu, Claude Code 2.1.252 ve yeni bir ajan altyapısı öne çıktı |
 | [`2026-08-31-2007.md`](./2026-08-31-2007.md) | 31 Ağustos 2026, 20:07 | 🤖 AI Bülteni — 31 Ağustos 2026: MCP tabanlı güvenlik aracı ve self-host AI ajan runtime'ı öne çıktı |
