@@ -2132,6 +2132,20 @@
    "kategori": "model",
    "tarih": "2026-09-03",
    "anahtar": "google-gemini-3-8-flash-cyber-launch"
+  },
+  {
+   "url": "https://claude.com/blog/claude-for-commerce-agents",
+   "baslik": "Anthropic, Claude Commerce Agents planini acik kaynak olarak yayinladi",
+   "kategori": "claude",
+   "tarih": "2026-09-03",
+   "anahtar": "anthropic-commerce-agents-blueprint-launch"
+  },
+  {
+   "url": "https://github.com/magnitudedev/magnitude",
+   "baslik": "magnitudedev/magnitude - donanima gore model oneren self-host cikarim sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-03",
+   "anahtar": "magnitude-local-model-inference-server-launch"
   }
  ]
 }
