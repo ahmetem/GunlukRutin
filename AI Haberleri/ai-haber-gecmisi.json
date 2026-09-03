@@ -2146,6 +2146,20 @@
    "kategori": "github",
    "tarih": "2026-09-03",
    "anahtar": "magnitude-local-model-inference-server-launch"
+  },
+  {
+   "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+   "baslik": "Meta, Muse Spark 1.3'ü yayınladı: kodlama ve ajan görevlerinde büyük iyileşme",
+   "kategori": "model",
+   "tarih": "2026-09-03",
+   "anahtar": "meta-muse-spark-1-3-coding-agent-update"
+  },
+  {
+   "url": "https://github.com/google-research/timesfm",
+   "baslik": "google-research/timesfm - Google'ın zaman serisi tahminleme temel modeli, TimesFM 3.0",
+   "kategori": "github",
+   "tarih": "2026-09-03",
+   "anahtar": "google-timesfm-3-0-multivariate-forecasting"
   }
  ]
 }
