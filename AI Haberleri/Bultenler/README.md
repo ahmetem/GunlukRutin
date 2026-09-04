@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 76 bülten
+Toplam: 77 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-04-0807.md`](./2026-09-04-0807.md) | 4 Eylül 2026, 08:07 | 🤖 AI Bülteni — 4 Eylül 2026: OpenAI GPT-6 Astra'yı yayınladı, Claude Code 2.1.260 çıktı |
 | [`2026-09-03-2004.md`](./2026-09-03-2004.md) | 3 Eylül 2026, 20:04 | 🤖 AI Bülteni — 3 Eylül 2026: Meta'dan Muse Spark 1.3, Google'dan zaman serisi modeli TimesFM 3.0 |
 | [`2026-09-03-1405.md`](./2026-09-03-1405.md) | 3 Eylül 2026, 14:05 | 🤖 AI Bülteni — 3 Eylül 2026: Anthropic'ten açık kaynak Commerce Agents planı, self-host model sunucusu Magnitude |
 | [`2026-09-03-0805.md`](./2026-09-03-0805.md) | 3 Eylül 2026, 08:05 | 🤖 AI Bülteni — 3 Eylül 2026: Claude Code 2.1.259 ve Google'ın yeni Gemini 3.8 Flash Cyber modeli |
