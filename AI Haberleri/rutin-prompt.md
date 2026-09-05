@@ -76,6 +76,13 @@ zorunlu: başlık, 1-2 cümle Türkçe özet, kaynak linki, **yayın tarihi**.
 - **B) 🧠 Yapay Zeka Modelleri** — yeni model/sürüm duyuruları (OpenAI, Google, Meta,
   Mistral, xAI, DeepSeek, Qwen…). Birincil duyuru (şirketin blogu / model kartı) varsa
   onu kaynak ver, haber sitesini ikincil kullan.
+  **Keşif için önce** tek Bash çağrısı (WebSearch kotasından düşmez):
+  `python3 "AI Haberleri/kantan-tarama.py" --since <pencere başı ISO +03:00>`
+  kantan.news'in AI kategorisindeki pencere içi haberleri, yayın zamanı ve **birincil
+  kaynak linkiyle** listeler. kantan bir aggregator'dır: bültene kantan sayfası değil
+  `kaynak:` satırındaki birincil link girer; özeti de o kaynağı açıp kendin yaz.
+  `⚠️` işaretli satırları (Google yönlendirmesi / kaynak yok) alma. Çıkış kodu 2 ise
+  kantan'ı atla, WebSearch ile devam et. Finans/piyasa elemesi burada da geçerlidir.
 - **C) 💻 Öne Çıkan AI GitHub Repoları** — `https://github.com/trending?since=daily`
   + arama. Yalnızca **çalışan araç/altyapı**: agent framework'ü, MCP sunucusu, model
   servisi, self-host edilebilir AI aracı, kütüphane.

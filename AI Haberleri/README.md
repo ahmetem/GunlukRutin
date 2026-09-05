@@ -12,6 +12,7 @@ Son güncelleme: 2026-09-05
 |---|---|
 | [`ai-haber-rutini.md`](./ai-haber-rutini.md) | Rutinin ne yaptığı, nasıl yapılandırıldığı — teknik doküman |
 | [`rutin-prompt.md`](./rutin-prompt.md) | claude.ai routine ayarına yapıştırılacak güncel prompt metni |
+| [`kantan-tarama.py`](./kantan-tarama.py) | kantan.news JSON API'sinden pencere içi AI haberlerini birincil kaynak linkiyle listeleyen keşif scripti (Adım 2-B) |
 | [`x-tarama.py`](./x-tarama.py) | X hesaplarının (@ClaudeDevs, @AnthropicAI, @sama, @OpenAI) son gönderilerini x.com + oembed'den çeken yardımcı script (Adım 3) |
 | [`ai-haber-gecmisi.json`](./ai-haber-gecmisi.json) | Tekrar önleme (dedup) geçmişi — gönderilmiş her öğenin kaydı |
 | [`Bultenler/`](./Bultenler/) | Üretilmiş tüm bültenler (`YYYY-AA-GG-SSDD.md`) + dizin + `latest.json` |
@@ -34,6 +35,9 @@ sürüm notu istisna). Rutin ayrı bir PushNotification göndermez.
 
 ## Değişiklik geçmişi
 
+- **2026-09-05** — kantan.news B bölümü için keşif kaynağı olarak eklendi
+  (`kantan-tarama.py`): sitenin açık JSON API'si okunuyor, bültene kantan'ın kendi
+  sayfası değil `original_link`'teki birincil kaynak giriyor.
 - **2026-09-05** — Adım 3 (X) yeniden test edildi. dailygram çalışıyor ama aggregator
   özeti veriyor ve `@AnthropicAI`'ı kapsamıyor; Nitter Ağustos 2026'da kapandı. Bulunan
   çalışan yol: `curl` + tarayıcı UA ile `x.com/<hesap>` (status ID'ler SSR'de geliyor,

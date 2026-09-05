@@ -68,6 +68,17 @@ gelişmesi TechCrunch ve helpnetsecurity linkleriyle iki ayrı bültende gitti).
 platform.claude.com/docs/en/release-notes/overview, openai.com, the-decoder, TechCrunch,
 VentureBeat vb. + GitHub trending.
 
+**kantan.news — B bölümü için keşif kaynağı:** [`kantan-tarama.py`](./kantan-tarama.py)
+sitenin açık JSON API'sini (`/api/news?category=Yapay%20Zeka&limit=30&page=N`) okur;
+pencere içindeki haberleri yayın zamanı, etiketler ve `original_link` (birincil kaynak)
+ile listeler (~2-3 s, auth yok). Ana sayfa JS uygulaması olduğu için WebFetch boş döner;
+API ve `sitemap-news-tr.xml` çalışır. Site bir **aggregator** (Google News RSS → Türkçe
+yeniden yazım): bültene kantan sayfası değil `original_link` girer, özet birincil
+kaynaktan yazılır. `news.google.com/rss/articles/...` biçimindeki `original_link`'ler
+JS'siz çözülemiyor → script işaretler, bültene alınmaz (AI kategorisinde 30/30 kayıt
+doğrudan linkti). robots.txt `Content-Signal: search=yes, ai-train=no, use=reference`
+ve AI tarayıcılarına Disallow içerir; script yalnızca başlık/tarih/kaynak linki alır.
+
 **X (Twitter) — ek kaynak:** `@ClaudeDevs`, `@AnthropicAI`, `@sama`, `@OpenAI`.
 Dört hesap tek Bash çağrısıyla okunur: [`x-tarama.py`](./x-tarama.py) (kimlik
 doğrulama yok, ~4 s). Yöntem:
@@ -106,7 +117,8 @@ açmaz; üç bölüme dağılır ve başlık sonuna hesap etiketi eklenir (örn.
 0. `git fetch/checkout/pull origin main`; `ai-haber-gecmisi.json`'u **budayarak** oku
    (30 günden eskiyi at, son 7 günün anahtarlarını çıkar). python3 yoksa yalnız URL katmanı.
 1. Son bülten damgasından pencereyi belirle (24 saat – 4 gün).
-2. Üç kategori için WebSearch (kategori başına ≤3 arama, ≤3 öğe); her öğede yayın tarihi zorunlu.
+2. Üç kategori için WebSearch (kategori başına ≤3 arama, ≤3 öğe); B için önce
+   `kantan-tarama.py --since <pencere başı>` ile keşif. Her öğede yayın tarihi zorunlu.
 3. X hesaplarını `x-tarama.py --since <pencere başı>` ile tara (tek Bash çağrısı).
 4. İki katmanlı dedup (konu anahtarı + URL grep) ile tekrarları ele.
 5. Kalan yeni öğe <2 ise **hiçbir dosya yazma**, "Yeni AI haberi yok" de, bitir (istisna hariç).
