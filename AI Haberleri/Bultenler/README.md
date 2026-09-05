@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 78 bülten
+Toplam: 79 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-05-0805.md`](./2026-09-05-0805.md) | 5 Eylül 2026, 08:05 | 🤖 AI Bülteni — 5 Eylül 2026: Claude Code 2.1.261 klavye kısayollarını değiştirdi, /skill-doctor geldi |
 | [`2026-09-04-2006.md`](./2026-09-04-2006.md) | 4 Eylül 2026, 20:06 | 🤖 AI Bülteni — 4 Eylül 2026: IFM'den tam açık K2 Horizon model ailesi, Microsoft'tan yeni konuşma tanıma modeli |
 | [`2026-09-04-0807.md`](./2026-09-04-0807.md) | 4 Eylül 2026, 08:07 | 🤖 AI Bülteni — 4 Eylül 2026: OpenAI GPT-6 Astra'yı yayınladı, Claude Code 2.1.260 çıktı |
 | [`2026-09-03-2004.md`](./2026-09-03-2004.md) | 3 Eylül 2026, 20:04 | 🤖 AI Bülteni — 3 Eylül 2026: Meta'dan Muse Spark 1.3, Google'dan zaman serisi modeli TimesFM 3.0 |
