@@ -4,7 +4,7 @@
 gönderilmemiş gelişmeleri derler ve bülteni **doğrudan bu klasöre** yazar; n8n bültenleri
 mail olarak iletir.
 
-Son güncelleme: 2026-08-10
+Son güncelleme: 2026-09-05
 
 ## Klasör haritası
 
@@ -12,6 +12,7 @@ Son güncelleme: 2026-08-10
 |---|---|
 | [`ai-haber-rutini.md`](./ai-haber-rutini.md) | Rutinin ne yaptığı, nasıl yapılandırıldığı — teknik doküman |
 | [`rutin-prompt.md`](./rutin-prompt.md) | claude.ai routine ayarına yapıştırılacak güncel prompt metni |
+| [`x-tarama.py`](./x-tarama.py) | X hesaplarının (@ClaudeDevs, @AnthropicAI, @sama, @OpenAI) son gönderilerini x.com + oembed'den çeken yardımcı script (Adım 3) |
 | [`ai-haber-gecmisi.json`](./ai-haber-gecmisi.json) | Tekrar önleme (dedup) geçmişi — gönderilmiş her öğenin kaydı |
 | [`Bultenler/`](./Bultenler/) | Üretilmiş tüm bültenler (`YYYY-AA-GG-SSDD.md`) + dizin + `latest.json` |
 | [`n8n/`](./n8n/) | Bülteni mail olarak gönderen n8n workflow'u (CT 202) |
@@ -33,6 +34,12 @@ sürüm notu istisna). Rutin ayrı bir PushNotification göndermez.
 
 ## Değişiklik geçmişi
 
+- **2026-09-05** — Adım 3 (X) yeniden test edildi. dailygram çalışıyor ama aggregator
+  özeti veriyor ve `@AnthropicAI`'ı kapsamıyor; Nitter Ağustos 2026'da kapandı. Bulunan
+  çalışan yol: `curl` + tarayıcı UA ile `x.com/<hesap>` (status ID'ler SSR'de geliyor,
+  200) + Snowflake → tarih + `publish.x.com/oembed` (birebir metin, auth yok).
+  `x-tarama.py` scripti eklendi; prompt'taki Adım 3 buna göre yazıldı (dailygram yalnız
+  yedek).
 - **2026-08-10** — Prompt elden geçirildi: iki katmanlı dedup (konu anahtarı + URL;
   changelog/release-notes sayfaları URL muafiyetiyle), 30 gün budama artık **zorunlu**,
   yayın tarihi **zorunlu**, "en az 2 yeni öğe" eşiği (frontier/Anthropic/Claude Code

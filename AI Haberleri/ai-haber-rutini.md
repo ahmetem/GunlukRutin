@@ -68,26 +68,38 @@ gelişmesi TechCrunch ve helpnetsecurity linkleriyle iki ayrı bültende gitti).
 platform.claude.com/docs/en/release-notes/overview, openai.com, the-decoder, TechCrunch,
 VentureBeat vb. + GitHub trending.
 
-**X (Twitter) — koşullu, ek kaynak:** `@ClaudeDevs`, `@AnthropicAI`, `@sama`, `@OpenAI`.
-A/B bölümlerinin birincil kaynakları bu hesapların duyurularının çoğunu zaten kapsadığı
-için X yalnızca **günün ilk çalışmasında** ve **tek WebFetch** ile denenir
-(`dailygram.me/x/ClaudeDevs`); en yeni gönderi pencere dışındaysa tarama hemen bırakılır.
+**X (Twitter) — ek kaynak:** `@ClaudeDevs`, `@AnthropicAI`, `@sama`, `@OpenAI`.
+Dört hesap tek Bash çağrısıyla okunur: [`x-tarama.py`](./x-tarama.py) (kimlik
+doğrulama yok, ~4 s). Yöntem:
 
-X doğrudan okunamıyor (2026-08-04'te test edildi):
+1. `curl` + tarayıcı User-Agent + `--compressed` ile `x.com/<hesap>` → HTTP 200. Sayfa
+   JS kabuğu olsa da sunucu tarafında render edilen kısımda son ~5-7 gönderinin
+   `/status/<id>` bağlantıları var. (WebFetch aynı adrese 402 alır, curl almaz.)
+2. Status ID Snowflake'tir: `(id >> 22) + 1288834974657` = yayın zamanı (ms, UTC) →
+   pencere filtresi ek çağrı gerektirmez.
+3. Pencere içindeki her ID için `publish.x.com/oembed?url=...&omit_script=1` →
+   gönderinin **birebir metni**, yazarı ve tarihi (JSON, auth yok). Birincil kaynaktır.
+4. x.com okunamazsa script dailygram'a kendisi düşer; o da okunamazsa çıkış kodu 2.
+
+Yollar (2026-09-05'te yeniden ölçüldü):
 
 | Yol | Sonuç |
 |---|---|
-| WebFetch `x.com/<hesap>` veya `/status/...` | ❌ HTTP 402 |
-| WebFetch `xcancel.com/<hesap>` | ❌ bot doğrulama ekranı |
-| `curl` + tarayıcı User-Agent | ❌ JS kabuğu, gönderi metni yok |
-| WebFetch `dailygram.me/x/<hesap>` | ✅ ClaudeDevs, sama, OpenAI (tarihli + "View on X") |
+| `curl -A <Chrome UA> --compressed x.com/<hesap>` | ✅ HTTP 200, son 5-7 status ID (4 hesap da) |
+| `curl publish.x.com/oembed?url=https://x.com/i/status/<id>` | ✅ HTTP 200, birebir metin + tarih |
+| WebFetch `x.com/<hesap>` | ❌ HTTP 402 |
+| WebFetch/curl `dailygram.me/x/<hesap>` | ✅ ClaudeDevs, sama, OpenAI — ama aggregator özeti; AnthropicAI 404 (yalnız yedek) |
+| `nitter.net` ve diğer Nitter'lar | ❌ 24 Ağustos 2026 X Corp. cease-and-desist, proje durdu |
+| `xcancel.com` | ❌ bot doğrulama |
+| `r.jina.ai/https://x.com/...` | ❌ HTTP 401 |
+| `syndication.twitter.com/srv/timeline-profile/...` | ❌ HTTP 429 |
+| `rsshub.app/twitter/user/...` | ❌ HTTP 404 |
+| sotwe / twstalker / lightbrd / twiiit | ❌ HTTP 403 |
 
-`@AnthropicAI` dailygram'da yok (404) → WebSearch + anthropic.com/news kullanılır.
-dailygram bir **aggregator**: gönderileri kendi kelimeleriyle özetler; yalnızca "ne
-paylaşılmış" keşfi için kullanılır, iddia bültene girmeden önce birincil kaynakla
-doğrulanır ve kaynak link olarak orijinal `x.com/.../status/...` verilir. Doğrulanamayan
-gönderi bültene girmez. X kaynaklı öğeler ayrı bölüm açmaz; üç bölüme dağılır ve başlık
-sonuna hesap etiketi eklenir (örn. `… (@sama)`).
+Kaynak link olarak orijinal `x.com/<hesap>/status/<id>` verilir; iddia bültene girmeden
+önce birincil kaynakla (blog/changelog/model kartı) karşılaştırılır. Alıntı/RT satırları
+scriptte `⚠️ başka hesabın gönderisi` notuyla işaretlenir. X kaynaklı öğeler ayrı bölüm
+açmaz; üç bölüme dağılır ve başlık sonuna hesap etiketi eklenir (örn. `… (@sama)`).
 
 ## Akış (rutin prompt'unun özeti)
 
@@ -95,7 +107,7 @@ sonuna hesap etiketi eklenir (örn. `… (@sama)`).
    (30 günden eskiyi at, son 7 günün anahtarlarını çıkar). python3 yoksa yalnız URL katmanı.
 1. Son bülten damgasından pencereyi belirle (24 saat – 4 gün).
 2. Üç kategori için WebSearch (kategori başına ≤3 arama, ≤3 öğe); her öğede yayın tarihi zorunlu.
-3. X hesaplarını koşullu tara (yalnız günün ilk çalışması, pencere içindeyse).
+3. X hesaplarını `x-tarama.py --since <pencere başı>` ile tara (tek Bash çağrısı).
 4. İki katmanlı dedup (konu anahtarı + URL grep) ile tekrarları ele.
 5. Kalan yeni öğe <2 ise **hiçbir dosya yazma**, "Yeni AI haberi yok" de, bitir (istisna hariç).
 6. Bülteni `Bultenler/YYYY-AA-GG-SSDD.md` olarak yaz; `Bultenler/README.md` ve

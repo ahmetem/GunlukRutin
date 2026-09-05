@@ -91,26 +91,31 @@ başka bir aracın klonu, README'den ibaret repolar — **alma.** Yıldız sayı
 trending sayfasında yazılı olan değeri kullan ve "bugünkü artış" ile "toplam"ı
 karıştırma; hangisi olduğundan emin değilsen sayıyı hiç yazma.
 
-## Adım 3 — X (Twitter) — koşullu, tek deneme
-`@ClaudeDevs`, `@sama`, `@OpenAI`, `@AnthropicAI` yalnızca **ek** kaynaktır; A ve B
+## Adım 3 — X (Twitter) — tek Bash çağrısı
+`@ClaudeDevs`, `@AnthropicAI`, `@sama`, `@OpenAI` yalnızca **ek** kaynaktır; A ve B
 bölümlerinin birincil kaynakları (anthropic.com, openai.com, changelog) bu hesapların
-duyurularının çoğunu zaten kapsar. Bu yüzden:
-- Yalnızca **günün ilk çalışmasında** dene ve **tek** WebFetch harca:
-  `https://dailygram.me/x/ClaudeDevs`. En yeni gönderi pencerenin dışındaysa (sık olur,
-  dailygram 3-5 gün geride kalabiliyor) X taramasını **hemen bırak**, `sama`/`OpenAI`
-  sayfalarını hiç açma.
-- Pencere içindeyse `https://dailygram.me/x/sama` ve `https://dailygram.me/x/OpenAI`
-  sayfalarını da al. `@AnthropicAI` dailygram'da yok (404) — onun için
-  `anthropic.com/news` yeterlidir.
+duyurularının çoğunu zaten kapsar. Dört hesabı tek komutla, X'in kendi uç noktalarından
+oku (WebFetch/dailygram **kullanma**):
+```
+python3 "AI Haberleri/x-tarama.py" --since <Adım 1'deki pencere başlangıcı, ISO, +03:00>
+```
+Örn. `--since 2026-09-04T20:00+03:00`. Script ~4 saniyede her hesabın son 5-7
+gönderisini `x.com/<hesap>` sayfasından alır (status ID'leri sunucu tarafında render
+ediliyor), Snowflake ID'den yayın zamanını çözer, pencere içindekiler için
+`publish.x.com/oembed` ile gönderinin **birebir metnini**, yazarını ve tarihini basar.
+Çıktıdaki metin gönderinin kendisidir (aggregator özeti değil); yine de iddiayı bültene
+koymadan önce **birincil kaynağa** (blog, changelog, model kartı) bak ve oradaki linki
+de ver. Kaynak link olarak scriptin verdiği orijinal `x.com/<hesap>/status/<id>`
+adresini kullan.
 
-**❗ x.com'a doğrudan istek atma.** Ölçüldü: `x.com/<hesap>` ve `/status/...` → HTTP 402;
-`xcancel.com` → bot doğrulama; `curl` → yalnızca JS kabuğu. Boşa çağrıdır.
-
-dailygram bir **aggregator**: gönderiyi kendi kelimeleriyle özetler, başlığı kendisi
-yazar. Bu yüzden onu yalnızca "ne paylaşılmış" keşfi için kullan; metnini gönderinin
-sözleri gibi aktarma, iddiayı **birincil kaynakla doğrula**, doğrulanamıyorsa bültene
-**koyma**. Kaynak link olarak "View on X" varsa orijinal `x.com/.../status/...` adresini
-ver; yoksa doğrulamada kullandığın birincil kaynağı ver.
+- `⚠️ başka hesabın gönderisi` notu düşen satır alıntı/RT'dir — kaynak hesabın kendi
+  duyurusu gibi aktarma.
+- Çıkış kodu **2** ("HİÇBİR HESAP OKUNAMADI") ise X yolu kapanmış demektir; script
+  dailygram yedeğini kendisi denemiştir. Başka bir şey deneme, X'i bu çalışmada atla ve
+  son mesaja `⚠️ X taraması başarısız` notu ekle.
+- **WebFetch ile `x.com` açma** — WebFetch 402 alır (curl almaz). `nitter.*` ölü
+  (Ağustos 2026'da X Corp. cease-and-desist), `xcancel` bot doğrulaması, `r.jina.ai` 401.
+  Bunları deneme.
 
 X kaynaklı öğe ayrı bölüm açmaz: `@ClaudeDevs`/`@AnthropicAI` → 🟣, `@sama`/`@OpenAI`
 → 🧠. Başlık sonuna hesabı ekle, örn. `… (@sama)`.
