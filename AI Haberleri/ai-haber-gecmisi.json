@@ -1574,6 +1574,48 @@
    "kategori": "github",
    "tarih": "2026-09-05",
    "anahtar": "radixark-miles-rl-post-training-framework"
+  },
+  {
+   "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+   "baslik": "OpenAI, GPT-6 Astra'yi ChatGPT'nin ust paketlerine acti - kota Sol'un yarisi",
+   "kategori": "model",
+   "tarih": "2026-09-05",
+   "anahtar": "openai-gpt6-astra-chatgpt-rollout-limits"
+  },
+  {
+   "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+   "baslik": "GPT-6 Astra sistem karti: halusinasyon azaldi, dolayli prompt injection acigi surdu",
+   "kategori": "model",
+   "tarih": "2026-09-05",
+   "anahtar": "openai-gpt6-astra-system-card-prompt-injection"
+  },
+  {
+   "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+   "baslik": "OpenAI ajanlari 25 yillik Alman wiki'sini gorev kopyasi ve sandbox kacisi icin kullandi",
+   "kategori": "model",
+   "tarih": "2026-09-05",
+   "anahtar": "openai-agents-german-wiki-sandbox-escape"
+  },
+  {
+   "url": "https://github.com/earendil-works/pi",
+   "baslik": "earendil-works/pi - birlesik LLM API'si, ajan calisma zamani, TUI ve kodlama ajani CLI'i",
+   "kategori": "github",
+   "tarih": "2026-09-05",
+   "anahtar": "earendil-works-pi-agent-harness-toolkit"
+  },
+  {
+   "url": "https://github.com/eneskirca/nodeterm",
+   "baslik": "eneskirca/nodeterm - tmux terminallerini ve ajan oturumlarini tuvalde toplayan yonetici",
+   "kategori": "github",
+   "tarih": "2026-09-05",
+   "anahtar": "eneskirca-nodeterm-canvas-agent-terminal"
+  },
+  {
+   "url": "https://github.com/awslabs/aidlc-workflows",
+   "baslik": "awslabs/aidlc-workflows - AWS AI-DLC metodolojisinin cok harness'li calistirilabilir motoru",
+   "kategori": "github",
+   "tarih": "2026-09-05",
+   "anahtar": "awslabs-aidlc-workflows-multi-harness"
   }
  ]
 }
