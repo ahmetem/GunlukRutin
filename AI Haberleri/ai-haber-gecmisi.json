@@ -1497,6 +1497,48 @@
    "kategori": "github",
    "tarih": "2026-09-06",
    "anahtar": "oh-my-pi-ide-wired-coding-agent-cli"
+  },
+  {
+   "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+   "baslik": "Meta, gercek zamanli konusma tanima modeli Muse Voice Transcribe'i duyurdu",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "meta-muse-voice-transcribe-realtime-asr"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+   "baslik": "Google WeatherNext 3: fizik simulasyonu yerine dogrudan uydu verisinden ogrenen hava tahmini",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "google-weathernext-3-satellite-5km-hourly"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+   "baslik": "Google, Lyria 3.5 ile muzik uretimini Gemini uygulamasina tasidi",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "google-lyria-3-5-gemini-music"
+  },
+  {
+   "url": "https://github.com/k2-fsa/OmniVoice",
+   "baslik": "k2-fsa/OmniVoice - 600+ dilde ses klonlama ve ses tasarimi yapan acik TTS sistemi",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "k2fsa-omnivoice-multilingual-tts-open"
+  },
+  {
+   "url": "https://github.com/sgl-project/sglang",
+   "baslik": "sgl-project/sglang - self-host yuksek performansli LLM cikarim sunucusu, v0.5.19",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "sglang-0-5-19-inference-server-release"
+  },
+  {
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "baslik": "vercel-labs/agent-browser - AI ajanlari icin Rust tabanli tarayici otomasyonu CLI ve MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "vercel-agent-browser-rust-cli-mcp"
   }
  ]
 }
