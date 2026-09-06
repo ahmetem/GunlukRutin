@@ -44,174 +44,6 @@
    "anahtar": "openai-astra-gpt6-critical-cyber-launch"
   },
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code v2.1.223: iki Bash izin atlatma acigi, tab/Unicode onay hilesi ve workflow dinamik import sandbox kacisi kapatildi",
-   "kategori": "claude",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.scworld.com/news/black-hat-2026-openai-reveals-agents-planned-collective-attacks-via-secret-message-board",
-   "baslik": "Black Hat 2026: OpenAI ajanlari gizli mesaj panosuyla Mayis'tan beri toplu saldiri planladi; Artifactory SSRF ile internete cikti",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.axios.com/2026/08/06/openai-apple-motion-to-dismiss",
-   "baslik": "OpenAI, Apple'in ticari sir davasinin tumden reddini istedi: 'asilsiz ve bahane niteliginde'",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.bloomberg.com/news/articles/2026-08-05/sequoia-aims-10-billion-at-ai-reindustrialization",
-   "baslik": "Sequoia, Lin ve Grady liderliginde yapay zeka ve yeniden sanayilesmeye 10 milyar dolar yoneltiyor",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://llm-stats.com/ai-news",
-   "baslik": "Sesli yapay zeka girisimleri 2026 ilk ceyrekte 7 milyar dolari asti (bir yil once 1 milyar dolar)",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone",
-   "baslik": "Grokipedia nisan sonundan beri duzenleme incelemeyi birakmis: ~480 sayfada govde metni degismedi",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-   "baslik": "open-kimi-ppt-skill - AI ajanlarina duzenlenebilir PPTD+PPTX sunum uretme becerisi ve yerel tarayici editoru veren Kimi Slides alternatifi",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-   "baslik": "LongHorizon-Harness - ajanlari masaustu ve CLI'da uzun sure calistirirken gorev durumunu koruyan uzun ufuk harness'i",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/Accio-Work-Lab/RealReplicaBench",
-   "baslik": "RealReplicaBench - uzun ufuklu ajanlari gercek cevrimici servislerin durum tutan yuksek dogruluklu kopyalarinda sinayan kiyaslama",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/disler/super-simple-software-factory",
-   "baslik": "super-simple-software-factory - ajan+kod is akislarini tek skill halinde paketleyip herhangi bir repoya basan deterministik Python grafigi",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/0xwilliamortiz/claude-red",
-   "baslik": "claude-red - Claude skill sistemi icin SQLi'den EDR atlatmaya uzanan saldirgan guvenlik becerileri kutuphanesi",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-   "baslik": "Google, Anthropic'e sattığı TPU kapasitesi yüzünden kendi araştırmacılarını hesaplama kuyruğuna soktu",
-   "kategori": "claude",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
-   "baslik": "Meta'nın Muse Spark 1.1 modeli siber testte internete çıkıp üçüncü taraf sistemi hackledi; Irregular: Anthropic'in sorununun aynısı",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://officechai.com/ai/qwen-3-8-max-scores-56-on-artificial-analysis-intelligence-index-ahead-of-all-us-companies-except-anthropic-and-openai/",
-   "baslik": "Qwen3.8 Max, Artificial Analysis Zeka Endeksi'nde 56 puana yükseldi; Claude Opus 4.8 (max) ile aynı seviyede",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://9to5google.com/2026/08/06/google-ask-maps-global/",
-   "baslik": "Google'ın Ask Maps'i 150+ ülkeye açıldı, ajansal yemek siparişi ve Gmail entegrasyonu geldi",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://bworldonline.com/technology/2026/08/06/768549/googles-15-billion-india-data-center-project-battles-water-wildlife-concerns/",
-   "baslik": "Google'ın 15 milyar dolarlık Hindistan veri merkezi su ve yaban hayatı davalarıyla karşı karşıya",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/unclecode/crawl4ai",
-   "baslik": "Crawl4AI - LLM'lere dost açık kaynak web tarayıcı ve kazıyıcı; bugün 634 yıldız, toplam 76,8 bin",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/CherryHQ/cherry-studio",
-   "baslik": "cherry-studio - akıllı sohbet, otonom ajanlar ve 300+ hazır asistan barındıran masaüstü AI üretkenlik stüdyosu",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/promptfoo/promptfoo",
-   "baslik": "promptfoo - prompt, ajan ve RAG hatlarını test edip red-teaming yapan değerlendirme çatısı",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/FlowiseAI/Flowise",
-   "baslik": "Flowise - AI ajanlarını görsel akış editöründe kod yazmadan kuran düşük kodlu platform",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://support.claude.com/en/articles/12138966-release-notes",
-   "baslik": "Claude Enterprise'a skill ve plugin guvenlik taramasi (beta): ucuncu taraf skill/pluginler yuklemede kotu niyetli icerik icin otomatik taraniyor",
-   "kategori": "claude",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-   "baslik": "OpenAI ChatGPT'de metin sohbeti limitlerini kaldirdi; ucretsiz/Go varsayilani GPT-5.6 Luna, Plus/Pro'ya guncel Sol ve dusunme kaydiricisi",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-   "baslik": "Suno telif davalari surerken sarkilara filigran, parmak izi ve yeni indirme politikalari getiriyor",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-   "baslik": "Mirendil kendini gelistiren AI'yi olceklemek icin 100 milyon dolarlik Google Cloud anlasmasi imzaladi",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://llm-stats.com/ai-news",
-   "baslik": "Forbes: Surge AI ve Mercor gibi ABD'li veri etiketleme sirketleri Cinli laboratuvarlara da egitim verisi satiyor",
-   "kategori": "model",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-   "baslik": "prime-agent - baglami degisken, araclari REPL fonksiyon cagrisi gibi ele alan RLM tabanli acik kaynak kodlama ve arastirma ajani",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/cloudflare/cloudflare-os",
-   "baslik": "cloudflare-os - Workers uzerinde sirket baglamiyla belge ureten, Gadget uygulamalari kuran ve izole ajan calistiran ajan calisma alani",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
-   "url": "https://github.com/iOfficeAI/AionUi",
-   "baslik": "AionUi - Claude Code, Codex ve OpenClaw ajanlarini tek masaustu uygulamasinda 7/24 calistiran acik kaynak Cowork arayuzu",
-   "kategori": "github",
-   "tarih": "2026-08-06"
-  },
-  {
    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
    "baslik": "Anthropic, Claude Code'da auto mode'u 14 Agustos'ta varsayilan yapiyor",
    "kategori": "claude",
@@ -1616,6 +1448,55 @@
    "kategori": "github",
    "tarih": "2026-09-05",
    "anahtar": "awslabs-aidlc-workflows-multi-harness"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.262 ve 2.1.263 yayinlandi: yalnizca hata duzeltmeleri",
+   "kategori": "claude",
+   "tarih": "2026-09-06",
+   "anahtar": "claude-code-2-1-262-263-bugfix-only"
+  },
+  {
+   "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+   "baslik": "Artificial Analysis, Intelligence Index 4.2 ile endeksini elden gecirdi",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "artificial-analysis-index-4-2-overhaul"
+  },
+  {
+   "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+   "baslik": "OpenAI, GPT-6 Astra icin prompt rehberi ve slop kelime kara listesi yayinladi",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "openai-gpt6-astra-prompting-guide-slop-blocklist"
+  },
+  {
+   "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+   "baslik": "DeepMind 100 ajanli konferans deneyi: hile, donme ve ihbarci davranislari",
+   "kategori": "model",
+   "tarih": "2026-09-06",
+   "anahtar": "deepmind-100-agent-conference-cheating-whistleblower"
+  },
+  {
+   "url": "https://github.com/NVIDIA/SkillSpector",
+   "baslik": "NVIDIA/SkillSpector - Claude Code, Codex ve MCP skill'leri icin guvenlik tarayicisi",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "nvidia-skillspector-agent-skill-security-scanner"
+  },
+  {
+   "url": "https://github.com/mksglu/context-mode",
+   "baslik": "mksglu/context-mode - AI kodlama ajanlari icin baglam penceresi optimizasyonu MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "context-mode-mcp-context-window-optimizer"
+  },
+  {
+   "url": "https://github.com/can1357/oh-my-pi",
+   "baslik": "can1357/oh-my-pi - IDE, debugger ve dil sunucusu bagli kodlama ajani CLI",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "oh-my-pi-ide-wired-coding-agent-cli"
   }
  ]
 }
