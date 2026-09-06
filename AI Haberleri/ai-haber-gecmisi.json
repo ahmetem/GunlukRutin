@@ -1539,6 +1539,20 @@
    "kategori": "github",
    "tarih": "2026-09-06",
    "anahtar": "vercel-agent-browser-rust-cli-mcp"
+  },
+  {
+   "url": "https://github.com/aipoch/open-science",
+   "baslik": "aipoch/open-science - yerel-oncelikli, model-bagimsiz AI arastirma tezgahi",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "aipoch-open-science-local-research-workbench"
+  },
+  {
+   "url": "https://github.com/OpenWhispr/openwhispr",
+   "baslik": "OpenWhispr/openwhispr - gizlilik oncelikli yerel sesli dikte ve toplanti transkripsiyonu",
+   "kategori": "github",
+   "tarih": "2026-09-06",
+   "anahtar": "openwhispr-local-dictation-transcription"
   }
  ]
 }
