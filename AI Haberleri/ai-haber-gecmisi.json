@@ -1588,6 +1588,27 @@
    "kategori": "github",
    "tarih": "2026-09-07",
    "anahtar": "soju06-codex-lb-account-load-balancer"
+  },
+  {
+   "url": "https://github.com/lightpanda-io/browser",
+   "baslik": "lightpanda-io/browser - AI ajanlari icin Zig ile sifirdan yazilmis, MCP sunuculu headless tarayici",
+   "kategori": "github",
+   "tarih": "2026-09-07",
+   "anahtar": "lightpanda-headless-browser-agents-mcp"
+  },
+  {
+   "url": "https://github.com/bytedance/deer-flow",
+   "baslik": "bytedance/deer-flow - DeerFlow 2.0, alt ajan/hafiza/sandbox yoneten acik kaynak SuperAgent harness'i",
+   "kategori": "github",
+   "tarih": "2026-09-07",
+   "anahtar": "bytedance-deerflow-2-superagent-harness"
+  },
+  {
+   "url": "https://github.com/microsoft/markitdown",
+   "baslik": "microsoft/markitdown - belgeleri LLM'ler icin Markdown'a ceviren arac ve MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-07",
+   "anahtar": "microsoft-markitdown-doc-to-markdown-llm"
   }
  ]
 }
