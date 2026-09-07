@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 83 bülten
+Toplam: 84 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-07-0805.md`](./2026-09-07-0805.md) | 7 Eylül 2026, 08:05 | 🤖 AI Bülteni — 7 Eylül 2026: Self-host BYOK model geçidi Experiential ve tamamen yerel çalışan pentest asistanı METATRON |
 | [`2026-09-06-2003.md`](./2026-09-06-2003.md) | 6 Eylül 2026, 20:03 | 🤖 AI Bülteni — 6 Eylül 2026: Model-bağımsız araştırma tezgâhı Open Science ve yerel dikte aracı OpenWhispr |
 | [`2026-09-06-1406.md`](./2026-09-06-1406.md) | 6 Eylül 2026, 14:06 | 🤖 AI Bülteni — 6 Eylül 2026: Meta'dan gerçek zamanlı konuşma modeli, WeatherNext 3 ve açık kaynak OmniVoice TTS |
 | [`2026-09-06-0806.md`](./2026-09-06-0806.md) | 6 Eylül 2026, 08:06 | 🤖 AI Bülteni — 6 Eylül 2026: Skill güvenlik tarayıcısı, Artificial Analysis endeks revizyonu ve Astra prompt rehberi |

@@ -1553,6 +1553,20 @@
    "kategori": "github",
    "tarih": "2026-09-06",
    "anahtar": "openwhispr-local-dictation-transcription"
+  },
+  {
+   "url": "https://github.com/experientiallabs/experiential",
+   "baslik": "experientiallabs/experiential - BYOK, self-host ve barindirilan modelleri birlestiren acik kaynak model gecidi",
+   "kategori": "github",
+   "tarih": "2026-09-07",
+   "anahtar": "experiential-byok-model-gateway-selfhost"
+  },
+  {
+   "url": "https://github.com/sooryathejas/METATRON",
+   "baslik": "sooryathejas/METATRON - yerel LLM ile calisan, bulutsuz AI destekli sizma testi asistani",
+   "kategori": "github",
+   "tarih": "2026-09-07",
+   "anahtar": "metatron-local-llm-pentest-assistant"
   }
  ]
 }
