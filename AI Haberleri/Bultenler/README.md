@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 88 bülten
+Toplam: 89 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-08-2007.md`](./2026-09-08-2007.md) | 8 Eylül 2026, 20:07 | 🤖 AI Bülteni — 8 Eylül 2026: Cihaz üstü MiniCPM5-2B, Claude destekli Euler ispatı ve browser-use |
 | [`2026-09-08-1406.md`](./2026-09-08-1406.md) | 8 Eylül 2026, 14:06 | 🤖 AI Bülteni — 8 Eylül 2026: Ekip çapında skill/MCP senkronu teamai-cli ve ajan hafızası funes |
 | [`2026-09-08-0806.md`](./2026-09-08-0806.md) | 8 Eylül 2026, 08:06 | 🤖 AI Bülteni — 8 Eylül 2026: 27 MB RAM'le çalışan kodlama harness'i jcode ve ajanlar için gizlenen tarayıcı Camofox |
 | [`2026-09-07-2004.md`](./2026-09-07-2004.md) | 7 Eylül 2026, 20:04 | 🤖 AI Bülteni — 7 Eylül 2026: Ajanlar için sıfırdan yazılmış headless tarayıcı Lightpanda ve ByteDance'in DeerFlow 2.0'ı |

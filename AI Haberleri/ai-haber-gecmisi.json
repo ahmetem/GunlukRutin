@@ -1651,6 +1651,27 @@
    "kategori": "github",
    "tarih": "2026-09-08",
    "anahtar": "feynman-open-source-research-agent"
+  },
+  {
+   "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
+   "baslik": "Anthropic arastirmacisi ve NYU'lu matematikciden Lean'de dogrulanmis Euler ispati",
+   "kategori": "claude",
+   "tarih": "2026-09-08",
+   "anahtar": "alpoge-buckmaster-euler-blowup-lean-claude"
+  },
+  {
+   "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+   "baslik": "OpenBMB, MiniCPM5-2B'yi Apache-2.0 ile yayinladi",
+   "kategori": "model",
+   "tarih": "2026-09-08",
+   "anahtar": "openbmb-minicpm5-2b-apache-ondevice"
+  },
+  {
+   "url": "https://github.com/browser-use/browser-use",
+   "baslik": "browser-use/browser-use - AI ajanlari icin tarayici otomasyonu kutuphanesi",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "browser-use-agent-browser-automation-library"
   }
  ]
 }
