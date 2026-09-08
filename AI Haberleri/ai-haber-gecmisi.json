@@ -1630,6 +1630,27 @@
    "kategori": "github",
    "tarih": "2026-09-08",
    "anahtar": "entire-cli-agent-session-git-record"
+  },
+  {
+   "url": "https://github.com/Tencent/teamai-cli",
+   "baslik": "Tencent/teamai-cli - ekip capinda skill, kural ve MCP senkronu yapan CLI",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "tencent-teamai-cli-skill-mcp-sync"
+  },
+  {
+   "url": "https://github.com/huggingface/funes",
+   "baslik": "huggingface/funes - kodlama ajanlari icin kalici, aranabilir oturum hafizasi",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "huggingface-funes-agent-session-memory"
+  },
+  {
+   "url": "https://github.com/advaitpaliwal/feynman",
+   "baslik": "advaitpaliwal/feynman - acik kaynak cok ajanli bilimsel arastirma ajani",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "feynman-open-source-research-agent"
   }
  ]
 }
