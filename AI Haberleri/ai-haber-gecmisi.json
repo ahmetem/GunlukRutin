@@ -1609,6 +1609,27 @@
    "kategori": "github",
    "tarih": "2026-09-07",
    "anahtar": "microsoft-markitdown-doc-to-markdown-llm"
+  },
+  {
+   "url": "https://github.com/1jehuang/jcode",
+   "baslik": "1jehuang/jcode - 27,8 MB RAM ile calisan cok saglayicili kodlama ajani harness'i",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "jcode-ram-efficient-coding-harness"
+  },
+  {
+   "url": "https://github.com/jo-inc/camofox-browser",
+   "baslik": "jo-inc/camofox-browser - AI ajanlari icin REST API'li, motor seviyesinde gizlenen headless tarayici",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "camofox-browser-stealth-agent-browser-api"
+  },
+  {
+   "url": "https://github.com/entireio/cli",
+   "baslik": "entireio/cli - AI ajan oturumlarini commit'lerin yanina kaydeden git araci",
+   "kategori": "github",
+   "tarih": "2026-09-08",
+   "anahtar": "entire-cli-agent-session-git-record"
   }
  ]
 }

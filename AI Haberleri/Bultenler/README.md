@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 86 bülten
+Toplam: 87 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-08-0806.md`](./2026-09-08-0806.md) | 8 Eylül 2026, 08:06 | 🤖 AI Bülteni — 8 Eylül 2026: 27 MB RAM'le çalışan kodlama harness'i jcode ve ajanlar için gizlenen tarayıcı Camofox |
 | [`2026-09-07-2004.md`](./2026-09-07-2004.md) | 7 Eylül 2026, 20:04 | 🤖 AI Bülteni — 7 Eylül 2026: Ajanlar için sıfırdan yazılmış headless tarayıcı Lightpanda ve ByteDance'in DeerFlow 2.0'ı |
 | [`2026-09-07-1406.md`](./2026-09-07-1406.md) | 7 Eylül 2026, 14:06 | 🤖 AI Bülteni — 7 Eylül 2026: Blender'ı Claude'a bağlayan MCP sunucusu, cihaz üstünde çalışan klinik NLP yığını OpenMed |
 | [`2026-09-07-0805.md`](./2026-09-07-0805.md) | 7 Eylül 2026, 08:05 | 🤖 AI Bülteni — 7 Eylül 2026: Self-host BYOK model geçidi Experiential ve tamamen yerel çalışan pentest asistanı METATRON |
