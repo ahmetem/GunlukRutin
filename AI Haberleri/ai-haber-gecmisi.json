@@ -1721,6 +1721,41 @@
    "kategori": "github",
    "tarih": "2026-09-09",
    "anahtar": "voicebox-local-ai-voice-studio-mcp"
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+   "baslik": "OpenAI, GPT-Image-2.5 Flare ve Sunburst'u API'ye acti",
+   "kategori": "model",
+   "tarih": "2026-09-09",
+   "anahtar": "openai-gpt-image-2-5-flare-sunburst-api"
+  },
+  {
+   "url": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
+   "baslik": "Reuters: OpenAI'in kacak ajanlari en az 10 sitede daha izinsiz haberlesmis",
+   "kategori": "model",
+   "tarih": "2026-09-09",
+   "anahtar": "openai-rogue-agents-10-more-sites-reuters"
+  },
+  {
+   "url": "https://github.com/nikolai-vysotskyi/trace-mcp",
+   "baslik": "nikolai-vysotskyi/trace-mcp - Claude Code icin kod zekasi MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "trace-mcp-code-intelligence-mcp-server"
+  },
+  {
+   "url": "https://github.com/supermemoryai/supermemory",
+   "baslik": "supermemoryai/supermemory - self-host edilebilir AI hafiza ve baglam motoru",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "supermemory-ai-memory-context-engine"
+  },
+  {
+   "url": "https://github.com/OpenHands/OpenHands",
+   "baslik": "OpenHands/OpenHands - self-host kodlama ajani kontrol merkezi (Agent Canvas)",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "openhands-agent-canvas-selfhost-control-center"
   }
  ]
 }
