@@ -1700,6 +1700,27 @@
    "kategori": "github",
    "tarih": "2026-09-09",
    "anahtar": "tencent-weknora-selfhost-rag-wiki"
+  },
+  {
+   "url": "https://github.com/vastsa/PI-Desktop",
+   "baslik": "vastsa/PI-Desktop - kodlama ajanlari icin yerel-oncelikli masaustu calisma alani",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "pi-desktop-local-first-agent-workspace"
+  },
+  {
+   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "baslik": "PrimeIntellect-ai/prime-agent - kendi kendini iyilestiren uzun soluklu kodlama ajani",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "prime-intellect-prime-agent-self-improving-rlm"
+  },
+  {
+   "url": "https://github.com/jamiepine/voicebox",
+   "baslik": "jamiepine/voicebox - cihaz ustunde calisan acik kaynak AI ses studyosu",
+   "kategori": "github",
+   "tarih": "2026-09-09",
+   "anahtar": "voicebox-local-ai-voice-studio-mcp"
   }
  ]
 }
