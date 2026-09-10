@@ -1652,6 +1652,34 @@
    "kategori": "github",
    "tarih": "2026-09-10",
    "anahtar": "vercel-labs-skills-agent-skill-cli"
+  },
+  {
+   "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
+   "baslik": "Arena.ai olctu: Fable 5.1'in yazimi belirgin bicimde degisti",
+   "kategori": "claude",
+   "tarih": "2026-09-10",
+   "anahtar": "arena-ai-fable-5-1-writing-style-shift"
+  },
+  {
+   "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
+   "baslik": "GPT-6 Astra ErdosBench'te 3,23 aldi; OpenAI matematigi onceliklendirmedi",
+   "kategori": "model",
+   "tarih": "2026-09-10",
+   "anahtar": "openai-gpt6-astra-erdosbench-math-deprioritized"
+  },
+  {
+   "url": "https://github.com/JustVugg/colibri",
+   "baslik": "JustVugg/colibri - saf C ile tuketici donaniminda sinir MoE cikarim motoru",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "colibri-c-moe-streaming-inference-engine"
+  },
+  {
+   "url": "https://github.com/nashsu/llm_wiki",
+   "baslik": "nashsu/llm_wiki - belgeleri kalici wiki'ye ceviren yerel bilgi tabani + MCP",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "llm-wiki-persistent-knowledge-base-mcp"
   }
  ]
 }

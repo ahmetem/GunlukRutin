@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 94 bülten
+Toplam: 95 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-10-2005.md`](./2026-09-10-2005.md) | 10 Eylül 2026, 20:05 | 🤖 AI Bülteni — 10 Eylül 2026: Fable 5.1'in dili ölçüldü, Astra matematikte zirveyi bıraktı |
 | [`2026-09-10-1406.md`](./2026-09-10-1406.md) | 10 Eylül 2026, 14:06 | 🤖 AI Bülteni — 10 Eylül 2026: DeepSeek V4.1 Flash açık ağırlıklarla geldi, Anthropic dördüncü olayı açıkladı |
 | [`2026-09-10-0806.md`](./2026-09-10-0806.md) | 10 Eylül 2026, 08:06 | 🤖 AI Bülteni — 10 Eylül 2026: Claude Code'da efor tavanı ayarı, Anthropic'te istifa uyarısı ve Suno v6 |
 | [`2026-09-09-2006.md`](./2026-09-09-2006.md) | 9 Eylül 2026, 20:06 | 🤖 AI Bülteni — 9 Eylül 2026: OpenAI'ın yeni görsel modelleri, kaçak ajanlarda yeni bulgular ve ajan hafızası |
