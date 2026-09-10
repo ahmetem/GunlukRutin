@@ -1610,6 +1610,48 @@
    "kategori": "github",
    "tarih": "2026-09-10",
    "anahtar": "pascalorg-editor-3d-architecture-mcp-cli"
+  },
+  {
+   "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+   "baslik": "Anthropic dördüncü siber olayı açıkladı ve METR'e bağımsız soruşturma yetkisi verdi",
+   "kategori": "claude",
+   "tarih": "2026-09-10",
+   "anahtar": "anthropic-fourth-cyber-incident-metr-audit"
+  },
+  {
+   "url": "https://www.euronews.com/my-europe/2026/09/10/the-eu-got-access-to-anthropics-most-powerful-model-three-months-later",
+   "baslik": "AB'nin siber güvenlik ajansı ENISA, Mythos 5'e üç ay sonra erişim aldı",
+   "kategori": "claude",
+   "tarih": "2026-09-10",
+   "anahtar": "anthropic-mythos5-enisa-eu-access"
+  },
+  {
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+   "baslik": "DeepSeek, V4.1-Flash'ı MIT lisansıyla açık ağırlık olarak yayınladı",
+   "kategori": "model",
+   "tarih": "2026-09-10",
+   "anahtar": "deepseek-v4-1-flash-open-multimodal"
+  },
+  {
+   "url": "https://github.com/diegosouzapw/OmniRoute",
+   "baslik": "diegosouzapw/OmniRoute - self-host edilebilir çok sağlayıcılı AI ağ geçidi",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "omniroute-selfhost-ai-gateway-mcp"
+  },
+  {
+   "url": "https://github.com/AlexsJones/llmfit",
+   "baslik": "AlexsJones/llmfit - donanıma göre çalışabilecek açık modelleri bulan araç",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "llmfit-hardware-aware-model-finder"
+  },
+  {
+   "url": "https://github.com/vercel-labs/skills",
+   "baslik": "vercel-labs/skills - açık ajan skill ekosistemi için CLI",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "vercel-labs-skills-agent-skill-cli"
   }
  ]
 }
