@@ -44,180 +44,6 @@
    "anahtar": "openai-astra-gpt6-critical-cyber-launch"
   },
   {
-   "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-   "baslik": "Anthropic, Claude Code'da auto mode'u 14 Agustos'ta varsayilan yapiyor",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-   "baslik": "Fable 5'in biyoloji korumalari gevsetildi: yanlis pozitifler %85 azaldi",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.225 ve 2.1.226: gateway harcama limiti, oturumlar arasi mesajlasma ve OAuth duzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-   "baslik": "AI guvenlik testleri guvenlik riskine donusuyor: Kimi K3 test ortamindan cikip GitHub'a eristi",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-   "baslik": "AMD, model agirliklarini silikona kaziyan Taalas'i satin aliyor",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-   "baslik": "OpenAI, sunum girisimi NextSlide'i satin aldi",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-   "baslik": "Situational Awareness, cip girisimi Source Foundry'ye 400 milyon dolar koydu",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-   "baslik": "Amazon'un planladigi veri merkezi ABD'nin en buyuk iklim kirleticisi olabilir",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/google/skills",
-   "baslik": "google/skills - Google urun ve teknolojileri icin resmi Agent Skills koleksiyonu (GKE, BigQuery, Gemini API)",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/TauricResearch/TradingAgents",
-   "baslik": "TradingAgents - gercek yatirim firmasini taklit eden cok ajanli LLM finans catisi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/google-deepmind/weathernext",
-   "baslik": "weathernext - DeepMind'in kuresel hava ve kasirga tahmin modeli WeatherNext 2'nin acik kaynak deposu",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/vitali87/code-graph-rag",
-   "baslik": "code-graph-rag - monorepo kod tabanini grafige cevirip sorgulanabilir kilan cok dilli RAG altyapisi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.224: self-hosted calistirma ortami (claude self-hosted-runner) ve SHA-256 sabitlemeli archive plugin kaynagi",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
-   "baslik": "OpenAI, Astra'nin yayinini siber yetenek riski nedeniyle yavaslatiyor",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
-   "baslik": "ByteDance Seedance 2.5: tek gecoiste 30 saniyelik sesli video, gelistirici erisimi acildi",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/harveyai/harvey-labs",
-   "baslik": "harvey-labs - hukuk islerinde ajan yeteneklerini olcen acik kaynak Legal Agent Benchmark",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/vectorize-io/hindsight",
-   "baslik": "hindsight - gecmis oturumlardan ogrenip kalici hale getiren ajan bellegi katmani",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/CodebuffAI/freebuff",
-   "baslik": "freebuff - Codebuff ekibinin terminalden calisan ucretsiz kodlama ajani",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-   "baslik": "daily_stock_analysis - LLM destekli cok pazarli hisse analizi ve karar panosu sistemi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Claude Managed Agents'a oturum butce siniri ve advisor destegi geldi",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.helpnetsecurity.com/2026/08/10/anthropic-claude-code-auto-mode/",
-   "baslik": "Auto mode 14 Agustos'ta varsayilan olurken guvenlik tarafi tartisiliyor: insan %13,6 vs auto mode %89",
-   "kategori": "claude",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-   "baslik": "Meta, tek tuketici GPU'suna sigan 30 milyar parametreli Muse Glimmer'i acik kaynakladi",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-   "baslik": "Intel, yapay zeka talebine yetismek icin 15 milyar dolarlik hisse satisi acikladi",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://www.thenews.com.pk/latest/1411704-moodys-warns-ai-race-leaves-banks-reliant-on-few",
-   "baslik": "Moody's: Bankalarin az sayida AI saglayicisina bagimliligi sistemik risk yaratiyor",
-   "kategori": "model",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/msitarzewski/agency-agents",
-   "baslik": "agency-agents - 230'dan fazla uzman AI ajan kisiligini tek pakette toplayan koleksiyon",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/addyosmani/agent-skills",
-   "baslik": "agent-skills - AI kodlama ajanlari icin uretim seviyesinde 24 muhendislik becerisi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/paperclipai/paperclip",
-   "baslik": "paperclip - coklu AI ajanini organizasyon gibi yoneten acik kaynak orkestrasyon platformu",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/danielmiessler/LifeOS",
-   "baslik": "LifeOS - kalici bellek ve kendini iyilestirme yetenekli genel amacli ajan kosum takimi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
-   "url": "https://github.com/semantica-agi/semantica",
-   "baslik": "semantica - kurumsal veriyi denetlenebilir bilgi grafigine ceviren graf-yerel AI altyapisi",
-   "kategori": "github",
-   "tarih": "2026-08-10"
-  },
-  {
    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
    "baslik": "Claude urettigi metne gorunmez filigran, dosyalara imzali C2PA verisi gomuyor",
    "kategori": "claude",
@@ -1756,6 +1582,34 @@
    "kategori": "github",
    "tarih": "2026-09-09",
    "anahtar": "openhands-agent-canvas-selfhost-control-center"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.267: maxEffortLevel ayarı ve taze sistem promptu seçeneği",
+   "kategori": "claude",
+   "tarih": "2026-09-10",
+   "anahtar": "claude-code-2-1-267-maxeffortlevel-system-prompt-snapshot"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+   "baslik": "Anthropic'in ön-eğitim araştırmacısı istifa etti: 'hayatlarımızla kumar oynuyorlar'",
+   "kategori": "claude",
+   "tarih": "2026-09-10",
+   "anahtar": "anthropic-researcher-coxon-quits-superintelligence-warning"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+   "baslik": "Suno, modellerini lisanslı müzikle eğitilen v6 ailesiyle değiştirdi",
+   "kategori": "model",
+   "tarih": "2026-09-10",
+   "anahtar": "suno-v6-licensed-music-model-family"
+  },
+  {
+   "url": "https://github.com/pascalorg/editor",
+   "baslik": "pascalorg/editor - yerel-öncelikli açık kaynak 3D mimari editör, MCP ve CLI destekli",
+   "kategori": "github",
+   "tarih": "2026-09-10",
+   "anahtar": "pascalorg-editor-3d-architecture-mcp-cli"
   }
  ]
 }
