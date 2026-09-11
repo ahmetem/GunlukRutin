@@ -1617,6 +1617,34 @@
    "kategori": "github",
    "tarih": "2026-09-11",
    "anahtar": "cloddsbot-claude-selfhost-trading-agent"
+  },
+  {
+   "url": "https://cognition.com/blog/swe-2",
+   "baslik": "Cognition, SWE-2'yi yayinladi: FrontierCode'da Fable 5.1'in bir puan altinda, %64 daha ucuz",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "cognition-swe-2-frontiercode-cheaper"
+  },
+  {
+   "url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0",
+   "baslik": "Cohere Labs, North Small Translate 1.0'i acik agirlik olarak yayinladi: 218B MoE, 50+ dil",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "cohere-north-small-translate-open-moe"
+  },
+  {
+   "url": "https://github.com/jordan-gibbs/hyperresearch",
+   "baslik": "jordan-gibbs/hyperresearch - Claude Code icinde calisan derin arastirma ajani ve kalici bilgi kasasi",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "hyperresearch-claude-code-deep-research-vault"
+  },
+  {
+   "url": "https://github.com/jihe520/MathModelAgent",
+   "baslik": "jihe520/MathModelAgent - matematiksel modelleme yarismalari icin cok ajanli makale ureten sistem",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "mathmodelagent-multiagent-math-modeling-paper"
   }
  ]
 }
