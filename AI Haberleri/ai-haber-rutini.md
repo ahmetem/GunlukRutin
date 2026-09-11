@@ -25,10 +25,16 @@ dosyası olarak yazar:
   **Aktif n8n sürümü (v2) bu dosyaya bakmaz** — o `Bultenler/` klasörünü listeler; ama
   dosya v1 rollback'i için hâlâ yazılır. (Yazma adımının 6 Ağustos'ta prompt'tan düşmesi
   10 Ağustos'ta v1'in mail atmamasına yol açmıştı — ayrıntı: [`n8n/README.md`](./n8n/README.md).)
-- **Mail:** n8n workflow'u (CT 202) `Bultenler/` klasörünü saat başı :25'te GitHub Contents
-  API ile listeler, yeni bir bülten görürse Markdown'ı HTML'e çevirip
-  `posta@ahmetkaraca.com` adresine **mail olarak gönderir**. Rutin ayrı bildirim
-  (PushNotification) göndermez; teslimatı n8n yapar. Workflow: [`n8n/`](./n8n/).
+- **Mail:** n8n workflow'u (CT 202) `Bultenler/` klasörünü **günde 3 tur**
+  (`10 8,14,20 * * *` — 08:10 / 14:10 / 20:10) GitHub Contents API ile listeler, yeni bir
+  bülten görürse Markdown'ı HTML'e çevirip `posta@ahmetkaraca.com` adresine **mail olarak
+  gönderir**. Rutin ayrı bildirim (PushNotification) göndermez; teslimatı n8n yapar.
+  Workflow: [`n8n/`](./n8n/). *(Eski `25 * * * *` — "saat başı :25" — değeri 21 Ağustos
+  2026'da UI'dan değiştirildi; dokümanlarda kalan tarif 12 Eylül'de düzeltildi.)*
+  **Marj uyarısı:** bülten :05–:07 arasında push ediliyor, tur :10'da başlıyor — araya
+  ~3 dakika kalıyor. Rutin uzarsa bülten o turu kaçırır; kaybolmaz (v2.1 en yeniden
+  eskiye sıralar ve en yeni bekleyeni yaşına bakmadan gönderir) ama mail bir sonraki
+  tura, ~6 saat sonraya kalır. Kalıcı çözüm cron'u `20 8,14,20 * * *` yapmak.
 - **Tekrar önleme (dedup):** `AI Haberleri/ai-haber-gecmisi.json`. Her kayıt
   **beş alan**: `{"url","baslik","kategori","tarih","anahtar"}`. `anahtar` konu slug'ıdır
   (bkz. aşağıda). 30 günden eski kayıtlar her çalışmada budanır (dosya ~166 KB'a ulaştı;

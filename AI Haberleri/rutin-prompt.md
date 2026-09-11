@@ -14,7 +14,8 @@ kullanılabilir. Çalışma sıklığını varsaymayın — pencereyi Adım 1'de
 hesaplarsın.
 
 ## Değişmez sözleşmeler (n8n bunlara bağlı — BOZMA)
-Bültenleri postalayan n8n workflow'u (CT 202, saat başı :25) şu üç şeye dayanır.
+Bültenleri postalayan n8n workflow'u (CT 202, günde 3 tur: 08:10 / 14:10 / 20:10)
+şu üç şeye dayanır.
 Bir "iyileştirme" bunlara dokunuyorsa yapma:
 1. Dosya adı **tam olarak** `AI Haberleri/Bultenler/YYYY-AA-GG-SSDD.md` (Europe/Istanbul).
    n8n dosyaları ada göre kronolojik sıralar; biçim değişirse mail akışı sessizce durur.
