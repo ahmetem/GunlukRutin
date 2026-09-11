@@ -1645,6 +1645,34 @@
    "kategori": "github",
    "tarih": "2026-09-11",
    "anahtar": "mathmodelagent-multiagent-math-modeling-paper"
+  },
+  {
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "baslik": "Claude Enterprise'a smart reports beta olarak geldi: ekip kullanimini analiz eden rapor",
+   "kategori": "claude",
+   "tarih": "2026-09-11",
+   "anahtar": "claude-enterprise-smart-reports-beta"
+  },
+  {
+   "url": "https://sakana.ai/fugu-max-release/",
+   "baslik": "Sakana AI, Fugu Max ve Fugu Ultra v2'yi yayinladi: milyon token 2 dolara, %40-60 ucuz",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "sakana-fugu-max-ultra-v2-orchestration"
+  },
+  {
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+   "baslik": "OpenAI, ChatGPT for Financial Services'i yayinladi: GPT-6 Astra + gomulu finansal veri",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "openai-chatgpt-financial-services-launch"
+  },
+  {
+   "url": "https://github.com/melgarafael/DeskcommCRM",
+   "baslik": "melgarafael/DeskcommCRM - self-host edilebilir acik kaynak AI satis isletim sistemi",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "deskcomm-crm-selfhost-ai-sales-agents"
   }
  ]
 }
