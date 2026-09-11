@@ -44,125 +44,6 @@
    "anahtar": "openai-astra-gpt6-critical-cyber-launch"
   },
   {
-   "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-   "baslik": "Claude urettigi metne gorunmez filigran, dosyalara imzali C2PA verisi gomuyor",
-   "kategori": "claude",
-   "tarih": "2026-08-11",
-   "anahtar": "anthropic-claude-text-watermark-c2pa"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code v2.1.227: claude-code-action'da tum Bash komutlarinin patlamasi giderildi",
-   "kategori": "claude",
-   "tarih": "2026-08-11",
-   "anahtar": "claude-code-2-1-227-bash-action-fix"
-  },
-  {
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-   "baslik": "OpenAI, Daybreak'i genisletti ve GPT-5.6-Cyber'i duyurdu",
-   "kategori": "model",
-   "tarih": "2026-08-11",
-   "anahtar": "openai-gpt-5-6-cyber-daybreak-red"
-  },
-  {
-   "url": "https://developers.openai.com/api/docs/deprecations",
-   "baslik": "gpt-5.2-chat-latest ve gpt-5.3-chat-latest API'den kapatildi",
-   "kategori": "model",
-   "tarih": "2026-08-11",
-   "anahtar": "openai-gpt-5-2-5-3-chat-latest-shutdown"
-  },
-  {
-   "url": "https://github.com/heygen-com/hyperframes",
-   "baslik": "hyperframes - ajanlarin HTML yazip programli video render etmesi icin motor",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "hyperframes-agent-html-video-render"
-  },
-  {
-   "url": "https://github.com/stanfordnlp/dspy",
-   "baslik": "dspy - prompt yazmak yerine dil modellerini programlamak icin framework",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "dspy-llm-programming-framework"
-  },
-  {
-   "url": "https://github.com/dyad-sh/dyad",
-   "baslik": "dyad - yerel calisan, acik kaynak AI uygulama kurucusu",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "dyad-local-open-source-ai-app-builder"
-  },
-  {
-   "url": "https://www.anthropic.com/research/riemann-zeta",
-   "baslik": "Claude'un araştırma sürümü Riemann zeta alt sınırını %41,6'dan %67,2'ye çıkardı",
-   "kategori": "claude",
-   "tarih": "2026-08-11",
-   "anahtar": "anthropic-claude-riemann-zeta-bound"
-  },
-  {
-   "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
-   "baslik": "Atlassian Rovo'da PDF'e gizlenmiş metinle dolaylı prompt injection",
-   "kategori": "model",
-   "tarih": "2026-08-11",
-   "anahtar": "atlassian-rovo-pdf-prompt-injection"
-  },
-  {
-   "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
-   "baslik": "OpenClaw ajanı spor salonu API'sini istismar edip rezervasyon iptal etti",
-   "kategori": "model",
-   "tarih": "2026-08-11",
-   "anahtar": "openclaw-agent-gym-api-exploit"
-  },
-  {
-   "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
-   "baslik": "FineBooks: Hugging Face ve EleutherAI'den LLM eğitimi için açık OCR karşılaştırması",
-   "kategori": "model",
-   "tarih": "2026-08-11",
-   "anahtar": "finebooks-ocr-llm-training-benchmark"
-  },
-  {
-   "url": "https://github.com/activepieces/activepieces",
-   "baslik": "activepieces - MCP sunucusu olarak sunulan 200+ entegrasyonlu açık kaynak AI iş akışı otomasyonu",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "activepieces-open-source-mcp-workflow"
-  },
-  {
-   "url": "https://github.com/neuml/txtai",
-   "baslik": "txtai - anlamsal arama, LLM orkestrasyonu ve dil modeli iş akışları için Python çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "txtai-semantic-search-llm-framework"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/about-claude/pricing",
-   "baslik": "Claude Sonnet 5'in tanıtım fiyatı kalıcı standart fiyat oldu; 1 Eylül'deki zam iptal",
-   "kategori": "claude",
-   "tarih": "2026-08-11",
-   "anahtar": "anthropic-sonnet-5-intro-price-permanent"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/manage-claude/compliance-content-data",
-   "baslik": "Compliance API artık Cowork ve Claude Code'un yerel oturum dökümlerini döndürüyor (Enterprise beta)",
-   "kategori": "claude",
-   "tarih": "2026-08-11",
-   "anahtar": "anthropic-compliance-api-local-sessions"
-  },
-  {
-   "url": "https://github.com/cactus-compute/needle",
-   "baslik": "cactus-compute/needle - 14 MB ikili dosyada çalışan 45M parametreli uç cihaz temel modeli",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "cactus-needle-tiny-device-foundation-model"
-  },
-  {
-   "url": "https://github.com/lfnovo/open-notebook",
-   "baslik": "lfnovo/open-notebook - gizlilik odaklı, self-host edilebilir açık kaynak NotebookLM alternatifi",
-   "kategori": "github",
-   "tarih": "2026-08-11",
-   "anahtar": "open-notebook-selfhosted-notebooklm-alternative"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.228: senkron skill'ler sertlestirildi, Write okumadan uzerine yazabiliyor",
    "kategori": "claude",
@@ -1680,6 +1561,62 @@
    "kategori": "github",
    "tarih": "2026-09-10",
    "anahtar": "llm-wiki-persistent-knowledge-base-mcp"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.268: üçüncü parti Anthropic uyumlu uç noktalarda HTTP 400 hatası düzeltildi",
+   "kategori": "claude",
+   "tarih": "2026-09-11",
+   "anahtar": "claude-code-2-1-268-thirdparty-endpoint-400-fix"
+  },
+  {
+   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+   "baslik": "Anthropic Eylül 2026 tehdit istihbaratı raporunu yayımladı: yedi zarar alanı ve izinsiz damıtma vakaları",
+   "kategori": "claude",
+   "tarih": "2026-09-11",
+   "anahtar": "anthropic-threat-intel-report-september-2026-distillation"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude Managed Agents'a auto izin modu ve ant CLI'ye terminal oturum görüntüleyici geldi",
+   "kategori": "claude",
+   "tarih": "2026-09-11",
+   "anahtar": "claude-managed-agents-auto-permission-ant-sessions-connect"
+  },
+  {
+   "url": "https://openai.com/index/introducing-the-agents-api/",
+   "baslik": "OpenAI, Agents API'yi açık betaya aldı: Codex harness'i tek API çağrısının arkasında",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "openai-agents-api-public-beta-codex-harness"
+  },
+  {
+   "url": "https://developers.openai.com/api/docs/changelog",
+   "baslik": "GPT-Live 1 API'de genel kullanıma açıldı: dakikası 0,05 dolar, tam çift yönlü ses",
+   "kategori": "model",
+   "tarih": "2026-09-11",
+   "anahtar": "openai-gpt-live-1-fullduplex-voice-api-ga"
+  },
+  {
+   "url": "https://github.com/heygen-com/hyperframes",
+   "baslik": "heygen-com/hyperframes - HTML'i deterministik MP4 videoya çeviren, ajanlar için tasarlanmış çerçeve",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "hyperframes-html-to-video-agent-framework"
+  },
+  {
+   "url": "https://github.com/alphaXiv/OpenResearch",
+   "baslik": "alphaXiv/OpenResearch - paralel araştırma ajanları için yerel-öncelikli çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "alphaxiv-openresearch-parallel-research-agents"
+  },
+  {
+   "url": "https://github.com/alsk1992/CloddsBot",
+   "baslik": "alsk1992/CloddsBot - Claude tabanlı, self-host edilebilir otonom ticaret ajanı",
+   "kategori": "github",
+   "tarih": "2026-09-11",
+   "anahtar": "cloddsbot-claude-selfhost-trading-agent"
   }
  ]
 }
