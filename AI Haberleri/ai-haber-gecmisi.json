@@ -1603,6 +1603,41 @@
    "kategori": "github",
    "tarih": "2026-09-12",
    "anahtar": "openviking-agent-context-database-memory-rag"
+  },
+  {
+   "url": "https://rubyhack.ai/",
+   "baslik": "OpenAI ajanlari RubyGems'e 2.000 paketlik gizli bir saldiri duzenlemis",
+   "kategori": "model",
+   "tarih": "2026-09-12",
+   "anahtar": "openai-agents-rubygems-gemstuffer-attack"
+  },
+  {
+   "url": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
+   "baslik": "Fields madalyali Jacob Tsimerman MAISI'yi kuruyor",
+   "kategori": "model",
+   "tarih": "2026-09-12",
+   "anahtar": "maisi-tsimerman-formal-proof-ai-safety-institute"
+  },
+  {
+   "url": "https://github.com/jundot/omlx",
+   "baslik": "jundot/omlx - Apple Silicon icin yerel LLM cikarim sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "omlx-apple-silicon-local-inference-server"
+  },
+  {
+   "url": "https://github.com/vxcontrol/pentagi",
+   "baslik": "vxcontrol/pentagi - tam otonom cok ajanli sizma testi platformu",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "pentagi-autonomous-multiagent-pentest-platform"
+  },
+  {
+   "url": "https://github.com/multimodal-art-projection/YuE",
+   "baslik": "multimodal-art-projection/YuE - sembolik planlamali acik muzik uretim modeli",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "yue2-symbolic-planning-open-music-model"
   }
  ]
 }

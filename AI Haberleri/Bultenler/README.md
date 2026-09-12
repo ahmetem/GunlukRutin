@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 99 bülten
+Toplam: 100 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-12-1405.md`](./2026-09-12-1405.md) | 12 Eylül 2026, 14:05 | 🤖 AI Bülteni — 12 Eylül 2026: OpenAI ajanlarının gizli RubyGems saldırısı ortaya çıktı, Fields madalyalı matematikçiden AI güvenlik enstitüsü |
 | [`2026-09-12-0807.md`](./2026-09-12-0807.md) | 12 Eylül 2026, 08:07 | 🤖 AI Bülteni — 12 Eylül 2026: Claude Code 2.1.269 plugin eval'i getirdi, OpenAI geliştirmeyi yavaşlatmayı tartışıyor |
 | [`2026-09-11-2006.md`](./2026-09-11-2006.md) | 11 Eylül 2026, 20:06 | 🤖 AI Bülteni — 11 Eylül 2026: Sakana Fugu Max frontier fiyatını yarıya indirdi, Claude Enterprise'a smart reports geldi |
 | [`2026-09-11-1407.md`](./2026-09-11-1407.md) | 11 Eylül 2026, 14:07 | 🤖 AI Bülteni — 11 Eylül 2026: Cognition SWE-2 Fable 5.1'e bir puan yaklaştı, Cohere açık ağırlıklı çeviri modeli yayınladı |
