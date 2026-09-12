@@ -1638,6 +1638,41 @@
    "kategori": "github",
    "tarih": "2026-09-12",
    "anahtar": "yue2-symbolic-planning-open-music-model"
+  },
+  {
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "baslik": "Dario Amodei 'We Must Pace the Frontier' denemesini yayımladı: Anthropic bağımsız değerlendiricilere kalıcı, çalışan düzeyinde erişim veriyor",
+   "kategori": "claude",
+   "tarih": "2026-09-12",
+   "anahtar": "anthropic-amodei-pace-frontier-embedded-evaluators"
+  },
+  {
+   "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+   "baslik": "Agnes AI, 33B parametreli çok kipli Agnes-3.0-Flash'ı Apache 2.0 ile açık ağırlık olarak yayımladı",
+   "kategori": "model",
+   "tarih": "2026-09-12",
+   "anahtar": "agnes-3-0-flash-33b-open-multimodal"
+  },
+  {
+   "url": "https://github.com/max-sixty/worktrunk",
+   "baslik": "max-sixty/worktrunk - paralel AI ajan akışları için Git worktree yönetim CLI'ı",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "worktrunk-git-worktree-parallel-agents-cli"
+  },
+  {
+   "url": "https://github.com/tinyhumansai/openhuman",
+   "baslik": "tinyhumansai/openhuman - yerel-öncelikli hafızalı açık kaynak ajan harness'i",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "openhuman-local-first-agent-harness-memory"
+  },
+  {
+   "url": "https://github.com/alibaba/open-code-review",
+   "baslik": "alibaba/open-code-review - deterministik boru hattı + LLM ajanı birleştiren kod inceleme CLI'ı",
+   "kategori": "github",
+   "tarih": "2026-09-12",
+   "anahtar": "alibaba-open-code-review-llm-agent-cli"
   }
  ]
 }
