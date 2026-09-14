@@ -1554,6 +1554,27 @@
    "kategori": "github",
    "tarih": "2026-09-14",
    "anahtar": "tencentdb-agent-memory-team-memory-hub"
+  },
+  {
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china",
+   "baslik": "Trump, AI'da yavaşlama çağrısını reddetti: 'AI'da kim kazanırsa o kazanır'",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "trump-rejects-ai-slowdown-china-race"
+  },
+  {
+   "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+   "baslik": "MIT'den HardFlow: üretken modelleri katı güvenlik kısıtlarına uyduran algoritma",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "mit-hardflow-hard-constraint-generative-sampling"
+  },
+  {
+   "url": "https://github.com/tech-leads-club/agent-skills",
+   "baslik": "tech-leads-club/agent-skills - Claude Code/Cursor/Copilot icin skill kurulum CLI'si ve MCP sunuculu kayit altyapisi",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "tech-leads-club-agent-skills-cli-mcp-registry"
   }
  ]
 }
