@@ -45,160 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.229: sunucu tarafindan verilen hook destegi, /commit-push-pr tehlikeli git bayraklarini otomatik onaylamiyor",
-   "kategori": "claude",
-   "tarih": "2026-08-13",
-   "anahtar": "claude-code-2-1-229-selfhosted-hooks-git-flags"
-  },
-  {
-   "url": "https://docs.x.ai/docs/models",
-   "baslik": "xAI Grok 4.6 yayinda: 1,5 trilyon parametre, 500k baglam, milyon token basina 2/6 dolar",
-   "kategori": "model",
-   "tarih": "2026-08-13",
-   "anahtar": "xai-grok-4-6-release-500k-context"
-  },
-  {
-   "url": "https://github.com/unslothai/unsloth",
-   "baslik": "unsloth - LLM ve difuzyon modellerini yerelde calistirip egitmek icin masaustu ve web arayuzu",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "unsloth-local-llm-run-train-ui"
-  },
-  {
-   "url": "https://github.com/code-yeongyu/oh-my-openagent",
-   "baslik": "oh-my-openagent - Claude, GPT ve Kimi'yi koordineli ajanlar olarak calistiran kodlama harness'i",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "oh-my-openagent-multi-model-coding-harness"
-  },
-  {
-   "url": "https://github.com/web-infra-dev/midscene",
-   "baslik": "midscene - DOM seciciler olmadan gorme tabanli UI otomasyon araci",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "midscene-vision-driven-ui-automation"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.231: on kayitli OAuth istemcisi kullanan MCP sunucularinda giris duzeltildi",
-   "kategori": "claude",
-   "tarih": "2026-08-13",
-   "anahtar": "claude-code-2-1-231-mcp-oauth-redirect-fix"
-  },
-  {
-   "url": "https://api-docs.deepseek.com/updates",
-   "baslik": "DeepSeek-V4-Pro-0813 GA: ajan yetenekleri guclendi, Codex uyumlu Responses API ve yogun/sakin saat fiyatlandirmasi",
-   "kategori": "model",
-   "tarih": "2026-08-13",
-   "anahtar": "deepseek-v4-pro-0813-ga-agent-responses-api"
-  },
-  {
-   "url": "https://github.com/altic-dev/FluidVoice",
-   "baslik": "FluidVoice - macOS icin tamamen cihaz uzerinde calisan yerel dikte uygulamasi",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "fluidvoice-on-device-macos-dictation"
-  },
-  {
-   "url": "https://github.com/holaboss-ai/holaOS",
-   "baslik": "holaOS - Claude Code ve Codex ajanlarini paylasimli bellekle tek arayuzde calistiran acik kaynak calisma alani",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "holaos-open-source-multi-agent-workspace"
-  },
-  {
-   "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
-   "baslik": "Anthropic, Decart AI'yi ~6 milyar dolara almak icin gorusuyor",
-   "kategori": "claude",
-   "tarih": "2026-08-13",
-   "anahtar": "anthropic-decart-acquisition-talks-6b"
-  },
-  {
-   "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-   "baslik": "Qwen3.8-Max'in acik agirliklari Hugging Face'te yayinda (2,4T / 95B MoE)",
-   "kategori": "model",
-   "tarih": "2026-08-13",
-   "anahtar": "qwen3-8-max-open-weights-huggingface"
-  },
-  {
-   "url": "https://github.com/apify/apify-mcp-server",
-   "baslik": "apify-mcp-server - ajanlari binlerce web kazima Actor'une baglayan MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "apify-mcp-server-web-scraping-actors"
-  },
-  {
-   "url": "https://github.com/lightningpixel/modly",
-   "baslik": "modly - fotograftan yerel GPU'da 3B model ureten acik kaynak masaustu uygulamasi",
-   "kategori": "github",
-   "tarih": "2026-08-13",
-   "anahtar": "modly-local-gpu-image-to-3d-desktop"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.232: subagent forking varsayilan acik, oturumlar arasi @ mesajlasma ve guvenlik yamalari",
-   "kategori": "claude",
-   "tarih": "2026-08-14",
-   "anahtar": "claude-code-2-1-232-subagent-fork-default"
-  },
-  {
-   "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
-   "baslik": "Claude Tag artik kanalin tamamini okuyor: proaktif yanit isabeti %30 arttı",
-   "kategori": "claude",
-   "tarih": "2026-08-14",
-   "anahtar": "claude-tag-channel-context-proactive"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-   "baslik": "Google Gemini 3.7 Flash'i duyurdu: kodlama ve ajanlar icin en zeki is ati",
-   "kategori": "model",
-   "tarih": "2026-08-14",
-   "anahtar": "google-gemini-3-7-flash-release"
-  },
-  {
-   "url": "https://openai.com/index/previewing-ultrafast/",
-   "baslik": "OpenAI, Ultrafast modunu duyurdu: GPT-5.6 Sol 14 kata kadar hizli",
-   "kategori": "model",
-   "tarih": "2026-08-14",
-   "anahtar": "openai-gpt-5-6-sol-ultrafast-preview"
-  },
-  {
-   "url": "https://github.com/vercel-labs/deepsec",
-   "baslik": "vercel-labs/deepsec - kodlama ajanlariyla calisan self-host guvenlik acigi tarayicisi",
-   "kategori": "github",
-   "tarih": "2026-08-14",
-   "anahtar": "vercel-deepsec-agent-vulnerability-scanner"
-  },
-  {
-   "url": "https://github.com/pacifio/atlas",
-   "baslik": "pacifio/atlas - kodlama ajanlari icin surum kontrolu ve paylasimli baglam",
-   "kategori": "github",
-   "tarih": "2026-08-14",
-   "anahtar": "atlas-agent-source-control-shared-context"
-  },
-  {
-   "url": "https://github.com/github/spec-kit",
-   "baslik": "github/spec-kit - spesifikasyon gudumlu gelistirme araci, 30+ kodlama ajani destekli",
-   "kategori": "github",
-   "tarih": "2026-08-14",
-   "anahtar": "github-spec-kit-spec-driven-development"
-  },
-  {
-   "url": "https://www.anthropic.com/research/multiagent-systems",
-   "baslik": "Anthropic Frontier Red Team: cok ajanli sistemlerde dort tekrarlayan ariza kalibi",
-   "kategori": "claude",
-   "tarih": "2026-08-14",
-   "anahtar": "anthropic-frontier-red-team-multiagent-failures"
-  },
-  {
-   "url": "https://z.ai/blog/glm-5.3",
-   "baslik": "Z.ai GLM-5.3'u yayinladi: kodlamada %50 sicrama, acik agirliklar iki hafta gecikmeli",
-   "kategori": "model",
-   "tarih": "2026-08-14",
-   "anahtar": "zai-glm-5-3-coding-jump-weights-delayed-cyber"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.233: todo araclari yeni modellerde kapatildi, GitLab MR destegi geldi",
    "kategori": "claude",
    "tarih": "2026-08-17",
@@ -1673,6 +1519,41 @@
    "kategori": "github",
    "tarih": "2026-09-12",
    "anahtar": "alibaba-open-code-review-llm-agent-cli"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.270: 2.1.269'daki git izin regresyonu düzeltildi",
+   "kategori": "claude",
+   "tarih": "2026-09-14",
+   "anahtar": "claude-code-2-1-270-git-permission-regression-fix"
+  },
+  {
+   "url": "https://futurism.com/artificial-intelligence/openai-faces-congressional-probe-hacking-incident",
+   "baslik": "OpenAI, kaçak ajan olayı için ABD Senatosu soruşturmasıyla karşı karşıya",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "openai-senate-hawley-probe-huggingface-hack"
+  },
+  {
+   "url": "https://x.com/sama/status/2099352016988614852",
+   "baslik": "Altman'dan kamuya açık ileri düzey güvenlik taahhüdü: 'Team Humanity' (@sama)",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "openai-altman-public-team-humanity-safety-commitment"
+  },
+  {
+   "url": "https://github.com/ColeMurray/background-agents",
+   "baslik": "ColeMurray/background-agents - self-host edilebilir arka plan kodlama ajanı sistemi",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "background-agents-selfhost-autonomous-coding-agent"
+  },
+  {
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "baslik": "TencentCloud/TencentDB-Agent-Memory - self-host edilebilir ekip hafıza merkezi",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "tencentdb-agent-memory-team-memory-hub"
   }
  ]
 }

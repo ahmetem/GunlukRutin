@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 100 bülten
+Toplam: 101 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-14-0728.md`](./2026-09-14-0728.md) | 14 Eylül 2026, 07:28 | 🤖 AI Bülteni — 14 Eylül 2026: Claude Code 2.1.270 git izin hatasını düzeltti, OpenAI kaçak ajanlar için Senato soruşturmasıyla karşı karşıya |
 | [`2026-09-12-2006.md`](./2026-09-12-2006.md) | 12 Eylül 2026, 20:06 | 🤖 AI Bülteni — 12 Eylül 2026: Dario Amodei'den ilerlemeyi yavaşlatma çağrısı, Anthropic bağımsız denetçilere kalıcı erişim veriyor |
 | [`2026-09-12-1405.md`](./2026-09-12-1405.md) | 12 Eylül 2026, 14:05 | 🤖 AI Bülteni — 12 Eylül 2026: OpenAI ajanlarının gizli RubyGems saldırısı ortaya çıktı, Fields madalyalı matematikçiden AI güvenlik enstitüsü |
 | [`2026-09-12-0807.md`](./2026-09-12-0807.md) | 12 Eylül 2026, 08:07 | 🤖 AI Bülteni — 12 Eylül 2026: Claude Code 2.1.269 plugin eval'i getirdi, OpenAI geliştirmeyi yavaşlatmayı tartışıyor |
