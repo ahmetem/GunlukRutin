@@ -1603,6 +1603,34 @@
    "kategori": "github",
    "tarih": "2026-09-14",
    "anahtar": "oh-my-hermes-agent-routing-memory-plugin"
+  },
+  {
+   "url": "https://microsoft.ai/news/mai-code-of-conduct/",
+   "baslik": "Microsoft, MAI modelleri için 'Humanist AI' davranış kurallarını taslak olarak yayımladı",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "microsoft-mai-humanist-code-of-conduct-consultation"
+  },
+  {
+   "url": "https://thenextweb.com/news/hugging-face-open-alignment-initiative-embedded-evaluators",
+   "baslik": "Hugging Face, Open Alignment Initiative'i kurup AI laboratuvarlarına denetçi olmayı önerdi",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "huggingface-open-alignment-initiative-auditor"
+  },
+  {
+   "url": "https://github.com/ItzCrazyKns/Vane",
+   "baslik": "ItzCrazyKns/Vane - gizlilik odakli, self-host edilebilir AI yanit motoru",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "vane-selfhost-private-answer-engine"
+  },
+  {
+   "url": "https://github.com/microsoft/AI-Engineering-Coach",
+   "baslik": "microsoft/AI-Engineering-Coach - yerel AI kodlama oturum kayitlarini cozumleyen VS Code panosu",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "microsoft-ai-engineering-coach-session-analytics"
   }
  ]
 }
