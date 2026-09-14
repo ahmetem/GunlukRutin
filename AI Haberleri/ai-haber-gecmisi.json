@@ -1575,6 +1575,34 @@
    "kategori": "github",
    "tarih": "2026-09-14",
    "anahtar": "tech-leads-club-agent-skills-cli-mcp-registry"
+  },
+  {
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-openai-and-anthropic-float-idea-of-ai-standards-body",
+   "baslik": "Anthropic, OpenAI ve Google temmuzdan beri ortak bir AI standart kurumu için görüşüyor",
+   "kategori": "claude",
+   "tarih": "2026-09-14",
+   "anahtar": "anthropic-openai-google-ai-standards-body-talks"
+  },
+  {
+   "url": "https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead",
+   "baslik": "Çin, yapay zekada hız kesme çağrılarını reddetti",
+   "kategori": "model",
+   "tarih": "2026-09-14",
+   "anahtar": "china-rejects-ai-pacing-calls-us-lead"
+  },
+  {
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "baslik": "Panniantong/Agent-Reach - kodlama ajanlarına tek CLI ile ücretsiz internet erişimi",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "agent-reach-cli-web-access-for-agents"
+  },
+  {
+   "url": "https://github.com/rlaope/oh-my-hermes",
+   "baslik": "rlaope/oh-my-hermes - Hermes Agent için model yönlendirme, kalıcı hafıza ve iş akışı eklentisi",
+   "kategori": "github",
+   "tarih": "2026-09-14",
+   "anahtar": "oh-my-hermes-agent-routing-memory-plugin"
   }
  ]
 }
