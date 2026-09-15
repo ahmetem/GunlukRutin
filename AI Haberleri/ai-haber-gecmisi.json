@@ -1666,6 +1666,34 @@
    "kategori": "github",
    "tarih": "2026-09-15",
    "anahtar": "project-nomad-offline-knowledge-server-local-ai"
+  },
+  {
+   "url": "https://elevenlabs.io/blog/introducing-voice-music-image-and-video-generation-in-the-elevenlabs-mcp",
+   "baslik": "ElevenLabs MCP'ye ses, müzik, görsel ve video üretimi eklendi",
+   "kategori": "model",
+   "tarih": "2026-09-15",
+   "anahtar": "elevenlabs-mcp-media-generation-connector"
+  },
+  {
+   "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+   "baslik": "Apple, yeniden yazılmış Siri AI'ı yayımladı: Apple Foundation Models Google Gemini ile birlikte geliştirildi",
+   "kategori": "model",
+   "tarih": "2026-09-15",
+   "anahtar": "apple-siri-ai-launch-gemini-foundation-models"
+  },
+  {
+   "url": "https://github.com/danny-avila/LibreChat",
+   "baslik": "danny-avila/LibreChat - self-host edilebilir çok sağlayıcılı MCP destekli AI sohbet platformu",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "librechat-selfhost-multiprovider-mcp-chat"
+  },
+  {
+   "url": "https://github.com/unclecode/crawl4ai",
+   "baslik": "unclecode/crawl4ai - web içeriğini LLM dostu markdown'a çeviren açık kaynak tarayıcı",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "crawl4ai-llm-friendly-web-crawler"
   }
  ]
 }
