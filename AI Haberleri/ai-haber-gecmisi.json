@@ -1694,6 +1694,41 @@
    "kategori": "github",
    "tarih": "2026-09-15",
    "anahtar": "crawl4ai-llm-friendly-web-crawler"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Messages API'ye istek üzerine sıkıştırma (compaction on demand) geldi",
+   "kategori": "claude",
+   "tarih": "2026-09-15",
+   "anahtar": "messages-api-compaction-on-demand-beta"
+  },
+  {
+   "url": "https://arxiv.org/abs/2609.15066",
+   "baslik": "Salesforce ve Nvidia, kurumsal ajan modeli Koa'yı tanıttı",
+   "kategori": "model",
+   "tarih": "2026-09-15",
+   "anahtar": "salesforce-nvidia-koa-nemotron-crm-agent-model"
+  },
+  {
+   "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+   "baslik": "404 Media: OpenAI, ChatGPT konuşmalarını okutmak için yüzlerce yüklenici tuttu",
+   "kategori": "model",
+   "tarih": "2026-09-15",
+   "anahtar": "openai-project-lily-human-chatgpt-transcript-review"
+  },
+  {
+   "url": "https://github.com/thesysdev/openui",
+   "baslik": "thesysdev/openui - model üretimi arayüzler için akış odaklı tam yığın çerçeve",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "openui-generative-ui-streaming-framework"
+  },
+  {
+   "url": "https://github.com/666ghj/MiroFish",
+   "baslik": "666ghj/MiroFish - çok ajanlı simülasyonla senaryo tahmini motoru",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "mirofish-multiagent-simulation-prediction-engine"
   }
  ]
 }
