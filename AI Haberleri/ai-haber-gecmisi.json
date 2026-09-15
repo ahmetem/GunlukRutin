@@ -1631,6 +1631,41 @@
    "kategori": "github",
    "tarih": "2026-09-14",
    "anahtar": "microsoft-ai-engineering-coach-session-analytics"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.271 ve 2.1.272: komut başına allowed_domains, omitClaudeMd, --accept-command",
+   "kategori": "claude",
+   "tarih": "2026-09-15",
+   "anahtar": "claude-code-2-1-271-272-allowed-domains-omitclaudemd"
+  },
+  {
+   "url": "https://claude.com/blog/claude-for-financial-advisors",
+   "baslik": "Anthropic, Claude for Financial Advisors'ı duyurdu",
+   "kategori": "claude",
+   "tarih": "2026-09-15",
+   "anahtar": "anthropic-claude-for-financial-advisors-launch"
+  },
+  {
+   "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+   "baslik": "Sızan iOS 27 kodu: Siri, Claude veya ChatGPT'ye devredilebilecek şekilde tasarlanmış",
+   "kategori": "claude",
+   "tarih": "2026-09-15",
+   "anahtar": "apple-siri-model-delegation-claude-chatgpt-ios27"
+  },
+  {
+   "url": "https://github.com/OpenBMB/VoxCPM",
+   "baslik": "OpenBMB/VoxCPM - tokenizer'sız çok dilli açık TTS sistemi",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "openbmb-voxcpm-tokenizer-free-multilingual-tts"
+  },
+  {
+   "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+   "baslik": "Crosstalk-Solutions/project-nomad - çevrimdışı çalışan self-host bilgi sunucusu + yerel AI",
+   "kategori": "github",
+   "tarih": "2026-09-15",
+   "anahtar": "project-nomad-offline-knowledge-server-local-ai"
   }
  ]
 }

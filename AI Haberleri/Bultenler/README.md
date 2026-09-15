@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 104 bülten
+Toplam: 105 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-15-0806.md`](./2026-09-15-0806.md) | 15 Eylül 2026, 08:06 | 🤖 AI Bülteni — 15 Eylül 2026: Claude Code 2.1.271 komut başına alan adı izni getirdi, Siri sızıntısı Claude'u devrede gösterdi |
 | [`2026-09-14-2009.md`](./2026-09-14-2009.md) | 14 Eylül 2026, 20:09 | 🤖 AI Bülteni — 14 Eylül 2026: Microsoft model davranış kurallarını kamuya açtı, Hugging Face denetçiliğe soyundu |
 | [`2026-09-14-1409.md`](./2026-09-14-1409.md) | 14 Eylül 2026, 14:09 | 🤖 AI Bülteni — 14 Eylül 2026: Anthropic, OpenAI ve Google gizlice ortak standart kurumu görüşüyor; Çin yavaşlama çağrısını reddetti |
 | [`2026-09-14-0806.md`](./2026-09-14-0806.md) | 14 Eylül 2026, 08:06 | 🤖 AI Bülteni — 14 Eylül 2026: Trump yavaşlama çağrısını reddetti, MIT katı güvenlik kısıtları için HardFlow'u duyurdu |
