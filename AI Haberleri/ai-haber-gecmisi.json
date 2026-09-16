@@ -1764,6 +1764,27 @@
    "kategori": "github",
    "tarih": "2026-09-16",
    "anahtar": "googleapis-mcp-toolbox-database-mcp-server"
+  },
+  {
+   "url": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
+   "baslik": "Novo Nordisk, ilaç keşfini hızlandırmak için Anthropic ile ortaklık kurdu ve Claude Science'ı deneyecek",
+   "kategori": "claude",
+   "tarih": "2026-09-16",
+   "anahtar": "anthropic-novo-nordisk-claude-science-drug-discovery"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test",
+   "baslik": "GPT-6 Astra, Vals AI'ın 141 saatlik Minecraft testinde diğer tüm sistemlerden daha ileri gitti",
+   "kategori": "model",
+   "tarih": "2026-09-16",
+   "anahtar": "openai-gpt6-astra-minecraft-141-hour-vals-benchmark"
+  },
+  {
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "baslik": "cloudflare/security-audit-skill - kodlama ajanları için çok aşamalı güvenlik denetimi skill'i",
+   "kategori": "github",
+   "tarih": "2026-09-16",
+   "anahtar": "cloudflare-security-audit-skill-agent-multiphase"
   }
  ]
 }
