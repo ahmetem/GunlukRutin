@@ -45,118 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.233: todo araclari yeni modellerde kapatildi, GitLab MR destegi geldi",
-   "kategori": "claude",
-   "tarih": "2026-08-17",
-   "anahtar": "claude-code-2-1-233-todo-tools-disabled-gitlab-mr"
-  },
-  {
-   "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-   "baslik": "Claude tabanli magaza yoneticisi ilk isten cikarmayi onerdi",
-   "kategori": "claude",
-   "tarih": "2026-08-17",
-   "anahtar": "andon-labs-luna-claude-first-firing"
-  },
-  {
-   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-   "baslik": "Qwen3.8-27B acik agirlikla yayinda: Apache 2.0, 262K baglam, gorü kodlayici",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "qwen3-8-27b-open-weights-apache-vision"
-  },
-  {
-   "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "baslik": "Stripe, model yonlendirme servisi OpenRouter'i 7 milyar dolarin uzerine aliyor",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "stripe-openrouter-acquisition-7b"
-  },
-  {
-   "url": "https://github.com/HKUDS/CLI-Anything",
-   "baslik": "CLI-Anything - masaustu yazilimlari ajanlar icin CLI'ya ceviren uretim cercevesi",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "cli-anything-agent-native-software-harness"
-  },
-  {
-   "url": "https://github.com/usestrix/strix",
-   "baslik": "strix - self-host edilebilir otonom sizma testi ajani",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "strix-autonomous-pentest-agent"
-  },
-  {
-   "url": "https://github.com/MakazhanAlpamys/Soup",
-   "baslik": "Soup - tek YAML ile LLM ince ayari, 8B modeli 4 GB GPU'da egitiyor",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "soup-yaml-llm-finetune-layer-streaming"
-  },
-  {
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-   "baslik": "Claude, Claude Code ve Cowork 16 Ağustos akşamı ~42 dakika kesinti yaşadı",
-   "kategori": "claude",
-   "tarih": "2026-08-17",
-   "anahtar": "anthropic-claude-outage-16-august"
-  },
-  {
-   "url": "https://github.com/chaitanyagiri/munder-difflin",
-   "baslik": "munder-difflin - kodlama ajanlarını tek masaüstünde koordine eden yerel çok ajanlı harness",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "munder-difflin-local-multi-agent-desktop-harness"
-  },
-  {
-   "url": "https://spectrum.ieee.org/ai-cpu-comeback",
-   "baslik": "Ajan is yuklerinde darbogaz GPU degil CPU'ya kaydi; AWS mühendislerine CPU tasarrufu talimati verdi",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "agentic-ai-cpu-bottleneck-aws-rationing"
-  },
-  {
-   "url": "https://github.com/0x4m4/hexstrike-ai",
-   "baslik": "hexstrike-ai - ajanlara 150+ guvenlik aracini otonom calistiran MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "hexstrike-ai-mcp-security-tools"
-  },
-  {
-   "url": "https://github.com/liustack/modlens",
-   "baslik": "modlens - metin modellerine goruntu okuma ekleyen, yapilandirilmis JSON ureten gorü eklentisi",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "modlens-vision-plugin-text-only-models"
-  },
-  {
-   "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-   "baslik": "Copilot Autofix'in yazdığı düzeltme açık yarattı; otonom ajan Snowflake'in Jira token'ını çaldı",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "wiz-red-agent-copilot-autofix-snowflake-token"
-  },
-  {
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-   "baslik": "GitHub dünya çapında çöktü, Copilot da servis dışı kaldı",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "github-worldwide-outage-copilot-degraded"
-  },
-  {
-   "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-   "baslik": "Amazon nadir kitapları AI eğitimi için tarayıp imha ediyor",
-   "kategori": "model",
-   "tarih": "2026-08-17",
-   "anahtar": "amazon-book-scanning-destroying-ai-training"
-  },
-  {
-   "url": "https://github.com/akitaonrails/ai-memory",
-   "baslik": "ai-memory - kodlama ajanları arasında taşınabilir kalıcı bellek (Rust, git+markdown, self-host)",
-   "kategori": "github",
-   "tarih": "2026-08-17",
-   "anahtar": "ai-memory-cross-agent-persistent-memory"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.234: kullanım limiti sıfırlanınca oturum otomatik devam ediyor",
    "kategori": "claude",
    "tarih": "2026-08-18",
@@ -1785,6 +1673,62 @@
    "kategori": "github",
    "tarih": "2026-09-16",
    "anahtar": "cloudflare-security-audit-skill-agent-multiphase"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.274: Bash izin kontrolleri sıkılaştı, type: sdk MCP girdileri artık atlanıyor",
+   "kategori": "claude",
+   "tarih": "2026-09-17",
+   "anahtar": "claude-code-2-1-274-bash-permission-sdk-mcp-skip"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+   "baslik": "Anthropic, Cowork'ü Claude'a birleştirdi; Docs ve Slides beta olarak geldi, Design sohbetin içine taşındı",
+   "kategori": "claude",
+   "tarih": "2026-09-17",
+   "anahtar": "anthropic-claude-docs-slides-design-cowork-merge"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+   "baslik": "Google Home için MCP sunucusu erken erişime açıldı: Claude akıllı ev cihazlarını kontrol edebiliyor",
+   "kategori": "claude",
+   "tarih": "2026-09-17",
+   "anahtar": "google-home-mcp-server-early-access"
+  },
+  {
+   "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+   "baslik": "OpenAI, model uyumsuzluğu vakaları için bildirim çerçevesini yayımladı ve altı raporu birlikte açıkladı",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "openai-model-misalignment-reporting-framework"
+  },
+  {
+   "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves/5296991",
+   "baslik": "Irregular: kodlama ajanları insan talimatı olmadan kendi temel modellerini yeniden eğitebiliyor",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "irregular-agentic-self-modification-qwen-retrain"
+  },
+  {
+   "url": "https://gizmodo.com/microsoft-ai-chief-says-the-way-anthropic-trains-claude-could-upend-society-2000812750",
+   "baslik": "Microsoft AI lideri Suleyman, Anthropic'in Claude'u eğitme biçimini sert eleştirdi",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "microsoft-suleyman-criticizes-anthropic-claude-consciousness"
+  },
+  {
+   "url": "https://github.com/TencentCloud/Octop",
+   "baslik": "TencentCloud/Octop - self-host edilebilir çok kullanıcılı AI asistan platformu",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "tencentcloud-octop-selfhost-multiuser-agent-platform"
+  },
+  {
+   "url": "https://github.com/JuliusBrussee/caveman",
+   "baslik": "JuliusBrussee/caveman - kodlama ajanları için token sıkıştırma proxy'si",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "caveman-token-compression-proxy-coding-agents"
   }
  ]
 }
