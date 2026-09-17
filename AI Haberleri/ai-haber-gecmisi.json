@@ -1729,6 +1729,27 @@
    "kategori": "github",
    "tarih": "2026-09-17",
    "anahtar": "caveman-token-compression-proxy-coding-agents"
+  },
+  {
+   "url": "https://thenextweb.com/news/deepmind-institute-legg-hassabis-agi-essays",
+   "baslik": "Google DeepMind, AGI tartışmaları için DeepMind Institute'u kurdu",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "google-deepmind-institute-agi-essays"
+  },
+  {
+   "url": "https://github.com/Tencent/BrowserSkill",
+   "baslik": "Tencent/BrowserSkill - ajanların oturum açmış tarayıcıyı kullanmasını sağlayan CLI + eklenti",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "tencent-browserskill-agent-logged-in-browser"
+  },
+  {
+   "url": "https://github.com/strands-agents/harness-sdk",
+   "baslik": "strands-agents/harness-sdk - yerelde ajan harness'i kurmak için Python/TS SDK",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "strands-agents-harness-sdk-local-agent-framework"
   }
  ]
 }
