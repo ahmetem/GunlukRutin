@@ -1750,6 +1750,41 @@
    "kategori": "github",
    "tarih": "2026-09-17",
    "anahtar": "strands-agents-harness-sdk-local-agent-framework"
+  },
+  {
+   "url": "https://claude.com/blog/projects-redesigned",
+   "baslik": "Claude Projects yeniden tasarlandı: klasörden konuşmaya",
+   "kategori": "claude",
+   "tarih": "2026-09-17",
+   "anahtar": "claude-projects-redesign-coordinator-worker-threads"
+  },
+  {
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "baslik": "Mozilla ve Mistral ortaklığı: Firefox Smart Window Mistral modelleriyle çalışıyor",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "mozilla-mistral-firefox-smart-window"
+  },
+  {
+   "url": "https://wccftech.com/huawei-ascend-960dt-960pr-2027-970-2028980-2028-superpods-ai/",
+   "baslik": "Huawei, Ascend 960/970/980 yol haritasını açıkladı",
+   "kategori": "model",
+   "tarih": "2026-09-17",
+   "anahtar": "huawei-ascend-960-970-980-roadmap"
+  },
+  {
+   "url": "https://github.com/onyx-dot-app/onyx",
+   "baslik": "onyx-dot-app/onyx - self-host edilebilir ajanlı RAG ve LLM uygulama katmanı",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "onyx-selfhost-agentic-rag-llm-platform"
+  },
+  {
+   "url": "https://github.com/CodebuffAI/freebuff",
+   "baslik": "CodebuffAI/freebuff - reklam destekli ücretsiz çok ajanlı kodlama platformu",
+   "kategori": "github",
+   "tarih": "2026-09-17",
+   "anahtar": "freebuff-ad-supported-free-coding-agent"
   }
  ]
 }
