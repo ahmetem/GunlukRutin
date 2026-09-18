@@ -1813,6 +1813,41 @@
    "kategori": "github",
    "tarih": "2026-09-18",
    "anahtar": "cline-autonomous-coding-agent-multiagent-teams"
+  },
+  {
+   "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+   "baslik": "Anthropic, sınır laboratuvarlardaki AI gelişim hızı için üç ölçüm yayımladı: Claude Ar-Ge'nin %26'sını yönetiyor",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "anthropic-pace-measurements-claude-26-percent-ai-rd"
+  },
+  {
+   "url": "https://coincentral.com/what-is-anthropic-doing-in-drug-discovery-inside-its-new-biology-lab",
+   "baslik": "Anthropic, San Francisco Körfezi'nde fiziksel biyoloji laboratuvarı kurdu",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "anthropic-bay-area-wet-lab-physical-biology"
+  },
+  {
+   "url": "https://github.com/tamaratran/fast-jev-compaction",
+   "baslik": "tamaratran/fast-jev-compaction - Claude Code geçmişini özetlemeden eleyerek küçülten plugin",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "fast-jev-compaction-claude-code-verbatim-pruning"
+  },
+  {
+   "url": "https://github.com/TheoLeeCJ/openjev",
+   "baslik": "TheoLeeCJ/openjev - Jev arayüz desenini yerelde çalıştıran açık kaynak uygulama",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "openjev-local-typed-decision-model-interface"
+  },
+  {
+   "url": "https://github.com/tirth8205/code-review-graph",
+   "baslik": "tirth8205/code-review-graph - MCP üzerinden kod bilgi grafiği sunan yerel-öncelikli araç",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "code-review-graph-mcp-local-code-knowledge-graph"
   }
  ]
 }
