@@ -45,34 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.234: kullanım limiti sıfırlanınca oturum otomatik devam ediyor",
-   "kategori": "claude",
-   "tarih": "2026-08-18",
-   "anahtar": "claude-code-2-1-234-auto-continue-usage-limit"
-  },
-  {
-   "url": "https://ai.google.dev/gemini-api/docs/models/imagen",
-   "baslik": "Google, Imagen 4 API uçlarını kapattı",
-   "kategori": "model",
-   "tarih": "2026-08-18",
-   "anahtar": "google-imagen-4-api-shutdown"
-  },
-  {
-   "url": "https://github.com/D4Vinci/Scrapling",
-   "baslik": "D4Vinci/Scrapling - MCP sunuculu uyarlanabilir web kazıma çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-08-18",
-   "anahtar": "scrapling-adaptive-scraping-mcp-server"
-  },
-  {
-   "url": "https://github.com/Blaizzy/mlx-audio",
-   "baslik": "Blaizzy/mlx-audio - Apple MLX üzerinde TTS/STT/STS kütüphanesi",
-   "kategori": "github",
-   "tarih": "2026-08-18",
-   "anahtar": "mlx-audio-apple-silicon-speech-library"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.235: izin diyalogunda oturum geneli yetki veren hata duzeltildi, spellcheck ayari eklendi",
    "kategori": "claude",
    "tarih": "2026-08-19",
@@ -1785,6 +1757,62 @@
    "kategori": "github",
    "tarih": "2026-09-17",
    "anahtar": "freebuff-ad-supported-free-coding-agent"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.275 ve 2.1.276: claude.ai skill/plugin senkronu geldi, proxy'leri kıran 400 hatası düzeltildi",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "claude-code-2-1-275-276-claudeai-skill-sync-proxy-400-regression"
+  },
+  {
+   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "baslik": "Anthropic, Yaşam Bilimleri Doğrulama Programı'nı (LSVP) açtı: Mythos ilk kez erişime giriyor",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "anthropic-life-sciences-verification-program-mythos-access"
+  },
+  {
+   "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+   "baslik": "Anthropic 30'dan fazla açık kaynak biyomoleküler modeli hızlandırıp kodu açtı: ortalama 4 kat",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "anthropic-biomolecular-model-optimization-open-source"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+   "baslik": "PrismML, Bonsai 2 27B'yi yayımladı: üçlü ağırlıklarla 5,9 GB'a inen açık model",
+   "kategori": "model",
+   "tarih": "2026-09-18",
+   "anahtar": "prismml-bonsai-2-27b-ternary-quantized-open"
+  },
+  {
+   "url": "https://openai.com/index/astra-for-law/",
+   "baslik": "OpenAI, Astra for Law'ı duyurdu: GPT-6 Astra artık hukuk arama indeksiyle geliyor",
+   "kategori": "model",
+   "tarih": "2026-09-18",
+   "anahtar": "openai-astra-for-law-gpt6-legal-search-index"
+  },
+  {
+   "url": "https://github.com/e2b-dev/runtime",
+   "baslik": "e2b-dev/runtime - Firecracker microVM tabanlı, self-host edilebilir ajan sandbox altyapısı",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "e2b-runtime-selfhost-firecracker-agent-sandbox"
+  },
+  {
+   "url": "https://github.com/vercel/eve",
+   "baslik": "vercel/eve - dosya sistemi öncelikli dayanıklı AI ajan çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "vercel-eve-filesystem-first-agent-framework"
+  },
+  {
+   "url": "https://github.com/cline/cline",
+   "baslik": "cline/cline - IDE, CLI, masaüstü ve SDK olarak dağıtılan otonom kodlama ajanı",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "cline-autonomous-coding-agent-multiagent-teams"
   }
  ]
 }

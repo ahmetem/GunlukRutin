@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 112 bülten
+Toplam: 113 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-18-0807.md`](./2026-09-18-0807.md) | 18 Eylül 2026, 08:07 | 🤖 AI Bülteni — 18 Eylül 2026: Claude Code 2.1.275'te proxy kıran regresyon, Mythos yaşam bilimlerine açıldı, Bonsai 2 |
 | [`2026-09-17-2009.md`](./2026-09-17-2009.md) | 17 Eylül 2026, 20:09 | 🤖 AI Bülteni — 17 Eylül 2026: Projeler koordinatör/işçi modeline geçti, Firefox'a Mistral, Huawei'nin Ascend yol haritası |
 | [`2026-09-17-1406.md`](./2026-09-17-1406.md) | 17 Eylül 2026, 14:06 | 🤖 AI Bülteni — 17 Eylül 2026: Ajanlara açılan tarayıcı, Strands harness SDK'sı ve DeepMind'ın AGI enstitüsü |
 | [`2026-09-17-0805.md`](./2026-09-17-0805.md) | 17 Eylül 2026, 08:05 | 🤖 AI Bülteni — 17 Eylül 2026: Claude Code 2.1.274'ün Bash izin sıkılaştırması, Claude Docs/Slides beta ve Google Home MCP |
