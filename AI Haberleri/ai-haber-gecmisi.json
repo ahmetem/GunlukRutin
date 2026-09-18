@@ -1848,6 +1848,41 @@
    "kategori": "github",
    "tarih": "2026-09-18",
    "anahtar": "code-review-graph-mcp-local-code-knowledge-graph"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Compliance API artık Claude in Chrome oturumlarının transkriptlerini döndürüyor",
+   "kategori": "claude",
+   "tarih": "2026-09-18",
+   "anahtar": "compliance-api-claude-in-chrome-transcripts"
+  },
+  {
+   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+   "baslik": "Alibaba Damo Academy, uzman seviyesi karın BT modeli Damo Radar'ı açık kaynak yaptı",
+   "kategori": "model",
+   "tarih": "2026-09-18",
+   "anahtar": "alibaba-damo-radar-open-abdominal-ct-vlm"
+  },
+  {
+   "url": "https://thenextweb.com/news/hinton-senate-briefing-ai-regulation-year",
+   "baslik": "Geoffrey Hinton ABD Senatosu'na kapalı brifing verdi: düzenleme için yaklaşık bir yıl kaldı",
+   "kategori": "model",
+   "tarih": "2026-09-18",
+   "anahtar": "hinton-senate-briefing-one-year-ai-regulation"
+  },
+  {
+   "url": "https://github.com/Fission-AI/OpenSpec",
+   "baslik": "Fission-AI/OpenSpec - kodlama ajanları için spesifikasyon öncelikli geliştirme çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "openspec-spec-driven-agent-development"
+  },
+  {
+   "url": "https://github.com/coder/coder",
+   "baslik": "coder/coder - self-host edilebilir bulut geliştirme ortamları ve kontrol düzleminde çalışan kodlama ajanları",
+   "kategori": "github",
+   "tarih": "2026-09-18",
+   "anahtar": "coder-selfhost-workspaces-control-plane-agents"
   }
  ]
 }
