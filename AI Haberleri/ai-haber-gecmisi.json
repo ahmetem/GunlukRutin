@@ -1848,6 +1848,34 @@
    "kategori": "github",
    "tarih": "2026-09-19",
    "anahtar": "docling-local-document-to-llm-pipeline"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "baslik": "TypeSafe AI'ın Jev modeli geliştiricileri topluyor: metin yerine kalibre edilmiş karar üretiyor",
+   "kategori": "model",
+   "tarih": "2026-09-19",
+   "anahtar": "typesafe-jev-calibrated-decision-model-launch"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
+   "baslik": "GPT-6 Astra, 1918'den kalma çözülememiş Alman telsiz şifresini çözdü",
+   "kategori": "model",
+   "tarih": "2026-09-19",
+   "anahtar": "gpt6-astra-1918-adfgvx-cipher-solved"
+  },
+  {
+   "url": "https://github.com/cactus-compute/needle",
+   "baslik": "cactus-compute/needle - 8-29 MB'lık cihaz üstü temel model: araç çağırma, tipli çıkarım, gömme",
+   "kategori": "github",
+   "tarih": "2026-09-19",
+   "anahtar": "cactus-needle-on-device-foundation-model"
+  },
+  {
+   "url": "https://github.com/higgsfield-ai/higgsfield",
+   "baslik": "higgsfield-ai/higgsfield - büyük model eğitimi için hataya dayanıklı GPU orkestrasyon çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-09-19",
+   "anahtar": "higgsfield-fault-tolerant-gpu-orchestration-training"
   }
  ]
 }
