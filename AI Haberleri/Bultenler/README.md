@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 116 bülten
+Toplam: 117 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-19-1405.md`](./2026-09-19-1405.md) | 19 Eylül 2026, 14:05 | 🤖 AI Bülteni — 19 Eylül 2026: Bilgisayar kullanan ajan altyapısı, ajan hafızası ve doküman hattı öne çıktı |
 | [`2026-09-19-0806.md`](./2026-09-19-0806.md) | 19 Eylül 2026, 08:06 | 🤖 AI Bülteni — 19 Eylül 2026: Claude Code auto mode sınıflandırıcısı sunucuya taşındı, AGENTS.md desteği geldi |
 | [`2026-09-18-2006.md`](./2026-09-18-2006.md) | 18 Eylül 2026, 20:06 | 🤖 AI Bülteni — 18 Eylül 2026: Alibaba uzman seviyesi BT modelini açtı, Hinton Senato'ya bir yıl dedi |
 | [`2026-09-18-1406.md`](./2026-09-18-1406.md) | 18 Eylül 2026, 14:06 | 🤖 AI Bülteni — 18 Eylül 2026: Claude Anthropic'in Ar-Ge'sinin %26'sını yönetiyor, Jev ekosistemi patladı |

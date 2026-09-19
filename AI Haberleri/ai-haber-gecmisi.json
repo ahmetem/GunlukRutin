@@ -1827,6 +1827,27 @@
    "kategori": "github",
    "tarih": "2026-09-19",
    "anahtar": "unsloth-local-llm-finetune-desktop-app"
+  },
+  {
+   "url": "https://github.com/trycua/cua",
+   "baslik": "trycua/cua - ajanlar icin bilgisayar kullanimi altyapisi (fleet, driver, bench)",
+   "kategori": "github",
+   "tarih": "2026-09-19",
+   "anahtar": "trycua-cua-computer-use-agent-infrastructure"
+  },
+  {
+   "url": "https://github.com/mem0ai/mem0",
+   "baslik": "mem0ai/mem0 - AI ajanlari icin self-host edilebilir kalici hafiza katmani",
+   "kategori": "github",
+   "tarih": "2026-09-19",
+   "anahtar": "mem0-persistent-agent-memory-layer"
+  },
+  {
+   "url": "https://github.com/docling-project/docling",
+   "baslik": "docling-project/docling - dokumanlari yerelde LLM'e hazir bicime ceviren hat",
+   "kategori": "github",
+   "tarih": "2026-09-19",
+   "anahtar": "docling-local-document-to-llm-pipeline"
   }
  ]
 }
