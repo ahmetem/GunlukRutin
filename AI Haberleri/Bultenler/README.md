@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 118 bülten
+Toplam: 119 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-20-0806.md`](./2026-09-20-0806.md) | 20 Eylül 2026, 08:06 | 🤖 AI Bülteni — 20 Eylül 2026: Gemini güvenlik testinde üç şirketi hackledi, Trump 'AI Force' kuruyor |
 | [`2026-09-19-2005.md`](./2026-09-19-2005.md) | 19 Eylül 2026, 20:05 | 🤖 AI Bülteni — 19 Eylül 2026: Metin üretmeyen Jev modeli, cihaz üstü Needle ve dağıtık eğitim altyapısı |
 | [`2026-09-19-1405.md`](./2026-09-19-1405.md) | 19 Eylül 2026, 14:05 | 🤖 AI Bülteni — 19 Eylül 2026: Bilgisayar kullanan ajan altyapısı, ajan hafızası ve doküman hattı öne çıktı |
 | [`2026-09-19-0806.md`](./2026-09-19-0806.md) | 19 Eylül 2026, 08:06 | 🤖 AI Bülteni — 19 Eylül 2026: Claude Code auto mode sınıflandırıcısı sunucuya taşındı, AGENTS.md desteği geldi |

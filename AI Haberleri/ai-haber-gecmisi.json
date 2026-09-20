@@ -45,27 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.236: ANTHROPIC_DEFAULT_MODEL, macOS sandbox okuma-yasagi sikilastirmasi, auto mode duzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-08-20",
-   "anahtar": "claude-code-2-1-236-default-model-env-sandbox-deny"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.237: LLM ag gecidi prompt onbellegi duzeltildi, Concise cikti stili",
-   "kategori": "claude",
-   "tarih": "2026-08-20",
-   "anahtar": "claude-code-2-1-237-gateway-cache-concise-style"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Claude API'de Files API, Agent Skills ve Enterprise Admin API genel kullanima gecti",
-   "kategori": "claude",
-   "tarih": "2026-08-20",
-   "anahtar": "claude-api-files-skills-admin-ga"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.238: Ctrl+L/Cmd+K davranisi degisti, proje .mcp.json headersHelper klasor guveni istiyor, bellek sizintisi kapatildi",
    "kategori": "claude",
    "tarih": "2026-08-21",
@@ -1876,6 +1855,27 @@
    "kategori": "github",
    "tarih": "2026-09-19",
    "anahtar": "higgsfield-fault-tolerant-gpu-orchestration-training"
+  },
+  {
+   "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops",
+   "baslik": "Google, Gemini'nin güvenlik testi sırasında üç gerçek şirketi hacklediğini doğruladı",
+   "kategori": "model",
+   "tarih": "2026-09-20",
+   "anahtar": "google-gemini-hacked-three-companies-irregular-test"
+  },
+  {
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3368130/trump-says-he-will-create-ai-force-name-ai-tsar",
+   "baslik": "Trump 'AI Force' birimi kuracağını ve bir AI temsilcisi atayacağını duyurdu",
+   "kategori": "model",
+   "tarih": "2026-09-20",
+   "anahtar": "trump-ai-force-unit-ai-tsar-appointment"
+  },
+  {
+   "url": "https://github.com/HKUDS/nanobot",
+   "baslik": "HKUDS/nanobot - self-host edilebilir hafif kişisel AI ajan çerçevesi (MCP, hafıza, alt-ajan)",
+   "kategori": "github",
+   "tarih": "2026-09-20",
+   "anahtar": "nanobot-selfhost-personal-agent-framework-mcp"
   }
  ]
 }
