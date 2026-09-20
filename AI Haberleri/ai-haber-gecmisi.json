@@ -1918,6 +1918,55 @@
    "kategori": "github",
    "tarih": "2026-09-20",
    "anahtar": "vercel-labs-json-render-guardrailed-generative-ui"
+  },
+  {
+   "url": "https://cybersecuritynews.com/plugin4shell-zero-click-rce/",
+   "baslik": "Plugin4Shell: Claude Code, Codex, Copilot ve Gemini CLI'da sıfır tıklamalı uzaktan kod çalıştırma",
+   "kategori": "claude",
+   "tarih": "2026-09-20",
+   "anahtar": "plugin4shell-zero-click-rce-coding-agents"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+   "baslik": "Hacktron AI, Claude Opus 5 ile OpenAI'ın iç sistemlerine girdi",
+   "kategori": "claude",
+   "tarih": "2026-09-20",
+   "anahtar": "hacktron-claude-opus-5-openai-breach"
+  },
+  {
+   "url": "https://pandaily.com/stepfun-step-5-preview-600b-moe-1m-context",
+   "baslik": "StepFun, Step 5 Preview'i yayımladı: 600B/27B seyrek MoE, ağırlıklar 15 Ekim'de",
+   "kategori": "model",
+   "tarih": "2026-09-20",
+   "anahtar": "stepfun-step-5-preview-600b-moe-open-weights"
+  },
+  {
+   "url": "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/",
+   "baslik": "Alibaba'dan Qwen3.8-Omni-Flash: tek modelde metin, görsel, ses ve video",
+   "kategori": "model",
+   "tarih": "2026-09-20",
+   "anahtar": "qwen-3-8-omni-flash-1m-context-omnimodal"
+  },
+  {
+   "url": "https://github.com/vshulcz/deja-vu",
+   "baslik": "vshulcz/deja-vu - 30+ kodlama ajanı arasında ortak oturum hafızası",
+   "kategori": "github",
+   "tarih": "2026-09-20",
+   "anahtar": "deja-vu-cross-agent-session-memory"
+  },
+  {
+   "url": "https://github.com/weave-os/router",
+   "baslik": "weave-os/router - self-host edilebilir semantik model yönlendirme proxy'si",
+   "kategori": "github",
+   "tarih": "2026-09-20",
+   "anahtar": "weave-os-router-semantic-model-routing"
+  },
+  {
+   "url": "https://github.com/krillinai/OpenCreator",
+   "baslik": "krillinai/OpenCreator - yerel öncelikli AI içerik üretim çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-09-20",
+   "anahtar": "opencreator-local-first-ai-content-workspace"
   }
  ]
 }
