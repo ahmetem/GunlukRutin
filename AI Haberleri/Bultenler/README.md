@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 121 bülten
+Toplam: 122 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-21-0806.md`](./2026-09-21-0806.md) | 21 Eylül 2026, 08:06 | 🤖 AI Bülteni — 21 Eylül 2026: Qwen-Image-2.1 araştırma lisansına geçti, ajanlar için tarayıcı ve Cloudflare MCP araçları |
 | [`2026-09-20-2008.md`](./2026-09-20-2008.md) | 20 Eylül 2026, 20:08 | 🤖 AI Bülteni — 20 Eylül 2026: Kodlama ajanlarında Plugin4Shell açığı, StepFun'ın 600B Step 5'i, ajanlar arası ortak hafıza |
 | [`2026-09-20-1408.md`](./2026-09-20-1408.md) | 20 Eylül 2026, 14:08 | 🤖 AI Bülteni — 20 Eylül 2026: Unity'den resmî Claude Code eklentisi, DeepMind'ın Dream-RSI'ı ve robot kolu güvenlik testi |
 | [`2026-09-20-0806.md`](./2026-09-20-0806.md) | 20 Eylül 2026, 08:06 | 🤖 AI Bülteni — 20 Eylül 2026: Gemini güvenlik testinde üç şirketi hackledi, Trump 'AI Force' kuruyor |

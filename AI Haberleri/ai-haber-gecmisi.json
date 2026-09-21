@@ -45,69 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.238: Ctrl+L/Cmd+K davranisi degisti, proje .mcp.json headersHelper klasor guveni istiyor, bellek sizintisi kapatildi",
-   "kategori": "claude",
-   "tarih": "2026-08-21",
-   "anahtar": "claude-code-2-1-238-keybinding-headershelper-trust"
-  },
-  {
-   "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-   "baslik": "Anthropic, Claude Academy'i acti: rol bazli kurslar, 4D AI Fluency cercevesi ve rozetli ilerleme takibi",
-   "kategori": "claude",
-   "tarih": "2026-08-21",
-   "anahtar": "anthropic-claude-academy-launch"
-  },
-  {
-   "url": "https://github.com/agent-substrate/substrate",
-   "baslik": "agent-substrate/substrate - ajanlari az sayida iscide coklayan Kubernetes tabanli ajan calisma zamani",
-   "kategori": "github",
-   "tarih": "2026-08-21",
-   "anahtar": "agent-substrate-agent-runtime-multiplexing"
-  },
-  {
-   "url": "https://github.com/Tencent/AI-Infra-Guard",
-   "baslik": "Tencent/AI-Infra-Guard - MCP ve ajan skill'lerini tarayan self-host AI kirmizi takim platformu",
-   "kategori": "github",
-   "tarih": "2026-08-21",
-   "anahtar": "tencent-ai-infra-guard-red-teaming-platform"
-  },
-  {
-   "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-   "baslik": "Claude Platform'da computer use GA oldu; browser use araci, Skills API ve Files API geldi",
-   "kategori": "claude",
-   "tarih": "2026-08-21",
-   "anahtar": "claude-computer-use-ga-browser-tool-skills-files-api"
-  },
-  {
-   "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
-   "baslik": "OpenAI, macOS'te ChatGPT'ye Apple Messages eklentisi ekledi",
-   "kategori": "model",
-   "tarih": "2026-08-21",
-   "anahtar": "openai-chatgpt-apple-messages-plugin-macos"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
-   "baslik": "Google'in acik agirlikli Gemma ailesi 1 milyar indirmeyi gecti",
-   "kategori": "model",
-   "tarih": "2026-08-21",
-   "anahtar": "google-gemma-one-billion-downloads"
-  },
-  {
-   "url": "https://github.com/Osmantic/ODS",
-   "baslik": "Osmantic/ODS - kisisel bilgisayari tek komutla ozel AI sunucusuna ceviren self-host yigin",
-   "kategori": "github",
-   "tarih": "2026-08-21",
-   "anahtar": "ods-selfhosted-personal-ai-server-stack"
-  },
-  {
-   "url": "https://github.com/modular/modular",
-   "baslik": "modular/modular - MAX ve Mojo'yu iceren Modular Platform acik kaynak bilesenleri",
-   "kategori": "github",
-   "tarih": "2026-08-21",
-   "anahtar": "modular-max-mojo-inference-platform"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.239: Bedrock akis hatasi cift faturalandirmaya yol aciyordu, /claude-api upgrade geldi",
    "kategori": "claude",
    "tarih": "2026-08-22",
@@ -1967,6 +1904,27 @@
    "kategori": "github",
    "tarih": "2026-09-20",
    "anahtar": "opencreator-local-first-ai-content-workspace"
+  },
+  {
+   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+   "baslik": "Qwen-Image-2.1 yayımlandı: 7B DiT, 2048×2048 üretim — ama Apache yerine araştırma lisansı",
+   "kategori": "model",
+   "tarih": "2026-09-21",
+   "anahtar": "qwen-image-2-1-research-license-7b-dit"
+  },
+  {
+   "url": "https://github.com/browserbase/stagehand",
+   "baslik": "browserbase/stagehand - ajanların web sitelerinden veri çekmesi için çok dilli tarayıcı SDK'sı",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "browserbase-stagehand-agent-browser-sdk"
+  },
+  {
+   "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+   "baslik": "cloudflare/mcp-server-cloudflare - Cloudflare servislerini modellere açan 14 MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "cloudflare-mcp-servers-workers-observability"
   }
  ]
 }
