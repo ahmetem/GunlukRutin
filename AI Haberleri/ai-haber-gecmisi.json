@@ -1925,6 +1925,41 @@
    "kategori": "github",
    "tarih": "2026-09-21",
    "anahtar": "cloudflare-mcp-servers-workers-observability"
+  },
+  {
+   "url": "https://www.techbuzz.ai/articles/amazon-blocks-meta-s-muse-ai-agent-over-security-concerns",
+   "baslik": "Amazon, Meta'nın Muse ajanını mağazasından engelledi",
+   "kategori": "model",
+   "tarih": "2026-09-21",
+   "anahtar": "amazon-blocks-meta-muse-agentic-shopping"
+  },
+  {
+   "url": "https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html",
+   "baslik": "ChatGPT'nin __obi çerezi kullanıcıyı diğer sitelerde de izliyor",
+   "kategori": "model",
+   "tarih": "2026-09-21",
+   "anahtar": "openai-obi-cookie-ad-measurement-pixel"
+  },
+  {
+   "url": "https://github.com/google/ax",
+   "baslik": "google/ax - dağıtık ajan çalışma zamanı, v0.3.0 Redis Streams'e geçti",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "google-ax-agent-runtime-redis-streams-030"
+  },
+  {
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "baslik": "akitaonrails/ai-memory - kodlama ajanı CLI'ları için uzun süreli hafıza ve sağlayıcı devri",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "akitaonrails-ai-memory-cross-vendor-agent-memory"
+  },
+  {
+   "url": "https://github.com/yynxxxxx/Codex-X",
+   "baslik": "yynxxxxx/Codex-X - OpenAI Codex yapılandırması için masaüstü yönetim aracı",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "codex-x-desktop-codex-config-manager"
   }
  ]
 }
