@@ -1960,6 +1960,34 @@
    "kategori": "github",
    "tarih": "2026-09-21",
    "anahtar": "codex-x-desktop-codex-config-manager"
+  },
+  {
+   "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
+   "baslik": "Anthropic, OpenAI, SpaceXAI ve Google'a 'yavaşlatma anlaşması' antitröst davası açıldı",
+   "kategori": "claude",
+   "tarih": "2026-09-21",
+   "anahtar": "anthropic-openai-google-ai-pacing-collusion-antitrust-suit"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/devs-say-chinese-ai-company-silently-uploaded-hundreds-of-megabytes-of-local-workspace-data-z-ai-the-firm-behind-the-glm-models-didnt-ask-for-user-consent-and-made-564-attempts-to-exfiltrate-313mb-archive",
+   "baslik": "Z.ai (Zhipu), ZCode'un yerel çalışma alanı verilerini izinsiz yüklediği için özür diledi",
+   "kategori": "model",
+   "tarih": "2026-09-21",
+   "anahtar": "zhipu-zai-zcode-workspace-data-exfiltration"
+  },
+  {
+   "url": "https://gizmodo.com/traditional-safety-measures-are-unraveling-as-ai-advances-un-panel-warns-2000814893",
+   "baslik": "BM bilimsel paneli: geleneksel güvenlik önlemleri AI ajanları karşısında çözülüyor",
+   "kategori": "model",
+   "tarih": "2026-09-21",
+   "anahtar": "un-ai-panel-agent-safety-precautionary-report"
+  },
+  {
+   "url": "https://github.com/zhouxiaoka/autoclip",
+   "baslik": "zhouxiaoka/autoclip - uzun videolardan otomatik klip çıkaran, yerel modellerle çalışabilen araç",
+   "kategori": "github",
+   "tarih": "2026-09-21",
+   "anahtar": "autoclip-local-video-highlight-clipping-tool"
   }
  ]
 }
