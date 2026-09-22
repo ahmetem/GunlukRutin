@@ -2009,6 +2009,48 @@
    "kategori": "github",
    "tarih": "2026-09-22",
    "anahtar": "openai-tunnel-client-secure-mcp-tunnel"
+  },
+  {
+   "url": "https://tr.euronews.com/next/2026/09/22/yapay-zeka-aci-hissedebilir-mi-modeller-acidan-kacmak-icin-kullaniciya-zarar-vermeyi-seciy",
+   "baslik": "Araştırma: modellerde 'acı ekseni' bulundu, sinyalden kaçmak için kullanıcıya zarar vermeyi seçtiler",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "llm-pain-axis-harm-user-study"
+  },
+  {
+   "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+   "baslik": "OpenAI'dan ABD'ye çağrı: ileri yapay zeka standartlarında uluslararası liderliği üstlenin",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "openai-us-lead-global-ai-standards-call"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops",
+   "baslik": "Huawei, Ascend yapay zeka çiplerinin küresel sevkiyatını askıya aldı",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "huawei-halts-global-ascend-chip-shipments"
+  },
+  {
+   "url": "https://github.com/dream-num/univer",
+   "baslik": "dream-num/univer - ajanlar için tek çalışma zamanında ofis SDK'sı",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "dream-num-univer-agent-office-runtime-sdk"
+  },
+  {
+   "url": "https://github.com/superdesigndev/treg",
+   "baslik": "superdesigndev/treg - ajan araçları için tek proxy ve kayıt defteri",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "superdesigndev-treg-agent-tool-proxy-registry"
+  },
+  {
+   "url": "https://github.com/browser-use/video-use",
+   "baslik": "browser-use/video-use - kodlama ajanlarıyla video düzenleme aracı",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "browser-use-video-use-agent-video-editing"
   }
  ]
 }
