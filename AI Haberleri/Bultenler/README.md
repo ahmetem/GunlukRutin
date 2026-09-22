@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 128 bülten
+Toplam: 129 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-22-2005.md`](./2026-09-22-2005.md) | 22 Eylül 2026, 20:05 | 🤖 AI Bülteni — 22 Eylül 2026: Claude Opus 5.5 yayında, Claude Code 2.1.280 ile varsayılan model değişti |
 | [`2026-09-22-1405.md`](./2026-09-22-1405.md) | 22 Eylül 2026, 14:05 | 🤖 AI Bülteni — 22 Eylül 2026: Modellerde "acı ekseni" bulgusu, OpenAI'dan küresel standart çağrısı |
 | [`2026-09-22-0806.md`](./2026-09-22-0806.md) | 22 Eylül 2026, 08:06 | 🤖 AI Bülteni — 22 Eylül 2026: Xiaomi MiMo-V2.6 açık ağırlıkta zirveye çıktı, Grok 4.7 yayında |
 | [`2026-09-21-2005.md`](./2026-09-21-2005.md) | 21 Eylül 2026, 20:05 | 🤖 AI Bülteni — 21 Eylül 2026: Z.ai'nin kodlama aracı çalışma alanı verisi sızdırdı, AI devlerine yavaşlatma davası |
