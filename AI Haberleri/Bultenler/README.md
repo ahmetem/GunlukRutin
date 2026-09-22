@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 124 bülten
+Toplam: 127 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-22-0806.md`](./2026-09-22-0806.md) | 22 Eylül 2026, 08:06 | 🤖 AI Bülteni — 22 Eylül 2026: Xiaomi MiMo-V2.6 açık ağırlıkta zirveye çıktı, Grok 4.7 yayında |
 | [`2026-09-21-2005.md`](./2026-09-21-2005.md) | 21 Eylül 2026, 20:05 | 🤖 AI Bülteni — 21 Eylül 2026: Z.ai'nin kodlama aracı çalışma alanı verisi sızdırdı, AI devlerine yavaşlatma davası |
 | [`2026-09-21-1408.md`](./2026-09-21-1408.md) | 21 Eylül 2026, 14:08 | 🤖 AI Bülteni — 21 Eylül 2026: Amazon, Meta'nın Muse ajanını engelledi; ChatGPT reklam çerezi; Google AX v0.3.0 |
 | [`2026-09-21-0806.md`](./2026-09-21-0806.md) | 21 Eylül 2026, 08:06 | 🤖 AI Bülteni — 21 Eylül 2026: Qwen-Image-2.1 araştırma lisansına geçti, ajanlar için tarayıcı ve Cloudflare MCP araçları |

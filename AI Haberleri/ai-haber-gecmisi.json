@@ -44,27 +44,6 @@
    "anahtar": "openai-astra-gpt6-critical-cyber-launch"
   },
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.239: Bedrock akis hatasi cift faturalandirmaya yol aciyordu, /claude-api upgrade geldi",
-   "kategori": "claude",
-   "tarih": "2026-08-22",
-   "anahtar": "claude-code-2-1-239-bedrock-streaming-double-billing-fix"
-  },
-  {
-   "url": "https://github.com/ruvnet/ruflo",
-   "baslik": "ruvnet/ruflo - Claude Code'u cok ajanli orkestrasyona acan ajan meta-harness'i",
-   "kategori": "github",
-   "tarih": "2026-08-22",
-   "anahtar": "ruflo-claude-code-agent-meta-harness"
-  },
-  {
-   "url": "https://github.com/apache/maka",
-   "baslik": "apache/maka - yalnizca-ekleme olay gunluklu yerel oncelikli AI ajan calisma alani",
-   "kategori": "github",
-   "tarih": "2026-08-22",
-   "anahtar": "apache-maka-local-first-agent-workspace"
-  },
-  {
    "url": "https://github.com/anthropics/claude-plugins-community",
    "baslik": "anthropics/claude-plugins-community - Claude Code icin topluluk eklenti pazari",
    "kategori": "github",
@@ -1988,6 +1967,48 @@
    "kategori": "github",
    "tarih": "2026-09-21",
    "anahtar": "autoclip-local-video-highlight-clipping-tool"
+  },
+  {
+   "url": "https://mimo.mi.com/models/en-US/mimo-v2.6-pro",
+   "baslik": "Xiaomi MiMo-V2.6 Pro ve Flash: MIT lisanslı, dünyanın en güçlü açık ağırlıklı modeli",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "xiaomi-mimo-v2-6-pro-flash-mit-open-weights"
+  },
+  {
+   "url": "https://x.ai/news/grok-4-7",
+   "baslik": "xAI, Grok 4.7'yi yayımladı: daha büyük temel model, uzun soluklu görevlerde iyileşme",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "xai-grok-4-7-larger-base-longer-rl"
+  },
+  {
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+   "baslik": "OpenAI, matematik araştırmaları için bağımsız danışma grubu kurdu",
+   "kategori": "model",
+   "tarih": "2026-09-22",
+   "anahtar": "openai-math-advisory-group-ias-princeton"
+  },
+  {
+   "url": "https://github.com/virgiliojr94/book-to-skill",
+   "baslik": "virgiliojr94/book-to-skill - teknik kitapları Agent Skills becerilerine çeviren dönüştürme hattı",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "book-to-skill-pdf-to-agent-skills-pipeline"
+  },
+  {
+   "url": "https://github.com/agent-substrate/substrate",
+   "baslik": "agent-substrate/substrate - milyonlarca sanal alanlı ajan için Kubernetes tabanlı çalışma zamanı",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "agent-substrate-sandboxed-agent-runtime-k8s"
+  },
+  {
+   "url": "https://github.com/openai/tunnel-client",
+   "baslik": "openai/tunnel-client - özel MCP sunucularını internete açmadan bağlayan tünel istemcisi",
+   "kategori": "github",
+   "tarih": "2026-09-22",
+   "anahtar": "openai-tunnel-client-secure-mcp-tunnel"
   }
  ]
 }
