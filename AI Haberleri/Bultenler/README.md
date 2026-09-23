@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 130 bülten
+Toplam: 131 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-23-1405.md`](./2026-09-23-1405.md) | 23 Eylül 2026, 14:05 | 🤖 AI Bülteni — 23 Eylül 2026: Claude Code ile uçtan uca robot tasarımı, iki yeni ajan aracı |
 | [`2026-09-23-0805.md`](./2026-09-23-0805.md) | 23 Eylül 2026, 08:05 | 🤖 AI Bülteni — 23 Eylül 2026: Opus 5.5 API'sinde kırılgan değişiklikler, OpenAI'dan GPT-6 Sol ve Luna |
 | [`2026-09-22-2005.md`](./2026-09-22-2005.md) | 22 Eylül 2026, 20:05 | 🤖 AI Bülteni — 22 Eylül 2026: Claude Opus 5.5 yayında, Claude Code 2.1.280 ile varsayılan model değişti |
 | [`2026-09-22-1405.md`](./2026-09-22-1405.md) | 22 Eylül 2026, 14:05 | 🤖 AI Bülteni — 22 Eylül 2026: Modellerde "acı ekseni" bulgusu, OpenAI'dan küresel standart çağrısı |

@@ -2100,6 +2100,27 @@
    "kategori": "model",
    "tarih": "2026-09-23",
    "anahtar": "openai-third-party-assessments-deep-access-training"
+  },
+  {
+   "url": "https://wccftech.com/claude-code-designs-12-actuator-quadruped-robot-99-parts-firmware-simulation/",
+   "baslik": "MechFaber: Claude Code 99 parçalı, 12 aktüatörlü dört bacaklı robotu ve firmware'ini tasarladı",
+   "kategori": "claude",
+   "tarih": "2026-09-23",
+   "anahtar": "mechfaber-claude-code-quadruped-robot-design"
+  },
+  {
+   "url": "https://github.com/DeusData/codebase-memory-mcp",
+   "baslik": "DeusData/codebase-memory-mcp - kod tabanını bilgi grafiğine indeksleyen yerel MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-23",
+   "anahtar": "codebase-memory-mcp-code-knowledge-graph"
+  },
+  {
+   "url": "https://github.com/HKUDS/CLI-Anything",
+   "baslik": "HKUDS/CLI-Anything - her yazılımı ajan uyumlu CLI'ya dönüştüren üretici",
+   "kategori": "github",
+   "tarih": "2026-09-23",
+   "anahtar": "hkuds-cli-anything-agent-native-cli-generator"
   }
  ]
 }
