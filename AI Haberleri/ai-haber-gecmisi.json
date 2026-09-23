@@ -44,27 +44,6 @@
    "anahtar": "openai-astra-gpt6-critical-cyber-launch"
   },
   {
-   "url": "https://github.com/anthropics/claude-plugins-community",
-   "baslik": "anthropics/claude-plugins-community - Claude Code icin topluluk eklenti pazari",
-   "kategori": "github",
-   "tarih": "2026-08-23",
-   "anahtar": "anthropic-claude-plugins-community-marketplace"
-  },
-  {
-   "url": "https://github.com/browser-use/browser-harness",
-   "baslik": "browser-use/browser-harness - LLM'ler icin kendini onaran tarayici otomasyonu",
-   "kategori": "github",
-   "tarih": "2026-08-23",
-   "anahtar": "browser-harness-self-healing-cdp-automation"
-  },
-  {
-   "url": "https://github.com/debpalash/VoiceStudio",
-   "baslik": "debpalash/VoiceStudio - tamamen yerel calisan acik kaynak ses klonlama stüdyosu",
-   "kategori": "github",
-   "tarih": "2026-08-23",
-   "anahtar": "voicestudio-local-tts-asr-voice-cloning"
-  },
-  {
    "url": "https://github.com/block/buzz",
    "baslik": "block/buzz - insan ve AI ajanlarinin ortak calisma alani, self-host edilebilir Nostr tabanli platform",
    "kategori": "github",
@@ -2093,6 +2072,34 @@
    "kategori": "github",
    "tarih": "2026-09-22",
    "anahtar": "anthropic-financial-services-agents-mcp-repo"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Opus 5.5 ile birlikte Claude API'sinde kırılgan değişiklikler: thinking ve tool_choice alanları 400 döndürüyor",
+   "kategori": "claude",
+   "tarih": "2026-09-23",
+   "anahtar": "claude-api-opus-5-5-breaking-thinking-tool-choice"
+  },
+  {
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+   "baslik": "Anthropic, Opus 5.5 için kullanım kılavuzu yayımladı: 'think carefully' demeyi bırakın",
+   "kategori": "claude",
+   "tarih": "2026-09-23",
+   "anahtar": "anthropic-opus-5-5-usage-playbook"
+  },
+  {
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "baslik": "OpenAI, GPT-6 Sol ve GPT-6 Luna'yı yayımladı: API fiyatları yarıya indi",
+   "kategori": "model",
+   "tarih": "2026-09-23",
+   "anahtar": "openai-gpt6-sol-luna-half-price"
+  },
+  {
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments/",
+   "baslik": "OpenAI, bağımsız denetçilere eğitim aşamasından itibaren erişim vermeyi taahhüt etti",
+   "kategori": "model",
+   "tarih": "2026-09-23",
+   "anahtar": "openai-third-party-assessments-deep-access-training"
   }
  ]
 }
