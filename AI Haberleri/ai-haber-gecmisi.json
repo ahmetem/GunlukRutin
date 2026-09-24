@@ -2177,6 +2177,20 @@
    "kategori": "github",
    "tarih": "2026-09-24",
    "anahtar": "nvidia-model-optimizer-quantization-library"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+   "baslik": "Google, Gemini 3.8 Live'a gerçek zamanlıya yakın konuşan avatar (Live Avatar) ekledi",
+   "kategori": "model",
+   "tarih": "2026-09-24",
+   "anahtar": "google-gemini-3-8-live-avatar"
+  },
+  {
+   "url": "https://github.com/leejet/stable-diffusion.cpp",
+   "baslik": "leejet/stable-diffusion.cpp - saf C/C++ difüzyon modeli çıkarım motoru",
+   "kategori": "github",
+   "tarih": "2026-09-24",
+   "anahtar": "stable-diffusion-cpp-local-diffusion-inference"
   }
  ]
 }
