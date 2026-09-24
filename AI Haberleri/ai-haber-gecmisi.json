@@ -2128,6 +2128,55 @@
    "kategori": "model",
    "tarih": "2026-09-24",
    "anahtar": "google-gemini-3-8-flash-tts-voice-cloning"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2102893178273874102",
+   "baslik": "Claude Code Projects'te thread'ler artık kendi makinende çalışabiliyor (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-09-24",
+   "anahtar": "claude-code-projects-local-threads"
+  },
+  {
+   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+   "baslik": "Anthropic, claude.ai'yi iki haftada 3 kat hızlandırdığını anlattı (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-09-24",
+   "anahtar": "anthropic-claude-ai-3x-faster-performance-sprint"
+  },
+  {
+   "url": "https://www.anthropic.com/features/ebola-response",
+   "baslik": "Claude, Kongo'daki Bundibugyo Ebola salgınına müdahalede kullanılıyor (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-09-24",
+   "anahtar": "anthropic-claude-drc-ebola-response-who-cepi"
+  },
+  {
+   "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+   "baslik": "DeepMind'ın yeni lideri Kavukcuoglu: Gemini 4 post-training aşamasında",
+   "kategori": "model",
+   "tarih": "2026-09-24",
+   "anahtar": "google-gemini-4-post-training-early-release"
+  },
+  {
+   "url": "https://openai.com/index/introducing-mentalhealthbench/",
+   "baslik": "OpenAI, açık kaynak MentalHealthBench'i yayımladı (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-09-24",
+   "anahtar": "openai-mentalhealthbench-open-benchmark"
+  },
+  {
+   "url": "https://github.com/vectorize-io/hindsight",
+   "baslik": "vectorize-io/hindsight - AI ajanları için öğrenen, self-host edilebilir hafıza sistemi",
+   "kategori": "github",
+   "tarih": "2026-09-24",
+   "anahtar": "hindsight-selfhost-agent-memory-mcp"
+  },
+  {
+   "url": "https://github.com/NVIDIA/Model-Optimizer",
+   "baslik": "NVIDIA/Model-Optimizer - nicemleme ve distilasyon için model optimizasyon kütüphanesi",
+   "kategori": "github",
+   "tarih": "2026-09-24",
+   "anahtar": "nvidia-model-optimizer-quantization-library"
   }
  ]
 }
