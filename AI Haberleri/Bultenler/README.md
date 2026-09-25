@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 134 bülten
+Toplam: 135 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-25-0803.md`](./2026-09-25-0803.md) | 25 Eylül 2026, 08:03 | 🤖 AI Bülteni — 25 Eylül 2026: Anthropic çıktısız retleri de ücretlendirmeye başladı, Claude Code 2.1.282 yayında |
 | [`2026-09-24-2003.md`](./2026-09-24-2003.md) | 24 Eylül 2026, 20:03 | 🤖 AI Bülteni — 24 Eylül 2026: Gemini 3.8 Live artık konuşan avatarla, stable-diffusion.cpp öne çıktı |
 | [`2026-09-24-1405.md`](./2026-09-24-1405.md) | 24 Eylül 2026, 14:05 | 🤖 AI Bülteni — 24 Eylül 2026: Claude Code Projects yerelde çalışıyor, claude.ai 3 kat hızlandı, Gemini 4 yaklaşıyor |
 | [`2026-09-24-0803.md`](./2026-09-24-0803.md) | 24 Eylül 2026, 08:03 | 🤖 AI Bülteni — 24 Eylül 2026: Claude Code 2.1.281 auto mode değişikliği, bulut oturumları genel kullanımda |
