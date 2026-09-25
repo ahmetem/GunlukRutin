@@ -2205,6 +2205,27 @@
    "kategori": "github",
    "tarih": "2026-09-25",
    "anahtar": "paperclip-selfhost-agent-team-orchestration"
+  },
+  {
+   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+   "baslik": "Microsoft yeni Copilot'u tanıttı: Home, Code ve Autopilot tek uygulamada",
+   "kategori": "model",
+   "tarih": "2026-09-25",
+   "anahtar": "microsoft-copilot-home-code-autopilot-app"
+  },
+  {
+   "url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
+   "baslik": "Microsoft yeni Copilot'u tanıttı (GeekWire)",
+   "kategori": "model",
+   "tarih": "2026-09-25",
+   "anahtar": "microsoft-copilot-home-code-autopilot-app"
+  },
+  {
+   "url": "https://github.com/androoAGI/starnet",
+   "baslik": "androoAGI/starnet - yerel öncelikli masaüstü çoklu ajan ortamı",
+   "kategori": "github",
+   "tarih": "2026-09-25",
+   "anahtar": "starnet-local-first-desktop-agent-harness"
   }
  ]
 }
