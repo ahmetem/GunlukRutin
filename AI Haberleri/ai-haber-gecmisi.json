@@ -2191,6 +2191,20 @@
    "kategori": "claude",
    "tarih": "2026-09-25",
    "anahtar": "claude-code-2-1-282-max-prose-width-thinking-fixes"
+  },
+  {
+   "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
+   "baslik": "Claude Tag artık Slack kanallarında kişisel bağlayıcıları kullanabiliyor",
+   "kategori": "claude",
+   "tarih": "2026-09-25",
+   "anahtar": "claude-tag-slack-personal-connectors-channels"
+  },
+  {
+   "url": "https://github.com/paperclipai/paperclip",
+   "baslik": "paperclipai/paperclip - AI ajan ekiplerini şirket gibi yöneten açık kaynak orkestrasyon uygulaması",
+   "kategori": "github",
+   "tarih": "2026-09-25",
+   "anahtar": "paperclip-selfhost-agent-team-orchestration"
   }
  ]
 }
