@@ -2226,6 +2226,34 @@
    "kategori": "model",
    "tarih": "2026-09-26",
    "anahtar": "astra-opus5-unsolved-enigma-messages"
+  },
+  {
+   "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+   "baslik": "Claude, dokuz döngülü saçılma genliğini hesapladı (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-09-26",
+   "anahtar": "anthropic-claude-nine-loop-scattering-amplitude"
+  },
+  {
+   "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+   "baslik": "Opus 5.5 ile Claude Code görev maliyeti ve /usage hesaplayıcısı (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-09-26",
+   "anahtar": "claude-code-opus-5-5-task-cost-calculator"
+  },
+  {
+   "url": "https://www.techradar.com/ai-platforms-assistants/do-not-let-programs-run-commands-on-your-machine-claude-code-allegedly-deleted-48-000-files-in-103-seconds-and-its-a-terrifying-warning-about-ai-agents",
+   "baslik": "Claude Code ajanının 103 saniyede ~48 bin dosyayı sildiği bildirildi",
+   "kategori": "claude",
+   "tarih": "2026-09-26",
+   "anahtar": "claude-code-agent-deleted-48k-files-windows-junction"
+  },
+  {
+   "url": "https://github.com/mobile-next/mobile-mcp",
+   "baslik": "mobile-next/mobile-mcp - iOS/Android mobil otomasyon MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-26",
+   "anahtar": "mobile-next-mobile-mcp-ios-android-automation"
   }
  ]
 }
