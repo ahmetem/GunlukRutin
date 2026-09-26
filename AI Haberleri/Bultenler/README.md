@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 137 bülten
+Toplam: 138 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-26-0803.md`](./2026-09-26-0803.md) | 26 Eylül 2026, 08:03 | 🤖 AI Bülteni — 26 Eylül 2026: Claude Code limitte işi toparlıyor, plugin portalı açıldı, OpenAI ajanları kullanıcı görsellerini sızdırdı |
 | [`2026-09-25-2008.md`](./2026-09-25-2008.md) | 25 Eylül 2026, 20:08 | 🤖 AI Bülteni — 25 Eylül 2026: Microsoft yeni Copilot ile Claude ve GPT modellerini tek çatıda topladı, StarNet öne çıktı |
 | [`2026-09-25-1408.md`](./2026-09-25-1408.md) | 25 Eylül 2026, 14:08 | 🤖 AI Bülteni — 25 Eylül 2026: Claude Tag Slack kanallarında kişisel bağlayıcıları kullanabiliyor, Paperclip ajan yönetiminde öne çıktı |
 | [`2026-09-25-0803.md`](./2026-09-25-0803.md) | 25 Eylül 2026, 08:03 | 🤖 AI Bülteni — 25 Eylül 2026: Anthropic çıktısız retleri de ücretlendirmeye başladı, Claude Code 2.1.282 yayında |
