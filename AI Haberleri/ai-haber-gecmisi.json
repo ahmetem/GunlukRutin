@@ -2254,6 +2254,20 @@
    "kategori": "github",
    "tarih": "2026-09-26",
    "anahtar": "mobile-next-mobile-mcp-ios-android-automation"
+  },
+  {
+   "url": "https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/",
+   "baslik": "OpenAI'ın DevDay'de sürekli açık 'o' ajanını duyuracağı iddiası; 500$'lık Pro Max planı sızdı",
+   "kategori": "model",
+   "tarih": "2026-09-26",
+   "anahtar": "openai-o-always-on-agent-pro-max-leak"
+  },
+  {
+   "url": "https://github.com/block/buzz",
+   "baslik": "block/buzz - insan ve AI ajanları için self-host edilebilir Nostr tabanlı çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-09-26",
+   "anahtar": "block-buzz-selfhost-human-agent-workspace"
   }
  ]
 }

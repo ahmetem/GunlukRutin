@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 139 bülten
+Toplam: 140 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-26-2002.md`](./2026-09-26-2002.md) | 26 Eylül 2026, 20:02 | 🤖 AI Bülteni — 26 Eylül 2026: OpenAI DevDay öncesi always-on "o" ajanı sızdı, Block Buzz ajan çalışma alanı öne çıktı |
 | [`2026-09-26-1405.md`](./2026-09-26-1405.md) | 26 Eylül 2026, 14:05 | 🤖 AI Bülteni — 26 Eylül 2026: Claude dokuz döngülü fizik hesabını çözdü, Opus 5.5 maliyet hesaplayıcısı, mobile-mcp |
 | [`2026-09-26-0803.md`](./2026-09-26-0803.md) | 26 Eylül 2026, 08:03 | 🤖 AI Bülteni — 26 Eylül 2026: Claude Code limitte işi toparlıyor, plugin portalı açıldı, OpenAI ajanları kullanıcı görsellerini sızdırdı |
 | [`2026-09-25-2008.md`](./2026-09-25-2008.md) | 25 Eylül 2026, 20:08 | 🤖 AI Bülteni — 25 Eylül 2026: Microsoft yeni Copilot ile Claude ve GPT modellerini tek çatıda topladı, StarNet öne çıktı |
