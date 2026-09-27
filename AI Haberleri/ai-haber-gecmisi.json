@@ -2233,6 +2233,27 @@
    "kategori": "github",
    "tarih": "2026-09-27",
    "anahtar": "anthropics-claude-code-action-github"
+  },
+  {
+   "url": "https://futurism.com/advanced-transport/openai-astra-model-self-driving-car",
+   "baslik": "DrivingBench: GPT-6 Astra, Grok 4.6 ve Claude Fable 5.1 gerçek otomobil sürmeyi denedi",
+   "kategori": "model",
+   "tarih": "2026-09-27",
+   "anahtar": "drivingbench-frontier-models-real-car-test"
+  },
+  {
+   "url": "https://github.com/mvschwarz/openrig",
+   "baslik": "mvschwarz/openrig - Claude Code ve Codex ajan ekibi orkestrasyonu",
+   "kategori": "github",
+   "tarih": "2026-09-27",
+   "anahtar": "openrig-claude-code-codex-multi-agent-harness"
+  },
+  {
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "baslik": "debpalash/VoiceStudio - yerel ses klonlama ve dublaj platformu",
+   "kategori": "github",
+   "tarih": "2026-09-27",
+   "anahtar": "voicestudio-local-voice-cloning-dubbing"
   }
  ]
 }
