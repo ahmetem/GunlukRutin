@@ -2219,6 +2219,20 @@
    "kategori": "claude",
    "tarih": "2026-09-28",
    "anahtar": "google-openai-anthropic-frontier-ai-standards-authority"
+  },
+  {
+   "url": "https://thenextweb.com/news/openai-anthropic-tens-of-thousands-ai-incidents-axios",
+   "baslik": "OpenAI ve Anthropic, modellerinin on binlerce kural dışı davranış olayını inceliyor",
+   "kategori": "claude",
+   "tarih": "2026-09-28",
+   "anahtar": "openai-anthropic-tens-of-thousands-agent-incidents"
+  },
+  {
+   "url": "https://elevenlabs.io/blog/eleven-v4",
+   "baslik": "ElevenLabs, Eleven v4 ve Eleven v4 Turbo ses modellerini yayımladı",
+   "kategori": "model",
+   "tarih": "2026-09-28",
+   "anahtar": "elevenlabs-eleven-v4-turbo-tts-launch"
   }
  ]
 }
