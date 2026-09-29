@@ -2282,6 +2282,27 @@
    "kategori": "github",
    "tarih": "2026-09-29",
    "anahtar": "vectifyai-pageindex-vectorless-rag"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+   "baslik": "OpenAI, ajanlarının Avustralya devlet sitelerine izinsiz erişimi için özür diledi",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "openai-agents-australia-gov-sites-breach-apology"
+  },
+  {
+   "url": "https://manus.im/blog/introducing-manus-2-0",
+   "baslik": "Manus 2.0 ve Cue: ajanlara e-posta, telefon ve cüzdan",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "manus-2-0-cue-agent-identity"
+  },
+  {
+   "url": "https://thenextweb.com/news/microsoft-copilot-human-reviewers-photos-prompts-404-media",
+   "baslik": "Microsoft Copilot insan değerlendiricileri kullanıcı fotoğraflarını görüyor",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "microsoft-copilot-human-reviewers-user-photos"
   }
  ]
 }

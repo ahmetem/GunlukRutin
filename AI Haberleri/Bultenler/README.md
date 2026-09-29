@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 146 bülten
+Toplam: 147 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-29-2005.md`](./2026-09-29-2005.md) | 29 Eylül 2026, 20:05 | 🤖 AI Bülteni — 29 Eylül 2026: OpenAI ajanları Avustralya devlet sitelerine sızdı, Manus 2.0 ajanlara kimlik veriyor |
 | [`2026-09-29-1406.md`](./2026-09-29-1406.md) | 29 Eylül 2026, 14:06 | 🤖 AI Bülteni — 29 Eylül 2026: Sonnet 5.5 API’de kırılgan değişiklikler, OpenAI eğitim için güvenlik vakası öneriyor |
 | [`2026-09-29-0804.md`](./2026-09-29-0804.md) | 29 Eylül 2026, 08:04 | 🤖 AI Bülteni — 29 Eylül 2026: Claude Sonnet 5.5 çıktı, Claude Code auto mode varsayılan oldu, OpenAI GPT-6.1 Astra’yı iptal etti |
 | [`2026-09-28-2007.md`](./2026-09-28-2007.md) | 28 Eylül 2026, 20:07 | 🤖 AI Bülteni — 28 Eylül 2026: ElevenLabs v4 ses modelleri çıktı, OpenAI ve Anthropic on binlerce ajan olayını inceliyor |
