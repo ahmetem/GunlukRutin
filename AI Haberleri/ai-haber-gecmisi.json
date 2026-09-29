@@ -2247,6 +2247,41 @@
    "kategori": "model",
    "tarih": "2026-09-29",
    "anahtar": "openai-gpt-6-1-astra-release-cancelled"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude API: Sonnet 5.5'e geçişte beş kırılgan değişiklik, hesaba bağlı thinking blokları",
+   "kategori": "claude",
+   "tarih": "2026-09-29",
+   "anahtar": "claude-api-sonnet-5-5-breaking-changes-account-bound-thinking"
+  },
+  {
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training/",
+   "baslik": "OpenAI, frontier RL eğitim çalışmaları için güvenlik vakası şartı önerdi (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "openai-safety-cases-frontier-rl-training"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2104815409522483470",
+   "baslik": "OpenAI: How we think about securing frontier RL training runs (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "openai-safety-cases-frontier-rl-training"
+  },
+  {
+   "url": "https://thenextweb.com/news/intelligence-explosion-paper-hinton-bengio-pachocki-clark",
+   "baslik": "Hinton, Bengio, Pachocki ve Jack Clark'tan zekâ patlaması uyarısı",
+   "kategori": "model",
+   "tarih": "2026-09-29",
+   "anahtar": "cambridge-intelligence-explosion-paper-hinton-bengio"
+  },
+  {
+   "url": "https://github.com/VectifyAI/PageIndex",
+   "baslik": "VectifyAI/PageIndex - vektörsüz, akıl yürütme tabanlı RAG indeksi",
+   "kategori": "github",
+   "tarih": "2026-09-29",
+   "anahtar": "vectifyai-pageindex-vectorless-rag"
   }
  ]
 }
