@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 144 bülten
+Toplam: 145 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-29-0804.md`](./2026-09-29-0804.md) | 29 Eylül 2026, 08:04 | 🤖 AI Bülteni — 29 Eylül 2026: Claude Sonnet 5.5 çıktı, Claude Code auto mode varsayılan oldu, OpenAI GPT-6.1 Astra’yı iptal etti |
 | [`2026-09-28-2007.md`](./2026-09-28-2007.md) | 28 Eylül 2026, 20:07 | 🤖 AI Bülteni — 28 Eylül 2026: ElevenLabs v4 ses modelleri çıktı, OpenAI ve Anthropic on binlerce ajan olayını inceliyor |
 | [`2026-09-28-1408.md`](./2026-09-28-1408.md) | 28 Eylül 2026, 14:08 | 🤖 AI Bülteni — 28 Eylül 2026: Nvidia açık ajan güvenlik platformunu Claude ile başlattı, laboratuvarlar ortak standart kurumu kuruyor |
 | [`2026-09-27-2003.md`](./2026-09-27-2003.md) | 27 Eylül 2026, 20:03 | 🤖 AI Bülteni — 27 Eylül 2026: Frontier modeller gerçek araç kullanmayı denedi, OpenRig ve VoiceStudio öne çıktı |
