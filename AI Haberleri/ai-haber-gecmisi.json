@@ -2359,6 +2359,20 @@
    "kategori": "model",
    "tarih": "2026-09-30",
    "anahtar": "deepseek-huawei-ascend-open-source-tools"
+  },
+  {
+   "url": "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr",
+   "baslik": "FTC, OpenAI ve Anthropic dahil önde gelen AI şirketleri hakkında soruşturma başlattı",
+   "kategori": "claude",
+   "tarih": "2026-09-30",
+   "anahtar": "ftc-probe-openai-anthropic-metr"
+  },
+  {
+   "url": "https://github.com/colbymchenry/codegraph",
+   "baslik": "colbymchenry/codegraph - ajanlar için önceden indekslenmiş kod bilgi grafiği MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-09-30",
+   "anahtar": "colbymchenry-codegraph-code-knowledge-graph-mcp"
   }
  ]
 }

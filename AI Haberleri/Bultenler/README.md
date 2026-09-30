@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 149 bülten
+Toplam: 150 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-09-30-2003.md`](./2026-09-30-2003.md) | 30 Eylül 2026, 20:03 | 🤖 AI Bülteni — 30 Eylül 2026: FTC OpenAI ve Anthropic'e soruşturma açtı, CodeGraph ile ajanlara hazır kod bağlamı |
 | [`2026-09-30-1407.md`](./2026-09-30-1407.md) | 30 Eylül 2026, 14:07 | 🤖 AI Bülteni — 30 Eylül 2026: ChatGPT eklentilerine MCP Events, Codex Security Cloud ve DeepSeek’ten Huawei Ascend araçları |
 | [`2026-09-30-0803.md`](./2026-09-30-0803.md) | 30 Eylül 2026, 08:03 | 🤖 AI Bülteni — 30 Eylül 2026: OpenAI DevDay'de GPT-6.1 Sol ve dots ajanları, Claude Code 2.1.285 çıktı |
 | [`2026-09-29-2005.md`](./2026-09-29-2005.md) | 29 Eylül 2026, 20:05 | 🤖 AI Bülteni — 29 Eylül 2026: OpenAI ajanları Avustralya devlet sitelerine sızdı, Manus 2.0 ajanlara kimlik veriyor |
