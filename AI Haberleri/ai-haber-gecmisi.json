@@ -2324,6 +2324,41 @@
    "kategori": "github",
    "tarih": "2026-09-30",
    "anahtar": "t8y2-dbx-database-client-mcp"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+   "baslik": "OpenAI, ChatGPT eklentilerini uygulama benzeri arayüzler ve MCP Events otomasyonlarıyla genişletti",
+   "kategori": "model",
+   "tarih": "2026-09-30",
+   "anahtar": "openai-chatgpt-plugins-app-panels-mcp-events"
+  },
+  {
+   "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
+   "baslik": "Codex Security Cloud: Daybreak Blue varsayılan, Decisions API",
+   "kategori": "model",
+   "tarih": "2026-09-30",
+   "anahtar": "openai-codex-security-cloud-daybreak-blue"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2104987422308335828",
+   "baslik": "Codex Security Cloud duyurusu (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-09-30",
+   "anahtar": "openai-codex-security-cloud-daybreak-blue"
+  },
+  {
+   "url": "https://www.techzine.eu/news/devops/144657/deepseek-brings-ai-software-to-huaweis-ascend-chips/",
+   "baslik": "DeepSeek, Huawei Ascend için yazılım araçlarını açık kaynak yaptı",
+   "kategori": "model",
+   "tarih": "2026-09-30",
+   "anahtar": "deepseek-huawei-ascend-open-source-tools"
+  },
+  {
+   "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
+   "baslik": "deepseek-ai/DeepEP-Ascend",
+   "kategori": "model",
+   "tarih": "2026-09-30",
+   "anahtar": "deepseek-huawei-ascend-open-source-tools"
   }
  ]
 }
