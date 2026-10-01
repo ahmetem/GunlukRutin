@@ -2387,6 +2387,20 @@
    "kategori": "model",
    "tarih": "2026-10-01",
    "anahtar": "openai-synopsys-gpt-synopsys-chip-design"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Claude Sonnet 4.5 kullanımdan kaldırılıyor; API'den 30 Kasım'da çekilecek",
+   "kategori": "claude",
+   "tarih": "2026-10-01",
+   "anahtar": "anthropic-claude-sonnet-4-5-deprecation-nov-30"
+  },
+  {
+   "url": "https://github.com/tile-ai/tilelang",
+   "baslik": "tile-ai/tilelang - yüksek performanslı çekirdek DSL'i, Huawei Ascend 950 desteği",
+   "kategori": "github",
+   "tarih": "2026-10-01",
+   "anahtar": "tilelang-kernel-dsl-ascend-950-backend"
   }
  ]
 }
