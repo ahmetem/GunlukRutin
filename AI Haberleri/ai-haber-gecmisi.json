@@ -2401,6 +2401,27 @@
    "kategori": "github",
    "tarih": "2026-10-01",
    "anahtar": "tilelang-kernel-dsl-ascend-950-backend"
+  },
+  {
+   "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+   "baslik": "OpenAI, Moonshot AI bağlantılı akıl yürütme distilasyon kampanyasını engelledi",
+   "kategori": "model",
+   "tarih": "2026-10-01",
+   "anahtar": "openai-moonshot-reasoning-distillation-disrupted"
+  },
+  {
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/",
+   "baslik": "OpenAI: Disrupting a coordinated model distillation campaign",
+   "kategori": "model",
+   "tarih": "2026-10-01",
+   "anahtar": "openai-moonshot-reasoning-distillation-disrupted"
+  },
+  {
+   "url": "https://huggingface.co/StrandsAgents/strands-decider-2B-hobson-v19",
+   "baslik": "Amazon Strands Decider 2B açık karar modeli",
+   "kategori": "model",
+   "tarih": "2026-10-01",
+   "anahtar": "amazon-strands-decider-2b-open-decision-model"
   }
  ]
 }
