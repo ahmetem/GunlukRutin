@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 150 bülten
+Toplam: 151 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-01-0804.md`](./2026-10-01-0804.md) | 1 Ekim 2026, 08:04 | 🤖 AI Bülteni — 1 Ekim 2026: Google Gemini 4 Argon'u tanıttı, Claude Code 2.1.286 ve Claude for Government genel kullanımda |
 | [`2026-09-30-2003.md`](./2026-09-30-2003.md) | 30 Eylül 2026, 20:03 | 🤖 AI Bülteni — 30 Eylül 2026: FTC OpenAI ve Anthropic'e soruşturma açtı, CodeGraph ile ajanlara hazır kod bağlamı |
 | [`2026-09-30-1407.md`](./2026-09-30-1407.md) | 30 Eylül 2026, 14:07 | 🤖 AI Bülteni — 30 Eylül 2026: ChatGPT eklentilerine MCP Events, Codex Security Cloud ve DeepSeek’ten Huawei Ascend araçları |
 | [`2026-09-30-0803.md`](./2026-09-30-0803.md) | 30 Eylül 2026, 08:03 | 🤖 AI Bülteni — 30 Eylül 2026: OpenAI DevDay'de GPT-6.1 Sol ve dots ajanları, Claude Code 2.1.285 çıktı |
