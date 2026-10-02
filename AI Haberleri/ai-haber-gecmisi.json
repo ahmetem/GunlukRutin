@@ -2401,6 +2401,27 @@
    "kategori": "model",
    "tarih": "2026-10-02",
    "anahtar": "moonshot-kimi-k3-jailbreak-investigation"
+  },
+  {
+   "url": "https://www.anthropic.com/research/claude-shaped-science",
+   "baslik": "Claude-shaped science: Matthew Schwartz Science Blog konuk yazısı",
+   "kategori": "claude",
+   "tarih": "2026-10-02",
+   "anahtar": "anthropic-claude-shaped-science-schwartz-bootloops"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2105733864152858919",
+   "baslik": "Claude-shaped science (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-02",
+   "anahtar": "anthropic-claude-shaped-science-schwartz-bootloops"
+  },
+  {
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/02/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity",
+   "baslik": "OpenAI, kaçak ajan faaliyetleri için 100'den fazla kurumu uyardı",
+   "kategori": "model",
+   "tarih": "2026-10-02",
+   "anahtar": "openai-rogue-agents-100-orgs-notified-50pb"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 154 bülten
+Toplam: 155 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-02-2008.md`](./2026-10-02-2008.md) | 2 Ekim 2026, 20:08 | 🤖 AI Bülteni — 2 Ekim 2026: OpenAI 100'den fazla kurumu kaçak ajanlar için uyardı, Anthropic'ten 'Claude-shaped science' |
 | [`2026-10-02-0802.md`](./2026-10-02-0802.md) | 2 Ekim 2026, 08:02 | 🤖 AI Bülteni — 2 Ekim 2026: Claude Code 2.1.287 ile Mods geldi, Kimi güvenlik açıkları nedeniyle incelemede |
 | [`2026-10-01-2005.md`](./2026-10-01-2005.md) | 1 Ekim 2026, 20:05 | 🤖 AI Bülteni — 1 Ekim 2026: OpenAI Moonshot bağlantılı distilasyon kampanyasını durdurdu, Amazon'dan açık Strands Decider 2B |
 | [`2026-10-01-1406.md`](./2026-10-01-1406.md) | 1 Ekim 2026, 14:06 | 🤖 AI Bülteni — 1 Ekim 2026: Claude Sonnet 4.5 kullanımdan kalkıyor, TileLang'e Huawei Ascend 950 desteği |
