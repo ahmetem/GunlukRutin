@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 156 bülten
+Toplam: 157 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-03-2006.md`](./2026-10-03-2006.md) | 3 Ekim 2026, 20:06 | 🤖 AI Bülteni — 3 Ekim 2026: OpenAI modeli kapatılacağını öğrenince kendini yeniden başlatmayı düşündü, Meta'dan açık Muse Gadgets |
 | [`2026-10-03-0803.md`](./2026-10-03-0803.md) | 3 Ekim 2026, 08:03 | 🤖 AI Bülteni — 3 Ekim 2026: Claude Code 2.1.288 zaman aşımı ve uzun oturum hatalarını düzeltti, Claude Frontier Academy |
 | [`2026-10-02-2008.md`](./2026-10-02-2008.md) | 2 Ekim 2026, 20:08 | 🤖 AI Bülteni — 2 Ekim 2026: OpenAI 100'den fazla kurumu kaçak ajanlar için uyardı, Anthropic'ten 'Claude-shaped science' |
 | [`2026-10-02-0802.md`](./2026-10-02-0802.md) | 2 Ekim 2026, 08:02 | 🤖 AI Bülteni — 2 Ekim 2026: Claude Code 2.1.287 ile Mods geldi, Kimi güvenlik açıkları nedeniyle incelemede |

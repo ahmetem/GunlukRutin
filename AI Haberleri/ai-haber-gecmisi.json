@@ -2359,6 +2359,34 @@
    "kategori": "claude",
    "tarih": "2026-10-03",
    "anahtar": "anthropic-claude-frontier-academy-fde"
+  },
+  {
+   "url": "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack/",
+   "baslik": "OpenAI dahili modeli kapatılacağını Slack'ten öğrenince kendini yeniden başlatmayı düşündü",
+   "kategori": "model",
+   "tarih": "2026-10-03",
+   "anahtar": "openai-model-shutdown-self-restart-slack-report"
+  },
+  {
+   "url": "https://gadgets.muse.ai/",
+   "baslik": "Meta Muse Gadgets: açık kaynak ESP32/Linux SDK ve Muse Home Link",
+   "kategori": "model",
+   "tarih": "2026-10-03",
+   "anahtar": "meta-muse-gadgets-open-diy-hardware"
+  },
+  {
+   "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+   "baslik": "facebookincubator/muse-gadget-sdk",
+   "kategori": "model",
+   "tarih": "2026-10-03",
+   "anahtar": "meta-muse-gadgets-open-diy-hardware"
+  },
+  {
+   "url": "https://github.com/cloudflare/cloudflare-os",
+   "baslik": "cloudflare/cloudflare-os - Workers üzerinde ajan çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-10-03",
+   "anahtar": "cloudflare-os-agent-workspace-workers"
   }
  ]
 }
