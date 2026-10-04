@@ -45,48 +45,6 @@
   },
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.259 yayınlandı: yönetilen MCP sunucuları ve headless izin ayarları",
-   "kategori": "claude",
-   "tarih": "2026-09-03",
-   "anahtar": "claude-code-2-1-259-managed-mcp-permission-prompts"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-   "baslik": "Google, Gemini 3.8 Flash ve Gemini 3.8 Flash Cyber'i tanıttı",
-   "kategori": "model",
-   "tarih": "2026-09-03",
-   "anahtar": "google-gemini-3-8-flash-cyber-launch"
-  },
-  {
-   "url": "https://claude.com/blog/claude-for-commerce-agents",
-   "baslik": "Anthropic, Claude Commerce Agents planini acik kaynak olarak yayinladi",
-   "kategori": "claude",
-   "tarih": "2026-09-03",
-   "anahtar": "anthropic-commerce-agents-blueprint-launch"
-  },
-  {
-   "url": "https://github.com/magnitudedev/magnitude",
-   "baslik": "magnitudedev/magnitude - donanima gore model oneren self-host cikarim sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-03",
-   "anahtar": "magnitude-local-model-inference-server-launch"
-  },
-  {
-   "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-   "baslik": "Meta, Muse Spark 1.3'ü yayınladı: kodlama ve ajan görevlerinde büyük iyileşme",
-   "kategori": "model",
-   "tarih": "2026-09-03",
-   "anahtar": "meta-muse-spark-1-3-coding-agent-update"
-  },
-  {
-   "url": "https://github.com/google-research/timesfm",
-   "baslik": "google-research/timesfm - Google'ın zaman serisi tahminleme temel modeli, TimesFM 3.0",
-   "kategori": "github",
-   "tarih": "2026-09-03",
-   "anahtar": "google-timesfm-3-0-multivariate-forecasting"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.261: kelime düzenleme tuşları Bash'e uydu, /skill-doctor eklendi",
    "kategori": "claude",
    "tarih": "2026-09-05",
@@ -2387,6 +2345,27 @@
    "kategori": "github",
    "tarih": "2026-10-03",
    "anahtar": "cloudflare-os-agent-workspace-workers"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.289: Bash deny/ask kuralı ve symlink Read yasağı açıkları kapatıldı",
+   "kategori": "claude",
+   "tarih": "2026-10-04",
+   "anahtar": "claude-code-2-1-289-deny-rule-bypass-fixes"
+  },
+  {
+   "url": "https://github.com/Tracer-Cloud/opensre",
+   "baslik": "Tracer-Cloud/opensre - self-host AI SRE ajan çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "tracer-cloud-opensre-ai-sre-agents"
+  },
+  {
+   "url": "https://github.com/datalab-to/chandra",
+   "baslik": "datalab-to/chandra - düzen koruyan yerel OCR modeli",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "datalab-chandra-ocr-layout-model"
   }
  ]
 }
