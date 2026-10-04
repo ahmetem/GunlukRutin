@@ -2366,6 +2366,20 @@
    "kategori": "github",
    "tarih": "2026-10-04",
    "anahtar": "datalab-chandra-ocr-layout-model"
+  },
+  {
+   "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+   "baslik": "Aleph Alpha Kolibri-1: 78B MoE açık ağırlıklı model (Apache 2.0)",
+   "kategori": "model",
+   "tarih": "2026-10-04",
+   "anahtar": "aleph-alpha-kolibri-1-78b-open"
+  },
+  {
+   "url": "https://github.com/meituan-longcat/LongCat-Video",
+   "baslik": "meituan-longcat/LongCat-Video - 13,6B açık video üretim modeli",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "meituan-longcat-video-generation-model"
   }
  ]
 }
