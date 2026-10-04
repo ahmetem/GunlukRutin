@@ -2380,6 +2380,27 @@
    "kategori": "github",
    "tarih": "2026-10-04",
    "anahtar": "meituan-longcat-video-generation-model"
+  },
+  {
+   "url": "https://github.com/antirez/ds4",
+   "baslik": "antirez/ds4 - DeepSeek V4 Flash ve GLM için yerel çıkarım motoru",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "antirez-ds4-deepseek-v4-local-inference"
+  },
+  {
+   "url": "https://github.com/thedotmack/claude-mem",
+   "baslik": "thedotmack/claude-mem - Claude Code için kalıcı hafıza eklentisi",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "claude-mem-persistent-memory-plugin"
+  },
+  {
+   "url": "https://github.com/calesthio/OpenMontage",
+   "baslik": "calesthio/OpenMontage - açık kaynak ajanik video üretim sistemi",
+   "kategori": "github",
+   "tarih": "2026-10-04",
+   "anahtar": "openmontage-agentic-video-production"
   }
  ]
 }

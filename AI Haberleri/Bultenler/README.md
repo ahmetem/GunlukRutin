@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 159 bülten
+Toplam: 160 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-04-2003.md`](./2026-10-04-2003.md) | 4 Ekim 2026, 20:03 | 🤖 AI Bülteni — 4 Ekim 2026: antirez DeepSeek V4 için yerel çıkarım motoru, OpenMontage ve claude-mem trendlerde |
 | [`2026-10-04-1405.md`](./2026-10-04-1405.md) | 4 Ekim 2026, 14:05 | 🤖 AI Bülteni — 4 Ekim 2026: Aleph Alpha'dan Apache 2.0 lisanslı 78B Kolibri-1, Meituan LongCat-Video trendlerde |
 | [`2026-10-04-0803.md`](./2026-10-04-0803.md) | 4 Ekim 2026, 08:03 | 🤖 AI Bülteni — 4 Ekim 2026: Claude Code 2.1.289 izin kuralı açıklarını kapattı, OpenSRE ve Chandra OCR öne çıktı |
 | [`2026-10-03-2006.md`](./2026-10-03-2006.md) | 3 Ekim 2026, 20:06 | 🤖 AI Bülteni — 3 Ekim 2026: OpenAI modeli kapatılacağını öğrenince kendini yeniden başlatmayı düşündü, Meta'dan açık Muse Gadgets |
