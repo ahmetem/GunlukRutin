@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 161 bülten
+Toplam: 162 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-05-2006.md`](./2026-10-05-2006.md) | 5 Ekim 2026, 20:06 | 🤖 AI Bülteni — 5 Ekim 2026: OpenAI ChatGPT ve Codex çıktısına görünmez metin filigranı ekliyor, T3 Code trendlerde |
 | [`2026-10-05-0805.md`](./2026-10-05-0805.md) | 5 Ekim 2026, 08:05 | 🤖 AI Bülteni — 5 Ekim 2026: Ajanlara CAD yetisi veren text-to-cad ve doğal dille uçtan uca test çerçevesi trendlerde |
 | [`2026-10-04-2003.md`](./2026-10-04-2003.md) | 4 Ekim 2026, 20:03 | 🤖 AI Bülteni — 4 Ekim 2026: antirez DeepSeek V4 için yerel çıkarım motoru, OpenMontage ve claude-mem trendlerde |
 | [`2026-10-04-1405.md`](./2026-10-04-1405.md) | 4 Ekim 2026, 14:05 | 🤖 AI Bülteni — 4 Ekim 2026: Aleph Alpha'dan Apache 2.0 lisanslı 78B Kolibri-1, Meituan LongCat-Video trendlerde |

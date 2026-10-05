@@ -2373,6 +2373,20 @@
    "kategori": "github",
    "tarih": "2026-10-05",
    "anahtar": "tester-army-e2e-agent-testing-framework"
+  },
+  {
+   "url": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/",
+   "baslik": "OpenAI, EU AI Act için textGrain metin filigranını başlattı",
+   "kategori": "model",
+   "tarih": "2026-10-05",
+   "anahtar": "openai-textgrain-text-watermark-eu"
+  },
+  {
+   "url": "https://github.com/pingdotgg/t3code",
+   "baslik": "pingdotgg/t3code - kodlama ajanları için kontrol paneli",
+   "kategori": "github",
+   "tarih": "2026-10-05",
+   "anahtar": "pingdotgg-t3code-agent-harness-control"
   }
  ]
 }
