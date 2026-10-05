@@ -2,48 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://ifm.ai/k2/press-release/",
-   "baslik": "Institute of Foundation Models, K2 Horizon'u yayınladı",
-   "kategori": "model",
-   "tarih": "2026-09-04",
-   "anahtar": "ifm-k2-horizon-fully-open-six-models"
-  },
-  {
-   "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
-   "baslik": "Microsoft, MAI-Transcribe-2 konuşma tanıma modelini duyurdu",
-   "kategori": "model",
-   "tarih": "2026-09-04",
-   "anahtar": "microsoft-mai-transcribe-2-speech-model"
-  },
-  {
-   "url": "https://github.com/anomalyco/opencode",
-   "baslik": "anomalyco/opencode - açık kaynak kodlama ajanı",
-   "kategori": "github",
-   "tarih": "2026-09-04",
-   "anahtar": "anomalyco-opencode-coding-agent-cli"
-  },
-  {
-   "url": "https://github.com/multica-ai/multica",
-   "baslik": "multica-ai/multica - self-host ajan çalışma alanı",
-   "kategori": "github",
-   "tarih": "2026-09-04",
-   "anahtar": "multica-ai-agent-workspace-orchestrator"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.260: diff paneli, prompt cache tanisi, zsh auto-approval duzeltmesi",
-   "kategori": "claude",
-   "tarih": "2026-09-04",
-   "anahtar": "claude-code-2-1-260-diff-panel-autoapproval-fix"
-  },
-  {
-   "url": "https://openai.com/index/gpt-6-astra/",
-   "baslik": "OpenAI, GPT-6 Astra'yi yayinladi - kritik siber guvenlik esigini asan ilk model",
-   "kategori": "model",
-   "tarih": "2026-09-04",
-   "anahtar": "openai-astra-gpt6-critical-cyber-launch"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.261: kelime düzenleme tuşları Bash'e uydu, /skill-doctor eklendi",
    "kategori": "claude",
@@ -2401,6 +2359,20 @@
    "kategori": "github",
    "tarih": "2026-10-04",
    "anahtar": "openmontage-agentic-video-production"
+  },
+  {
+   "url": "https://github.com/earthtojake/text-to-cad",
+   "baslik": "earthtojake/text-to-cad - ajanlar için doğal dilden CAD üretimi (MCP/CLI)",
+   "kategori": "github",
+   "tarih": "2026-10-05",
+   "anahtar": "earthtojake-text-to-cad-agent-cad-mcp"
+  },
+  {
+   "url": "https://github.com/tester-army/e2e",
+   "baslik": "tester-army/e2e - doğal dilli ajan tabanlı uçtan uca test çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-10-05",
+   "anahtar": "tester-army-e2e-agent-testing-framework"
   }
  ]
 }
