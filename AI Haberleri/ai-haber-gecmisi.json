@@ -2352,6 +2352,34 @@
    "kategori": "model",
    "tarih": "2026-10-06",
    "anahtar": "wikimedia-openai-rogue-agents-edits-outage"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "baslik": "Anthropic Claude for Startups genişledi: bir yıl ücretsiz Claude Team ve 1.000 $ kredi",
+   "kategori": "claude",
+   "tarih": "2026-10-06",
+   "anahtar": "anthropic-claude-for-startups-free-team-year"
+  },
+  {
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "baslik": "Mistral Large 4: 1 trilyon parametreli açık ağırlıklı model",
+   "kategori": "model",
+   "tarih": "2026-10-06",
+   "anahtar": "mistral-large-4-1t-open-weight"
+  },
+  {
+   "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model",
+   "baslik": "Mistral Large 4 (TNW)",
+   "kategori": "model",
+   "tarih": "2026-10-06",
+   "anahtar": "mistral-large-4-1t-open-weight"
+  },
+  {
+   "url": "https://github.com/morluto/rea",
+   "baslik": "morluto/rea - ajanlarla tersine mühendislik CLI ve MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-10-06",
+   "anahtar": "morluto-rea-reverse-engineering-agents"
   }
  ]
 }
