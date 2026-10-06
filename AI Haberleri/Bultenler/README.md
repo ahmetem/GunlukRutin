@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 162 bülten
+Toplam: 163 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-06-0805.md`](./2026-10-06-0805.md) | 6 Ekim 2026, 08:05 | 🤖 AI Bülteni — 6 Ekim 2026: Claude Code 2.1.290 büyük güncelleme, Reflection açık ağırlıklı Beam'i duyurdu |
 | [`2026-10-05-2006.md`](./2026-10-05-2006.md) | 5 Ekim 2026, 20:06 | 🤖 AI Bülteni — 5 Ekim 2026: OpenAI ChatGPT ve Codex çıktısına görünmez metin filigranı ekliyor, T3 Code trendlerde |
 | [`2026-10-05-0805.md`](./2026-10-05-0805.md) | 5 Ekim 2026, 08:05 | 🤖 AI Bülteni — 5 Ekim 2026: Ajanlara CAD yetisi veren text-to-cad ve doğal dille uçtan uca test çerçevesi trendlerde |
 | [`2026-10-04-2003.md`](./2026-10-04-2003.md) | 4 Ekim 2026, 20:03 | 🤖 AI Bülteni — 4 Ekim 2026: antirez DeepSeek V4 için yerel çıkarım motoru, OpenMontage ve claude-mem trendlerde |

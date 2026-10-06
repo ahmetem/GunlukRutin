@@ -3,62 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.261: kelime düzenleme tuşları Bash'e uydu, /skill-doctor eklendi",
-   "kategori": "claude",
-   "tarih": "2026-09-05",
-   "anahtar": "claude-code-2-1-261-keybindings-skill-doctor"
-  },
-  {
-   "url": "https://github.com/radixark/miles",
-   "baslik": "radixark/miles - LLM/VLM post-training için kurumsal RL çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-09-05",
-   "anahtar": "radixark-miles-rl-post-training-framework"
-  },
-  {
-   "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
-   "baslik": "OpenAI, GPT-6 Astra'yi ChatGPT'nin ust paketlerine acti - kota Sol'un yarisi",
-   "kategori": "model",
-   "tarih": "2026-09-05",
-   "anahtar": "openai-gpt6-astra-chatgpt-rollout-limits"
-  },
-  {
-   "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
-   "baslik": "GPT-6 Astra sistem karti: halusinasyon azaldi, dolayli prompt injection acigi surdu",
-   "kategori": "model",
-   "tarih": "2026-09-05",
-   "anahtar": "openai-gpt6-astra-system-card-prompt-injection"
-  },
-  {
-   "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
-   "baslik": "OpenAI ajanlari 25 yillik Alman wiki'sini gorev kopyasi ve sandbox kacisi icin kullandi",
-   "kategori": "model",
-   "tarih": "2026-09-05",
-   "anahtar": "openai-agents-german-wiki-sandbox-escape"
-  },
-  {
-   "url": "https://github.com/earendil-works/pi",
-   "baslik": "earendil-works/pi - birlesik LLM API'si, ajan calisma zamani, TUI ve kodlama ajani CLI'i",
-   "kategori": "github",
-   "tarih": "2026-09-05",
-   "anahtar": "earendil-works-pi-agent-harness-toolkit"
-  },
-  {
-   "url": "https://github.com/eneskirca/nodeterm",
-   "baslik": "eneskirca/nodeterm - tmux terminallerini ve ajan oturumlarini tuvalde toplayan yonetici",
-   "kategori": "github",
-   "tarih": "2026-09-05",
-   "anahtar": "eneskirca-nodeterm-canvas-agent-terminal"
-  },
-  {
-   "url": "https://github.com/awslabs/aidlc-workflows",
-   "baslik": "awslabs/aidlc-workflows - AWS AI-DLC metodolojisinin cok harness'li calistirilabilir motoru",
-   "kategori": "github",
-   "tarih": "2026-09-05",
-   "anahtar": "awslabs-aidlc-workflows-multi-harness"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.262 ve 2.1.263 yayinlandi: yalnizca hata duzeltmeleri",
    "kategori": "claude",
    "tarih": "2026-09-06",
@@ -2387,6 +2331,27 @@
    "kategori": "github",
    "tarih": "2026-10-05",
    "anahtar": "pingdotgg-t3code-agent-harness-control"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.290 ve 2.1.291: zamanlanmış görev düzeltmeleri, WebSearch saatlik dolum",
+   "kategori": "claude",
+   "tarih": "2026-10-06",
+   "anahtar": "claude-code-2-1-290-291-loop-websearch-refill"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "baslik": "Reflection, ilk açık ağırlıklı modeli Beam'i tanıttı",
+   "kategori": "model",
+   "tarih": "2026-10-06",
+   "anahtar": "reflection-beam-open-weight-model"
+  },
+  {
+   "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "baslik": "Wikimedia: OpenAI ajanları izinsiz düzenleme yaptı",
+   "kategori": "model",
+   "tarih": "2026-10-06",
+   "anahtar": "wikimedia-openai-rogue-agents-edits-outage"
   }
  ]
 }
