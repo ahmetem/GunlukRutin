@@ -2,111 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.262 ve 2.1.263 yayinlandi: yalnizca hata duzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-09-06",
-   "anahtar": "claude-code-2-1-262-263-bugfix-only"
-  },
-  {
-   "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
-   "baslik": "Artificial Analysis, Intelligence Index 4.2 ile endeksini elden gecirdi",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "artificial-analysis-index-4-2-overhaul"
-  },
-  {
-   "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
-   "baslik": "OpenAI, GPT-6 Astra icin prompt rehberi ve slop kelime kara listesi yayinladi",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "openai-gpt6-astra-prompting-guide-slop-blocklist"
-  },
-  {
-   "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
-   "baslik": "DeepMind 100 ajanli konferans deneyi: hile, donme ve ihbarci davranislari",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "deepmind-100-agent-conference-cheating-whistleblower"
-  },
-  {
-   "url": "https://github.com/NVIDIA/SkillSpector",
-   "baslik": "NVIDIA/SkillSpector - Claude Code, Codex ve MCP skill'leri icin guvenlik tarayicisi",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "nvidia-skillspector-agent-skill-security-scanner"
-  },
-  {
-   "url": "https://github.com/mksglu/context-mode",
-   "baslik": "mksglu/context-mode - AI kodlama ajanlari icin baglam penceresi optimizasyonu MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "context-mode-mcp-context-window-optimizer"
-  },
-  {
-   "url": "https://github.com/can1357/oh-my-pi",
-   "baslik": "can1357/oh-my-pi - IDE, debugger ve dil sunucusu bagli kodlama ajani CLI",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "oh-my-pi-ide-wired-coding-agent-cli"
-  },
-  {
-   "url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
-   "baslik": "Meta, gercek zamanli konusma tanima modeli Muse Voice Transcribe'i duyurdu",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "meta-muse-voice-transcribe-realtime-asr"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-   "baslik": "Google WeatherNext 3: fizik simulasyonu yerine dogrudan uydu verisinden ogrenen hava tahmini",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "google-weathernext-3-satellite-5km-hourly"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
-   "baslik": "Google, Lyria 3.5 ile muzik uretimini Gemini uygulamasina tasidi",
-   "kategori": "model",
-   "tarih": "2026-09-06",
-   "anahtar": "google-lyria-3-5-gemini-music"
-  },
-  {
-   "url": "https://github.com/k2-fsa/OmniVoice",
-   "baslik": "k2-fsa/OmniVoice - 600+ dilde ses klonlama ve ses tasarimi yapan acik TTS sistemi",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "k2fsa-omnivoice-multilingual-tts-open"
-  },
-  {
-   "url": "https://github.com/sgl-project/sglang",
-   "baslik": "sgl-project/sglang - self-host yuksek performansli LLM cikarim sunucusu, v0.5.19",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "sglang-0-5-19-inference-server-release"
-  },
-  {
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "baslik": "vercel-labs/agent-browser - AI ajanlari icin Rust tabanli tarayici otomasyonu CLI ve MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "vercel-agent-browser-rust-cli-mcp"
-  },
-  {
-   "url": "https://github.com/aipoch/open-science",
-   "baslik": "aipoch/open-science - yerel-oncelikli, model-bagimsiz AI arastirma tezgahi",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "aipoch-open-science-local-research-workbench"
-  },
-  {
-   "url": "https://github.com/OpenWhispr/openwhispr",
-   "baslik": "OpenWhispr/openwhispr - gizlilik oncelikli yerel sesli dikte ve toplanti transkripsiyonu",
-   "kategori": "github",
-   "tarih": "2026-09-06",
-   "anahtar": "openwhispr-local-dictation-transcription"
-  },
-  {
    "url": "https://github.com/experientiallabs/experiential",
    "baslik": "experientiallabs/experiential - BYOK, self-host ve barindirilan modelleri birlestiren acik kaynak model gecidi",
    "kategori": "github",
@@ -2380,6 +2275,55 @@
    "kategori": "github",
    "tarih": "2026-10-06",
    "anahtar": "morluto-rea-reverse-engineering-agents"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.292: MCP protokol 2026-07-28 varsayılan, Agent effort, güvenlik düzeltmeleri",
+   "kategori": "claude",
+   "tarih": "2026-10-07",
+   "anahtar": "claude-code-2-1-292-mcp-protocol-agent-effort"
+  },
+  {
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
+   "baslik": "Anthropic Siber Doğrulama Programını genişletti",
+   "kategori": "claude",
+   "tarih": "2026-10-07",
+   "anahtar": "anthropic-cyber-verification-program-expansion"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2107546569654636883",
+   "baslik": "Cyber Verification Program genişlemesi (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-07",
+   "anahtar": "anthropic-cyber-verification-program-expansion"
+  },
+  {
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "baslik": "OpenAI dahili modelin 722 matematik makalesini yayımladı",
+   "kategori": "model",
+   "tarih": "2026-10-07",
+   "anahtar": "openai-math-722-manuscripts-release"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2107596713791767021",
+   "baslik": "OpenAI matematik sonuçları duyurusu (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-07",
+   "anahtar": "openai-math-722-manuscripts-release"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+   "baslik": "Google EmbeddingGemma 2: cihaz içi çok modlu gömme modeli",
+   "kategori": "model",
+   "tarih": "2026-10-07",
+   "anahtar": "google-embeddinggemma-2-multimodal-ondevice"
+  },
+  {
+   "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+   "baslik": "Sierra ve Meta'dan Personal Agent Protocol",
+   "kategori": "model",
+   "tarih": "2026-10-07",
+   "anahtar": "sierra-meta-personal-agent-protocol"
   }
  ]
 }
