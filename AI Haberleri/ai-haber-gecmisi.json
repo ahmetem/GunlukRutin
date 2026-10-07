@@ -2324,6 +2324,34 @@
    "kategori": "model",
    "tarih": "2026-10-07",
    "anahtar": "sierra-meta-personal-agent-protocol"
+  },
+  {
+   "url": "https://claude.dev/blog/claude-code-in-the-cloud",
+   "baslik": "Claude Code bulut oturumları saha rehberi: yedi iş akışı",
+   "kategori": "claude",
+   "tarih": "2026-10-07",
+   "anahtar": "claude-code-cloud-sessions-field-guide"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2107542087243907506",
+   "baslik": "Bulut oturumları saha rehberi (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-07",
+   "anahtar": "claude-code-cloud-sessions-field-guide"
+  },
+  {
+   "url": "https://futurism.com/artificial-intelligence/court-finds-copyrighted-material-training-data-fair-use",
+   "baslik": "ABD 3. Daire: Ross'un Westlaw ile eğitimi adil kullanım değil",
+   "kategori": "model",
+   "tarih": "2026-10-07",
+   "anahtar": "thomson-reuters-ross-appeal-not-fair-use"
+  },
+  {
+   "url": "https://github.com/manaflow-ai/cmux",
+   "baslik": "manaflow-ai/cmux - AI kodlama ajanları için Ghostty tabanlı macOS terminali",
+   "kategori": "github",
+   "tarih": "2026-10-07",
+   "anahtar": "manaflow-cmux-agent-terminal-macos"
   }
  ]
 }
