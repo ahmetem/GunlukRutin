@@ -2352,6 +2352,34 @@
    "kategori": "model",
    "tarih": "2026-10-08",
    "anahtar": "openai-chatgpt-intelligent-ui-gpt-6"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.294: prompt/agent hook engelleme düzeltmesi",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "claude-code-2-1-294-prompt-hooks-block-fix"
+  },
+  {
+   "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+   "baslik": "LMCache'te yamasız kritik RCE (CVSS 9.8)",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "lmcache-unpatched-rce-zeromq-pickle"
+  },
+  {
+   "url": "https://community.perplexity.ai/t/were-releasing-pplx-embed-v2-late-two-late-interaction-embedding-models-that-retrieve-text-images-and-pages-with-a-shared-embedding-space-for-cross-model-querying/6296",
+   "baslik": "Perplexity pplx-embed-v2-late açık gömme modelleri",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "perplexity-pplx-embed-v2-late-open"
+  },
+  {
+   "url": "https://github.com/storytold/artcraft",
+   "baslik": "storytold/artcraft - AI görsel/video/3D üretim IDE'si",
+   "kategori": "github",
+   "tarih": "2026-10-08",
+   "anahtar": "storytold-artcraft-ai-media-ide"
   }
  ]
 }
