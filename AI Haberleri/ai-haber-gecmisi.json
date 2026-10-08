@@ -2,62 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://github.com/experientiallabs/experiential",
-   "baslik": "experientiallabs/experiential - BYOK, self-host ve barindirilan modelleri birlestiren acik kaynak model gecidi",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "experiential-byok-model-gateway-selfhost"
-  },
-  {
-   "url": "https://github.com/sooryathejas/METATRON",
-   "baslik": "sooryathejas/METATRON - yerel LLM ile calisan, bulutsuz AI destekli sizma testi asistani",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "metatron-local-llm-pentest-assistant"
-  },
-  {
-   "url": "https://github.com/ahujasid/blender-mcp",
-   "baslik": "ahujasid/blender-mcp - Blender 3D'yi MCP uzerinden Claude'a acan topluluk eklentisi",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "ahujasid-blender-mcp-claude-3d-control"
-  },
-  {
-   "url": "https://github.com/maziyarpanahi/openmed",
-   "baslik": "maziyarpanahi/openmed - cihaz ustunde calisan klinik NER ve HIPAA uyumlu PII anonimlestirme",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "maziyarpanahi-openmed-local-clinical-nlp"
-  },
-  {
-   "url": "https://github.com/Soju06/codex-lb",
-   "baslik": "Soju06/codex-lb - ChatGPT hesaplari icin self-host yuk dengeleyici ve kullanim paneli",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "soju06-codex-lb-account-load-balancer"
-  },
-  {
-   "url": "https://github.com/lightpanda-io/browser",
-   "baslik": "lightpanda-io/browser - AI ajanlari icin Zig ile sifirdan yazilmis, MCP sunuculu headless tarayici",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "lightpanda-headless-browser-agents-mcp"
-  },
-  {
-   "url": "https://github.com/bytedance/deer-flow",
-   "baslik": "bytedance/deer-flow - DeerFlow 2.0, alt ajan/hafiza/sandbox yoneten acik kaynak SuperAgent harness'i",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "bytedance-deerflow-2-superagent-harness"
-  },
-  {
-   "url": "https://github.com/microsoft/markitdown",
-   "baslik": "microsoft/markitdown - belgeleri LLM'ler icin Markdown'a ceviren arac ve MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-07",
-   "anahtar": "microsoft-markitdown-doc-to-markdown-llm"
-  },
-  {
    "url": "https://github.com/1jehuang/jcode",
    "baslik": "1jehuang/jcode - 27,8 MB RAM ile calisan cok saglayicili kodlama ajani harness'i",
    "kategori": "github",
@@ -2366,6 +2310,48 @@
    "kategori": "model",
    "tarih": "2026-10-07",
    "anahtar": "google-synthid-detector-public-site"
+  },
+  {
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "baslik": "Claude Haiku 5.5 yayında: ~%75 ucuz, 1M bağlam",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-claude-haiku-5-5-launch"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.293: Haiku 5.5 varsayılan, bulut oturumu uyandırma düzeltmesi geri alındı",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "claude-code-2-1-293-haiku-default-wakeup-revert"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-sdk",
+   "baslik": "Claude SDK'larına computer/browser use araç setleri (beta)",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-sdk-computer-browser-use-toolsets"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2107925762720326090",
+   "baslik": "SDK computer/browser use toolsets (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-sdk-computer-browser-use-toolsets"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "baslik": "ChatGPT'ye GPT-6 destekli Intelligent UI geldi",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "openai-chatgpt-intelligent-ui-gpt-6"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2107894997538525580",
+   "baslik": "GPT-6 ve Intelligent UI (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "openai-chatgpt-intelligent-ui-gpt-6"
   }
  ]
 }
