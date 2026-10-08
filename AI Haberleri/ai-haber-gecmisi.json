@@ -2380,6 +2380,48 @@
    "kategori": "github",
    "tarih": "2026-10-08",
    "anahtar": "storytold-artcraft-ai-media-ide"
+  },
+  {
+   "url": "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans",
+   "baslik": "Max ve Team planlarına aylık Claude Platform API kredisi",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-max-team-monthly-api-credits"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2108228391404966005",
+   "baslik": "Aylık API kredileri (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-max-team-monthly-api-credits"
+  },
+  {
+   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+   "baslik": "Anthropic Genesis Mission'a 150 milyon dolar taahhüt etti",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-genesis-mission-150m-commitment"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2108226292235809081",
+   "baslik": "Genesis Mission taahhüdü (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-08",
+   "anahtar": "anthropic-genesis-mission-150m-commitment"
+  },
+  {
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "baslik": "Google Gemini at Work 2026: kimlikli iş arkadaşı ajanlar",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "google-gemini-at-work-agent-identity"
+  },
+  {
+   "url": "https://thenextweb.com/news/odyssey-3-world-model-robots-humanoids-cars-drones",
+   "baslik": "Odyssey-3 dünya modeli",
+   "kategori": "model",
+   "tarih": "2026-10-08",
+   "anahtar": "odyssey-3-world-model-preview"
   }
  ]
 }

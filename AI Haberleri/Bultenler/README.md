@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 169 bülten
+Toplam: 170 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-08-2002.md`](./2026-10-08-2002.md) | 8 Ekim 2026, 20:02 | 🤖 AI Bülteni — 8 Ekim 2026: Max ve Team planlarına aylık API kredisi, Anthropic Genesis Mission'a 150 milyon dolar ayırdı |
 | [`2026-10-08-1405.md`](./2026-10-08-1405.md) | 8 Ekim 2026, 14:05 | 🤖 AI Bülteni — 8 Ekim 2026: Claude Code 2.1.294 hook açığını kapattı, LMCache'te yamasız kritik RCE |
 | [`2026-10-08-0803.md`](./2026-10-08-0803.md) | 8 Ekim 2026, 08:03 | 🤖 AI Bülteni — 8 Ekim 2026: Anthropic Claude Haiku 5.5'i çıkardı, ChatGPT'ye GPT-6 destekli Intelligent UI geldi |
 | [`2026-10-07-2002.md`](./2026-10-07-2002.md) | 7 Ekim 2026, 20:02 | 🤖 AI Bülteni — 7 Ekim 2026: SpaceX'in Grok Bot'u Claude Opus 5.5'i kullanacak, Google SynthID doğrulama sitesini herkese açtı |
