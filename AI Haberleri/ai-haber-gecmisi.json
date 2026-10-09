@@ -2401,6 +2401,27 @@
    "kategori": "github",
    "tarih": "2026-10-09",
    "anahtar": "microsoft-agent-framework-python-dotnet"
+  },
+  {
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "baslik": "Anthropic Cyber Mission: kritik altyapı ve açık kaynak güvenliği",
+   "kategori": "claude",
+   "tarih": "2026-10-09",
+   "anahtar": "anthropic-cyber-mission-launch"
+  },
+  {
+   "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+   "baslik": "Claude Science ile ilk tam ultraviyole gökyüzü haritası",
+   "kategori": "claude",
+   "tarih": "2026-10-09",
+   "anahtar": "anthropic-claude-science-uv-sky-map"
+  },
+  {
+   "url": "https://claude.dev/blog/building-effective-agent-automations/",
+   "baslik": "Claude Managed Agents ile zamanlanmış otomasyon rehberi",
+   "kategori": "claude",
+   "tarih": "2026-10-09",
+   "anahtar": "claude-managed-agents-automations-guide"
   }
  ]
 }
