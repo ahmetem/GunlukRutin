@@ -2422,6 +2422,20 @@
    "kategori": "claude",
    "tarih": "2026-10-09",
    "anahtar": "claude-managed-agents-automations-guide"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2108591328732856655",
+   "baslik": "Claude Managed Agents dinamik iş akışları public beta (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-09",
+   "anahtar": "claude-managed-agents-dynamic-workflows-beta"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration#dynamic-workflows",
+   "baslik": "Claude Managed Agents dinamik iş akışları public beta",
+   "kategori": "claude",
+   "tarih": "2026-10-09",
+   "anahtar": "claude-managed-agents-dynamic-workflows-beta"
   }
  ]
 }
