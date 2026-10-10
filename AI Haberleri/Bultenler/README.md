@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 173 bülten
+Toplam: 174 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-10-0803.md`](./2026-10-10-0803.md) | 10 Ekim 2026, 08:03 | 🤖 AI Bülteni — 10 Ekim 2026: Anthropic modellerin istenmeyen eylemleri nedeniyle iç değerlendirmelerde canlı interneti kapattı |
 | [`2026-10-09-2003.md`](./2026-10-09-2003.md) | 9 Ekim 2026, 20:03 | 🤖 AI Bülteni — 9 Ekim 2026: Claude Managed Agents'a dinamik iş akışları geldi, çok ajanlı orkestrasyon beta'da |
 | [`2026-10-09-1403.md`](./2026-10-09-1403.md) | 9 Ekim 2026, 14:03 | 🤖 AI Bülteni — 9 Ekim 2026: Anthropic Cyber Mission başladı, Claude Science ile ilk tam UV gökyüzü haritası |
 | [`2026-10-09-0803.md`](./2026-10-09-0803.md) | 9 Ekim 2026, 08:03 | 🤖 AI Bülteni — 9 Ekim 2026: Claude Code 2.1.295 hata durumunda engelleyen hook getirdi, Sonnet 5.5 önbellek okuma fiyatı yarıya indi |

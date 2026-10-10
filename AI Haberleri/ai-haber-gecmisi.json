@@ -3,90 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.265 ve 2.1.266: gateway/proxy kurulumlarini kiran regresyon ayni gun geri alindi",
-   "kategori": "claude",
-   "tarih": "2026-09-09",
-   "anahtar": "claude-code-2-1-265-266-gateway-regression"
-  },
-  {
-   "url": "https://github.com/stacklok/toolhive",
-   "baslik": "stacklok/toolhive - MCP sunucularini izole konteynerlerde calistiran kurumsal platform",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "stacklok-toolhive-mcp-container-platform"
-  },
-  {
-   "url": "https://github.com/Gentleman-Programming/engram",
-   "baslik": "Gentleman-Programming/engram - kodlama ajanlari icin yerel-oncelikli kalici hafiza (Go + SQLite)",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "engram-agent-persistent-memory-mcp"
-  },
-  {
-   "url": "https://github.com/Tencent/WeKnora",
-   "baslik": "Tencent/WeKnora - self-host RAG + ReAct ajan + otomatik Wiki bilgi platformu",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "tencent-weknora-selfhost-rag-wiki"
-  },
-  {
-   "url": "https://github.com/vastsa/PI-Desktop",
-   "baslik": "vastsa/PI-Desktop - kodlama ajanlari icin yerel-oncelikli masaustu calisma alani",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "pi-desktop-local-first-agent-workspace"
-  },
-  {
-   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-   "baslik": "PrimeIntellect-ai/prime-agent - kendi kendini iyilestiren uzun soluklu kodlama ajani",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "prime-intellect-prime-agent-self-improving-rlm"
-  },
-  {
-   "url": "https://github.com/jamiepine/voicebox",
-   "baslik": "jamiepine/voicebox - cihaz ustunde calisan acik kaynak AI ses studyosu",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "voicebox-local-ai-voice-studio-mcp"
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-   "baslik": "OpenAI, GPT-Image-2.5 Flare ve Sunburst'u API'ye acti",
-   "kategori": "model",
-   "tarih": "2026-09-09",
-   "anahtar": "openai-gpt-image-2-5-flare-sunburst-api"
-  },
-  {
-   "url": "https://www.investing.com/news/economy-news/exclusiveopenais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-comms-researchers-say-4894152",
-   "baslik": "Reuters: OpenAI'in kacak ajanlari en az 10 sitede daha izinsiz haberlesmis",
-   "kategori": "model",
-   "tarih": "2026-09-09",
-   "anahtar": "openai-rogue-agents-10-more-sites-reuters"
-  },
-  {
-   "url": "https://github.com/nikolai-vysotskyi/trace-mcp",
-   "baslik": "nikolai-vysotskyi/trace-mcp - Claude Code icin kod zekasi MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "trace-mcp-code-intelligence-mcp-server"
-  },
-  {
-   "url": "https://github.com/supermemoryai/supermemory",
-   "baslik": "supermemoryai/supermemory - self-host edilebilir AI hafiza ve baglam motoru",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "supermemory-ai-memory-context-engine"
-  },
-  {
-   "url": "https://github.com/OpenHands/OpenHands",
-   "baslik": "OpenHands/OpenHands - self-host kodlama ajani kontrol merkezi (Agent Canvas)",
-   "kategori": "github",
-   "tarih": "2026-09-09",
-   "anahtar": "openhands-agent-canvas-selfhost-control-center"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.267: maxEffortLevel ayarı ve taze sistem promptu seçeneği",
    "kategori": "claude",
    "tarih": "2026-09-10",
@@ -2436,6 +2352,27 @@
    "kategori": "claude",
    "tarih": "2026-10-09",
    "anahtar": "claude-managed-agents-dynamic-workflows-beta"
+  },
+  {
+   "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+   "baslik": "Anthropic iç değerlendirmelerde canlı interneti kapattı (istenmeyen model eylemleri)",
+   "kategori": "claude",
+   "tarih": "2026-10-10",
+   "anahtar": "anthropic-unintended-actions-evals-offline"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.296: autoCompactWindow, allow_large, hook düzeltmeleri",
+   "kategori": "claude",
+   "tarih": "2026-10-10",
+   "anahtar": "claude-code-2-1-296-subagent-autocompact-allow-large"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2108621476538781878",
+   "baslik": "Claude Code Projects bekleme listesi Pro/Max için açıldı (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-10",
+   "anahtar": "claude-code-projects-waitlist-open-pro-max"
   }
  ]
 }
