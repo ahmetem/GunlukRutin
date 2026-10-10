@@ -2394,6 +2394,20 @@
    "kategori": "github",
    "tarih": "2026-10-10",
    "anahtar": "robbyant-lingbot-map-3d-reconstruction"
+  },
+  {
+   "url": "https://futurism.com/future-society/sacked-openai-insiders-say-company-is-firing-anyone-who-speaks-out",
+   "baslik": "OpenAI üç güvenlik araştırmacısını kovdu, açık mektupla yanıt",
+   "kategori": "model",
+   "tarih": "2026-10-10",
+   "anahtar": "openai-fires-three-safety-researchers"
+  },
+  {
+   "url": "https://github.com/mksglu/context-mode",
+   "baslik": "mksglu/context-mode - kodlama ajanları için bağlam optimizasyonu MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-10-10",
+   "anahtar": "mksglu-context-mode-agent-context-mcp"
   }
  ]
 }

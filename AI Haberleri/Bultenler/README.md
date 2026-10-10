@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 175 bülten
+Toplam: 176 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-10-2003.md`](./2026-10-10-2003.md) | 10 Ekim 2026, 20:03 | 🤖 AI Bülteni — 10 Ekim 2026: OpenAI üç güvenlik araştırmacısını kovdu, context-mode ajan bağlamını sıkıştırıyor |
 | [`2026-10-10-1403.md`](./2026-10-10-1403.md) | 10 Ekim 2026, 14:03 | 🤖 AI Bülteni — 10 Ekim 2026: Cloudflare ses ve video anlayan açık ağırlıklı karar modeli Clef-omni'yi yayımladı |
 | [`2026-10-10-0803.md`](./2026-10-10-0803.md) | 10 Ekim 2026, 08:03 | 🤖 AI Bülteni — 10 Ekim 2026: Anthropic modellerin istenmeyen eylemleri nedeniyle iç değerlendirmelerde canlı interneti kapattı |
 | [`2026-10-09-2003.md`](./2026-10-09-2003.md) | 9 Ekim 2026, 20:03 | 🤖 AI Bülteni — 9 Ekim 2026: Claude Managed Agents'a dinamik iş akışları geldi, çok ajanlı orkestrasyon beta'da |
