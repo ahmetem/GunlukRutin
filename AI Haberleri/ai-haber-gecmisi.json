@@ -2373,6 +2373,27 @@
    "kategori": "claude",
    "tarih": "2026-10-10",
    "anahtar": "claude-code-projects-waitlist-open-pro-max"
+  },
+  {
+   "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+   "baslik": "Cloudflare Clef-omni: çok modlu açık ağırlıklı karar modeli",
+   "kategori": "model",
+   "tarih": "2026-10-10",
+   "anahtar": "cloudflare-clef-omni-multimodal-flash-price"
+  },
+  {
+   "url": "https://github.com/BerriAI/litellm",
+   "baslik": "BerriAI/litellm - Rust çekirdekli AI geçidi",
+   "kategori": "github",
+   "tarih": "2026-10-10",
+   "anahtar": "berriai-litellm-ai-gateway"
+  },
+  {
+   "url": "https://github.com/Robbyant/lingbot-map",
+   "baslik": "Robbyant/lingbot-map - akış 3B yeniden yapılandırma modeli",
+   "kategori": "github",
+   "tarih": "2026-10-10",
+   "anahtar": "robbyant-lingbot-map-3d-reconstruction"
   }
  ]
 }
