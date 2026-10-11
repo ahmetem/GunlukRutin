@@ -3,104 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.267: maxEffortLevel ayarı ve taze sistem promptu seçeneği",
-   "kategori": "claude",
-   "tarih": "2026-09-10",
-   "anahtar": "claude-code-2-1-267-maxeffortlevel-system-prompt-snapshot"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-   "baslik": "Anthropic'in ön-eğitim araştırmacısı istifa etti: 'hayatlarımızla kumar oynuyorlar'",
-   "kategori": "claude",
-   "tarih": "2026-09-10",
-   "anahtar": "anthropic-researcher-coxon-quits-superintelligence-warning"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-   "baslik": "Suno, modellerini lisanslı müzikle eğitilen v6 ailesiyle değiştirdi",
-   "kategori": "model",
-   "tarih": "2026-09-10",
-   "anahtar": "suno-v6-licensed-music-model-family"
-  },
-  {
-   "url": "https://github.com/pascalorg/editor",
-   "baslik": "pascalorg/editor - yerel-öncelikli açık kaynak 3D mimari editör, MCP ve CLI destekli",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "pascalorg-editor-3d-architecture-mcp-cli"
-  },
-  {
-   "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-   "baslik": "Anthropic dördüncü siber olayı açıkladı ve METR'e bağımsız soruşturma yetkisi verdi",
-   "kategori": "claude",
-   "tarih": "2026-09-10",
-   "anahtar": "anthropic-fourth-cyber-incident-metr-audit"
-  },
-  {
-   "url": "https://www.euronews.com/my-europe/2026/09/10/the-eu-got-access-to-anthropics-most-powerful-model-three-months-later",
-   "baslik": "AB'nin siber güvenlik ajansı ENISA, Mythos 5'e üç ay sonra erişim aldı",
-   "kategori": "claude",
-   "tarih": "2026-09-10",
-   "anahtar": "anthropic-mythos5-enisa-eu-access"
-  },
-  {
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-   "baslik": "DeepSeek, V4.1-Flash'ı MIT lisansıyla açık ağırlık olarak yayınladı",
-   "kategori": "model",
-   "tarih": "2026-09-10",
-   "anahtar": "deepseek-v4-1-flash-open-multimodal"
-  },
-  {
-   "url": "https://github.com/diegosouzapw/OmniRoute",
-   "baslik": "diegosouzapw/OmniRoute - self-host edilebilir çok sağlayıcılı AI ağ geçidi",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "omniroute-selfhost-ai-gateway-mcp"
-  },
-  {
-   "url": "https://github.com/AlexsJones/llmfit",
-   "baslik": "AlexsJones/llmfit - donanıma göre çalışabilecek açık modelleri bulan araç",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "llmfit-hardware-aware-model-finder"
-  },
-  {
-   "url": "https://github.com/vercel-labs/skills",
-   "baslik": "vercel-labs/skills - açık ajan skill ekosistemi için CLI",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "vercel-labs-skills-agent-skill-cli"
-  },
-  {
-   "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
-   "baslik": "Arena.ai olctu: Fable 5.1'in yazimi belirgin bicimde degisti",
-   "kategori": "claude",
-   "tarih": "2026-09-10",
-   "anahtar": "arena-ai-fable-5-1-writing-style-shift"
-  },
-  {
-   "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
-   "baslik": "GPT-6 Astra ErdosBench'te 3,23 aldi; OpenAI matematigi onceliklendirmedi",
-   "kategori": "model",
-   "tarih": "2026-09-10",
-   "anahtar": "openai-gpt6-astra-erdosbench-math-deprioritized"
-  },
-  {
-   "url": "https://github.com/JustVugg/colibri",
-   "baslik": "JustVugg/colibri - saf C ile tuketici donaniminda sinir MoE cikarim motoru",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "colibri-c-moe-streaming-inference-engine"
-  },
-  {
-   "url": "https://github.com/nashsu/llm_wiki",
-   "baslik": "nashsu/llm_wiki - belgeleri kalici wiki'ye ceviren yerel bilgi tabani + MCP",
-   "kategori": "github",
-   "tarih": "2026-09-10",
-   "anahtar": "llm-wiki-persistent-knowledge-base-mcp"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.268: üçüncü parti Anthropic uyumlu uç noktalarda HTTP 400 hatası düzeltildi",
    "kategori": "claude",
    "tarih": "2026-09-11",
@@ -2408,6 +2310,27 @@
    "kategori": "github",
    "tarih": "2026-10-10",
    "anahtar": "mksglu-context-mode-agent-context-mcp"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "baslik": "Satya Nadella: yapay zeka modellerine acil fren gerekli",
+   "kategori": "model",
+   "tarih": "2026-10-11",
+   "anahtar": "microsoft-nadella-ai-emergency-brake"
+  },
+  {
+   "url": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists",
+   "baslik": "OpenAI Rusya ve İran bağlantılı iki etki operasyonunu engelledi",
+   "kategori": "model",
+   "tarih": "2026-10-11",
+   "anahtar": "openai-disrupts-russia-iran-influence-ops"
+  },
+  {
+   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+   "baslik": "OpenAI false-front operasyonları raporu (birincil)",
+   "kategori": "model",
+   "tarih": "2026-10-11",
+   "anahtar": "openai-disrupts-russia-iran-influence-ops"
   }
  ]
 }
