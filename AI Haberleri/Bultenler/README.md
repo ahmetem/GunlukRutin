@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 178 bülten
+Toplam: 179 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-13-2003.md`](./2026-10-13-2003.md) | 13 Ekim 2026, 20:03 | 🤖 AI Bülteni — 13 Ekim 2026: Anthropic git yerine kendi sürüm kontrolü Scion'a geçti, küçük modeller kendini kopyalamaya yaklaşıyor |
 | [`2026-10-13-0803.md`](./2026-10-13-0803.md) | 13 Ekim 2026, 08:03 | 🤖 AI Bülteni — 13 Ekim 2026: Anthropic damıtma saldırılarını %90+ azalttı, Meta frontier modeli Muse Wonder çıktı |
 | [`2026-10-11-0803.md`](./2026-10-11-0803.md) | 11 Ekim 2026, 08:03 | 🤖 AI Bülteni — 11 Ekim 2026: Nadella yapay zekaya "acil fren" istedi, OpenAI iki dezenformasyon ağını engelledi |
 | [`2026-10-10-2003.md`](./2026-10-10-2003.md) | 10 Ekim 2026, 20:03 | 🤖 AI Bülteni — 10 Ekim 2026: OpenAI üç güvenlik araştırmacısını kovdu, context-mode ajan bağlamını sıkıştırıyor |

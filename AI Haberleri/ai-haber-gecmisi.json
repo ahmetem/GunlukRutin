@@ -2149,6 +2149,34 @@
    "kategori": "github",
    "tarih": "2026-10-13",
    "anahtar": "lyogavin-airllm-low-vram-inference"
+  },
+  {
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "baslik": "Anthropic kendi sürüm kontrol sistemi Scion'a geçti",
+   "kategori": "claude",
+   "tarih": "2026-10-13",
+   "anahtar": "anthropic-scion-source-control-redesign"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2110047081414987957",
+   "baslik": "Scion kaynak kontrolü (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-13",
+   "anahtar": "anthropic-scion-source-control-redesign"
+  },
+  {
+   "url": "https://www.anthropic.com/research/self-replicating-ai",
+   "baslik": "Anthropic: küçük modeller kendini kopyalamaya yaklaşıyor",
+   "kategori": "claude",
+   "tarih": "2026-10-13",
+   "anahtar": "anthropic-self-replicating-small-models-research"
+  },
+  {
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics",
+   "baslik": "Gemini 4 Argon robotik yetenekleri ve API",
+   "kategori": "model",
+   "tarih": "2026-10-13",
+   "anahtar": "google-gemini-4-argon-robotics-api"
   }
  ]
 }
