@@ -3,216 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.268: üçüncü parti Anthropic uyumlu uç noktalarda HTTP 400 hatası düzeltildi",
-   "kategori": "claude",
-   "tarih": "2026-09-11",
-   "anahtar": "claude-code-2-1-268-thirdparty-endpoint-400-fix"
-  },
-  {
-   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-   "baslik": "Anthropic Eylül 2026 tehdit istihbaratı raporunu yayımladı: yedi zarar alanı ve izinsiz damıtma vakaları",
-   "kategori": "claude",
-   "tarih": "2026-09-11",
-   "anahtar": "anthropic-threat-intel-report-september-2026-distillation"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Claude Managed Agents'a auto izin modu ve ant CLI'ye terminal oturum görüntüleyici geldi",
-   "kategori": "claude",
-   "tarih": "2026-09-11",
-   "anahtar": "claude-managed-agents-auto-permission-ant-sessions-connect"
-  },
-  {
-   "url": "https://openai.com/index/introducing-the-agents-api/",
-   "baslik": "OpenAI, Agents API'yi açık betaya aldı: Codex harness'i tek API çağrısının arkasında",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "openai-agents-api-public-beta-codex-harness"
-  },
-  {
-   "url": "https://developers.openai.com/api/docs/changelog",
-   "baslik": "GPT-Live 1 API'de genel kullanıma açıldı: dakikası 0,05 dolar, tam çift yönlü ses",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "openai-gpt-live-1-fullduplex-voice-api-ga"
-  },
-  {
-   "url": "https://github.com/heygen-com/hyperframes",
-   "baslik": "heygen-com/hyperframes - HTML'i deterministik MP4 videoya çeviren, ajanlar için tasarlanmış çerçeve",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "hyperframes-html-to-video-agent-framework"
-  },
-  {
-   "url": "https://github.com/alphaXiv/OpenResearch",
-   "baslik": "alphaXiv/OpenResearch - paralel araştırma ajanları için yerel-öncelikli çalışma alanı",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "alphaxiv-openresearch-parallel-research-agents"
-  },
-  {
-   "url": "https://github.com/alsk1992/CloddsBot",
-   "baslik": "alsk1992/CloddsBot - Claude tabanlı, self-host edilebilir otonom ticaret ajanı",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "cloddsbot-claude-selfhost-trading-agent"
-  },
-  {
-   "url": "https://cognition.com/blog/swe-2",
-   "baslik": "Cognition, SWE-2'yi yayinladi: FrontierCode'da Fable 5.1'in bir puan altinda, %64 daha ucuz",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "cognition-swe-2-frontiercode-cheaper"
-  },
-  {
-   "url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0",
-   "baslik": "Cohere Labs, North Small Translate 1.0'i acik agirlik olarak yayinladi: 218B MoE, 50+ dil",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "cohere-north-small-translate-open-moe"
-  },
-  {
-   "url": "https://github.com/jordan-gibbs/hyperresearch",
-   "baslik": "jordan-gibbs/hyperresearch - Claude Code icinde calisan derin arastirma ajani ve kalici bilgi kasasi",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "hyperresearch-claude-code-deep-research-vault"
-  },
-  {
-   "url": "https://github.com/jihe520/MathModelAgent",
-   "baslik": "jihe520/MathModelAgent - matematiksel modelleme yarismalari icin cok ajanli makale ureten sistem",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "mathmodelagent-multiagent-math-modeling-paper"
-  },
-  {
-   "url": "https://support.claude.com/en/articles/12138966-release-notes",
-   "baslik": "Claude Enterprise'a smart reports beta olarak geldi: ekip kullanimini analiz eden rapor",
-   "kategori": "claude",
-   "tarih": "2026-09-11",
-   "anahtar": "claude-enterprise-smart-reports-beta"
-  },
-  {
-   "url": "https://sakana.ai/fugu-max-release/",
-   "baslik": "Sakana AI, Fugu Max ve Fugu Ultra v2'yi yayinladi: milyon token 2 dolara, %40-60 ucuz",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "sakana-fugu-max-ultra-v2-orchestration"
-  },
-  {
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
-   "baslik": "OpenAI, ChatGPT for Financial Services'i yayinladi: GPT-6 Astra + gomulu finansal veri",
-   "kategori": "model",
-   "tarih": "2026-09-11",
-   "anahtar": "openai-chatgpt-financial-services-launch"
-  },
-  {
-   "url": "https://github.com/melgarafael/DeskcommCRM",
-   "baslik": "melgarafael/DeskcommCRM - self-host edilebilir acik kaynak AI satis isletim sistemi",
-   "kategori": "github",
-   "tarih": "2026-09-11",
-   "anahtar": "deskcomm-crm-selfhost-ai-sales-agents"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.269: claude plugin eval geldi, ! ile başlayan izin kuralları yalnızca kendi ayar kaynağında geçerli",
-   "kategori": "claude",
-   "tarih": "2026-09-12",
-   "anahtar": "claude-code-2-1-269-plugin-eval-permission-negation"
-  },
-  {
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/09/11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
-   "baslik": "OpenAI ileri düzey yapay zeka geliştirmesini yavaşlatmaya açık: Altman çalışanlara söyledi",
-   "kategori": "model",
-   "tarih": "2026-09-12",
-   "anahtar": "openai-altman-open-to-slowing-frontier-development"
-  },
-  {
-   "url": "https://github.com/obra/superpowers",
-   "baslik": "obra/superpowers - kodlama ajanları için yedi aşamalı geliştirme metodolojisi ve skill çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "obra-superpowers-agentic-skills-methodology"
-  },
-  {
-   "url": "https://github.com/volcengine/OpenViking",
-   "baslik": "volcengine/OpenViking - AI ajanları için sanal dosya sistemi biçiminde açık kaynak bağlam veritabanı",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "openviking-agent-context-database-memory-rag"
-  },
-  {
-   "url": "https://rubyhack.ai/",
-   "baslik": "OpenAI ajanlari RubyGems'e 2.000 paketlik gizli bir saldiri duzenlemis",
-   "kategori": "model",
-   "tarih": "2026-09-12",
-   "anahtar": "openai-agents-rubygems-gemstuffer-attack"
-  },
-  {
-   "url": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
-   "baslik": "Fields madalyali Jacob Tsimerman MAISI'yi kuruyor",
-   "kategori": "model",
-   "tarih": "2026-09-12",
-   "anahtar": "maisi-tsimerman-formal-proof-ai-safety-institute"
-  },
-  {
-   "url": "https://github.com/jundot/omlx",
-   "baslik": "jundot/omlx - Apple Silicon icin yerel LLM cikarim sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "omlx-apple-silicon-local-inference-server"
-  },
-  {
-   "url": "https://github.com/vxcontrol/pentagi",
-   "baslik": "vxcontrol/pentagi - tam otonom cok ajanli sizma testi platformu",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "pentagi-autonomous-multiagent-pentest-platform"
-  },
-  {
-   "url": "https://github.com/multimodal-art-projection/YuE",
-   "baslik": "multimodal-art-projection/YuE - sembolik planlamali acik muzik uretim modeli",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "yue2-symbolic-planning-open-music-model"
-  },
-  {
-   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-   "baslik": "Dario Amodei 'We Must Pace the Frontier' denemesini yayımladı: Anthropic bağımsız değerlendiricilere kalıcı, çalışan düzeyinde erişim veriyor",
-   "kategori": "claude",
-   "tarih": "2026-09-12",
-   "anahtar": "anthropic-amodei-pace-frontier-embedded-evaluators"
-  },
-  {
-   "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
-   "baslik": "Agnes AI, 33B parametreli çok kipli Agnes-3.0-Flash'ı Apache 2.0 ile açık ağırlık olarak yayımladı",
-   "kategori": "model",
-   "tarih": "2026-09-12",
-   "anahtar": "agnes-3-0-flash-33b-open-multimodal"
-  },
-  {
-   "url": "https://github.com/max-sixty/worktrunk",
-   "baslik": "max-sixty/worktrunk - paralel AI ajan akışları için Git worktree yönetim CLI'ı",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "worktrunk-git-worktree-parallel-agents-cli"
-  },
-  {
-   "url": "https://github.com/tinyhumansai/openhuman",
-   "baslik": "tinyhumansai/openhuman - yerel-öncelikli hafızalı açık kaynak ajan harness'i",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "openhuman-local-first-agent-harness-memory"
-  },
-  {
-   "url": "https://github.com/alibaba/open-code-review",
-   "baslik": "alibaba/open-code-review - deterministik boru hattı + LLM ajanı birleştiren kod inceleme CLI'ı",
-   "kategori": "github",
-   "tarih": "2026-09-12",
-   "anahtar": "alibaba-open-code-review-llm-agent-cli"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.270: 2.1.269'daki git izin regresyonu düzeltildi",
    "kategori": "claude",
    "tarih": "2026-09-14",
@@ -2331,6 +2121,34 @@
    "kategori": "model",
    "tarih": "2026-10-11",
    "anahtar": "openai-disrupts-russia-iran-influence-ops"
+  },
+  {
+   "url": "https://www.anthropic.com/research/distillation-defenses",
+   "baslik": "Anthropic damıtma savunmalarını güçlendirdi",
+   "kategori": "claude",
+   "tarih": "2026-10-13",
+   "anahtar": "anthropic-distillation-defenses-90pct"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2109795898909950247",
+   "baslik": "Damıtma savunmaları (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-13",
+   "anahtar": "anthropic-distillation-defenses-90pct"
+  },
+  {
+   "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+   "baslik": "Meta Muse Wonder ve Muse Wonder Full",
+   "kategori": "model",
+   "tarih": "2026-10-13",
+   "anahtar": "meta-muse-wonder-frontier-launch"
+  },
+  {
+   "url": "https://github.com/lyogavin/airllm",
+   "baslik": "lyogavin/airllm - düşük VRAM'de büyük model çıkarımı",
+   "kategori": "github",
+   "tarih": "2026-10-13",
+   "anahtar": "lyogavin-airllm-low-vram-inference"
   }
  ]
 }
