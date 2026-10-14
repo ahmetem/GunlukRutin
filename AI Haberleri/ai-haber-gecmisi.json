@@ -2177,6 +2177,27 @@
    "kategori": "model",
    "tarih": "2026-10-13",
    "anahtar": "google-gemini-4-argon-robotics-api"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.299: MCP allow kuralları daraldı, hook davranışı değişti",
+   "kategori": "claude",
+   "tarih": "2026-10-14",
+   "anahtar": "claude-code-2-1-299-mcp-allow-rules-hooks"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2110128453760815153",
+   "baslik": "Claude Code hackathonu Japonya'da (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-14",
+   "anahtar": "claude-code-hackathon-japan-2026"
+  },
+  {
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
+   "baslik": "Apple Minions: Mac GPU'larından dağıtık çıkarım bulutu",
+   "kategori": "model",
+   "tarih": "2026-10-14",
+   "anahtar": "apple-minions-mac-gpu-inference-cloud"
   }
  ]
 }
