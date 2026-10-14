@@ -2198,6 +2198,41 @@
    "kategori": "model",
    "tarih": "2026-10-14",
    "anahtar": "apple-minions-mac-gpu-inference-cloud"
+  },
+  {
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "baslik": "Anthropic Singapur ofisi ve MDDI mutabakatı",
+   "kategori": "claude",
+   "tarih": "2026-10-14",
+   "anahtar": "anthropic-singapore-office-mou"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2110289695888511368",
+   "baslik": "Singapur ofisi (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-14",
+   "anahtar": "anthropic-singapore-office-mou"
+  },
+  {
+   "url": "https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control",
+   "baslik": "Anthropic ve OpenAI dış denetçi raporlarında yayın kontrolü istedi",
+   "kategori": "claude",
+   "tarih": "2026-10-14",
+   "anahtar": "anthropic-openai-evaluator-report-control"
+  },
+  {
+   "url": "https://github.com/ifixai-ai/iFixAi",
+   "baslik": "ifixai-ai/iFixAi - AI ajan denetim aracı",
+   "kategori": "github",
+   "tarih": "2026-10-14",
+   "anahtar": "ifixai-agent-auditing-tool"
+  },
+  {
+   "url": "https://github.com/vxcontrol/pentagi",
+   "baslik": "vxcontrol/pentagi - otonom sızma testi ajanları",
+   "kategori": "github",
+   "tarih": "2026-10-14",
+   "anahtar": "vxcontrol-pentagi-autonomous-pentest"
   }
  ]
 }
