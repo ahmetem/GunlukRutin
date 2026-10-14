@@ -2233,6 +2233,20 @@
    "kategori": "github",
    "tarih": "2026-10-14",
    "anahtar": "vxcontrol-pentagi-autonomous-pentest"
+  },
+  {
+   "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+   "baslik": "Açık ağırlıklı modellerin korumaları saatler içinde sökülüyor (Counter-Terrorism AI Benchmark)",
+   "kategori": "model",
+   "tarih": "2026-10-14",
+   "anahtar": "tech-against-terrorism-abliterated-open-models-report"
+  },
+  {
+   "url": "https://futurism.com/artificial-intelligence/godfathers-ai-models-control-airgapped",
+   "baslik": "Hinton ve Bengio dahil ~400 bilim insanı AI izolasyonu istedi",
+   "kategori": "model",
+   "tarih": "2026-10-14",
+   "anahtar": "hinton-bengio-open-letter-airgap-ai-containment"
   }
  ]
 }
