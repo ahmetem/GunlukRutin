@@ -2163,6 +2163,27 @@
    "kategori": "claude",
    "tarih": "2026-10-15",
    "anahtar": "claude-code-desktop-parallel-sessions-update"
+  },
+  {
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "baslik": "Anthropic 2026 ABD ara seçim önlemleri",
+   "kategori": "claude",
+   "tarih": "2026-10-15",
+   "anahtar": "anthropic-us-midterms-2026-election-safeguards"
+  },
+  {
+   "url": "https://github.com/xerj-org/xerj",
+   "baslik": "xerj-org/xerj - ajanlar için yerel arama motoru",
+   "kategori": "github",
+   "tarih": "2026-10-15",
+   "anahtar": "xerj-local-search-engine-agents-mcp"
+  },
+  {
+   "url": "https://github.com/lightseekorg/tokenspeed",
+   "baslik": "lightseekorg/tokenspeed - ajan odaklı LLM çıkarım motoru",
+   "kategori": "github",
+   "tarih": "2026-10-15",
+   "anahtar": "lightseekorg-tokenspeed-inference-engine"
   }
  ]
 }

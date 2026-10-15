@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 183 bülten
+Toplam: 184 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-15-1403.md`](./2026-10-15-1403.md) | 15 Ekim 2026, 14:03 | 🤖 AI Bülteni — 15 Ekim 2026: Anthropic ABD ara seçimleri için yeni önlemler açıkladı, ajanlara yerel arama motoru XERJ |
 | [`2026-10-15-0802.md`](./2026-10-15-0802.md) | 15 Ekim 2026, 08:02 | 🤖 AI Bülteni — 15 Ekim 2026: Claude Code 2.1.300 sandbox bayraklarını kaldırdı, Claude Platform OpenTelemetry izlemesi betada |
 | [`2026-10-14-2004.md`](./2026-10-14-2004.md) | 14 Ekim 2026, 20:04 | 🤖 AI Bülteni — 14 Ekim 2026: Hinton ve Bengio dahil 400 bilim insanı AI izolasyonu istedi, açık modellerde korumalar saatler içinde sökülüyor |
 | [`2026-10-14-1404.md`](./2026-10-14-1404.md) | 14 Ekim 2026, 14:04 | 🤖 AI Bülteni — 14 Ekim 2026: Anthropic Singapur ofisini açtı, laboratuvarların dış denetim raporlarına müdahalesi tartışmada |
