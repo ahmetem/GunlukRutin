@@ -2184,6 +2184,27 @@
    "kategori": "github",
    "tarih": "2026-10-15",
    "anahtar": "lightseekorg-tokenspeed-inference-engine"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2110720940665372825",
+   "baslik": "Anthropic STEM ve Conceptual Reasoning bursları (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-15",
+   "anahtar": "anthropic-stem-conceptual-reasoning-fellowships"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2110741355739963884",
+   "baslik": "Simons Vakfı-Anthropic-OpenAI matematik girişimi (@OpenAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-15",
+   "anahtar": "simons-foundation-anthropic-openai-math-initiative"
+  },
+  {
+   "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/",
+   "baslik": "NVIDIA Nemotron 3.5 Super VL ve Bolt açık modelleri",
+   "kategori": "model",
+   "tarih": "2026-10-15",
+   "anahtar": "nvidia-nemotron-3-5-super-vl-bolt-open"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 184 bülten
+Toplam: 185 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-15-2004.md`](./2026-10-15-2004.md) | 15 Ekim 2026, 20:04 | 🤖 AI Bülteni — 15 Ekim 2026: NVIDIA açık ağırlıklı Nemotron 3.5 Super VL ve Bolt modellerini tanıttı, Anthropic yeni burs programları açtı |
 | [`2026-10-15-1403.md`](./2026-10-15-1403.md) | 15 Ekim 2026, 14:03 | 🤖 AI Bülteni — 15 Ekim 2026: Anthropic ABD ara seçimleri için yeni önlemler açıkladı, ajanlara yerel arama motoru XERJ |
 | [`2026-10-15-0802.md`](./2026-10-15-0802.md) | 15 Ekim 2026, 08:02 | 🤖 AI Bülteni — 15 Ekim 2026: Claude Code 2.1.300 sandbox bayraklarını kaldırdı, Claude Platform OpenTelemetry izlemesi betada |
 | [`2026-10-14-2004.md`](./2026-10-14-2004.md) | 14 Ekim 2026, 20:04 | 🤖 AI Bülteni — 14 Ekim 2026: Hinton ve Bengio dahil 400 bilim insanı AI izolasyonu istedi, açık modellerde korumalar saatler içinde sökülüyor |
