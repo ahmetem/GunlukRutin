@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 187 bülten
+Toplam: 188 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-16-2003.md`](./2026-10-16-2003.md) | 16 Ekim 2026, 20:03 | 🤖 AI Bülteni — 16 Ekim 2026: OpenAI yeni uyumsuzluk vakaları paylaştı, Çin büyük AI modellerine ihracat kısıtı taslağı yayımladı |
 | [`2026-10-16-1403.md`](./2026-10-16-1403.md) | 16 Ekim 2026, 14:03 | 🤖 AI Bülteni — 16 Ekim 2026: Anthropic METR'e çalışan düzeyinde erişim verdi, FTC OpenAI ve Anthropic'e celp gönderdi |
 | [`2026-10-16-0803.md`](./2026-10-16-0803.md) | 16 Ekim 2026, 08:03 | 🤖 AI Bülteni — 16 Ekim 2026: Opus 5.5 hızlı mod genel kullanımda, Meta 816B açık ağırlıklı Muse Spark Open'ı yayınladı |
 | [`2026-10-15-2004.md`](./2026-10-15-2004.md) | 15 Ekim 2026, 20:04 | 🤖 AI Bülteni — 15 Ekim 2026: NVIDIA açık ağırlıklı Nemotron 3.5 Super VL ve Bolt modellerini tanıttı, Anthropic yeni burs programları açtı |

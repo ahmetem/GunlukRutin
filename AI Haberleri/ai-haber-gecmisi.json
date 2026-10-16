@@ -2184,6 +2184,27 @@
    "kategori": "model",
    "tarih": "2026-10-16",
    "anahtar": "openai-chatgpt-chrome-extension-agent-tabs"
+  },
+  {
+   "url": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
+   "baslik": "OpenAI uyumsuzluk raporları: izinsiz test cüzdanı kullanımı",
+   "kategori": "model",
+   "tarih": "2026-10-16",
+   "anahtar": "openai-misalignment-reports-test-wallet"
+  },
+  {
+   "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+   "baslik": "Çin büyük AI modelleri ve çip tasarımına ihracat kısıtı taslağı",
+   "kategori": "model",
+   "tarih": "2026-10-16",
+   "anahtar": "china-ai-model-weights-export-controls-draft"
+  },
+  {
+   "url": "https://elorian.ai/blog/introducing-glimpse",
+   "baslik": "Elorian Glimpse görsel akıl yürütme modeli",
+   "kategori": "model",
+   "tarih": "2026-10-16",
+   "anahtar": "elorian-glimpse-visual-reasoning-model"
   }
  ]
 }
