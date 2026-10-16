@@ -2156,6 +2156,34 @@
    "kategori": "github",
    "tarih": "2026-10-16",
    "anahtar": "ruvnet-ruflo-agent-harness"
+  },
+  {
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "baslik": "Anthropic METR'e çalışan düzeyinde erişim verdi",
+   "kategori": "claude",
+   "tarih": "2026-10-16",
+   "anahtar": "anthropic-metr-employee-level-access"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2110784662071398807",
+   "baslik": "METR erişimi (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-16",
+   "anahtar": "anthropic-metr-employee-level-access"
+  },
+  {
+   "url": "https://gizmodo.com/ftc-subpoenas-openai-and-anthropic-over-ai-safety-concerns-2000826413",
+   "baslik": "FTC OpenAI ve Anthropic'e celp gönderdi",
+   "kategori": "claude",
+   "tarih": "2026-10-16",
+   "anahtar": "ftc-civil-subpoenas-openai-anthropic"
+  },
+  {
+   "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
+   "baslik": "ChatGPT Chrome eklentisi sekme analizi ve ajan görevleri",
+   "kategori": "model",
+   "tarih": "2026-10-16",
+   "anahtar": "openai-chatgpt-chrome-extension-agent-tabs"
   }
  ]
 }
