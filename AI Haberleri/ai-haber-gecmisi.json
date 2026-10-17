@@ -2205,6 +2205,20 @@
    "kategori": "github",
    "tarih": "2026-10-17",
    "anahtar": "anomalyco-opencode-coding-agent"
+  },
+  {
+   "url": "https://api-docs.deepseek.com/news/news261017/",
+   "baslik": "DeepSeek-V4.1-Flash-1017 yayımlandı",
+   "kategori": "model",
+   "tarih": "2026-10-17",
+   "anahtar": "deepseek-v4-1-flash-1017-release"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "baslik": "Web siteleri AI ajanlarına kapanıyor",
+   "kategori": "model",
+   "tarih": "2026-10-17",
+   "anahtar": "websites-block-ai-agents-verge"
   }
  ]
 }
