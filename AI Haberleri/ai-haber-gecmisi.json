@@ -2177,6 +2177,34 @@
    "kategori": "model",
    "tarih": "2026-10-17",
    "anahtar": "openai-gpt-6-astra-pro-parallel-agents"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2111209208012210409",
+   "baslik": "Claude Code gzip istekler ve hızlı bulut oturumu açılışı (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-17",
+   "anahtar": "claude-code-gzip-turns-cloud-fast-start"
+  },
+  {
+   "url": "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic",
+   "baslik": "ABD Süper Zeka Görev Gücü tüzüğü ve bildirim şartı",
+   "kategori": "model",
+   "tarih": "2026-10-17",
+   "anahtar": "us-super-intelligence-force-charter-notification"
+  },
+  {
+   "url": "https://github.com/stablyai/orca",
+   "baslik": "stablyai/orca - kodlama ajanı orkestratörü",
+   "kategori": "github",
+   "tarih": "2026-10-17",
+   "anahtar": "stablyai-orca-coding-agent-orchestrator"
+  },
+  {
+   "url": "https://github.com/anomalyco/opencode",
+   "baslik": "anomalyco/opencode - açık kaynak kodlama ajanı",
+   "kategori": "github",
+   "tarih": "2026-10-17",
+   "anahtar": "anomalyco-opencode-coding-agent"
   }
  ]
 }

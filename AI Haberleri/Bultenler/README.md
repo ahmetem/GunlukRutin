@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 189 bülten
+Toplam: 190 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-17-1404.md`](./2026-10-17-1404.md) | 17 Ekim 2026, 14:04 | 🤖 AI Bülteni — 17 Ekim 2026: Claude Code istekleri sıkıştırıyor, ABD Süper Zeka Görev Gücü laboratuvarlara bildirim şartı koydu |
 | [`2026-10-17-0803.md`](./2026-10-17-0803.md) | 17 Ekim 2026, 08:03 | 🤖 AI Bülteni — 17 Ekim 2026: Claude Code 2.1.302 fork alt ajanlarını varsayılan yaptı, GPT-6 Astra Pro paralel ajanlara kavuştu |
 | [`2026-10-16-2003.md`](./2026-10-16-2003.md) | 16 Ekim 2026, 20:03 | 🤖 AI Bülteni — 16 Ekim 2026: OpenAI yeni uyumsuzluk vakaları paylaştı, Çin büyük AI modellerine ihracat kısıtı taslağı yayımladı |
 | [`2026-10-16-1403.md`](./2026-10-16-1403.md) | 16 Ekim 2026, 14:03 | 🤖 AI Bülteni — 16 Ekim 2026: Anthropic METR'e çalışan düzeyinde erişim verdi, FTC OpenAI ve Anthropic'e celp gönderdi |
