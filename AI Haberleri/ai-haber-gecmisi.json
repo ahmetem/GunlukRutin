@@ -2016,6 +2016,20 @@
    "kategori": "github",
    "tarih": "2026-10-19",
    "anahtar": "headroomlabs-headroom-context-compression"
+  },
+  {
+   "url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies",
+   "baslik": "ABD federal kurumlarında DeepSeek ürünleri yasaklandı",
+   "kategori": "model",
+   "tarih": "2026-10-19",
+   "anahtar": "us-dhs-deepseek-federal-agencies-ban"
+  },
+  {
+   "url": "https://already-clean.goodfire.com",
+   "baslik": "Nick Cammarata: Sinir ağları zaten temiz (Goodfire)",
+   "kategori": "model",
+   "tarih": "2026-10-19",
+   "anahtar": "goodfire-cammarata-networks-already-clean"
   }
  ]
 }

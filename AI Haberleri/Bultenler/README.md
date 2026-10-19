@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 192 bülten
+Toplam: 193 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-19-2004.md`](./2026-10-19-2004.md) | 19 Ekim 2026, 20:04 | 🤖 AI Bülteni — 19 Ekim 2026: ABD federal kurumlarında DeepSeek yasaklandı, Cammarata'dan sinir ağları zaten temiz iddiası |
 | [`2026-10-19-1404.md`](./2026-10-19-1404.md) | 19 Ekim 2026, 14:04 | 🤖 AI Bülteni — 19 Ekim 2026: Anthropic hisselerinin %5'ini kamu yararı fonuna ayırdı, Gemini 4 ajanları Minecraft'ı bitirdi |
 | [`2026-10-17-2003.md`](./2026-10-17-2003.md) | 17 Ekim 2026, 20:03 | 🤖 AI Bülteni — 17 Ekim 2026: DeepSeek V4.1-Flash-1017 açık ağırlıklarla geldi, web siteleri AI ajanlarına kapanıyor |
 | [`2026-10-17-1404.md`](./2026-10-17-1404.md) | 17 Ekim 2026, 14:04 | 🤖 AI Bülteni — 17 Ekim 2026: Claude Code istekleri sıkıştırıyor, ABD Süper Zeka Görev Gücü laboratuvarlara bildirim şartı koydu |
