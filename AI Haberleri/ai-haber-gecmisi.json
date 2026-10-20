@@ -1953,6 +1953,20 @@
    "kategori": "model",
    "tarih": "2026-10-20",
    "anahtar": "cloudflare-clairic-extraction-model"
+  },
+  {
+   "url": "https://www.minimax.io/blog/minimax-m31f",
+   "baslik": "MiniMax M3.1 Flash yayımlandı",
+   "kategori": "model",
+   "tarih": "2026-10-20",
+   "anahtar": "minimax-m3-1-flash-release"
+  },
+  {
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "baslik": "Graphify-Labs/graphify - kod tabanından bilgi grafı",
+   "kategori": "github",
+   "tarih": "2026-10-20",
+   "anahtar": "graphify-labs-graphify-codebase-knowledge-graph"
   }
  ]
 }
