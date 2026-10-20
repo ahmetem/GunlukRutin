@@ -2,111 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.278: auto mode sınıflandırıcısı varsayılan olarak sunucuda",
-   "kategori": "claude",
-   "tarih": "2026-09-19",
-   "anahtar": "claude-code-2-1-278-auto-mode-server-classifier-billing"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.277: AGENTS.md desteği, TaskOutput aracı kaldırıldı",
-   "kategori": "claude",
-   "tarih": "2026-09-19",
-   "anahtar": "claude-code-2-1-277-agents-md-taskoutput-removed"
-  },
-  {
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "baslik": "Anthropic ile Accenture'dan bağımsız değerlendirme ortaklığı: her biri en az 1 milyar dolar",
-   "kategori": "claude",
-   "tarih": "2026-09-19",
-   "anahtar": "anthropic-accenture-embedded-evaluation-1b"
-  },
-  {
-   "url": "https://wccftech.com/openai-thinks-an-advanced-ai-model-can-talk-across-2-air-gapped-isolated-computers-by-running-the-cpu-hot-and-using-thermal-changes-as-a-morse-code/",
-   "baslik": "OpenAI'dan Noam Brown: air-gap'li bilgisayarlar işlemci ısısıyla haberleşebilir",
-   "kategori": "model",
-   "tarih": "2026-09-19",
-   "anahtar": "openai-noam-brown-thermal-air-gap-exfiltration"
-  },
-  {
-   "url": "https://futurism.com/artificial-intelligence/us-military-intelligence-wwiii-ai-chatbot-hallucinated-nuclear-weapons-china",
-   "baslik": "CNN: uydurulmuş bir yapay zeka istihbarat raporu ABD-Çin baskınını kıl payı önledi",
-   "kategori": "model",
-   "tarih": "2026-09-19",
-   "anahtar": "cnn-us-military-ai-hallucinated-nuclear-intel-china"
-  },
-  {
-   "url": "https://github.com/Graphify-Labs/graphify",
-   "baslik": "Graphify-Labs/graphify - kod tabanını yerel AST ayrıştırmasıyla sorgulanabilir bilgi grafiğine çeviren ajan becerisi",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "graphify-codebase-knowledge-graph-agent-skill"
-  },
-  {
-   "url": "https://github.com/microsoft/agent-lightning",
-   "baslik": "microsoft/agent-lightning - var olan ajanları kod değiştirmeden RL ile eğiten hafif çerçeve",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "microsoft-agent-lightning-rl-training-existing-agents"
-  },
-  {
-   "url": "https://github.com/unslothai/unsloth",
-   "baslik": "unslothai/unsloth - LLM ve difüzyon modellerini yerelde çalıştırıp ince ayarlayan masaüstü uygulaması",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "unsloth-local-llm-finetune-desktop-app"
-  },
-  {
-   "url": "https://github.com/trycua/cua",
-   "baslik": "trycua/cua - ajanlar icin bilgisayar kullanimi altyapisi (fleet, driver, bench)",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "trycua-cua-computer-use-agent-infrastructure"
-  },
-  {
-   "url": "https://github.com/mem0ai/mem0",
-   "baslik": "mem0ai/mem0 - AI ajanlari icin self-host edilebilir kalici hafiza katmani",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "mem0-persistent-agent-memory-layer"
-  },
-  {
-   "url": "https://github.com/docling-project/docling",
-   "baslik": "docling-project/docling - dokumanlari yerelde LLM'e hazir bicime ceviren hat",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "docling-local-document-to-llm-pipeline"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-   "baslik": "TypeSafe AI'ın Jev modeli geliştiricileri topluyor: metin yerine kalibre edilmiş karar üretiyor",
-   "kategori": "model",
-   "tarih": "2026-09-19",
-   "anahtar": "typesafe-jev-calibrated-decision-model-launch"
-  },
-  {
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
-   "baslik": "GPT-6 Astra, 1918'den kalma çözülememiş Alman telsiz şifresini çözdü",
-   "kategori": "model",
-   "tarih": "2026-09-19",
-   "anahtar": "gpt6-astra-1918-adfgvx-cipher-solved"
-  },
-  {
-   "url": "https://github.com/cactus-compute/needle",
-   "baslik": "cactus-compute/needle - 8-29 MB'lık cihaz üstü temel model: araç çağırma, tipli çıkarım, gömme",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "cactus-needle-on-device-foundation-model"
-  },
-  {
-   "url": "https://github.com/higgsfield-ai/higgsfield",
-   "baslik": "higgsfield-ai/higgsfield - büyük model eğitimi için hataya dayanıklı GPU orkestrasyon çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-09-19",
-   "anahtar": "higgsfield-fault-tolerant-gpu-orchestration-training"
-  },
-  {
    "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops",
    "baslik": "Google, Gemini'nin güvenlik testi sırasında üç gerçek şirketi hacklediğini doğruladı",
    "kategori": "model",
@@ -2030,6 +1925,34 @@
    "kategori": "model",
    "tarih": "2026-10-19",
    "anahtar": "goodfire-cammarata-networks-already-clean"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.304: settings.read hook'ları, skill hook sınırları",
+   "kategori": "claude",
+   "tarih": "2026-10-20",
+   "anahtar": "claude-code-2-1-304-settings-hooks-skill-limits"
+  },
+  {
+   "url": "https://openai.com/index/low-resource-programming-languages/",
+   "baslik": "OpenAI COBOL/Fortran/VB kodlama gelişmesi (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-20",
+   "anahtar": "openai-low-resource-languages-cobol-fortran"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2112310345863930168",
+   "baslik": "OpenAI düşük kaynaklı diller (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-20",
+   "anahtar": "openai-low-resource-languages-cobol-fortran"
+  },
+  {
+   "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+   "baslik": "Cloudflare Clairic çıkarım modeli",
+   "kategori": "model",
+   "tarih": "2026-10-20",
+   "anahtar": "cloudflare-clairic-extraction-model"
   }
  ]
 }
