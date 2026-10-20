@@ -1967,6 +1967,27 @@
    "kategori": "github",
    "tarih": "2026-10-20",
    "anahtar": "graphify-labs-graphify-codebase-knowledge-graph"
+  },
+  {
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "baslik": "Claude akrep toksinlerine karşı protein bağlayıcılar tasarladı",
+   "kategori": "claude",
+   "tarih": "2026-10-20",
+   "anahtar": "anthropic-claude-scorpion-toxin-binders"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2112579251555721573",
+   "baslik": "Akrep toksini bağlayıcıları (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-20",
+   "anahtar": "anthropic-claude-scorpion-toxin-binders"
+  },
+  {
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "baslik": "MadsLorentzen/ai-job-search - Claude Code iş başvuru çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-10-20",
+   "anahtar": "madslorentzen-ai-job-search-claude-code"
   }
  ]
 }

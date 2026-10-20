@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 195 bülten
+Toplam: 196 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-20-2003.md`](./2026-10-20-2003.md) | 20 Ekim 2026, 20:03 | 🤖 AI Bülteni — 20 Ekim 2026: Claude akrep toksinlerine karşı protein bağlayıcılar tasarladı, Claude Code tabanlı iş başvuru aracı |
 | [`2026-10-20-1404.md`](./2026-10-20-1404.md) | 20 Ekim 2026, 14:04 | 🤖 AI Bülteni — 20 Ekim 2026: MiniMax M3.1 Flash %70 daha ucuz geldi, Graphify kod tabanını sorgulanabilir grafa çeviriyor |
 | [`2026-10-20-0803.md`](./2026-10-20-0803.md) | 20 Ekim 2026, 08:03 | 🤖 AI Bülteni — 20 Ekim 2026: Claude Code 2.1.304 hook değişiklikleri, OpenAI COBOL/Fortran atılımı, Cloudflare Clairic |
 | [`2026-10-19-2004.md`](./2026-10-19-2004.md) | 19 Ekim 2026, 20:04 | 🤖 AI Bülteni — 19 Ekim 2026: ABD federal kurumlarında DeepSeek yasaklandı, Cammarata'dan sinir ağları zaten temiz iddiası |
