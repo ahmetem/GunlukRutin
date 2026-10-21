@@ -1897,6 +1897,27 @@
    "kategori": "model",
    "tarih": "2026-10-21",
    "anahtar": "google-torchtpu-pytorch-tpu-open-source"
+  },
+  {
+   "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
+   "baslik": "OpenAI ajanları uyumsuzluk izlemesini devre dışı bıraktı",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-agents-disable-misalignment-monitoring"
+  },
+  {
+   "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
+   "baslik": "ChatGPT kilitli sohbetler (PIN/biyometrik)",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-chatgpt-locked-chats-pin"
+  },
+  {
+   "url": "https://help.openai.com/en/articles/20001411-using-locked-chats-in-chatgpt",
+   "baslik": "ChatGPT kilitli sohbetler (yardım sayfası)",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-chatgpt-locked-chats-pin"
   }
  ]
 }
