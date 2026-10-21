@@ -2,118 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops",
-   "baslik": "Google, Gemini'nin güvenlik testi sırasında üç gerçek şirketi hacklediğini doğruladı",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "google-gemini-hacked-three-companies-irregular-test"
-  },
-  {
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3368130/trump-says-he-will-create-ai-force-name-ai-tsar",
-   "baslik": "Trump 'AI Force' birimi kuracağını ve bir AI temsilcisi atayacağını duyurdu",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "trump-ai-force-unit-ai-tsar-appointment"
-  },
-  {
-   "url": "https://github.com/HKUDS/nanobot",
-   "baslik": "HKUDS/nanobot - self-host edilebilir hafif kişisel AI ajan çerçevesi (MCP, hafıza, alt-ajan)",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "nanobot-selfhost-personal-agent-framework-mcp"
-  },
-  {
-   "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-   "baslik": "Unity, Claude Code ve OpenAI Codex için resmî eklentiler yayımladı",
-   "kategori": "claude",
-   "tarih": "2026-09-20",
-   "anahtar": "unity-official-claude-code-codex-plugins"
-  },
-  {
-   "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
-   "baslik": "Google DeepMind'dan Dream-RSI: ajanlar geçmiş denemeleri 'rüyada' tekrar oynatarak gelişiyor",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "google-deepmind-dream-rsi-agent-search-replay"
-  },
-  {
-   "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
-   "baslik": "Yeni RoboHarm testi: robot kolunu yöneten modeller tehlikeli komutları güvenilir biçimde reddetmiyor",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "robocurve-roboharm-robot-arm-refusal-benchmark"
-  },
-  {
-   "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
-   "baslik": "ABD'de günlük yapay zeka kullanımı altı ayda ikiye katlandı",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "us-daily-ai-usage-doubled-six-months"
-  },
-  {
-   "url": "https://github.com/BuilderIO/agent-native",
-   "baslik": "BuilderIO/agent-native - UI ve ajanın ortak aksiyon katmanını paylaştığı TypeScript uygulama çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "builderio-agent-native-shared-action-layer"
-  },
-  {
-   "url": "https://github.com/vercel-labs/json-render",
-   "baslik": "vercel-labs/json-render - bileşen kataloguyla sınırlanmış üretken UI çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "vercel-labs-json-render-guardrailed-generative-ui"
-  },
-  {
-   "url": "https://cybersecuritynews.com/plugin4shell-zero-click-rce/",
-   "baslik": "Plugin4Shell: Claude Code, Codex, Copilot ve Gemini CLI'da sıfır tıklamalı uzaktan kod çalıştırma",
-   "kategori": "claude",
-   "tarih": "2026-09-20",
-   "anahtar": "plugin4shell-zero-click-rce-coding-agents"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-   "baslik": "Hacktron AI, Claude Opus 5 ile OpenAI'ın iç sistemlerine girdi",
-   "kategori": "claude",
-   "tarih": "2026-09-20",
-   "anahtar": "hacktron-claude-opus-5-openai-breach"
-  },
-  {
-   "url": "https://pandaily.com/stepfun-step-5-preview-600b-moe-1m-context",
-   "baslik": "StepFun, Step 5 Preview'i yayımladı: 600B/27B seyrek MoE, ağırlıklar 15 Ekim'de",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "stepfun-step-5-preview-600b-moe-open-weights"
-  },
-  {
-   "url": "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/",
-   "baslik": "Alibaba'dan Qwen3.8-Omni-Flash: tek modelde metin, görsel, ses ve video",
-   "kategori": "model",
-   "tarih": "2026-09-20",
-   "anahtar": "qwen-3-8-omni-flash-1m-context-omnimodal"
-  },
-  {
-   "url": "https://github.com/vshulcz/deja-vu",
-   "baslik": "vshulcz/deja-vu - 30+ kodlama ajanı arasında ortak oturum hafızası",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "deja-vu-cross-agent-session-memory"
-  },
-  {
-   "url": "https://github.com/weave-os/router",
-   "baslik": "weave-os/router - self-host edilebilir semantik model yönlendirme proxy'si",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "weave-os-router-semantic-model-routing"
-  },
-  {
-   "url": "https://github.com/krillinai/OpenCreator",
-   "baslik": "krillinai/OpenCreator - yerel öncelikli AI içerik üretim çalışma alanı",
-   "kategori": "github",
-   "tarih": "2026-09-20",
-   "anahtar": "opencreator-local-first-ai-content-workspace"
-  },
-  {
    "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
    "baslik": "Qwen-Image-2.1 yayımlandı: 7B DiT, 2048×2048 üretim — ama Apache yerine araştırma lisansı",
    "kategori": "model",
@@ -1988,6 +1876,27 @@
    "kategori": "github",
    "tarih": "2026-10-20",
    "anahtar": "madslorentzen-ai-job-search-claude-code"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.305/2.1.306: allowedMcpServers değişti, /artifacts y/n kalktı",
+   "kategori": "claude",
+   "tarih": "2026-10-21",
+   "anahtar": "claude-code-2-1-305-306-allowed-mcp-artifacts"
+  },
+  {
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "baslik": "DeepSeek DeepInfer çıkarım motoru açık kaynak",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "deepseek-deepinfer-inference-open-source"
+  },
+  {
+   "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+   "baslik": "Google TorchTPU açık kaynak",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "google-torchtpu-pytorch-tpu-open-source"
   }
  ]
 }
