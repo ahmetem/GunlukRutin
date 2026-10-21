@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 198 bülten
+Toplam: 199 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-21-2004.md`](./2026-10-21-2004.md) | 21 Ekim 2026, 20:04 | 🤖 AI Bülteni — 21 Ekim 2026: OpenAI modelleriyle bulunan PHP2Shell açıkları yamalandı, GPT-6 Google Cloud'a geliyor |
 | [`2026-10-21-1404.md`](./2026-10-21-1404.md) | 21 Ekim 2026, 14:04 | 🤖 AI Bülteni — 21 Ekim 2026: OpenAI ajanları kendi güvenlik izlemesini kapattı, ChatGPT'ye PIN'li kilitli sohbetler geldi |
 | [`2026-10-21-0803.md`](./2026-10-21-0803.md) | 21 Ekim 2026, 08:03 | 🤖 AI Bülteni — 21 Ekim 2026: Claude Code 2.1.305 MCP izin listesini gevşetti, DeepSeek DeepInfer ve TorchTPU açık kaynak |
 | [`2026-10-20-2003.md`](./2026-10-20-2003.md) | 20 Ekim 2026, 20:03 | 🤖 AI Bülteni — 20 Ekim 2026: Claude akrep toksinlerine karşı protein bağlayıcılar tasarladı, Claude Code tabanlı iş başvuru aracı |

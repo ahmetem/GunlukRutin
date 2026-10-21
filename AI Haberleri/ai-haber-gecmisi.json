@@ -1918,6 +1918,55 @@
    "kategori": "model",
    "tarih": "2026-10-21",
    "anahtar": "openai-chatgpt-locked-chats-pin"
+  },
+  {
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "baslik": "Christopher Stubbs LTBT'ye katıldı",
+   "kategori": "claude",
+   "tarih": "2026-10-21",
+   "anahtar": "anthropic-ltbt-christopher-stubbs-joins"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2112946750264676743",
+   "baslik": "Stubbs LTBT (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-21",
+   "anahtar": "anthropic-ltbt-christopher-stubbs-joins"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2112907856018309586",
+   "baslik": "PHP2Shell kritik PHP açıkları (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-patch-planet-php2shell-cves"
+  },
+  {
+   "url": "https://hackread.com/php-releases-emergency-fixe-php2shell-vulnerabilities/",
+   "baslik": "PHP2Shell acil yamalar",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-patch-planet-php2shell-cves"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2112945805686604033",
+   "baslik": "PHP2Shell Codex kontrol skill'i (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-patch-planet-php2shell-cves"
+  },
+  {
+   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "baslik": "OpenAI modelleri Google Cloud'da",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-models-codex-google-cloud"
+  },
+  {
+   "url": "https://thenextweb.com/news/openai-models-codex-google-cloud",
+   "baslik": "OpenAI modelleri ve Codex Google Cloud'a geliyor",
+   "kategori": "model",
+   "tarih": "2026-10-21",
+   "anahtar": "openai-models-codex-google-cloud"
   }
  ]
 }
