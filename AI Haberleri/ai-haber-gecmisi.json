@@ -1925,6 +1925,20 @@
    "kategori": "github",
    "tarih": "2026-10-22",
    "anahtar": "akitaonrails-ai-memory-agent-handoff"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2112966949273801086",
+   "baslik": "Anthropic 2026 Kamu Yararı Raporu (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-22",
+   "anahtar": "anthropic-public-benefit-report-2026"
+  },
+  {
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "baslik": "Hugging Face Carbon-X DNA sohbet modeli",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "huggingface-carbon-x-dna-chat-model"
   }
  ]
 }
