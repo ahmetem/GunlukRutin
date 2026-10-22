@@ -1939,6 +1939,34 @@
    "kategori": "model",
    "tarih": "2026-10-22",
    "anahtar": "huggingface-carbon-x-dna-chat-model"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2113298833392496746",
+   "baslik": "METR/Redwood OpenAI izleme açıkları (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "openai-metr-redwood-embedded-monitoring-pilot"
+  },
+  {
+   "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+   "baslik": "METR ve Redwood OpenAI izleme sisteminde açık buldu",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "openai-metr-redwood-embedded-monitoring-pilot"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "baslik": "Uber 30 bin çalışanı ChatGPT Work'e geçirdi",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "uber-openai-chatgpt-work-30k-employees"
+  },
+  {
+   "url": "https://gizmodo.com/zuckerberg-wants-to-build-a-giant-online-network-of-ai-agents-2000829145",
+   "baslik": "Zuckerberg Muse ajan ağı hedefi",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "meta-muse-agent-network-q3-earnings"
   }
  ]
 }
