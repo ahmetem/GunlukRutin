@@ -2,90 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-   "baslik": "Qwen-Image-2.1 yayımlandı: 7B DiT, 2048×2048 üretim — ama Apache yerine araştırma lisansı",
-   "kategori": "model",
-   "tarih": "2026-09-21",
-   "anahtar": "qwen-image-2-1-research-license-7b-dit"
-  },
-  {
-   "url": "https://github.com/browserbase/stagehand",
-   "baslik": "browserbase/stagehand - ajanların web sitelerinden veri çekmesi için çok dilli tarayıcı SDK'sı",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "browserbase-stagehand-agent-browser-sdk"
-  },
-  {
-   "url": "https://github.com/cloudflare/mcp-server-cloudflare",
-   "baslik": "cloudflare/mcp-server-cloudflare - Cloudflare servislerini modellere açan 14 MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "cloudflare-mcp-servers-workers-observability"
-  },
-  {
-   "url": "https://www.techbuzz.ai/articles/amazon-blocks-meta-s-muse-ai-agent-over-security-concerns",
-   "baslik": "Amazon, Meta'nın Muse ajanını mağazasından engelledi",
-   "kategori": "model",
-   "tarih": "2026-09-21",
-   "anahtar": "amazon-blocks-meta-muse-agentic-shopping"
-  },
-  {
-   "url": "https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html",
-   "baslik": "ChatGPT'nin __obi çerezi kullanıcıyı diğer sitelerde de izliyor",
-   "kategori": "model",
-   "tarih": "2026-09-21",
-   "anahtar": "openai-obi-cookie-ad-measurement-pixel"
-  },
-  {
-   "url": "https://github.com/google/ax",
-   "baslik": "google/ax - dağıtık ajan çalışma zamanı, v0.3.0 Redis Streams'e geçti",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "google-ax-agent-runtime-redis-streams-030"
-  },
-  {
-   "url": "https://github.com/akitaonrails/ai-memory",
-   "baslik": "akitaonrails/ai-memory - kodlama ajanı CLI'ları için uzun süreli hafıza ve sağlayıcı devri",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "akitaonrails-ai-memory-cross-vendor-agent-memory"
-  },
-  {
-   "url": "https://github.com/yynxxxxx/Codex-X",
-   "baslik": "yynxxxxx/Codex-X - OpenAI Codex yapılandırması için masaüstü yönetim aracı",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "codex-x-desktop-codex-config-manager"
-  },
-  {
-   "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
-   "baslik": "Anthropic, OpenAI, SpaceXAI ve Google'a 'yavaşlatma anlaşması' antitröst davası açıldı",
-   "kategori": "claude",
-   "tarih": "2026-09-21",
-   "anahtar": "anthropic-openai-google-ai-pacing-collusion-antitrust-suit"
-  },
-  {
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/devs-say-chinese-ai-company-silently-uploaded-hundreds-of-megabytes-of-local-workspace-data-z-ai-the-firm-behind-the-glm-models-didnt-ask-for-user-consent-and-made-564-attempts-to-exfiltrate-313mb-archive",
-   "baslik": "Z.ai (Zhipu), ZCode'un yerel çalışma alanı verilerini izinsiz yüklediği için özür diledi",
-   "kategori": "model",
-   "tarih": "2026-09-21",
-   "anahtar": "zhipu-zai-zcode-workspace-data-exfiltration"
-  },
-  {
-   "url": "https://gizmodo.com/traditional-safety-measures-are-unraveling-as-ai-advances-un-panel-warns-2000814893",
-   "baslik": "BM bilimsel paneli: geleneksel güvenlik önlemleri AI ajanları karşısında çözülüyor",
-   "kategori": "model",
-   "tarih": "2026-09-21",
-   "anahtar": "un-ai-panel-agent-safety-precautionary-report"
-  },
-  {
-   "url": "https://github.com/zhouxiaoka/autoclip",
-   "baslik": "zhouxiaoka/autoclip - uzun videolardan otomatik klip çıkaran, yerel modellerle çalışabilen araç",
-   "kategori": "github",
-   "tarih": "2026-09-21",
-   "anahtar": "autoclip-local-video-highlight-clipping-tool"
-  },
-  {
    "url": "https://mimo.mi.com/models/en-US/mimo-v2.6-pro",
    "baslik": "Xiaomi MiMo-V2.6 Pro ve Flash: MIT lisanslı, dünyanın en güçlü açık ağırlıklı modeli",
    "kategori": "model",
@@ -1967,6 +1883,48 @@
    "kategori": "model",
    "tarih": "2026-10-21",
    "anahtar": "openai-models-codex-google-cloud"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/api/migration-2026-10-21",
+   "baslik": "Claude API 2026-10-21 sürümü, sampling parametreleri kaldırıldı",
+   "kategori": "claude",
+   "tarih": "2026-10-22",
+   "anahtar": "claude-api-version-2026-10-21-sdk-majors"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2113013247209021918",
+   "baslik": "Claude API 2026-10-21 sürümü (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-10-22",
+   "anahtar": "claude-api-version-2026-10-21-sdk-majors"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.307: checkout hook zaman aşımı, safety_event",
+   "kategori": "claude",
+   "tarih": "2026-10-22",
+   "anahtar": "claude-code-2-1-307-checkout-timeout-safety-event"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "baslik": "Anthropic Claude Duet ajanı duyurdu",
+   "kategori": "claude",
+   "tarih": "2026-10-22",
+   "anahtar": "anthropic-claude-duet-agent-preview"
+  },
+  {
+   "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+   "baslik": "Recursive Flint açık ağırlıklı kodlama modeli",
+   "kategori": "model",
+   "tarih": "2026-10-22",
+   "anahtar": "recursive-flint-open-coding-model"
+  },
+  {
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "baslik": "akitaonrails/ai-memory - ajanlar için uzun süreli hafıza",
+   "kategori": "github",
+   "tarih": "2026-10-22",
+   "anahtar": "akitaonrails-ai-memory-agent-handoff"
   }
  ]
 }
