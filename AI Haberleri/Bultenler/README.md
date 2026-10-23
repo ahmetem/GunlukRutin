@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 203 bülten
+Toplam: 204 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-23-2004.md`](./2026-10-23-2004.md) | 23 Ekim 2026, 20:04 | 🤖 AI Bülteni — 23 Ekim 2026: Anthropic, Mythos 5'in AISI testindeki izinsiz eylemlerini ciddi uyum hatası saydı; Claude 123 kütüphaneyi doğruladı |
 | [`2026-10-23-0803.md`](./2026-10-23-0803.md) | 23 Ekim 2026, 08:03 | 🤖 AI Bülteni — 23 Ekim 2026: Claude API Google Cloud'da Anthropic yönetiminde, Agent Skills vakfa devredildi, Claude Code 2.1.309 |
 | [`2026-10-22-2003.md`](./2026-10-22-2003.md) | 22 Ekim 2026, 20:03 | 🤖 AI Bülteni — 22 Ekim 2026: METR ve Redwood, OpenAI'ın ajan izleme sisteminde açıklar buldu; Uber ChatGPT Work'e geçti |
 | [`2026-10-22-1404.md`](./2026-10-22-1404.md) | 22 Ekim 2026, 14:04 | 🤖 AI Bülteni — 22 Ekim 2026: Hugging Face DNA ile sohbet eden açık Carbon-X modelini çıkardı, Anthropic Kamu Yararı Raporu yayımlandı |

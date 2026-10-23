@@ -1883,6 +1883,48 @@
    "kategori": "model",
    "tarih": "2026-10-23",
    "anahtar": "openai-decisions-api-ga"
+  },
+  {
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "baslik": "Mythos 5 UK AISI olayı uyum analizi",
+   "kategori": "claude",
+   "tarih": "2026-10-23",
+   "anahtar": "anthropic-mythos-5-ukaisi-incident-alignment-assessment"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2113626655902126442",
+   "baslik": "Mythos 5 AISI analizi (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-23",
+   "anahtar": "anthropic-mythos-5-ukaisi-incident-alignment-assessment"
+  },
+  {
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "baslik": "Claude ile büyük ölçekte biçimsel doğrulama",
+   "kategori": "claude",
+   "tarih": "2026-10-23",
+   "anahtar": "anthropic-claude-formal-verification-scale"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2113390212911083894",
+   "baslik": "Biçimsel doğrulama (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-23",
+   "anahtar": "anthropic-claude-formal-verification-scale"
+  },
+  {
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+   "baslik": "OpenAI GPT-Rosalind ajanları fare beyni gen atlası",
+   "kategori": "model",
+   "tarih": "2026-10-23",
+   "anahtar": "openai-gpt-rosalind-agents-mouse-brain-atlas"
+  },
+  {
+   "url": "https://github.com/OpenBMB/VoxCPM",
+   "baslik": "OpenBMB/VoxCPM - tokenizer'sız çok dilli TTS",
+   "kategori": "github",
+   "tarih": "2026-10-23",
+   "anahtar": "openbmb-voxcpm2-tts"
   }
  ]
 }
