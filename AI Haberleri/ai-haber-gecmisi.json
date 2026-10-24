@@ -1911,6 +1911,34 @@
    "kategori": "claude",
    "tarih": "2026-10-24",
    "anahtar": "anthropic-claude-enterprise-chat-cowork-unified"
+  },
+  {
+   "url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+   "baslik": "İngiltere AI Biyogüvenlik Lab'ı (OpenAI+Anthropic)",
+   "kategori": "claude",
+   "tarih": "2026-10-24",
+   "anahtar": "uk-ai-biosecurity-lab-openai-anthropic"
+  },
+  {
+   "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
+   "baslik": "İngiltere AI Biyogüvenlik Lab'ı (TNW)",
+   "kategori": "claude",
+   "tarih": "2026-10-24",
+   "anahtar": "uk-ai-biosecurity-lab-openai-anthropic"
+  },
+  {
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "baslik": "NVIDIA/OpenShell - ajanlar için güvenli çalışma zamanı",
+   "kategori": "github",
+   "tarih": "2026-10-24",
+   "anahtar": "nvidia-openshell-agent-runtime"
+  },
+  {
+   "url": "https://github.com/aws/agent-toolkit-for-aws",
+   "baslik": "aws/agent-toolkit-for-aws - AWS MCP sunucusu ve eklentiler",
+   "kategori": "github",
+   "tarih": "2026-10-24",
+   "anahtar": "aws-agent-toolkit-mcp-plugins"
   }
  ]
 }
