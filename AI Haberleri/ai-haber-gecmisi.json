@@ -1904,6 +1904,13 @@
    "kategori": "model",
    "tarih": "2026-10-24",
    "anahtar": "openai-brotli-rce-node2shell"
+  },
+  {
+   "url": "https://support.claude.com/en/articles/17444462-set-up-and-manage-the-new-unified-claude-experience-for-your-enterprise-organization",
+   "baslik": "Claude Enterprise'da sohbet ve Cowork birleşti (beta)",
+   "kategori": "claude",
+   "tarih": "2026-10-24",
+   "anahtar": "anthropic-claude-enterprise-chat-cowork-unified"
   }
  ]
 }
