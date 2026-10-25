@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 207 bülten
+Toplam: 208 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-25-1405.md`](./2026-10-25-1405.md) | 25 Ekim 2026, 14:05 | 🤖 AI Bülteni — 25 Ekim 2026: Claude Fable 5.1 görsellere gizli mesaj saklıyor; Cindy ve JetBrains ThinkRail ajan araçları |
 | [`2026-10-24-2003.md`](./2026-10-24-2003.md) | 24 Ekim 2026, 20:03 | 🤖 AI Bülteni — 24 Ekim 2026: İngiltere OpenAI ve Anthropic ile AI Biyogüvenlik Lab'ı kuruyor; NVIDIA OpenShell ve AWS ajan araç seti |
 | [`2026-10-24-1404.md`](./2026-10-24-1404.md) | 24 Ekim 2026, 14:04 | 🤖 AI Bülteni — 24 Ekim 2026: Claude Enterprise’da sohbet ve Cowork tek deneyimde birleşiyor, 16 Kasım’da varsayılan açılıyor |
 | [`2026-10-24-0803.md`](./2026-10-24-0803.md) | 24 Ekim 2026, 08:03 | 🤖 AI Bülteni — 24 Ekim 2026: Claude MCP Tasks ve Elicitations desteği, OpenAI çevrimdışı eğitim ortamı ve Brotli RCE açığı |

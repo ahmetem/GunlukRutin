@@ -2,104 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.281: auto mode salt okunur komutlarda sunucu sınıflandırıcısını bekliyor, Send now turu iptal etmiyor",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "claude-code-2-1-281-auto-mode-readonly-classifier-send-now"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-   "baslik": "Claude Code bulut oturumları araştırma önizlemesinden çıktı; tek seferlik kredi (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "claude-code-cloud-sessions-ga-credit"
-  },
-  {
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "baslik": "Claude, bakteriyofaj DNA'sında CRISPR benzeri yeni bir enzim sistemi keşfetti",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "anthropic-claude-phage-enzyme-art-discovery"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2102808325742322002",
-   "baslik": "ChatGPT Voice artık GPT-6 modelleri, eklentiler ve ChatGPT Work ile çalışıyor (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-09-24",
-   "anahtar": "openai-chatgpt-voice-gpt6-plugins-work"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-   "baslik": "Google, Gemini 3.8 Flash TTS ve Flash-Lite TTS ses modellerini tanıttı",
-   "kategori": "model",
-   "tarih": "2026-09-24",
-   "anahtar": "google-gemini-3-8-flash-tts-voice-cloning"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2102893178273874102",
-   "baslik": "Claude Code Projects'te thread'ler artık kendi makinende çalışabiliyor (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "claude-code-projects-local-threads"
-  },
-  {
-   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-   "baslik": "Anthropic, claude.ai'yi iki haftada 3 kat hızlandırdığını anlattı (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "anthropic-claude-ai-3x-faster-performance-sprint"
-  },
-  {
-   "url": "https://www.anthropic.com/features/ebola-response",
-   "baslik": "Claude, Kongo'daki Bundibugyo Ebola salgınına müdahalede kullanılıyor (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-09-24",
-   "anahtar": "anthropic-claude-drc-ebola-response-who-cepi"
-  },
-  {
-   "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-   "baslik": "DeepMind'ın yeni lideri Kavukcuoglu: Gemini 4 post-training aşamasında",
-   "kategori": "model",
-   "tarih": "2026-09-24",
-   "anahtar": "google-gemini-4-post-training-early-release"
-  },
-  {
-   "url": "https://openai.com/index/introducing-mentalhealthbench/",
-   "baslik": "OpenAI, açık kaynak MentalHealthBench'i yayımladı (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-09-24",
-   "anahtar": "openai-mentalhealthbench-open-benchmark"
-  },
-  {
-   "url": "https://github.com/vectorize-io/hindsight",
-   "baslik": "vectorize-io/hindsight - AI ajanları için öğrenen, self-host edilebilir hafıza sistemi",
-   "kategori": "github",
-   "tarih": "2026-09-24",
-   "anahtar": "hindsight-selfhost-agent-memory-mcp"
-  },
-  {
-   "url": "https://github.com/NVIDIA/Model-Optimizer",
-   "baslik": "NVIDIA/Model-Optimizer - nicemleme ve distilasyon için model optimizasyon kütüphanesi",
-   "kategori": "github",
-   "tarih": "2026-09-24",
-   "anahtar": "nvidia-model-optimizer-quantization-library"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
-   "baslik": "Google, Gemini 3.8 Live'a gerçek zamanlıya yakın konuşan avatar (Live Avatar) ekledi",
-   "kategori": "model",
-   "tarih": "2026-09-24",
-   "anahtar": "google-gemini-3-8-live-avatar"
-  },
-  {
-   "url": "https://github.com/leejet/stable-diffusion.cpp",
-   "baslik": "leejet/stable-diffusion.cpp - saf C/C++ difüzyon modeli çıkarım motoru",
-   "kategori": "github",
-   "tarih": "2026-09-24",
-   "anahtar": "stable-diffusion-cpp-local-diffusion-inference"
-  },
-  {
    "url": "https://platform.claude.com/docs/en/release-notes/overview",
    "baslik": "Anthropic, güvenlik filtresinin çıktı üretmeden engellediği bio/frontier_llm/reasoning_extraction retlerini ücretlendiriyor (@ClaudeDevs)",
    "kategori": "claude",
@@ -1939,6 +1841,34 @@
    "kategori": "github",
    "tarih": "2026-10-24",
    "anahtar": "aws-agent-toolkit-mcp-plugins"
+  },
+  {
+   "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+   "baslik": "Claude Fable 5.1 görsellere gizli mesaj saklıyor",
+   "kategori": "claude",
+   "tarih": "2026-10-25",
+   "anahtar": "claude-fable-5-1-steganography-svg-messages"
+  },
+  {
+   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+   "baslik": "Fable 5.1 gizli mesaj (LessWrong)",
+   "kategori": "claude",
+   "tarih": "2026-10-25",
+   "anahtar": "claude-fable-5-1-steganography-svg-messages"
+  },
+  {
+   "url": "https://github.com/makecindy/cindy",
+   "baslik": "makecindy/cindy - açık kaynak AI ajanı istemcisi",
+   "kategori": "github",
+   "tarih": "2026-10-25",
+   "anahtar": "makecindy-cindy-agent-client"
+  },
+  {
+   "url": "https://github.com/JetBrains/thinkrail",
+   "baslik": "JetBrains/thinkrail - pi ajan IDE'si",
+   "kategori": "github",
+   "tarih": "2026-10-25",
+   "anahtar": "jetbrains-thinkrail-pi-agent-ide"
   }
  ]
 }
