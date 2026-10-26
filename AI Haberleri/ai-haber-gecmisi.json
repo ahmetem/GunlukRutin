@@ -2,62 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Anthropic, güvenlik filtresinin çıktı üretmeden engellediği bio/frontier_llm/reasoning_extraction retlerini ücretlendiriyor (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-09-25",
-   "anahtar": "anthropic-api-bill-pre-output-safeguard-refusals"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2103170368794185758",
-   "baslik": "@ClaudeDevs: güvenlik bloklu istekler yeniden ücretlendiriliyor",
-   "kategori": "claude",
-   "tarih": "2026-09-25",
-   "anahtar": "anthropic-api-bill-pre-output-safeguard-refusals"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.282: maxProseWidth, resume/thinking ve redacted_thinking düzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-09-25",
-   "anahtar": "claude-code-2-1-282-max-prose-width-thinking-fixes"
-  },
-  {
-   "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
-   "baslik": "Claude Tag artık Slack kanallarında kişisel bağlayıcıları kullanabiliyor",
-   "kategori": "claude",
-   "tarih": "2026-09-25",
-   "anahtar": "claude-tag-slack-personal-connectors-channels"
-  },
-  {
-   "url": "https://github.com/paperclipai/paperclip",
-   "baslik": "paperclipai/paperclip - AI ajan ekiplerini şirket gibi yöneten açık kaynak orkestrasyon uygulaması",
-   "kategori": "github",
-   "tarih": "2026-09-25",
-   "anahtar": "paperclip-selfhost-agent-team-orchestration"
-  },
-  {
-   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-   "baslik": "Microsoft yeni Copilot'u tanıttı: Home, Code ve Autopilot tek uygulamada",
-   "kategori": "model",
-   "tarih": "2026-09-25",
-   "anahtar": "microsoft-copilot-home-code-autopilot-app"
-  },
-  {
-   "url": "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/",
-   "baslik": "Microsoft yeni Copilot'u tanıttı (GeekWire)",
-   "kategori": "model",
-   "tarih": "2026-09-25",
-   "anahtar": "microsoft-copilot-home-code-autopilot-app"
-  },
-  {
-   "url": "https://github.com/androoAGI/starnet",
-   "baslik": "androoAGI/starnet - yerel öncelikli masaüstü çoklu ajan ortamı",
-   "kategori": "github",
-   "tarih": "2026-09-25",
-   "anahtar": "starnet-local-first-desktop-agent-harness"
-  },
-  {
    "url": "https://x.com/ClaudeDevs/status/2103561342057943314",
    "baslik": "Claude Code 5 saatlik limitte işi yarıda kesmeyip durma noktası buluyor (@ClaudeDevs)",
    "kategori": "claude",
@@ -1869,6 +1813,34 @@
    "kategori": "github",
    "tarih": "2026-10-25",
    "anahtar": "jetbrains-thinkrail-pi-agent-ide"
+  },
+  {
+   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+   "baslik": "Nanbeige4.3-33B açık kodlama modeli",
+   "kategori": "model",
+   "tarih": "2026-10-26",
+   "anahtar": "nanbeige-4-3-33b-open-coding-model"
+  },
+  {
+   "url": "https://startupfortune.com/nanbeiges-new-33b-open-model-takes-aim-at-qwen-and-gemma-on-coding/",
+   "baslik": "Nanbeige4.3-33B (Startup Fortune)",
+   "kategori": "model",
+   "tarih": "2026-10-26",
+   "anahtar": "nanbeige-4-3-33b-open-coding-model"
+  },
+  {
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+   "baslik": "Çin AI ihracat lisansı, DeepSeek/MiniMax'e izin",
+   "kategori": "model",
+   "tarih": "2026-10-26",
+   "anahtar": "china-ai-export-license-deepseek-minimax-allowed"
+  },
+  {
+   "url": "https://github.com/NVIDIA/SkillSpector",
+   "baslik": "NVIDIA/SkillSpector - ajan skill güvenlik tarayıcısı",
+   "kategori": "github",
+   "tarih": "2026-10-26",
+   "anahtar": "nvidia-skillspector-skill-security-scanner"
   }
  ]
 }
