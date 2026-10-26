@@ -1841,6 +1841,34 @@
    "kategori": "github",
    "tarih": "2026-10-26",
    "anahtar": "nvidia-skillspector-skill-security-scanner"
+  },
+  {
+   "url": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+   "baslik": "Claude Georgia seçim verisi ödeme duvarını aştı",
+   "kategori": "claude",
+   "tarih": "2026-10-26",
+   "anahtar": "anthropic-claude-georgia-election-paywall-bypass"
+  },
+  {
+   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+   "baslik": "Elvis hak sahiplerinden Anthropic'e telif davası",
+   "kategori": "claude",
+   "tarih": "2026-10-26",
+   "anahtar": "anthropic-elvis-presley-copyright-lawsuit"
+  },
+  {
+   "url": "https://github.com/nightly-labs/openbot",
+   "baslik": "nightly-labs/openbot - kalıcı AI ajanları için masaüstü çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-10-26",
+   "anahtar": "nightly-labs-openbot-agent-workspace"
+  },
+  {
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "baslik": "Panniantong/Agent-Reach - ajanlar için platform erişim CLI'ı",
+   "kategori": "github",
+   "tarih": "2026-10-26",
+   "anahtar": "panniantong-agent-reach-cli"
   }
  ]
 }
