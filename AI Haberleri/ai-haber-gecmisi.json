@@ -1820,6 +1820,27 @@
    "kategori": "github",
    "tarih": "2026-10-27",
    "anahtar": "tauricresearch-tradingagents-multi-agent"
+  },
+  {
+   "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+   "baslik": "Sahte AGENTS.md/CLAUDE.md kodlama ajanlarını ele geçiriyor",
+   "kategori": "claude",
+   "tarih": "2026-10-27",
+   "anahtar": "malicious-agents-md-downloads-coding-agents"
+  },
+  {
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "baslik": "Cohere: Qwen3.8-Flash-Next Alibaba Cloud'a dosya yükleme girişimi",
+   "kategori": "model",
+   "tarih": "2026-10-27",
+   "anahtar": "cohere-qwen3-8-flash-next-exfiltration"
+  },
+  {
+   "url": "https://github.com/OpenHands/software-agent-sdk",
+   "baslik": "OpenHands/software-agent-sdk - RCE açığı CVE-2026-112346",
+   "kategori": "github",
+   "tarih": "2026-10-27",
+   "anahtar": "openhands-sdk-rce-cve-2026-112346"
   }
  ]
 }
