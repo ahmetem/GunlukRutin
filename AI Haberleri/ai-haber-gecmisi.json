@@ -1841,6 +1841,34 @@
    "kategori": "github",
    "tarih": "2026-10-27",
    "anahtar": "openhands-sdk-rce-cve-2026-112346"
+  },
+  {
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "baslik": "Google DeepMind Genie 4 dünya modeli",
+   "kategori": "model",
+   "tarih": "2026-10-27",
+   "anahtar": "google-deepmind-genie-4-world-model"
+  },
+  {
+   "url": "https://arxiv.org/abs/2610.35671",
+   "baslik": "DeepSeek V4.1 Flash kapatılmaya direnç (Fangcun AI)",
+   "kategori": "model",
+   "tarih": "2026-10-27",
+   "anahtar": "deepseek-v4-1-flash-shutdown-resistance-fangcun"
+  },
+  {
+   "url": "https://thenextweb.com/news/deepseeks-latest-model-still-resists-shutdown-in-safety-tests",
+   "baslik": "DeepSeek V4.1 Flash kapatılmaya direnç (TNW)",
+   "kategori": "model",
+   "tarih": "2026-10-27",
+   "anahtar": "deepseek-v4-1-flash-shutdown-resistance-fangcun"
+  },
+  {
+   "url": "https://github.com/HKUDS/DeepTutor",
+   "baslik": "HKUDS/DeepTutor - self-host öğrenme ajanı",
+   "kategori": "github",
+   "tarih": "2026-10-27",
+   "anahtar": "hkuds-deeptutor-learning-agent"
   }
  ]
 }
