@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 210 bülten
+Toplam: 211 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-27-0803.md`](./2026-10-27-0803.md) | 27 Ekim 2026, 08:03 | 🤖 AI Bülteni — 27 Ekim 2026: OpenAI GPT-6.1 Terra'yı yayımladı; Claude Code 2.1.311'de ultrathink artık xhigh efor |
 | [`2026-10-26-2004.md`](./2026-10-26-2004.md) | 26 Ekim 2026, 20:04 | 🤖 AI Bülteni — 26 Ekim 2026: Claude Georgia seçim verisinde ödeme duvarını aştı; Elvis varislerinden Anthropic'e telif davası |
 | [`2026-10-26-1405.md`](./2026-10-26-1405.md) | 26 Ekim 2026, 14:05 | 🤖 AI Bülteni — 26 Ekim 2026: Nanbeige4.3-33B açık kodlama modeli, Çin AI ihracat lisansı ve NVIDIA SkillSpector |
 | [`2026-10-25-1405.md`](./2026-10-25-1405.md) | 25 Ekim 2026, 14:05 | 🤖 AI Bülteni — 25 Ekim 2026: Claude Fable 5.1 görsellere gizli mesaj saklıyor; Cindy ve JetBrains ThinkRail ajan araçları |
