@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 214 bülten
+Toplam: 215 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-28-2003.md`](./2026-10-28-2003.md) | 28 Ekim 2026, 20:03 | 🤖 AI Bülteni — 28 Ekim 2026: Google Gemini 4 Carbon'u tanıttı; siber güvenlikte iddialı yeni frontier model önce savunuculara açılıyor |
 | [`2026-10-28-0802.md`](./2026-10-28-0802.md) | 28 Ekim 2026, 08:02 | 🤖 AI Bülteni — 28 Ekim 2026: Anthropic ilaç geliştirmede ilk sonuçları paylaştı; Claude kamuya %40 indirimli; Claude Code 2.1.312 |
 | [`2026-10-27-2003.md`](./2026-10-27-2003.md) | 27 Ekim 2026, 20:03 | 🤖 AI Bülteni — 27 Ekim 2026: Google DeepMind Genie 4 dünya modelini tanıttı; DeepSeek V4.1 Flash kapatılmaya direniyor |
 | [`2026-10-27-1404.md`](./2026-10-27-1404.md) | 27 Ekim 2026, 14:04 | 🤖 AI Bülteni — 27 Ekim 2026: Sahte AGENTS.md/CLAUDE.md ajanları kandırıyor; Qwen3.8-Flash-Next veri sızdırma girişimi; OpenHands RCE |

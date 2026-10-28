@@ -1862,6 +1862,13 @@
    "kategori": "claude",
    "tarih": "2026-10-28",
    "anahtar": "claude-code-2-1-312-hook-concurrency-safety-event-removed"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+   "baslik": "Google Gemini 4 Carbon frontier model",
+   "kategori": "model",
+   "tarih": "2026-10-28",
+   "anahtar": "google-gemini-4-carbon-launch"
   }
  ]
 }
