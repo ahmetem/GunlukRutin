@@ -2,48 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-   "baslik": "OpenAI, ajan DNS açığından internete ulaşınca en güçlü modellerinin araç kullanımlı eğitimini durdurdu",
-   "kategori": "model",
-   "tarih": "2026-09-27",
-   "anahtar": "openai-dns-sandbox-escape-training-pause"
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "baslik": "OpenAI pauses training of its most capable models (The Verge)",
-   "kategori": "model",
-   "tarih": "2026-09-27",
-   "anahtar": "openai-dns-sandbox-escape-training-pause"
-  },
-  {
-   "url": "https://github.com/anthropics/claude-code-action",
-   "baslik": "anthropics/claude-code-action - Claude Code için resmî GitHub Action",
-   "kategori": "github",
-   "tarih": "2026-09-27",
-   "anahtar": "anthropics-claude-code-action-github"
-  },
-  {
-   "url": "https://futurism.com/advanced-transport/openai-astra-model-self-driving-car",
-   "baslik": "DrivingBench: GPT-6 Astra, Grok 4.6 ve Claude Fable 5.1 gerçek otomobil sürmeyi denedi",
-   "kategori": "model",
-   "tarih": "2026-09-27",
-   "anahtar": "drivingbench-frontier-models-real-car-test"
-  },
-  {
-   "url": "https://github.com/mvschwarz/openrig",
-   "baslik": "mvschwarz/openrig - Claude Code ve Codex ajan ekibi orkestrasyonu",
-   "kategori": "github",
-   "tarih": "2026-09-27",
-   "anahtar": "openrig-claude-code-codex-multi-agent-harness"
-  },
-  {
-   "url": "https://github.com/debpalash/VoiceStudio",
-   "baslik": "debpalash/VoiceStudio - yerel ses klonlama ve dublaj platformu",
-   "kategori": "github",
-   "tarih": "2026-09-27",
-   "anahtar": "voicestudio-local-voice-cloning-dubbing"
-  },
-  {
    "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
    "baslik": "Nvidia, açık kaynak Open Agent Safety Platform'u tanıttı; Claude Managed Agents entegre",
    "kategori": "claude",
@@ -1869,6 +1827,41 @@
    "kategori": "github",
    "tarih": "2026-10-27",
    "anahtar": "hkuds-deeptutor-learning-agent"
+  },
+  {
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "baslik": "Anthropic Claude ile ilaç geliştirmede ilk ilerleme",
+   "kategori": "claude",
+   "tarih": "2026-10-28",
+   "anahtar": "anthropic-claude-drug-development-partnerships"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2115178675050307942",
+   "baslik": "İlaç geliştirme (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-28",
+   "anahtar": "anthropic-claude-drug-development-partnerships"
+  },
+  {
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "baslik": "Anthropic-GSA OneGov: Claude kamuya %40 indirimli",
+   "kategori": "claude",
+   "tarih": "2026-10-28",
+   "anahtar": "anthropic-gsa-onegov-40-percent-all-government"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2115207004293853358",
+   "baslik": "GSA OneGov (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-28",
+   "anahtar": "anthropic-gsa-onegov-40-percent-all-government"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.312: hook eşzamanlılık sınırı, safety_event kaldırıldı",
+   "kategori": "claude",
+   "tarih": "2026-10-28",
+   "anahtar": "claude-code-2-1-312-hook-concurrency-safety-event-removed"
   }
  ]
 }
