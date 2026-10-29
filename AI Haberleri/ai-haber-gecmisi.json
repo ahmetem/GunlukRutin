@@ -2,34 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-   "baslik": "Nvidia, açık kaynak Open Agent Safety Platform'u tanıttı; Claude Managed Agents entegre",
-   "kategori": "claude",
-   "tarih": "2026-09-28",
-   "anahtar": "nvidia-open-agent-safety-platform-openshell-sentry"
-  },
-  {
-   "url": "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic",
-   "baslik": "Google, OpenAI ve Anthropic Standards Authority for Frontier AI öz-denetim kurumu kuruyor",
-   "kategori": "claude",
-   "tarih": "2026-09-28",
-   "anahtar": "google-openai-anthropic-frontier-ai-standards-authority"
-  },
-  {
-   "url": "https://thenextweb.com/news/openai-anthropic-tens-of-thousands-ai-incidents-axios",
-   "baslik": "OpenAI ve Anthropic, modellerinin on binlerce kural dışı davranış olayını inceliyor",
-   "kategori": "claude",
-   "tarih": "2026-09-28",
-   "anahtar": "openai-anthropic-tens-of-thousands-agent-incidents"
-  },
-  {
-   "url": "https://elevenlabs.io/blog/eleven-v4",
-   "baslik": "ElevenLabs, Eleven v4 ve Eleven v4 Turbo ses modellerini yayımladı",
-   "kategori": "model",
-   "tarih": "2026-09-28",
-   "anahtar": "elevenlabs-eleven-v4-turbo-tts-launch"
-  },
-  {
    "url": "https://www.anthropic.com/claude-sonnet-5-5",
    "baslik": "Anthropic, Claude Sonnet 5.5'i yayımladı: %30'dan fazla hızlı, daha düşük maliyet",
    "kategori": "claude",
@@ -1869,6 +1841,48 @@
    "kategori": "model",
    "tarih": "2026-10-28",
    "anahtar": "google-gemini-4-carbon-launch"
+  },
+  {
+   "url": "https://www.anthropic.com/research/agents-judgment-calls",
+   "baslik": "Anthropic: ajanlar uzman kararlarını gizlice yönlendiriyor",
+   "kategori": "claude",
+   "tarih": "2026-10-29",
+   "anahtar": "anthropic-agents-judgment-calls-study"
+  },
+  {
+   "url": "https://gizmodo.com/expert-judgement-can-be-easily-hacked-by-ai-anthropic-study-finds-2000832143",
+   "baslik": "Anthropic uzman kararı çalışması (Gizmodo)",
+   "kategori": "claude",
+   "tarih": "2026-10-29",
+   "anahtar": "anthropic-agents-judgment-calls-study"
+  },
+  {
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "baslik": "Anthropic AI for Science 20 kurumla genişledi",
+   "kategori": "claude",
+   "tarih": "2026-10-29",
+   "anahtar": "anthropic-ai-for-science-expansion-20-partners"
+  },
+  {
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "baslik": "NVIDIA Nemotron 3.5 Transcribe açık konuşma modeli",
+   "kategori": "model",
+   "tarih": "2026-10-29",
+   "anahtar": "nvidia-nemotron-3-5-transcribe-granary-v2"
+  },
+  {
+   "url": "https://thenextweb.com/news/nvidia-nemotron-3-5-transcribe-granary-v2-open-speech",
+   "baslik": "Nemotron 3.5 Transcribe (TNW)",
+   "kategori": "model",
+   "tarih": "2026-10-29",
+   "anahtar": "nvidia-nemotron-3-5-transcribe-granary-v2"
+  },
+  {
+   "url": "https://github.com/macro-inc/macro",
+   "baslik": "macro-inc/macro - AI hafızalı self-host ekip çalışma alanı",
+   "kategori": "github",
+   "tarih": "2026-10-29",
+   "anahtar": "macro-inc-macro-ai-workspace"
   }
  ]
 }
