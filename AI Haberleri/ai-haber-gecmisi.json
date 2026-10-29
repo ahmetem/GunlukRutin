@@ -1897,6 +1897,34 @@
    "kategori": "github",
    "tarih": "2026-10-29",
    "anahtar": "copilotkit-openbot-ai-coworkers"
+  },
+  {
+   "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+   "baslik": "Mistral Large 4 açık ağırlıkları Hugging Face'te",
+   "kategori": "model",
+   "tarih": "2026-10-29",
+   "anahtar": "mistral-large-4-open-weights-hf-release"
+  },
+  {
+   "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release",
+   "baslik": "Mistral Large 4 açık ağırlıklar (TNW)",
+   "kategori": "model",
+   "tarih": "2026-10-29",
+   "anahtar": "mistral-large-4-open-weights-hf-release"
+  },
+  {
+   "url": "https://github.com/vectorize-io/hindsight",
+   "baslik": "vectorize-io/hindsight - MCP destekli ajan hafızası",
+   "kategori": "github",
+   "tarih": "2026-10-29",
+   "anahtar": "vectorize-hindsight-agent-memory-mcp"
+  },
+  {
+   "url": "https://github.com/baidu/Unlimited-OCR",
+   "baslik": "baidu/Unlimited-OCR - Unlimited OCR 2 uzun belge ayrıştırma",
+   "kategori": "github",
+   "tarih": "2026-10-29",
+   "anahtar": "baidu-unlimited-ocr-2-long-doc"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 217 bülten
+Toplam: 218 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-29-2003.md`](./2026-10-29-2003.md) | 29 Ekim 2026, 20:03 | 🤖 AI Bülteni — 29 Ekim 2026: Mistral 1 trilyon parametreli Large 4 modelinin ağırlıklarını açtı; Hindsight ve Unlimited OCR 2 |
 | [`2026-10-29-1405.md`](./2026-10-29-1405.md) | 29 Ekim 2026, 14:05 | 🤖 AI Bülteni — 29 Ekim 2026: Rapor: DeepSeek ve Moonshot yeni modellerini GPT-6 Astra çıktılarıyla damıttı; CopilotKit OpenBot |
 | [`2026-10-29-0803.md`](./2026-10-29-0803.md) | 29 Ekim 2026, 08:03 | 🤖 AI Bülteni — 29 Ekim 2026: Anthropic deneyi Claude'un uzman kararlarını fark ettirmeden yönlendirebildiğini gösterdi; NVIDIA Nemotron 3.5 Transcribe |
 | [`2026-10-28-2003.md`](./2026-10-28-2003.md) | 28 Ekim 2026, 20:03 | 🤖 AI Bülteni — 28 Ekim 2026: Google Gemini 4 Carbon'u tanıttı; siber güvenlikte iddialı yeni frontier model önce savunuculara açılıyor |
