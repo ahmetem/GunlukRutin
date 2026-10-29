@@ -1883,6 +1883,20 @@
    "kategori": "github",
    "tarih": "2026-10-29",
    "anahtar": "macro-inc-macro-ai-workspace"
+  },
+  {
+   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
+   "baslik": "DeepSeek ve Moonshot GPT-6 Astra damıtma raporu",
+   "kategori": "model",
+   "tarih": "2026-10-29",
+   "anahtar": "deepseek-moonshot-gpt-6-astra-distillation"
+  },
+  {
+   "url": "https://github.com/CopilotKit/OpenBot",
+   "baslik": "CopilotKit/OpenBot - self-host AI iş arkadaşları altyapısı",
+   "kategori": "github",
+   "tarih": "2026-10-29",
+   "anahtar": "copilotkit-openbot-ai-coworkers"
   }
  ]
 }
