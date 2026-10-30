@@ -1876,6 +1876,34 @@
    "kategori": "model",
    "tarih": "2026-10-30",
    "anahtar": "openai-model-spec-five-values-update"
+  },
+  {
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+   "baslik": "OpenAI katmanlı frontier model izleme sistemi",
+   "kategori": "model",
+   "tarih": "2026-10-30",
+   "anahtar": "openai-layered-misalignment-monitoring-system"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2115896329645723836",
+   "baslik": "OpenAI izleme sistemi (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-10-30",
+   "anahtar": "openai-layered-misalignment-monitoring-system"
+  },
+  {
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "baslik": "milind-soni/OpenMausBot - self-host AI bot ekibi",
+   "kategori": "github",
+   "tarih": "2026-10-30",
+   "anahtar": "milind-soni-openmausbot-agent-chat"
+  },
+  {
+   "url": "https://github.com/lightpanda-io/browser",
+   "baslik": "lightpanda-io/browser - AI ajanları için headless tarayıcı",
+   "kategori": "github",
+   "tarih": "2026-10-30",
+   "anahtar": "lightpanda-headless-browser-agents"
   }
  ]
 }
