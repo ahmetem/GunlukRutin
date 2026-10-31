@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 220 bülten
+Toplam: 221 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-10-31-0805.md`](./2026-10-31-0805.md) | 31 Ekim 2026, 08:05 | 🤖 AI Bülteni — 31 Ekim 2026: Claude Code 2.1.316 Opus 4.8 fast mode'u kaldırıyor; Anthropic otomatik misalignment araştırması |
 | [`2026-10-30-1403.md`](./2026-10-30-1403.md) | 30 Ekim 2026, 14:03 | 🤖 AI Bülteni — 30 Ekim 2026: OpenAI'ın dört katmanlı model izleme sistemi, OpenMausBot ve Lightpanda ajan tarayıcısı |
 | [`2026-10-30-0803.md`](./2026-10-30-0803.md) | 30 Ekim 2026, 08:03 | 🤖 AI Bülteni — 30 Ekim 2026: Claude Code 2.1.314 davranış değişiklikleri, Claude API 128 MB istek sınırı ve OpenAI Model Spec |
 | [`2026-10-29-2003.md`](./2026-10-29-2003.md) | 29 Ekim 2026, 20:03 | 🤖 AI Bülteni — 29 Ekim 2026: Mistral 1 trilyon parametreli Large 4 modelinin ağırlıklarını açtı; Hindsight ve Unlimited OCR 2 |

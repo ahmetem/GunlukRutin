@@ -3,111 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.285: WebFetch kapatma, claude --desktop, allowedProviders",
-   "kategori": "claude",
-   "tarih": "2026-09-30",
-   "anahtar": "claude-code-2-1-285-disable-webfetch-desktop-allowed-providers"
-  },
-  {
-   "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-   "baslik": "Anthropic Interviewer ile yeni 'AI'dan ne istiyorsunuz?' çalışması",
-   "kategori": "claude",
-   "tarih": "2026-09-30",
-   "anahtar": "anthropic-interviewer-what-do-you-want-study"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-   "baslik": "OpenAI GPT-6.1 Sol: Astra'ya yakın zekâ, beşte bir fiyat",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-gpt-6-1-sol-launch-ultrafast"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2104986129686741046",
-   "baslik": "OpenAI GPT-6.1 Sol duyurusu (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-gpt-6-1-sol-launch-ultrafast"
-  },
-  {
-   "url": "https://9to5google.com/2026/09/29/openai-dots-agent/",
-   "baslik": "OpenAI dots: GPT-6 Astra ile sürekli açık ajanlar",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-dots-always-on-agents-launch"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2104984504133918973",
-   "baslik": "OpenAI dots duyurusu (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-dots-always-on-agents-launch"
-  },
-  {
-   "url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
-   "baslik": "OpenAI ve AWS'den Bedrock Managed Agents",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-aws-bedrock-managed-agents"
-  },
-  {
-   "url": "https://github.com/t8y2/dbx",
-   "baslik": "t8y2/dbx - AI ve MCP sunuculu çoklu veritabanı istemcisi",
-   "kategori": "github",
-   "tarih": "2026-09-30",
-   "anahtar": "t8y2-dbx-database-client-mcp"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-   "baslik": "OpenAI, ChatGPT eklentilerini uygulama benzeri arayüzler ve MCP Events otomasyonlarıyla genişletti",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-chatgpt-plugins-app-panels-mcp-events"
-  },
-  {
-   "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
-   "baslik": "Codex Security Cloud: Daybreak Blue varsayılan, Decisions API",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-codex-security-cloud-daybreak-blue"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2104987422308335828",
-   "baslik": "Codex Security Cloud duyurusu (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "openai-codex-security-cloud-daybreak-blue"
-  },
-  {
-   "url": "https://www.techzine.eu/news/devops/144657/deepseek-brings-ai-software-to-huaweis-ascend-chips/",
-   "baslik": "DeepSeek, Huawei Ascend için yazılım araçlarını açık kaynak yaptı",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "deepseek-huawei-ascend-open-source-tools"
-  },
-  {
-   "url": "https://github.com/deepseek-ai/DeepEP-Ascend",
-   "baslik": "deepseek-ai/DeepEP-Ascend",
-   "kategori": "model",
-   "tarih": "2026-09-30",
-   "anahtar": "deepseek-huawei-ascend-open-source-tools"
-  },
-  {
-   "url": "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr",
-   "baslik": "FTC, OpenAI ve Anthropic dahil önde gelen AI şirketleri hakkında soruşturma başlattı",
-   "kategori": "claude",
-   "tarih": "2026-09-30",
-   "anahtar": "ftc-probe-openai-anthropic-metr"
-  },
-  {
-   "url": "https://github.com/colbymchenry/codegraph",
-   "baslik": "colbymchenry/codegraph - ajanlar için önceden indekslenmiş kod bilgi grafiği MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-09-30",
-   "anahtar": "colbymchenry-codegraph-code-knowledge-graph-mcp"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.286: --bare MCP kısıtlaması, ctrl+enter skill arka plan, /hooks yenilendi",
    "kategori": "claude",
    "tarih": "2026-10-01",
@@ -1904,6 +1799,27 @@
    "kategori": "github",
    "tarih": "2026-10-30",
    "anahtar": "lightpanda-headless-browser-agents"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.316: Opus 4.8 fast mode deprecated, autoMode.allow, managed settings",
+   "kategori": "claude",
+   "tarih": "2026-10-31",
+   "anahtar": "claude-code-2-1-316-opus-4-8-fast-mode-deprecated"
+  },
+  {
+   "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+   "baslik": "Anthropic otomatik ince emergent misalignment araştırması",
+   "kategori": "claude",
+   "tarih": "2026-10-31",
+   "anahtar": "anthropic-automated-emergent-misalignment-red-teaming"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+   "baslik": "Otomatik misalignment araştırması (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-10-31",
+   "anahtar": "anthropic-automated-emergent-misalignment-red-teaming"
   }
  ]
 }
