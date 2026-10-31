@@ -1820,6 +1820,27 @@
    "kategori": "claude",
    "tarih": "2026-10-31",
    "anahtar": "anthropic-automated-emergent-misalignment-red-teaming"
+  },
+  {
+   "url": "https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/",
+   "baslik": "Ortak AI eğitim opt-out robots.txt sinyali (IETF)",
+   "kategori": "claude",
+   "tarih": "2026-10-31",
+   "anahtar": "ai-labs-shared-training-optout-robots-token"
+  },
+  {
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "baslik": "Ortak AI eğitim opt-out sinyali (The Verge)",
+   "kategori": "claude",
+   "tarih": "2026-10-31",
+   "anahtar": "ai-labs-shared-training-optout-robots-token"
+  },
+  {
+   "url": "https://github.com/Orkas-AI/Orkas",
+   "baslik": "Orkas-AI/Orkas - yerel çok ajanlı masaüstü uygulaması",
+   "kategori": "github",
+   "tarih": "2026-10-31",
+   "anahtar": "orkas-local-multi-agent-desktop"
   }
  ]
 }
