@@ -1820,6 +1820,27 @@
    "kategori": "github",
    "tarih": "2026-11-01",
    "anahtar": "beenuar-aisoc-self-host-ai-soc"
+  },
+  {
+   "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+   "baslik": "Claude Code mevcut oyun kopyalarını reddediyor",
+   "kategori": "claude",
+   "tarih": "2026-11-01",
+   "anahtar": "claude-code-opus-5-5-game-clone-rule"
+  },
+  {
+   "url": "https://github.com/cjpais/Handy",
+   "baslik": "cjpais/Handy - yerel konuşmadan metne uygulaması",
+   "kategori": "github",
+   "tarih": "2026-11-01",
+   "anahtar": "cjpais-handy-local-speech-to-text"
+  },
+  {
+   "url": "https://github.com/anomalyco/hex",
+   "baslik": "anomalyco/hex - yerel sesle dikte uygulaması",
+   "kategori": "github",
+   "tarih": "2026-11-01",
+   "anahtar": "anomalyco-hex-local-dictation"
   }
  ]
 }

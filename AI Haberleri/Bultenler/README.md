@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 224 bülten
+Toplam: 225 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-01-2004.md`](./2026-11-01-2004.md) | 1 Kasım 2026, 20:04 | 🤖 AI Bülteni — 1 Kasım 2026: Claude Code artık mevcut oyunların kopyasını yapmıyor; yerel dikte araçları Handy ve Hex |
 | [`2026-11-01-1404.md`](./2026-11-01-1404.md) | 1 Kasım 2026, 14:04 | 🤖 AI Bülteni — 1 Kasım 2026: DeepSeek Claude Code'a rakip proaktif kodlama ajanını açtı; FreeToken ve AiSOC |
 | [`2026-11-01-0804.md`](./2026-11-01-0804.md) | 1 Kasım 2026, 08:04 | 🤖 AI Bülteni — 1 Kasım 2026: treg ajan araçları yönlendiricisi ve OpenMAIC çok ajanlı self-host sınıf platformu |
 | [`2026-10-31-2002.md`](./2026-10-31-2002.md) | 31 Ekim 2026, 20:02 | 🤖 AI Bülteni — 31 Ekim 2026: Anthropic, OpenAI, Google ve Microsoft ortak AI eğitim opt-out sinyalinde; Orkas çok ajanlı masaüstü |
