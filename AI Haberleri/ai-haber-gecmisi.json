@@ -1792,6 +1792,34 @@
    "kategori": "github",
    "tarih": "2026-11-01",
    "anahtar": "thu-maic-openmaic-multi-agent-classroom"
+  },
+  {
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "baslik": "DeepSeek Super-agent kodlama ajanı prototipi açık kaynak",
+   "kategori": "model",
+   "tarih": "2026-11-01",
+   "anahtar": "deepseek-dsh-superagent-coding-prototype-open"
+  },
+  {
+   "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+   "baslik": "DeepSeek Super-agent (SCMP)",
+   "kategori": "model",
+   "tarih": "2026-11-01",
+   "anahtar": "deepseek-dsh-superagent-coding-prototype-open"
+  },
+  {
+   "url": "https://github.com/FlashML-org/FreeToken",
+   "baslik": "FlashML-org/FreeToken - tüketici GPU'da MoE servis motoru",
+   "kategori": "github",
+   "tarih": "2026-11-01",
+   "anahtar": "flashml-freetoken-edge-moe-serving"
+  },
+  {
+   "url": "https://github.com/beenuar/AiSOC",
+   "baslik": "beenuar/AiSOC - self-host AI güvenlik operasyon merkezi",
+   "kategori": "github",
+   "tarih": "2026-11-01",
+   "anahtar": "beenuar-aisoc-self-host-ai-soc"
   }
  ]
 }
