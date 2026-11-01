@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 222 bülten
+Toplam: 223 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-01-0804.md`](./2026-11-01-0804.md) | 1 Kasım 2026, 08:04 | 🤖 AI Bülteni — 1 Kasım 2026: treg ajan araçları yönlendiricisi ve OpenMAIC çok ajanlı self-host sınıf platformu |
 | [`2026-10-31-2002.md`](./2026-10-31-2002.md) | 31 Ekim 2026, 20:02 | 🤖 AI Bülteni — 31 Ekim 2026: Anthropic, OpenAI, Google ve Microsoft ortak AI eğitim opt-out sinyalinde; Orkas çok ajanlı masaüstü |
 | [`2026-10-31-0805.md`](./2026-10-31-0805.md) | 31 Ekim 2026, 08:05 | 🤖 AI Bülteni — 31 Ekim 2026: Claude Code 2.1.316 Opus 4.8 fast mode'u kaldırıyor; Anthropic otomatik misalignment araştırması |
 | [`2026-10-30-1403.md`](./2026-10-30-1403.md) | 30 Ekim 2026, 14:03 | 🤖 AI Bülteni — 30 Ekim 2026: OpenAI'ın dört katmanlı model izleme sistemi, OpenMausBot ve Lightpanda ajan tarayıcısı |
