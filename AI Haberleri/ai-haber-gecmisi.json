@@ -1827,6 +1827,41 @@
    "kategori": "github",
    "tarih": "2026-11-02",
    "anahtar": "max-sixty-worktrunk-agent-worktrees"
+  },
+  {
+   "url": "https://www.techradar.com/ai-platforms-assistants/elon-musk-says-grok-bot-was-throttled-because-costs-were-unsustainably-high-as-users-call-the-move-a-rug-pull",
+   "baslik": "xAI Grok Bot limitleri maliyet nedeniyle kısıldı",
+   "kategori": "model",
+   "tarih": "2026-11-02",
+   "anahtar": "xai-grok-bot-usage-throttled-costs"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2117307611338997846",
+   "baslik": "OpenAI LifeVal benchmark (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-02",
+   "anahtar": "openai-lifeval-personal-assistant-benchmark"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+   "baslik": "Qwenputer: Qwen3.5-4B içinde RISC-V CPU",
+   "kategori": "model",
+   "tarih": "2026-11-02",
+   "anahtar": "qwenputer-riscv-cpu-qwen3-5-4b-weights"
+  },
+  {
+   "url": "https://github.com/paperclipai/paperclip",
+   "baslik": "paperclipai/paperclip - self-host ajan ekibi orkestrasyonu",
+   "kategori": "github",
+   "tarih": "2026-11-02",
+   "anahtar": "paperclipai-paperclip-agent-orchestration"
+  },
+  {
+   "url": "https://github.com/p-e-w/heretic",
+   "baslik": "p-e-w/heretic - eğitimsiz model sansür kaldırma aracı",
+   "kategori": "github",
+   "tarih": "2026-11-02",
+   "anahtar": "p-e-w-heretic-abliteration-tool"
   }
  ]
 }
