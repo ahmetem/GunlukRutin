@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 225 bülten
+Toplam: 226 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-02-1403.md`](./2026-11-02-1403.md) | 2 Kasım 2026, 14:03 | 🤖 AI Bülteni — 2 Kasım 2026: SemiAnalysis GDPx benchmark'ında Claude Opus 5.5 önde; agent-desktop, colibri ve worktrunk |
 | [`2026-11-01-2004.md`](./2026-11-01-2004.md) | 1 Kasım 2026, 20:04 | 🤖 AI Bülteni — 1 Kasım 2026: Claude Code artık mevcut oyunların kopyasını yapmıyor; yerel dikte araçları Handy ve Hex |
 | [`2026-11-01-1404.md`](./2026-11-01-1404.md) | 1 Kasım 2026, 14:04 | 🤖 AI Bülteni — 1 Kasım 2026: DeepSeek Claude Code'a rakip proaktif kodlama ajanını açtı; FreeToken ve AiSOC |
 | [`2026-11-01-0804.md`](./2026-11-01-0804.md) | 1 Kasım 2026, 08:04 | 🤖 AI Bülteni — 1 Kasım 2026: treg ajan araçları yönlendiricisi ve OpenMAIC çok ajanlı self-host sınıf platformu |

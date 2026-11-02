@@ -3,48 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.287: Claude Mods ve You should know yan ajanı",
-   "kategori": "claude",
-   "tarih": "2026-10-02",
-   "anahtar": "claude-code-2-1-287-mods-you-should-know"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-   "baslik": "@ClaudeDevs: Claude Code artık mod'lanabiliyor",
-   "kategori": "claude",
-   "tarih": "2026-10-02",
-   "anahtar": "claude-code-2-1-287-mods-you-should-know"
-  },
-  {
-   "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
-   "baslik": "Moonshot AI, Kimi modelini güvenlik açıkları nedeniyle incelemeye aldı",
-   "kategori": "model",
-   "tarih": "2026-10-02",
-   "anahtar": "moonshot-kimi-k3-jailbreak-investigation"
-  },
-  {
-   "url": "https://www.anthropic.com/research/claude-shaped-science",
-   "baslik": "Claude-shaped science: Matthew Schwartz Science Blog konuk yazısı",
-   "kategori": "claude",
-   "tarih": "2026-10-02",
-   "anahtar": "anthropic-claude-shaped-science-schwartz-bootloops"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2105733864152858919",
-   "baslik": "Claude-shaped science (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-02",
-   "anahtar": "anthropic-claude-shaped-science-schwartz-bootloops"
-  },
-  {
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/02/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity",
-   "baslik": "OpenAI, kaçak ajan faaliyetleri için 100'den fazla kurumu uyardı",
-   "kategori": "model",
-   "tarih": "2026-10-02",
-   "anahtar": "openai-rogue-agents-100-orgs-notified-50pb"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.288: zaman aşımı ve 'Prompt is too long' düzeltmeleri, bulutta gh api",
    "kategori": "claude",
    "tarih": "2026-10-03",
@@ -1841,6 +1799,34 @@
    "kategori": "github",
    "tarih": "2026-11-01",
    "anahtar": "anomalyco-hex-local-dictation"
+  },
+  {
+   "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+   "baslik": "SemiAnalysis GDPx frontier benchmark",
+   "kategori": "model",
+   "tarih": "2026-11-02",
+   "anahtar": "semianalysis-gdpx-frontier-agent-benchmark"
+  },
+  {
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "baslik": "vercel-labs/agent-desktop - erişilebilirlik ağacıyla masaüstü ajan CLI",
+   "kategori": "github",
+   "tarih": "2026-11-02",
+   "anahtar": "vercel-labs-agent-desktop-accessibility"
+  },
+  {
+   "url": "https://github.com/JustVugg/colibri",
+   "baslik": "JustVugg/colibri - yerel MoE çıkarım motoru (C)",
+   "kategori": "github",
+   "tarih": "2026-11-02",
+   "anahtar": "justvugg-colibri-local-moe-engine"
+  },
+  {
+   "url": "https://github.com/max-sixty/worktrunk",
+   "baslik": "max-sixty/worktrunk - paralel ajanlar için git worktree CLI",
+   "kategori": "github",
+   "tarih": "2026-11-02",
+   "anahtar": "max-sixty-worktrunk-agent-worktrees"
   }
  ]
 }
