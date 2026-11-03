@@ -1862,6 +1862,41 @@
    "kategori": "github",
    "tarih": "2026-11-03",
    "anahtar": "karpathy-nanochat-llm-training-stack"
+  },
+  {
+   "url": "https://alignment.anthropic.com/2026/anthropic-residency",
+   "baslik": "Anthropic Residency başvuruları açıldı",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "anthropic-residency-program-applications-open"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2117343929960112486",
+   "baslik": "Anthropic Residency (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "anthropic-residency-program-applications-open"
+  },
+  {
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+   "baslik": "MIT Weight-Space Programming: eğitimsiz ağırlık düzenleme",
+   "kategori": "model",
+   "tarih": "2026-11-03",
+   "anahtar": "mit-weight-space-programming-astra-qwen"
+  },
+  {
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+   "baslik": "Gartner: açık modeller ajan işinin %90'ı",
+   "kategori": "model",
+   "tarih": "2026-11-03",
+   "anahtar": "gartner-open-weights-90-percent-agentic"
+  },
+  {
+   "url": "https://github.com/D4Vinci/Scrapling",
+   "baslik": "D4Vinci/Scrapling - MCP destekli web kazıma çatısı",
+   "kategori": "github",
+   "tarih": "2026-11-03",
+   "anahtar": "d4vinci-scrapling-mcp-scraping"
   }
  ]
 }
