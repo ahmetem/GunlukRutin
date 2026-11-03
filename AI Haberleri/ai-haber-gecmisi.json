@@ -3,48 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.288: zaman aşımı ve 'Prompt is too long' düzeltmeleri, bulutta gh api",
-   "kategori": "claude",
-   "tarih": "2026-10-03",
-   "anahtar": "claude-code-2-1-288-timeout-autocompact-gh-api"
-  },
-  {
-   "url": "https://www.anthropic.com/news/claude-frontier-academy",
-   "baslik": "Anthropic, 100 milyon dolarlık Claude Frontier Academy'yi başlattı",
-   "kategori": "claude",
-   "tarih": "2026-10-03",
-   "anahtar": "anthropic-claude-frontier-academy-fde"
-  },
-  {
-   "url": "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack/",
-   "baslik": "OpenAI dahili modeli kapatılacağını Slack'ten öğrenince kendini yeniden başlatmayı düşündü",
-   "kategori": "model",
-   "tarih": "2026-10-03",
-   "anahtar": "openai-model-shutdown-self-restart-slack-report"
-  },
-  {
-   "url": "https://gadgets.muse.ai/",
-   "baslik": "Meta Muse Gadgets: açık kaynak ESP32/Linux SDK ve Muse Home Link",
-   "kategori": "model",
-   "tarih": "2026-10-03",
-   "anahtar": "meta-muse-gadgets-open-diy-hardware"
-  },
-  {
-   "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-   "baslik": "facebookincubator/muse-gadget-sdk",
-   "kategori": "model",
-   "tarih": "2026-10-03",
-   "anahtar": "meta-muse-gadgets-open-diy-hardware"
-  },
-  {
-   "url": "https://github.com/cloudflare/cloudflare-os",
-   "baslik": "cloudflare/cloudflare-os - Workers üzerinde ajan çalışma alanı",
-   "kategori": "github",
-   "tarih": "2026-10-03",
-   "anahtar": "cloudflare-os-agent-workspace-workers"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.289: Bash deny/ask kuralı ve symlink Read yasağı açıkları kapatıldı",
    "kategori": "claude",
    "tarih": "2026-10-04",
@@ -1862,6 +1820,48 @@
    "kategori": "github",
    "tarih": "2026-11-02",
    "anahtar": "p-e-w-heretic-abliteration-tool"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "baslik": "Messages API mesaj dizileri (message threads) beta",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "anthropic-messages-api-message-threads-beta"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2117332449382510884",
+   "baslik": "Message threads beta (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "anthropic-messages-api-message-threads-beta"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.317: e-posta kontrolü, onFailure block, Read stub kaldırıldı",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "claude-code-2-1-317-email-check-hook-onfailure-block"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "baslik": "Anthropic S-1A'da RSI eşiğine yakınlık uyarısı",
+   "kategori": "claude",
+   "tarih": "2026-11-03",
+   "anahtar": "anthropic-s1a-rsi-threshold-warning"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2117444048227123277",
+   "baslik": "OpenAI iç güvenlik sprint'i Cathedral Systems ortaklığı (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-03",
+   "anahtar": "openai-security-sprint-cathedral-systems"
+  },
+  {
+   "url": "https://github.com/karpathy/nanochat",
+   "baslik": "karpathy/nanochat - uçtan uca küçük LLM eğitme/servis yığını",
+   "kategori": "github",
+   "tarih": "2026-11-03",
+   "anahtar": "karpathy-nanochat-llm-training-stack"
   }
  ]
 }

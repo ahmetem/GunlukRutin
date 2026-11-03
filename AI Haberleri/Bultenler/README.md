@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 227 bülten
+Toplam: 228 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-03-0803.md`](./2026-11-03-0803.md) | 3 Kasım 2026, 08:03 | 🤖 AI Bülteni — 3 Kasım 2026: Claude API'de mesaj dizileri betada, Claude Code 2.1.317 ve Anthropic'in RSI uyarısı |
 | [`2026-11-02-2035.md`](./2026-11-02-2035.md) | 2 Kasım 2026, 20:35 | 🤖 AI Bülteni — 2 Kasım 2026: xAI Grok Bot limitlerini kıstı, OpenAI LifeVal benchmark’ı; Paperclip ve Heretic |
 | [`2026-11-02-1403.md`](./2026-11-02-1403.md) | 2 Kasım 2026, 14:03 | 🤖 AI Bülteni — 2 Kasım 2026: SemiAnalysis GDPx benchmark'ında Claude Opus 5.5 önde; agent-desktop, colibri ve worktrunk |
 | [`2026-11-01-2004.md`](./2026-11-01-2004.md) | 1 Kasım 2026, 20:04 | 🤖 AI Bülteni — 1 Kasım 2026: Claude Code artık mevcut oyunların kopyasını yapmıyor; yerel dikte araçları Handy ve Hex |
