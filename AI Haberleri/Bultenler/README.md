@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 230 bülten
+Toplam: 231 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-04-1403.md`](./2026-11-04-1403.md) | 4 Kasım 2026, 14:03 | 🤖 AI Bülteni — 4 Kasım 2026: Claude plugin'lerinde girişte otomatik MCP bağlantısı ve Tencent Hy4 resmi sürümü |
 | [`2026-11-04-0803.md`](./2026-11-04-0803.md) | 4 Kasım 2026, 08:03 | 🤖 AI Bülteni — 4 Kasım 2026: Claude Code 2.1.318, Anthropic FlashProve ve Claude metin filigranı |
 | [`2026-11-03-1403.md`](./2026-11-03-1403.md) | 3 Kasım 2026, 14:03 | 🤖 AI Bülteni — 3 Kasım 2026: Anthropic Residency başvuruları açıldı, MIT'den eğitimsiz ağırlık düzenleme ve Scrapling |
 | [`2026-11-03-0803.md`](./2026-11-03-0803.md) | 3 Kasım 2026, 08:03 | 🤖 AI Bülteni — 3 Kasım 2026: Claude API'de mesaj dizileri betada, Claude Code 2.1.317 ve Anthropic'in RSI uyarısı |
