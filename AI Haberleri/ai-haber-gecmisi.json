@@ -2,62 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.289: Bash deny/ask kuralı ve symlink Read yasağı açıkları kapatıldı",
-   "kategori": "claude",
-   "tarih": "2026-10-04",
-   "anahtar": "claude-code-2-1-289-deny-rule-bypass-fixes"
-  },
-  {
-   "url": "https://github.com/Tracer-Cloud/opensre",
-   "baslik": "Tracer-Cloud/opensre - self-host AI SRE ajan çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "tracer-cloud-opensre-ai-sre-agents"
-  },
-  {
-   "url": "https://github.com/datalab-to/chandra",
-   "baslik": "datalab-to/chandra - düzen koruyan yerel OCR modeli",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "datalab-chandra-ocr-layout-model"
-  },
-  {
-   "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-   "baslik": "Aleph Alpha Kolibri-1: 78B MoE açık ağırlıklı model (Apache 2.0)",
-   "kategori": "model",
-   "tarih": "2026-10-04",
-   "anahtar": "aleph-alpha-kolibri-1-78b-open"
-  },
-  {
-   "url": "https://github.com/meituan-longcat/LongCat-Video",
-   "baslik": "meituan-longcat/LongCat-Video - 13,6B açık video üretim modeli",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "meituan-longcat-video-generation-model"
-  },
-  {
-   "url": "https://github.com/antirez/ds4",
-   "baslik": "antirez/ds4 - DeepSeek V4 Flash ve GLM için yerel çıkarım motoru",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "antirez-ds4-deepseek-v4-local-inference"
-  },
-  {
-   "url": "https://github.com/thedotmack/claude-mem",
-   "baslik": "thedotmack/claude-mem - Claude Code için kalıcı hafıza eklentisi",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "claude-mem-persistent-memory-plugin"
-  },
-  {
-   "url": "https://github.com/calesthio/OpenMontage",
-   "baslik": "calesthio/OpenMontage - açık kaynak ajanik video üretim sistemi",
-   "kategori": "github",
-   "tarih": "2026-10-04",
-   "anahtar": "openmontage-agentic-video-production"
-  },
-  {
    "url": "https://github.com/earthtojake/text-to-cad",
    "baslik": "earthtojake/text-to-cad - ajanlar için doğal dilden CAD üretimi (MCP/CLI)",
    "kategori": "github",
@@ -1897,6 +1841,55 @@
    "kategori": "github",
    "tarih": "2026-11-03",
    "anahtar": "d4vinci-scrapling-mcp-scraping"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.318: IDE eklentisi otomatik kurulmuyor, deniedMcpServers genişledi",
+   "kategori": "claude",
+   "tarih": "2026-11-04",
+   "anahtar": "claude-code-2-1-318-ide-extension-denied-mcp"
+  },
+  {
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "baslik": "Anthropic FlashProve kanıtlanabilir çıkarım",
+   "kategori": "claude",
+   "tarih": "2026-11-04",
+   "anahtar": "anthropic-flashprove-provable-inference"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2117710942826123294",
+   "baslik": "FlashProve (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-04",
+   "anahtar": "anthropic-flashprove-provable-inference"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/build-with-claude/text-watermark",
+   "baslik": "Claude çıktılarına metin filigranı",
+   "kategori": "claude",
+   "tarih": "2026-11-04",
+   "anahtar": "anthropic-claude-text-watermark"
+  },
+  {
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+   "baslik": "OpenAI GPT-6 Astra ile donanım prototipi",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "openai-gpt-6-astra-physical-engineering-hardware"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2117692475775258785",
+   "baslik": "Fiziksel mühendislik (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "openai-gpt-6-astra-physical-engineering-hardware"
+  },
+  {
+   "url": "https://github.com/thedotmack/claude-mem",
+   "baslik": "thedotmack/claude-mem - ajanlar için kalıcı hafıza",
+   "kategori": "github",
+   "tarih": "2026-11-04",
+   "anahtar": "thedotmack-claude-mem-agent-memory"
   }
  ]
 }
