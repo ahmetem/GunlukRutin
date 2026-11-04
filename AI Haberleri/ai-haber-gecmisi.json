@@ -1911,6 +1911,41 @@
    "kategori": "model",
    "tarih": "2026-11-04",
    "anahtar": "tencent-hy4-official-release-vision"
+  },
+  {
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "baslik": "Kimi K3.1 Pro açık ağırlıkları Hugging Face'te",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "moonshot-kimi-k3-1-pro-open-weights"
+  },
+  {
+   "url": "https://runtimewire.com/article/moonshot-ai-kimi-k3-1-pro-weights",
+   "baslik": "Kimi K3.1 Pro açık ağırlıklar (RuntimeWire)",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "moonshot-kimi-k3-1-pro-open-weights"
+  },
+  {
+   "url": "https://www.cnas.org/publications/reports/sovereign-agents",
+   "baslik": "CNAS egemen ajanlar raporu",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "cnas-sovereign-agents-kill-switch-report"
+  },
+  {
+   "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
+   "baslik": "CNAS egemen ajanlar (Euronews)",
+   "kategori": "model",
+   "tarih": "2026-11-04",
+   "anahtar": "cnas-sovereign-agents-kill-switch-report"
+  },
+  {
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "baslik": "NVIDIA/auto-ontology - ajanlar için veritabanı ontoloji katmanı",
+   "kategori": "github",
+   "tarih": "2026-11-04",
+   "anahtar": "nvidia-auto-ontology-agent-context-layer"
   }
  ]
 }
