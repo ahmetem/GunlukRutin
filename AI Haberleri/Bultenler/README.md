@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 232 bülten
+Toplam: 233 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-05-0803.md`](./2026-11-05-0803.md) | 5 Kasım 2026, 08:03 | 🤖 AI Bülteni — 5 Kasım 2026: Claude Code arka plan alt ajanları ucuzladı, ChatGPT Images 2.6 ve Meta'nın Conductor alımı |
 | [`2026-11-04-2004.md`](./2026-11-04-2004.md) | 4 Kasım 2026, 20:04 | 🤖 AI Bülteni — 4 Kasım 2026: Kimi K3.1 Pro açık ağırlıkları, CNAS'tan egemen ajan uyarısı ve NVIDIA auto-ontology |
 | [`2026-11-04-1403.md`](./2026-11-04-1403.md) | 4 Kasım 2026, 14:03 | 🤖 AI Bülteni — 4 Kasım 2026: Claude plugin'lerinde girişte otomatik MCP bağlantısı ve Tencent Hy4 resmi sürümü |
 | [`2026-11-04-0803.md`](./2026-11-04-0803.md) | 4 Kasım 2026, 08:03 | 🤖 AI Bülteni — 4 Kasım 2026: Claude Code 2.1.318, Anthropic FlashProve ve Claude metin filigranı |

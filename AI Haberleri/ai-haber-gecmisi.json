@@ -2,34 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://github.com/earthtojake/text-to-cad",
-   "baslik": "earthtojake/text-to-cad - ajanlar için doğal dilden CAD üretimi (MCP/CLI)",
-   "kategori": "github",
-   "tarih": "2026-10-05",
-   "anahtar": "earthtojake-text-to-cad-agent-cad-mcp"
-  },
-  {
-   "url": "https://github.com/tester-army/e2e",
-   "baslik": "tester-army/e2e - doğal dilli ajan tabanlı uçtan uca test çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-10-05",
-   "anahtar": "tester-army-e2e-agent-testing-framework"
-  },
-  {
-   "url": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/",
-   "baslik": "OpenAI, EU AI Act için textGrain metin filigranını başlattı",
-   "kategori": "model",
-   "tarih": "2026-10-05",
-   "anahtar": "openai-textgrain-text-watermark-eu"
-  },
-  {
-   "url": "https://github.com/pingdotgg/t3code",
-   "baslik": "pingdotgg/t3code - kodlama ajanları için kontrol paneli",
-   "kategori": "github",
-   "tarih": "2026-10-05",
-   "anahtar": "pingdotgg-t3code-agent-harness-control"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.290 ve 2.1.291: zamanlanmış görev düzeltmeleri, WebSearch saatlik dolum",
    "kategori": "claude",
@@ -1946,6 +1918,62 @@
    "kategori": "github",
    "tarih": "2026-11-04",
    "anahtar": "nvidia-auto-ontology-agent-context-layer"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2118063143167693011",
+   "baslik": "Claude Code arka plan alt ajan durum güncellemeleri %99 ucuz (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-05",
+   "anahtar": "claude-code-background-subagent-status-haiku-cheaper"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2118073665296228863",
+   "baslik": "Anthropic Claude ile bakteriyel vault parçacığı 3B yapısı (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-05",
+   "anahtar": "anthropic-claude-bacterial-vault-particle-structure"
+  },
+  {
+   "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai",
+   "baslik": "OpenAI ChatGPT Images 2.6 GIF ve API modelleri",
+   "kategori": "model",
+   "tarih": "2026-11-05",
+   "anahtar": "openai-chatgpt-images-2-6-gif-api"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2118124944928432327",
+   "baslik": "ChatGPT Images 2.6 (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-05",
+   "anahtar": "openai-chatgpt-images-2-6-gif-api"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2118119451401048497",
+   "baslik": "OpenAI otonom zafiyet hattı 948 Linux çekirdeği açığı (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-05",
+   "anahtar": "openai-autonomous-cyber-pipeline-linux-948"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "baslik": "Meta Conductor'ı satın aldı",
+   "kategori": "model",
+   "tarih": "2026-11-05",
+   "anahtar": "meta-acquires-conductor-parallel-agents"
+  },
+  {
+   "url": "https://github.com/Thysrael/Horizon",
+   "baslik": "Thysrael/Horizon - self-host AI haber özetleyici",
+   "kategori": "github",
+   "tarih": "2026-11-05",
+   "anahtar": "thysrael-horizon-ai-news-briefing"
+  },
+  {
+   "url": "https://github.com/The-PR-Agent/pr-agent",
+   "baslik": "The-PR-Agent/pr-agent - açık kaynak AI PR inceleyici",
+   "kategori": "github",
+   "tarih": "2026-11-05",
+   "anahtar": "the-pr-agent-pr-agent-ai-review"
   }
  ]
 }
