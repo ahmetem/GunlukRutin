@@ -1974,6 +1974,20 @@
    "kategori": "github",
    "tarih": "2026-11-05",
    "anahtar": "the-pr-agent-pr-agent-ai-review"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+   "baslik": "Claude Code oyun kopyalama kuralı gevşetildi",
+   "kategori": "claude",
+   "tarih": "2026-11-05",
+   "anahtar": "claude-code-game-clone-rule-loosened-genre"
+  },
+  {
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "baslik": "vercel-labs/agent-browser - AI ajanları için tarayıcı otomasyon CLI",
+   "kategori": "github",
+   "tarih": "2026-11-05",
+   "anahtar": "vercel-labs-agent-browser-cli"
   }
  ]
 }
