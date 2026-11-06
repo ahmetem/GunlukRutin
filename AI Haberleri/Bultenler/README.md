@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 234 bülten
+Toplam: 235 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-06-0803.md`](./2026-11-06-0803.md) | 6 Kasım 2026, 08:03 | 🤖 AI Bülteni — 6 Kasım 2026: OpenAI GPT-6 Cyber'ı duyurdu, Claude Console'a IP allowlist, Gemini Omni 1.2 Flash |
 | [`2026-11-05-2004.md`](./2026-11-05-2004.md) | 5 Kasım 2026, 20:04 | 🤖 AI Bülteni — 5 Kasım 2026: Claude'un oyun kuralı gevşedi, tür bazlı özgün oyun önerecek; Vercel agent-browser |
 | [`2026-11-05-0803.md`](./2026-11-05-0803.md) | 5 Kasım 2026, 08:03 | 🤖 AI Bülteni — 5 Kasım 2026: Claude Code arka plan alt ajanları ucuzladı, ChatGPT Images 2.6 ve Meta'nın Conductor alımı |
 | [`2026-11-04-2004.md`](./2026-11-04-2004.md) | 4 Kasım 2026, 20:04 | 🤖 AI Bülteni — 4 Kasım 2026: Kimi K3.1 Pro açık ağırlıkları, CNAS'tan egemen ajan uyarısı ve NVIDIA auto-ontology |
