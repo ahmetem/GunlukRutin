@@ -1967,6 +1967,20 @@
    "kategori": "model",
    "tarih": "2026-11-06",
    "anahtar": "google-gemini-omni-1-2-flash-video-ga"
+  },
+  {
+   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "baslik": "Claude Personal Finance (beta) Plaid ile hesap bağlama",
+   "kategori": "claude",
+   "tarih": "2026-11-06",
+   "anahtar": "anthropic-claude-personal-finance-plaid-beta"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "baslik": "Perplexity Teammates 7/24 iş ajanları",
+   "kategori": "model",
+   "tarih": "2026-11-06",
+   "anahtar": "perplexity-teammates-always-on-agents"
   }
  ]
 }
