@@ -2,97 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.292: MCP protokol 2026-07-28 varsayılan, Agent effort, güvenlik düzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "claude-code-2-1-292-mcp-protocol-agent-effort"
-  },
-  {
-   "url": "https://www.anthropic.com/news/cyber-verification-program",
-   "baslik": "Anthropic Siber Doğrulama Programını genişletti",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "anthropic-cyber-verification-program-expansion"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2107546569654636883",
-   "baslik": "Cyber Verification Program genişlemesi (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "anthropic-cyber-verification-program-expansion"
-  },
-  {
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-   "baslik": "OpenAI dahili modelin 722 matematik makalesini yayımladı",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "openai-math-722-manuscripts-release"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2107596713791767021",
-   "baslik": "OpenAI matematik sonuçları duyurusu (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "openai-math-722-manuscripts-release"
-  },
-  {
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-   "baslik": "Google EmbeddingGemma 2: cihaz içi çok modlu gömme modeli",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "google-embeddinggemma-2-multimodal-ondevice"
-  },
-  {
-   "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-   "baslik": "Sierra ve Meta'dan Personal Agent Protocol",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "sierra-meta-personal-agent-protocol"
-  },
-  {
-   "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-   "baslik": "Claude Code bulut oturumları saha rehberi: yedi iş akışı",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "claude-code-cloud-sessions-field-guide"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2107542087243907506",
-   "baslik": "Bulut oturumları saha rehberi (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "claude-code-cloud-sessions-field-guide"
-  },
-  {
-   "url": "https://futurism.com/artificial-intelligence/court-finds-copyrighted-material-training-data-fair-use",
-   "baslik": "ABD 3. Daire: Ross'un Westlaw ile eğitimi adil kullanım değil",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "thomson-reuters-ross-appeal-not-fair-use"
-  },
-  {
-   "url": "https://github.com/manaflow-ai/cmux",
-   "baslik": "manaflow-ai/cmux - AI kodlama ajanları için Ghostty tabanlı macOS terminali",
-   "kategori": "github",
-   "tarih": "2026-10-07",
-   "anahtar": "manaflow-cmux-agent-terminal-macos"
-  },
-  {
-   "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk",
-   "baslik": "SpaceXSI Grok Bot arka uçta Claude Opus 5.5 kullanacak",
-   "kategori": "claude",
-   "tarih": "2026-10-07",
-   "anahtar": "spacexsi-grok-bot-claude-opus-backend"
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-   "baslik": "Google SynthID Detector sitesini herkese açtı",
-   "kategori": "model",
-   "tarih": "2026-10-07",
-   "anahtar": "google-synthid-detector-public-site"
-  },
-  {
    "url": "https://www.anthropic.com/claude-haiku-5-5",
    "baslik": "Claude Haiku 5.5 yayında: ~%75 ucuz, 1M bağlam",
    "kategori": "claude",
@@ -1981,6 +1890,55 @@
    "kategori": "model",
    "tarih": "2026-11-06",
    "anahtar": "perplexity-teammates-always-on-agents"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.319: MCP görevleri arka planda, /loop ve auto mode değişti",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "claude-code-2-1-319-mcp-tasks-loop-automode"
+  },
+  {
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "baslik": "Anthropic ajan belleği bileşenleri ve dreaming",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "anthropic-agent-memory-dreaming"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2118814753154064501",
+   "baslik": "Dreaming bellek yazısı (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "anthropic-agent-memory-dreaming"
+  },
+  {
+   "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-dreaming-memory-research",
+   "baslik": "Claude dreaming (Interesting Engineering)",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "anthropic-agent-memory-dreaming"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2118795192090386454",
+   "baslik": "Claude Code bulut oturumu ortamını otomatik kuruyor (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "claude-code-cloud-auto-environment-setup"
+  },
+  {
+   "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+   "baslik": "Anthropic Science Blog: bilimsel modelleme",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "anthropic-science-ai-scientific-modeling"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2118792930211107115",
+   "baslik": "Bilimsel modelleme yazısı (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-07",
+   "anahtar": "anthropic-science-ai-scientific-modeling"
   }
  ]
 }
