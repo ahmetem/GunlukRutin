@@ -1967,6 +1967,20 @@
    "kategori": "model",
    "tarih": "2026-11-07",
    "anahtar": "meta-abandons-ai-training-commercial-terms"
+  },
+  {
+   "url": "https://github.com/ranxianglei/billion-context",
+   "baslik": "ranxianglei/billion-context - ajanlar için bağlam sıkıştırma eklentisi",
+   "kategori": "github",
+   "tarih": "2026-11-07",
+   "anahtar": "ranxianglei-billion-context-compression"
+  },
+  {
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "baslik": "dsx-ai-factory/nvke - NVIDIA GPU üzerinde yönetilen Kubernetes",
+   "kategori": "github",
+   "tarih": "2026-11-07",
+   "anahtar": "nvidia-nvke-gpu-kubernetes-engine"
   }
  ]
 }
