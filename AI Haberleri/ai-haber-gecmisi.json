@@ -1939,6 +1939,34 @@
    "kategori": "claude",
    "tarih": "2026-11-07",
    "anahtar": "anthropic-science-ai-scientific-modeling"
+  },
+  {
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "baslik": "OpenAI BioBasicsBench ıslak laboratuvar ajan benchmark'ı",
+   "kategori": "model",
+   "tarih": "2026-11-07",
+   "anahtar": "openai-biobasicsbench-wet-lab-agents"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2118782708767965238",
+   "baslik": "BioBasicsBench (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-07",
+   "anahtar": "openai-biobasicsbench-wet-lab-agents"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2118795218099253606",
+   "baslik": "OpenAI + Frontier Model Forum safeguard bypass siber zarar çerçevesi (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-07",
+   "anahtar": "openai-fmf-safeguard-bypass-cyber-framework"
+  },
+  {
+   "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "baslik": "Meta AI eğitim ticari şart değişikliğini askıya aldı",
+   "kategori": "model",
+   "tarih": "2026-11-07",
+   "anahtar": "meta-abandons-ai-training-commercial-terms"
   }
  ]
 }
