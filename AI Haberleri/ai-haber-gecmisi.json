@@ -2,118 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.anthropic.com/claude-haiku-5-5",
-   "baslik": "Claude Haiku 5.5 yayında: ~%75 ucuz, 1M bağlam",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-claude-haiku-5-5-launch"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.293: Haiku 5.5 varsayılan, bulut oturumu uyandırma düzeltmesi geri alındı",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "claude-code-2-1-293-haiku-default-wakeup-revert"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-sdk",
-   "baslik": "Claude SDK'larına computer/browser use araç setleri (beta)",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-sdk-computer-browser-use-toolsets"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2107925762720326090",
-   "baslik": "SDK computer/browser use toolsets (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-sdk-computer-browser-use-toolsets"
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-   "baslik": "ChatGPT'ye GPT-6 destekli Intelligent UI geldi",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "openai-chatgpt-intelligent-ui-gpt-6"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2107894997538525580",
-   "baslik": "GPT-6 ve Intelligent UI (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "openai-chatgpt-intelligent-ui-gpt-6"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.294: prompt/agent hook engelleme düzeltmesi",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "claude-code-2-1-294-prompt-hooks-block-fix"
-  },
-  {
-   "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-   "baslik": "LMCache'te yamasız kritik RCE (CVSS 9.8)",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "lmcache-unpatched-rce-zeromq-pickle"
-  },
-  {
-   "url": "https://community.perplexity.ai/t/were-releasing-pplx-embed-v2-late-two-late-interaction-embedding-models-that-retrieve-text-images-and-pages-with-a-shared-embedding-space-for-cross-model-querying/6296",
-   "baslik": "Perplexity pplx-embed-v2-late açık gömme modelleri",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "perplexity-pplx-embed-v2-late-open"
-  },
-  {
-   "url": "https://github.com/storytold/artcraft",
-   "baslik": "storytold/artcraft - AI görsel/video/3D üretim IDE'si",
-   "kategori": "github",
-   "tarih": "2026-10-08",
-   "anahtar": "storytold-artcraft-ai-media-ide"
-  },
-  {
-   "url": "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans",
-   "baslik": "Max ve Team planlarına aylık Claude Platform API kredisi",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-max-team-monthly-api-credits"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2108228391404966005",
-   "baslik": "Aylık API kredileri (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-max-team-monthly-api-credits"
-  },
-  {
-   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-   "baslik": "Anthropic Genesis Mission'a 150 milyon dolar taahhüt etti",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-genesis-mission-150m-commitment"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2108226292235809081",
-   "baslik": "Genesis Mission taahhüdü (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-08",
-   "anahtar": "anthropic-genesis-mission-150m-commitment"
-  },
-  {
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-   "baslik": "Google Gemini at Work 2026: kimlikli iş arkadaşı ajanlar",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "google-gemini-at-work-agent-identity"
-  },
-  {
-   "url": "https://thenextweb.com/news/odyssey-3-world-model-robots-humanoids-cars-drones",
-   "baslik": "Odyssey-3 dünya modeli",
-   "kategori": "model",
-   "tarih": "2026-10-08",
-   "anahtar": "odyssey-3-world-model-preview"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.295: onFailure block hook, MCP araç açıklama sınırı 16K",
    "kategori": "claude",
@@ -1981,6 +1869,27 @@
    "kategori": "github",
    "tarih": "2026-11-07",
    "anahtar": "nvidia-nvke-gpu-kubernetes-engine"
+  },
+  {
+   "url": "https://mlq.ai/news/anthropic-emails-enterprise-customers-that-an-outside-security-firm-may-have-viewed-their-contact-plan-and-spend-data/",
+   "baslik": "Anthropic kurumsal hesap verisi erişim bildirimi",
+   "kategori": "claude",
+   "tarih": "2026-11-08",
+   "anahtar": "anthropic-enterprise-account-data-access-notice"
+  },
+  {
+   "url": "https://github.com/jamiepine/voicebox",
+   "baslik": "jamiepine/voicebox - yerel ses klonlama/dikte stüdyosu",
+   "kategori": "github",
+   "tarih": "2026-11-08",
+   "anahtar": "jamiepine-voicebox-local-voice-studio"
+  },
+  {
+   "url": "https://github.com/googlecolab/google-colab-cli",
+   "baslik": "googlecolab/google-colab-cli - Colab runtime CLI",
+   "kategori": "github",
+   "tarih": "2026-11-08",
+   "anahtar": "google-colab-cli-agent-runtimes"
   }
  ]
 }
