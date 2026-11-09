@@ -2,83 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.295: onFailure block hook, MCP araç açıklama sınırı 16K",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "claude-code-2-1-295-hook-onfailure-block"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "baslik": "Claude Sonnet 5.5 önbellek okuma fiyatı yarıya indi",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "anthropic-sonnet-5-5-cache-read-price-cut"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2108287358374482381",
-   "baslik": "Sonnet 5.5 önbellek fiyat indirimi (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "anthropic-sonnet-5-5-cache-read-price-cut"
-  },
-  {
-   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-   "baslik": "Anthropic 2026 Kullanım Politikası güncellemesi",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "anthropic-usage-policy-2026-update"
-  },
-  {
-   "url": "https://github.com/CursorTouch/Windows-MCP",
-   "baslik": "CursorTouch/Windows-MCP - Windows için MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-10-09",
-   "anahtar": "cursortouch-windows-mcp-computer-use"
-  },
-  {
-   "url": "https://github.com/microsoft/agent-framework",
-   "baslik": "microsoft/agent-framework - Python/.NET ajan çerçevesi",
-   "kategori": "github",
-   "tarih": "2026-10-09",
-   "anahtar": "microsoft-agent-framework-python-dotnet"
-  },
-  {
-   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-   "baslik": "Anthropic Cyber Mission: kritik altyapı ve açık kaynak güvenliği",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "anthropic-cyber-mission-launch"
-  },
-  {
-   "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
-   "baslik": "Claude Science ile ilk tam ultraviyole gökyüzü haritası",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "anthropic-claude-science-uv-sky-map"
-  },
-  {
-   "url": "https://claude.dev/blog/building-effective-agent-automations/",
-   "baslik": "Claude Managed Agents ile zamanlanmış otomasyon rehberi",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "claude-managed-agents-automations-guide"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2108591328732856655",
-   "baslik": "Claude Managed Agents dinamik iş akışları public beta (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "claude-managed-agents-dynamic-workflows-beta"
-  },
-  {
-   "url": "https://platform.claude.com/docs/en/managed-agents/multiagent-orchestration#dynamic-workflows",
-   "baslik": "Claude Managed Agents dinamik iş akışları public beta",
-   "kategori": "claude",
-   "tarih": "2026-10-09",
-   "anahtar": "claude-managed-agents-dynamic-workflows-beta"
-  },
-  {
    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
    "baslik": "Anthropic iç değerlendirmelerde canlı interneti kapattı (istenmeyen model eylemleri)",
    "kategori": "claude",
@@ -1890,6 +1813,27 @@
    "kategori": "github",
    "tarih": "2026-11-08",
    "anahtar": "google-colab-cli-agent-runtimes"
+  },
+  {
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "baslik": "NVIDIA GR00T 2 açık dünya-eylem robot modeli",
+   "kategori": "model",
+   "tarih": "2026-11-09",
+   "anahtar": "nvidia-gr00t-2-world-action-model"
+  },
+  {
+   "url": "https://github.com/meta/astryx",
+   "baslik": "meta/astryx - ajan uyumlu açık tasarım sistemi",
+   "kategori": "github",
+   "tarih": "2026-11-09",
+   "anahtar": "meta-astryx-agent-ready-design-system"
+  },
+  {
+   "url": "https://github.com/homeassistant-ai/ha-mcp",
+   "baslik": "homeassistant-ai/ha-mcp - Home Assistant MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-11-09",
+   "anahtar": "homeassistant-ha-mcp-server"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 240 bülten
+Toplam: 241 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-09-2002.md`](./2026-11-09-2002.md) | 9 Kasım 2026, 20:02 | 🤖 AI Bülteni — 9 Kasım 2026: NVIDIA'dan açık robot dünya-eylem modeli GR00T 2, Meta'nın ajan uyumlu tasarım sistemi Astryx |
 | [`2026-11-08-2004.md`](./2026-11-08-2004.md) | 8 Kasım 2026, 20:04 | 🤖 AI Bülteni — 8 Kasım 2026: Anthropic kurumsal müşterilere hesap verisi erişimi bildirdi, yerel ses stüdyosu Voicebox ve Colab CLI |
 | [`2026-11-07-2003.md`](./2026-11-07-2003.md) | 7 Kasım 2026, 20:03 | 🤖 AI Bülteni — 7 Kasım 2026: Claude Code oturumlarını uzatan bağlam sıkıştırma eklentisi, NVIDIA'dan GPU Kubernetes yönetim katmanı |
 | [`2026-11-07-1403.md`](./2026-11-07-1403.md) | 7 Kasım 2026, 14:03 | 🤖 AI Bülteni — 7 Kasım 2026: OpenAI'dan ıslak laboratuvar ajan benchmark'ı BioBasicsBench, Meta AI eğitim şartından vazgeçti |
