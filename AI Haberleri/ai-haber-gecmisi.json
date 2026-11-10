@@ -2,62 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-   "baslik": "Anthropic iç değerlendirmelerde canlı interneti kapattı (istenmeyen model eylemleri)",
-   "kategori": "claude",
-   "tarih": "2026-10-10",
-   "anahtar": "anthropic-unintended-actions-evals-offline"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.296: autoCompactWindow, allow_large, hook düzeltmeleri",
-   "kategori": "claude",
-   "tarih": "2026-10-10",
-   "anahtar": "claude-code-2-1-296-subagent-autocompact-allow-large"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2108621476538781878",
-   "baslik": "Claude Code Projects bekleme listesi Pro/Max için açıldı (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-10",
-   "anahtar": "claude-code-projects-waitlist-open-pro-max"
-  },
-  {
-   "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
-   "baslik": "Cloudflare Clef-omni: çok modlu açık ağırlıklı karar modeli",
-   "kategori": "model",
-   "tarih": "2026-10-10",
-   "anahtar": "cloudflare-clef-omni-multimodal-flash-price"
-  },
-  {
-   "url": "https://github.com/BerriAI/litellm",
-   "baslik": "BerriAI/litellm - Rust çekirdekli AI geçidi",
-   "kategori": "github",
-   "tarih": "2026-10-10",
-   "anahtar": "berriai-litellm-ai-gateway"
-  },
-  {
-   "url": "https://github.com/Robbyant/lingbot-map",
-   "baslik": "Robbyant/lingbot-map - akış 3B yeniden yapılandırma modeli",
-   "kategori": "github",
-   "tarih": "2026-10-10",
-   "anahtar": "robbyant-lingbot-map-3d-reconstruction"
-  },
-  {
-   "url": "https://futurism.com/future-society/sacked-openai-insiders-say-company-is-firing-anyone-who-speaks-out",
-   "baslik": "OpenAI üç güvenlik araştırmacısını kovdu, açık mektupla yanıt",
-   "kategori": "model",
-   "tarih": "2026-10-10",
-   "anahtar": "openai-fires-three-safety-researchers"
-  },
-  {
-   "url": "https://github.com/mksglu/context-mode",
-   "baslik": "mksglu/context-mode - kodlama ajanları için bağlam optimizasyonu MCP sunucusu",
-   "kategori": "github",
-   "tarih": "2026-10-10",
-   "anahtar": "mksglu-context-mode-agent-context-mcp"
-  },
-  {
    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
    "baslik": "Satya Nadella: yapay zeka modellerine acil fren gerekli",
    "kategori": "model",
@@ -1834,6 +1778,55 @@
    "kategori": "github",
    "tarih": "2026-11-09",
    "anahtar": "homeassistant-ha-mcp-server"
+  },
+  {
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "baslik": "Claude Fable 5.2 ve Claude Mythos 5.2 yayınlandı",
+   "kategori": "claude",
+   "tarih": "2026-11-10",
+   "anahtar": "anthropic-claude-fable-mythos-5-2-launch"
+  },
+  {
+   "url": "https://x.com/AnthropicAI/status/2119867707546071125",
+   "baslik": "Fable/Mythos 5.2 (@AnthropicAI)",
+   "kategori": "claude",
+   "tarih": "2026-11-10",
+   "anahtar": "anthropic-claude-fable-mythos-5-2-launch"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2119868698613956992",
+   "baslik": "Fable 5.2 fiyat/hız (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-10",
+   "anahtar": "anthropic-claude-fable-mythos-5-2-launch"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "baslik": "Fable/Mythos 5.2 (TechCrunch)",
+   "kategori": "claude",
+   "tarih": "2026-11-10",
+   "anahtar": "anthropic-claude-fable-mythos-5-2-launch"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.321: varsayılan Fable 5.2, mod izinleri, arka plan çıktısı",
+   "kategori": "claude",
+   "tarih": "2026-11-10",
+   "anahtar": "claude-code-2-1-321-fable-5-2-default"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2119913172039868579",
+   "baslik": "OpenAI Control Room iş yükü izleme/durdurma (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-10",
+   "anahtar": "openai-control-room-workload-monitoring"
+  },
+  {
+   "url": "https://github.com/garrytan/gbrain",
+   "baslik": "garrytan/gbrain - ajanlar için yerel bilgi beyni (MCP)",
+   "kategori": "github",
+   "tarih": "2026-11-10",
+   "anahtar": "garrytan-gbrain-agent-knowledge-brain"
   }
  ]
 }
