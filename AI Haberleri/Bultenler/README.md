@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 243 bülten
+Toplam: 244 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-10-2002.md`](./2026-11-10-2002.md) | 10 Kasım 2026, 20:02 | 🤖 AI Bülteni — 10 Kasım 2026: Google Gemini 4 Carbon geliştiricilere açıldı, Gemini Robotics 2.5 ve Adobe'den Creative Cloud MCP |
 | [`2026-11-10-1403.md`](./2026-11-10-1403.md) | 10 Kasım 2026, 14:03 | 🤖 AI Bülteni — 10 Kasım 2026: Anthropic'ten Claude model seçim rehberi ve Claude Code 2.1.322 ile Vertex'te hızlı mod |
 | [`2026-11-10-0803.md`](./2026-11-10-0803.md) | 10 Kasım 2026, 08:03 | 🤖 AI Bülteni — 10 Kasım 2026: Anthropic Claude Fable 5.2 ve Mythos 5.2 yayında, daha hızlı ve ucuz; Claude Code 2.1.321 |
 | [`2026-11-09-2002.md`](./2026-11-09-2002.md) | 9 Kasım 2026, 20:02 | 🤖 AI Bülteni — 9 Kasım 2026: NVIDIA'dan açık robot dünya-eylem modeli GR00T 2, Meta'nın ajan uyumlu tasarım sistemi Astryx |

@@ -1848,6 +1848,27 @@
    "kategori": "claude",
    "tarih": "2026-11-10",
    "anahtar": "claude-code-2-1-322-vertex-fast-mode"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "baslik": "Gemini 4 Carbon geliştiricilere ve Ultra abonelerine açıldı",
+   "kategori": "model",
+   "tarih": "2026-11-10",
+   "anahtar": "google-gemini-4-carbon-wider-availability-api"
+  },
+  {
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "baslik": "Google DeepMind Gemini Robotics 2.5",
+   "kategori": "model",
+   "tarih": "2026-11-10",
+   "anahtar": "google-deepmind-gemini-robotics-2-5-vla"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "baslik": "Adobe Creative Cloud yerel MCP sunucusu",
+   "kategori": "model",
+   "tarih": "2026-11-10",
+   "anahtar": "adobe-creative-cloud-local-mcp-server"
   }
  ]
 }
