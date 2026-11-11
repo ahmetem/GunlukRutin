@@ -1890,6 +1890,20 @@
    "kategori": "model",
    "tarih": "2026-11-11",
    "anahtar": "openai-businesses-in-chatgpt-business-agents"
+  },
+  {
+   "url": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
+   "baslik": "Microsoft Lazarus: 10 nöronla ajan arka kapısı",
+   "kategori": "model",
+   "tarih": "2026-11-11",
+   "anahtar": "microsoft-lazarus-dormant-neuron-agent-backdoor"
+  },
+  {
+   "url": "https://github.com/openai/codex-security",
+   "baslik": "openai/codex-security - güvenlik açığı bulma/düzeltme CLI ve SDK",
+   "kategori": "github",
+   "tarih": "2026-11-11",
+   "anahtar": "openai-codex-security-cli-sdk"
   }
  ]
 }
