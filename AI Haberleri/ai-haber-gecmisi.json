@@ -2,27 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "baslik": "Satya Nadella: yapay zeka modellerine acil fren gerekli",
-   "kategori": "model",
-   "tarih": "2026-10-11",
-   "anahtar": "microsoft-nadella-ai-emergency-brake"
-  },
-  {
-   "url": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists",
-   "baslik": "OpenAI Rusya ve İran bağlantılı iki etki operasyonunu engelledi",
-   "kategori": "model",
-   "tarih": "2026-10-11",
-   "anahtar": "openai-disrupts-russia-iran-influence-ops"
-  },
-  {
-   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
-   "baslik": "OpenAI false-front operasyonları raporu (birincil)",
-   "kategori": "model",
-   "tarih": "2026-10-11",
-   "anahtar": "openai-disrupts-russia-iran-influence-ops"
-  },
-  {
    "url": "https://www.anthropic.com/research/distillation-defenses",
    "baslik": "Anthropic damıtma savunmalarını güçlendirdi",
    "kategori": "claude",
@@ -1869,6 +1848,48 @@
    "kategori": "model",
    "tarih": "2026-11-10",
    "anahtar": "adobe-creative-cloud-local-mcp-server"
+  },
+  {
+   "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+   "baslik": "Anthropic Claude Sheets, Meetings, Whiteboards, Claude Data",
+   "kategori": "claude",
+   "tarih": "2026-11-11",
+   "anahtar": "anthropic-claude-sheets-meetings-whiteboards-launch"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2120227979041341943",
+   "baslik": "Claude MCP Apps genişletilmiş destek ve interaktif konektörler (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-11",
+   "anahtar": "claude-mcp-apps-interactive-connectors-full-apps"
+  },
+  {
+   "url": "https://x.com/claudeai/status/2120206375137484875",
+   "baslik": "Claude interaktif konektörler: Adobe, Atlassian, Box (@claudeai)",
+   "kategori": "claude",
+   "tarih": "2026-11-11",
+   "anahtar": "claude-mcp-apps-interactive-connectors-full-apps"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2120275296637321476",
+   "baslik": "Claude ücretli planlara bir kerelik ücretsiz tam limit sıfırlama (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-11",
+   "anahtar": "claude-free-full-usage-reset-december"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2120216592395174382",
+   "baslik": "OpenAI Businesses in ChatGPT beta (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-11",
+   "anahtar": "openai-businesses-in-chatgpt-business-agents"
+  },
+  {
+   "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
+   "baslik": "OpenAI Businesses in ChatGPT ve Business Agent'lar",
+   "kategori": "model",
+   "tarih": "2026-11-11",
+   "anahtar": "openai-businesses-in-chatgpt-business-agents"
   }
  ]
 }
