@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 246 bülten
+Toplam: 247 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-12-1404.md`](./2026-11-12-1404.md) | 12 Kasım 2026, 14:04 | 🤖 AI Bülteni — 12 Kasım 2026: Google Gemini Decision 1 ile hızlı karar API’si; TensorFold ve Qwen Code öne çıktı |
 | [`2026-11-11-1409.md`](./2026-11-11-1409.md) | 11 Kasım 2026, 14:09 | 🤖 AI Bülteni — 11 Kasım 2026: Microsoft 10 nöronla yapay zeka ajanlarına arka kapı açtı; OpenAI Codex Security CLI öne çıktı |
 | [`2026-11-11-0803.md`](./2026-11-11-0803.md) | 11 Kasım 2026, 08:03 | 🤖 AI Bülteni — 11 Kasım 2026: Anthropic Claude Sheets, Meetings ve Whiteboards’u tanıttı; MCP Apps desteği ve ücretsiz limit sıfırlama |
 | [`2026-11-10-2002.md`](./2026-11-10-2002.md) | 10 Kasım 2026, 20:02 | 🤖 AI Bülteni — 10 Kasım 2026: Google Gemini 4 Carbon geliştiricilere açıldı, Gemini Robotics 2.5 ve Adobe'den Creative Cloud MCP |

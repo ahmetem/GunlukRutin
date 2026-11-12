@@ -1904,6 +1904,27 @@
    "kategori": "github",
    "tarih": "2026-11-11",
    "anahtar": "openai-codex-security-cli-sdk"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "baslik": "Google Gemini Decision 1 ve Decisions API",
+   "kategori": "model",
+   "tarih": "2026-11-12",
+   "anahtar": "google-gemini-decision-1-decisions-api"
+  },
+  {
+   "url": "https://github.com/ashhart/TensorFold",
+   "baslik": "ashhart/TensorFold - Zig tabanlı LLM çıkarım motoru",
+   "kategori": "github",
+   "tarih": "2026-11-12",
+   "anahtar": "ashhart-tensorfold-zig-inference-engine"
+  },
+  {
+   "url": "https://github.com/QwenLM/qwen-code",
+   "baslik": "QwenLM/qwen-code - terminal AI kodlama ajanı",
+   "kategori": "github",
+   "tarih": "2026-11-12",
+   "anahtar": "qwenlm-qwen-code-terminal-agent"
   }
  ]
 }
