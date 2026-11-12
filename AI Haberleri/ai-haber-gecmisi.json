@@ -1925,6 +1925,13 @@
    "kategori": "github",
    "tarih": "2026-11-12",
    "anahtar": "qwenlm-qwen-code-terminal-agent"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted",
+   "baslik": "Self-hosted Claude Managed Agents duyuruldu",
+   "kategori": "claude",
+   "tarih": "2026-11-12",
+   "anahtar": "anthropic-managed-agents-self-hosted-service"
   }
  ]
 }
