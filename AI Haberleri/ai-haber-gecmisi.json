@@ -2,62 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://www.anthropic.com/research/distillation-defenses",
-   "baslik": "Anthropic damıtma savunmalarını güçlendirdi",
-   "kategori": "claude",
-   "tarih": "2026-10-13",
-   "anahtar": "anthropic-distillation-defenses-90pct"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2109795898909950247",
-   "baslik": "Damıtma savunmaları (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-13",
-   "anahtar": "anthropic-distillation-defenses-90pct"
-  },
-  {
-   "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
-   "baslik": "Meta Muse Wonder ve Muse Wonder Full",
-   "kategori": "model",
-   "tarih": "2026-10-13",
-   "anahtar": "meta-muse-wonder-frontier-launch"
-  },
-  {
-   "url": "https://github.com/lyogavin/airllm",
-   "baslik": "lyogavin/airllm - düşük VRAM'de büyük model çıkarımı",
-   "kategori": "github",
-   "tarih": "2026-10-13",
-   "anahtar": "lyogavin-airllm-low-vram-inference"
-  },
-  {
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "baslik": "Anthropic kendi sürüm kontrol sistemi Scion'a geçti",
-   "kategori": "claude",
-   "tarih": "2026-10-13",
-   "anahtar": "anthropic-scion-source-control-redesign"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2110047081414987957",
-   "baslik": "Scion kaynak kontrolü (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-13",
-   "anahtar": "anthropic-scion-source-control-redesign"
-  },
-  {
-   "url": "https://www.anthropic.com/research/self-replicating-ai",
-   "baslik": "Anthropic: küçük modeller kendini kopyalamaya yaklaşıyor",
-   "kategori": "claude",
-   "tarih": "2026-10-13",
-   "anahtar": "anthropic-self-replicating-small-models-research"
-  },
-  {
-   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics",
-   "baslik": "Gemini 4 Argon robotik yetenekleri ve API",
-   "kategori": "model",
-   "tarih": "2026-10-13",
-   "anahtar": "google-gemini-4-argon-robotics-api"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.299: MCP allow kuralları daraldı, hook davranışı değişti",
    "kategori": "claude",
@@ -1932,6 +1876,20 @@
    "kategori": "claude",
    "tarih": "2026-11-12",
    "anahtar": "anthropic-managed-agents-self-hosted-service"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.323: Code Mode, MCP v1 kaldırıldı, varsayılan 1M bağlam",
+   "kategori": "claude",
+   "tarih": "2026-11-13",
+   "anahtar": "claude-code-2-1-323-code-mode-mcp-v1-removed"
+  },
+  {
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "baslik": "Google Gemini 4 Hydrogen yayınlandı",
+   "kategori": "model",
+   "tarih": "2026-11-13",
+   "anahtar": "google-gemini-4-hydrogen-launch"
   }
  ]
 }
