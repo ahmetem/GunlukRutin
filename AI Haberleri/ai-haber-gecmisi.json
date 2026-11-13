@@ -1890,6 +1890,41 @@
    "kategori": "model",
    "tarih": "2026-11-13",
    "anahtar": "google-gemini-4-hydrogen-launch"
+  },
+  {
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "baslik": "Çin modellerinin ağırlıklarında Blackwell parmak izi (Unemployment Labs)",
+   "kategori": "model",
+   "tarih": "2026-11-13",
+   "anahtar": "unemploymentlabs-checkpoint-forensics-blackwell-chinese-models"
+  },
+  {
+   "url": "https://wccftech.com/deepseek-and-moonshot-ai-models-appear-to-carry-hidden-nvidia-blackwell-fingerprints-in-their-starting-weights-pointing-to-training-clusters-of-3000-to-4500-gpus/",
+   "baslik": "DeepSeek/Moonshot Blackwell izleri (wccftech)",
+   "kategori": "model",
+   "tarih": "2026-11-13",
+   "anahtar": "unemploymentlabs-checkpoint-forensics-blackwell-chinese-models"
+  },
+  {
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "baslik": "DeepMind SatWeave ve PARDIG hava veri setleri açıldı",
+   "kategori": "model",
+   "tarih": "2026-11-13",
+   "anahtar": "google-deepmind-weathernext-datasets-satweave-pardig"
+  },
+  {
+   "url": "https://github.com/alibaba/open-code-review",
+   "baslik": "alibaba/open-code-review - LLM destekli kod inceleme CLI",
+   "kategori": "github",
+   "tarih": "2026-11-13",
+   "anahtar": "alibaba-open-code-review-cli"
+  },
+  {
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "baslik": "ChromeDevTools/chrome-devtools-mcp - Chrome için MCP sunucusu",
+   "kategori": "github",
+   "tarih": "2026-11-13",
+   "anahtar": "chrome-devtools-mcp-server"
   }
  ]
 }
