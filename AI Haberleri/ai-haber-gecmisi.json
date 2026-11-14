@@ -1897,6 +1897,20 @@
    "kategori": "github",
    "tarih": "2026-11-14",
    "anahtar": "backnotprop-plannotator-agent-plan-review"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2121392666244186327",
+   "baslik": "Claude Code masaüstü mod ile özel temalar (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-14",
+   "anahtar": "claude-code-desktop-custom-themes-mods"
+  },
+  {
+   "url": "https://news.slashdot.org/story/26/11/13/1734203/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks",
+   "baslik": "Sivil kuruluşlar AI devlerine model durdurma davası açtı",
+   "kategori": "model",
+   "tarih": "2026-11-14",
+   "anahtar": "advocacy-groups-sue-ai-labs-freeze-models"
   }
  ]
 }

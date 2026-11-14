@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 251 bülten
+Toplam: 252 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-14-1402.md`](./2026-11-14-1402.md) | 14 Kasım 2026, 14:02 | 🤖 AI Bülteni — 14 Kasım 2026: Claude Code masaüstüne mod ile özel temalar; sivil kuruluşlar AI devlerine dava açtı |
 | [`2026-11-14-0802.md`](./2026-11-14-0802.md) | 14 Kasım 2026, 08:02 | 🤖 AI Bülteni — 14 Kasım 2026: Claude Code 2.1.325 izin akışını sıkılaştırdı; Google Antigravity ajan ekipleri genişledi |
 | [`2026-11-13-2006.md`](./2026-11-13-2006.md) | 13 Kasım 2026, 20:06 | 🤖 AI Bülteni — 13 Kasım 2026: Çin modellerinin ağırlıklarında Blackwell izi; DeepMind hava veri setlerini açtı |
 | [`2026-11-13-0803.md`](./2026-11-13-0803.md) | 13 Kasım 2026, 08:03 | 🤖 AI Bülteni — 13 Kasım 2026: Claude Code 2.1.323 Code Mode ve MCP v1 kaldırıldı; Google Gemini 4 Hydrogen yayında |
