@@ -3,76 +3,6 @@
  "gonderilen": [
   {
    "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.299: MCP allow kuralları daraldı, hook davranışı değişti",
-   "kategori": "claude",
-   "tarih": "2026-10-14",
-   "anahtar": "claude-code-2-1-299-mcp-allow-rules-hooks"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2110128453760815153",
-   "baslik": "Claude Code hackathonu Japonya'da (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-14",
-   "anahtar": "claude-code-hackathon-japan-2026"
-  },
-  {
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
-   "baslik": "Apple Minions: Mac GPU'larından dağıtık çıkarım bulutu",
-   "kategori": "model",
-   "tarih": "2026-10-14",
-   "anahtar": "apple-minions-mac-gpu-inference-cloud"
-  },
-  {
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "baslik": "Anthropic Singapur ofisi ve MDDI mutabakatı",
-   "kategori": "claude",
-   "tarih": "2026-10-14",
-   "anahtar": "anthropic-singapore-office-mou"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2110289695888511368",
-   "baslik": "Singapur ofisi (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-14",
-   "anahtar": "anthropic-singapore-office-mou"
-  },
-  {
-   "url": "https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control",
-   "baslik": "Anthropic ve OpenAI dış denetçi raporlarında yayın kontrolü istedi",
-   "kategori": "claude",
-   "tarih": "2026-10-14",
-   "anahtar": "anthropic-openai-evaluator-report-control"
-  },
-  {
-   "url": "https://github.com/ifixai-ai/iFixAi",
-   "baslik": "ifixai-ai/iFixAi - AI ajan denetim aracı",
-   "kategori": "github",
-   "tarih": "2026-10-14",
-   "anahtar": "ifixai-agent-auditing-tool"
-  },
-  {
-   "url": "https://github.com/vxcontrol/pentagi",
-   "baslik": "vxcontrol/pentagi - otonom sızma testi ajanları",
-   "kategori": "github",
-   "tarih": "2026-10-14",
-   "anahtar": "vxcontrol-pentagi-autonomous-pentest"
-  },
-  {
-   "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-   "baslik": "Açık ağırlıklı modellerin korumaları saatler içinde sökülüyor (Counter-Terrorism AI Benchmark)",
-   "kategori": "model",
-   "tarih": "2026-10-14",
-   "anahtar": "tech-against-terrorism-abliterated-open-models-report"
-  },
-  {
-   "url": "https://futurism.com/artificial-intelligence/godfathers-ai-models-control-airgapped",
-   "baslik": "Hinton ve Bengio dahil ~400 bilim insanı AI izolasyonu istedi",
-   "kategori": "model",
-   "tarih": "2026-10-14",
-   "anahtar": "hinton-bengio-open-letter-airgap-ai-containment"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.300: --sandbox bayrakları kaldırıldı, hook girdileri doğrulanıyor",
    "kategori": "claude",
    "tarih": "2026-10-15",
@@ -1925,6 +1855,48 @@
    "kategori": "github",
    "tarih": "2026-11-13",
    "anahtar": "chrome-devtools-mcp-server"
+  },
+  {
+   "url": "https://code.claude.com/docs/en/changelog",
+   "baslik": "Claude Code 2.1.325: sandbox Bash ve zamanlanmış görevler izin soruyor",
+   "kategori": "claude",
+   "tarih": "2026-11-14",
+   "anahtar": "claude-code-2-1-325-sandbox-permission-flow"
+  },
+  {
+   "url": "https://x.com/ClaudeDevs/status/2121375309287301360",
+   "baslik": "Claude Code Projects koordinatör güncellemesi (@ClaudeDevs)",
+   "kategori": "claude",
+   "tarih": "2026-11-14",
+   "anahtar": "claude-code-projects-proactive-coordinator"
+  },
+  {
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+   "baslik": "Anthropic güçlü güvenlik değerlendirmeleri için 10 öneri",
+   "kategori": "claude",
+   "tarih": "2026-11-14",
+   "anahtar": "anthropic-building-strong-safety-evaluations"
+  },
+  {
+   "url": "https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research",
+   "baslik": "Google Antigravity çoklu ajan sistemi genişledi",
+   "kategori": "model",
+   "tarih": "2026-11-14",
+   "anahtar": "google-antigravity-multi-agent-research"
+  },
+  {
+   "url": "https://sierra.ai/blog/releasing-poppy",
+   "baslik": "Sierra Poppy 1.0 kişisel ajan protokolü",
+   "kategori": "model",
+   "tarih": "2026-11-14",
+   "anahtar": "sierra-poppy-personal-agent-protocol-1-0"
+  },
+  {
+   "url": "https://github.com/backnotprop/plannotator",
+   "baslik": "backnotprop/plannotator - ajan planı inceleme/işaretleme aracı",
+   "kategori": "github",
+   "tarih": "2026-11-14",
+   "anahtar": "backnotprop-plannotator-agent-plan-review"
   }
  ]
 }
