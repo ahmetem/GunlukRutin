@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 253 bülten
+Toplam: 254 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-15-2003.md`](./2026-11-15-2003.md) | 15 Kasım 2026, 20:03 | 🤖 AI Bülteni — 15 Kasım 2026: NVIDIA SkillEvaluator ile ajan skill ölçümü; kodlama ajanlarına yerel video editörü (MCP) |
 | [`2026-11-15-1402.md`](./2026-11-15-1402.md) | 15 Kasım 2026, 14:02 | 🤖 AI Bülteni — 15 Kasım 2026: Tencent LoopForge ile kodlama ajanlarına onaylı iş akışları; AG-UI ajan arayüz protokolü |
 | [`2026-11-14-1402.md`](./2026-11-14-1402.md) | 14 Kasım 2026, 14:02 | 🤖 AI Bülteni — 14 Kasım 2026: Claude Code masaüstüne mod ile özel temalar; sivil kuruluşlar AI devlerine dava açtı |
 | [`2026-11-14-0802.md`](./2026-11-14-0802.md) | 14 Kasım 2026, 08:02 | 🤖 AI Bülteni — 14 Kasım 2026: Claude Code 2.1.325 izin akışını sıkılaştırdı; Google Antigravity ajan ekipleri genişledi |

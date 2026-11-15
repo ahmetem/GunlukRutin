@@ -1855,6 +1855,20 @@
    "kategori": "github",
    "tarih": "2026-11-15",
    "anahtar": "ag-ui-agent-user-interaction-protocol"
+  },
+  {
+   "url": "https://github.com/NVIDIA/SkillEvaluator",
+   "baslik": "NVIDIA/SkillEvaluator - ajan skill değerlendirme çerçevesi",
+   "kategori": "github",
+   "tarih": "2026-11-15",
+   "anahtar": "nvidia-skillevaluator-agent-skill-eval"
+  },
+  {
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "baslik": "kajisho5/ffmpeg-skill - ajanlar için yerel video editörü (MCP)",
+   "kategori": "github",
+   "tarih": "2026-11-15",
+   "anahtar": "kajisho5-ffmpeg-skill-agent-video-editor"
   }
  ]
 }
