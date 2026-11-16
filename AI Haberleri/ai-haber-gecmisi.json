@@ -2,104 +2,6 @@
  "aciklama": "AI Haber Bülteni rutininin tekrar önleme (dedup) geçmişi. Rutin her çalışmada bu dosyayı okur, daha önce gönderilen haberleri eler, yeni gönderdiklerini ekler ve push eder. 30 günden eski kayıtlar budanabilir.",
  "gonderilen": [
   {
-   "url": "https://x.com/ClaudeDevs/status/2110825294655562048",
-   "baslik": "Opus 5.5 fast mode genel kullanımda, bekleme listesi kalktı (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "anthropic-opus-5-5-fast-mode-ga"
-  },
-  {
-   "url": "https://code.claude.com/docs/en/changelog",
-   "baslik": "Claude Code 2.1.301: model değişiminde özetleme, mod hook .catch değişikliği",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "claude-code-2-1-301-model-switch-summarize-hooks"
-  },
-  {
-   "url": "https://x.com/ClaudeDevs/status/2110866210573386065",
-   "baslik": "Claude Code Review Team/Enterprise için GA (@ClaudeDevs)",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "claude-code-review-ga-team-enterprise"
-  },
-  {
-   "url": "https://research.meta.ai/blog/muse-spark-open",
-   "baslik": "Meta Muse Spark Open 816B açık ağırlıklı model",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "meta-muse-spark-open-816b-weights"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2110797830361436604",
-   "baslik": "GPT-Live-1.1 yeni sesler (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "openai-gpt-live-1-1-voices"
-  },
-  {
-   "url": "https://x.com/OpenAI/status/2110841898076418336",
-   "baslik": "GPT-Rosalind Academic Plan (@OpenAI)",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "openai-gpt-rosalind-academic-plan"
-  },
-  {
-   "url": "https://github.com/ruvnet/ruflo",
-   "baslik": "ruvnet/ruflo - çok ajanlı sürü altyapısı",
-   "kategori": "github",
-   "tarih": "2026-10-16",
-   "anahtar": "ruvnet-ruflo-agent-harness"
-  },
-  {
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "baslik": "Anthropic METR'e çalışan düzeyinde erişim verdi",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "anthropic-metr-employee-level-access"
-  },
-  {
-   "url": "https://x.com/AnthropicAI/status/2110784662071398807",
-   "baslik": "METR erişimi (@AnthropicAI)",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "anthropic-metr-employee-level-access"
-  },
-  {
-   "url": "https://gizmodo.com/ftc-subpoenas-openai-and-anthropic-over-ai-safety-concerns-2000826413",
-   "baslik": "FTC OpenAI ve Anthropic'e celp gönderdi",
-   "kategori": "claude",
-   "tarih": "2026-10-16",
-   "anahtar": "ftc-civil-subpoenas-openai-anthropic"
-  },
-  {
-   "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
-   "baslik": "ChatGPT Chrome eklentisi sekme analizi ve ajan görevleri",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "openai-chatgpt-chrome-extension-agent-tabs"
-  },
-  {
-   "url": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
-   "baslik": "OpenAI uyumsuzluk raporları: izinsiz test cüzdanı kullanımı",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "openai-misalignment-reports-test-wallet"
-  },
-  {
-   "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
-   "baslik": "Çin büyük AI modelleri ve çip tasarımına ihracat kısıtı taslağı",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "china-ai-model-weights-export-controls-draft"
-  },
-  {
-   "url": "https://elorian.ai/blog/introducing-glimpse",
-   "baslik": "Elorian Glimpse görsel akıl yürütme modeli",
-   "kategori": "model",
-   "tarih": "2026-10-16",
-   "anahtar": "elorian-glimpse-visual-reasoning-model"
-  },
-  {
    "url": "https://code.claude.com/docs/en/changelog",
    "baslik": "Claude Code 2.1.302: fork alt ajanları varsayılan, izin modu varsayılanı",
    "kategori": "claude",
@@ -1869,6 +1771,27 @@
    "kategori": "github",
    "tarih": "2026-11-15",
    "anahtar": "kajisho5-ffmpeg-skill-agent-video-editor"
+  },
+  {
+   "url": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
+   "baslik": "Alibaba Qwen4-Max genel erişime açıldı",
+   "kategori": "model",
+   "tarih": "2026-11-16",
+   "anahtar": "alibaba-qwen4-max-general-availability"
+  },
+  {
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model/",
+   "baslik": "OpenAI bilim blogu: GPT-6 Astra ile Standart Model kafes tanımı",
+   "kategori": "model",
+   "tarih": "2026-11-16",
+   "anahtar": "openai-science-blog-astra-standard-model-lattice"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2122123437141553630",
+   "baslik": "OpenAI bilim blogu Standart Model (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-16",
+   "anahtar": "openai-science-blog-astra-standard-model-lattice"
   }
  ]
 }
