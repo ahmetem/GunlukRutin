@@ -1792,6 +1792,20 @@
    "kategori": "model",
    "tarih": "2026-11-16",
    "anahtar": "openai-science-blog-astra-standard-model-lattice"
+  },
+  {
+   "url": "https://gizmodo.com/anthropic-says-its-recursive-self-improvement-alarm-has-been-triggered-2000840253",
+   "baslik": "Anthropic S-1: hızlandırılmış ilerleme (RSI) eşiği aşıldı",
+   "kategori": "claude",
+   "tarih": "2026-11-16",
+   "anahtar": "anthropic-s1-rsi-threshold-met"
+  },
+  {
+   "url": "https://github.com/dream-num/univer",
+   "baslik": "dream-num/univer - ajanlar için ofis SDK'sı",
+   "kategori": "github",
+   "tarih": "2026-11-16",
+   "anahtar": "dream-num-univer-ai-office-sdk"
   }
  ]
 }

@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 255 bülten
+Toplam: 256 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-16-1402.md`](./2026-11-16-1402.md) | 16 Kasım 2026, 14:02 | 🤖 AI Bülteni — 16 Kasım 2026: Anthropic S-1'de 'hızlandırılmış ilerleme' eşiğinin aşıldığını bildirdi; Univer ajanlara ofis SDK'sı sunuyor |
 | [`2026-11-16-0802.md`](./2026-11-16-0802.md) | 16 Kasım 2026, 08:02 | 🤖 AI Bülteni — 16 Kasım 2026: Alibaba Qwen4-Max genel erişime açıldı; GPT-6 Astra Standart Model kafes tanımına katkı verdi |
 | [`2026-11-15-2003.md`](./2026-11-15-2003.md) | 15 Kasım 2026, 20:03 | 🤖 AI Bülteni — 15 Kasım 2026: NVIDIA SkillEvaluator ile ajan skill ölçümü; kodlama ajanlarına yerel video editörü (MCP) |
 | [`2026-11-15-1402.md`](./2026-11-15-1402.md) | 15 Kasım 2026, 14:02 | 🤖 AI Bülteni — 15 Kasım 2026: Tencent LoopForge ile kodlama ajanlarına onaylı iş akışları; AG-UI ajan arayüz protokolü |
