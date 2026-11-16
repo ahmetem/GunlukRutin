@@ -1806,6 +1806,20 @@
    "kategori": "github",
    "tarih": "2026-11-16",
    "anahtar": "dream-num-univer-ai-office-sdk"
+  },
+  {
+   "url": "https://x.com/OpenAI/status/2122359930628063248",
+   "baslik": "OpenAI embedded assessments: Apollo, METR, Transluce, Goodfire (@OpenAI)",
+   "kategori": "model",
+   "tarih": "2026-11-16",
+   "anahtar": "openai-embedded-assessments-external-experts"
+  },
+  {
+   "url": "https://github.com/google-research/paper-orchestra",
+   "baslik": "google-research/paper-orchestra - çoklu ajanlı makale yazımı",
+   "kategori": "github",
+   "tarih": "2026-11-16",
+   "anahtar": "google-research-paper-orchestra-multi-agent"
   }
  ]
 }
