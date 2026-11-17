@@ -4,10 +4,11 @@
 
 Dosya adı biçimi: `YYYY-AA-GG-SSDD.md` (Europe/Istanbul saati).
 
-Toplam: 257 bülten
+Toplam: 258 bülten
 
 | Dosya | Tarih | Başlık |
 |---|---|---|
+| [`2026-11-17-0802.md`](./2026-11-17-0802.md) | 17 Kasım 2026, 08:02 | 🤖 AI Bülteni — 17 Kasım 2026: Claude Code 2.1.326 izinleri ve sandbox'ı sıkılaştırdı; Kaliforniya OpenAI'a dava açtı |
 | [`2026-11-16-2003.md`](./2026-11-16-2003.md) | 16 Kasım 2026, 20:03 | 🤖 AI Bülteni — 16 Kasım 2026: OpenAI dış güvenlik ekiplerine iç modellere derin erişim veriyor; Google'dan çoklu ajanlı makale yazımı |
 | [`2026-11-16-1402.md`](./2026-11-16-1402.md) | 16 Kasım 2026, 14:02 | 🤖 AI Bülteni — 16 Kasım 2026: Anthropic S-1'de 'hızlandırılmış ilerleme' eşiğinin aşıldığını bildirdi; Univer ajanlara ofis SDK'sı sunuyor |
 | [`2026-11-16-0802.md`](./2026-11-16-0802.md) | 16 Kasım 2026, 08:02 | 🤖 AI Bülteni — 16 Kasım 2026: Alibaba Qwen4-Max genel erişime açıldı; GPT-6 Astra Standart Model kafes tanımına katkı verdi |
